@@ -1,0 +1,31 @@
+# Ignore everything in the repo by default
+*
+
+# But allow Git to see directories, so unignore rules can reach files inside them
+!*/
+.*
+bitsandbytes/
+
+# Keep selected files
+!/train_nllb.py
+!/eval_nllb.py
+!/bleu_eval.py
+!/lm_head.py
+!/README.md
+!/.gitignore
+
+# Keep train, val, test sets
+!/FormosanBench_new/*.parquet
+
+# Only look at nllb finetunes in work/ (add config.json and trainer_state.json in these dirs)
+!/tracked_work/work/*nllb*/**
+
+# Ignore intermediate checkpoints, only add eval data inside final checkpoint
+**/checkpoint-*/
+**/final/*
+!**/final/eval*
+
+# Just to be safe, never add safetensors, optimiser states or rng states
+*.safetensors
+*.pt
+*.pth
