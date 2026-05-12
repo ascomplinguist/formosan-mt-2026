@@ -1,0 +1,33 @@
+{
+  "model_name": "facebook/nllb-200-3.3B",
+  "lang_en": [
+    "Amis"
+  ],
+  "lang_code": "ami",
+  "src_lang_code": [
+    "ami_Latn"
+  ],
+  "zh_lang_code": "zho_Hant",
+  "init_langs": [
+    "ceb_Latn",
+    "ilo_Latn",
+    "pag_Latn",
+    "tgl_Latn",
+    "war_Latn"
+  ],
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "qvoud",
+  "num_new_tokens": 0,
+  "new_token_corpus": "fb3",
+  "token_embed_init": "sub",
+  "subset": -1,
+  "learning_rate": 0.0001,
+  "oversample_zuyu": 1,
+  "subsample_zh": 1,
+  "max_epochs": 30,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ]
+}

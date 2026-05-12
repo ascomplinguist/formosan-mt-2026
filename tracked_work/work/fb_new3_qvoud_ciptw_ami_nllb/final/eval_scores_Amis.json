@@ -1,0 +1,9 @@
+{
+  "eval_bleu_zh": 17.425287357857727,
+  "eval_chrf_zh": 18.886849811969427,
+  "eval_bleu_zuyu": 17.890338307557148,
+  "eval_chrf_zuyu": 39.060598004357075,
+  "eval_score": 30.406473745757335,
+  "eval_bleu_zh_detail": "BLEU = 17.43 52.6/25.0/13.3/7.8 (BP = 0.905 ratio = 0.909 hyp_len = 5401 ref_len = 5939)",
+  "eval_bleu_zuyu_detail": "BLEU = 17.89 53.5/23.2/12.7/6.8 (BP = 0.989 ratio = 0.989 hyp_len = 4179 ref_len = 4226)"
+}
