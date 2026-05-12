@@ -70,7 +70,7 @@ if isinstance(LANGUAGE_NAME_EN, str):
     LANGUAGE_NAME_EN = [LANGUAGE_NAME_EN]
 DATA_DIR = config["data_dir"]
 
-FOLDER_PREFIX = "/work/jwatty"
+OUTPUT_PREFIX = os.getenv("OUTPUT_PREFIX", "")
 
 data_set_name = config["data_set_name"]
 trainable_modules = config["trainable_modules"]
@@ -91,12 +91,12 @@ ZH_LANG_CODE = config["zh_lang_code"]
 INIT_LANGS = config["init_langs"]  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
 init_lang_short = "".join([l[0] for l in INIT_LANGS])
 
-save_dir = f"/work/jwatty/{data_set_name}_{trainable_modules}_{init_lang_short}_{lang_code}_nllb"
+save_dir = f"{OUTPUT_PREFIX}{data_set_name}_{trainable_modules}_{init_lang_short}_{lang_code}_nllb"
 sub_dir = save_dir.split("/")[-1]
 version = ""
-if sub_dir in os.listdir("/work/jwatty"):
+if sub_dir in os.listdir(OUTPUT_PREFIX):
     version = 2
-    while f"{sub_dir}_v{version}" in os.listdir("/work/jwatty"):
+    while f"{sub_dir}_v{version}" in os.listdir(OUTPUT_PREFIX):
         version += 1
     save_dir += f"_v{version}"
 with open("last_run.json", "w+") as f:
