@@ -20,7 +20,7 @@ from bleu_eval import BleuEvalHelperNLLB
 # Quick git reproducibility check
 from check_git_status import ensure_files_clean, get_current_commit_hash
 ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
-COMMIT_HASH = get_current_commit_hash
+COMMIT_HASH = get_current_commit_hash()
 
 print(
     f"torch=={torch.__version__} "
