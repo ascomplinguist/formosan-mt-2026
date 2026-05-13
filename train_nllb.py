@@ -369,6 +369,8 @@ module_dict = {
 }
 target_modules = [module_dict[x] for x in trainable_modules]
 print(f"Trainable Modules: {target_modules}")
+if len(trainable_modules) == 0:
+    target_modules = ["q_proj"]  # we'll set requires_grad to False later but peft won't behave if we give it nothing
 
 peft_config = LoraConfig(
     r=16,
@@ -381,6 +383,10 @@ peft_config = LoraConfig(
 )
 
 model = get_peft_model(model, peft_config)
+if len(trainable_modules) == 0:  # if we only train embeddings, we need to freeze fake LoRA adapters
+    for name, p in model.named_parameters():
+        if "lora_" in name:
+            p.requires_grad = False
 model.print_trainable_parameters()
 
 # Re-tie lm_head and embeddings
@@ -392,6 +398,24 @@ zho_id = [tokenizer.convert_tokens_to_ids(ZH_LANG_CODE)] if TRAIN_ZH_HANT else [
 special_ids = []  # [tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id, tokenizer.unk_token_id]
 
 trainable_indices = torch.tensor(src_ids + zho_id + special_ids).to(model.device)
+
+callbacks = [
+    NLLBEmbeddingGradientCallback(
+        len(tokenizer),
+        torch.bfloat16,
+        model.device,
+        trainable_indices,
+    )
+]
+
+if early_stopping:
+    callbacks.append(
+        BleuEarlyStoppingCallback(
+            patience=4,
+            unacceptable_score_threshold=-0.03,
+            verbose=False,
+        )
+    )
 
 max_source_length = 256
 max_target_length = 256
@@ -464,24 +488,6 @@ for val_df, lang in zip(val_dfs, SRC_LANG_CODE):
         score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
     )
     bleu_helpers.append(bleu_helper)
-
-callbacks = [
-    NLLBEmbeddingGradientCallback(
-        len(tokenizer),
-        torch.bfloat16,
-        model.device,
-        trainable_indices,
-    )
-]
-
-if early_stopping:
-    callbacks.append(
-        BleuEarlyStoppingCallback(
-            patience=4,
-            unacceptable_score_threshold=-0.03,
-            verbose=False,
-        )
-    )
 
 training_args = Seq2SeqTrainingArguments(
     output_dir=save_dir,
