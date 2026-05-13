@@ -92,8 +92,19 @@ if isinstance(SRC_LANG_CODE, str):
     SRC_LANG_CODE = [SRC_LANG_CODE]
 MAIN_LANG = SRC_LANG_CODE[0].split("_")[0]
 ZH_LANG_CODE = config["zh_lang_code"]
-INIT_LANGS = config["init_langs"]  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
-init_lang_short = "".join([l[0] for l in INIT_LANGS])
+TRAIN_ZH_HANT = config.get("train_zh_hant", True)
+INIT_LANGS = config.get("init_langs", None)  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
+if INIT_LANGS:
+    init_lang_short = "".join([l[0] for l in INIT_LANGS])
+else:
+    INIT_VECS = config.get("init_vecs", None)
+    if not INIT_VECS:
+        raise RuntimeError(f"{CONFIG_PATH} does not specify either 'init_langs' or 'init_vecs'; one is required")
+
+    init_lang_short = "vecload"
+    raise NotImplementedError("Haven't implemented initialisation from vector files")
+INIT_NOISE = config.get("init_noise", 0)
+INIT_NOISE_SEED = config.get("init_noise_seed", 42)
 
 save_dir = f"{OUTPUT_PREFIX}{data_set_name}_{trainable_modules}_{init_lang_short}_{lang_code}_nllb"
 sub_dir = save_dir.split("/")[-1]
@@ -277,6 +288,21 @@ model.config.use_cache = False
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
 
+def make_orthogonal_noises(shape, target_l2, seed=0):
+    if len(shape) == 2:
+        n, dim = shape
+    elif len(shape) == 1:
+        n = 1
+        dim = shape[0]
+    else:
+        raise ValueError(f"Invalid shape for noise generation: {shape}")
+    g = torch.Generator().manual_seed(seed)
+    X = torch.randn(n, dim, generator=g)
+    # QR decomposition gives orthogonal Q and upper-triangular R such that QR = X
+    Q, _ = torch.linalg.qr(X.T)  # dim x n
+    noises = Q.T * target_l2
+    return noises
+
 # Check source tags exist
 new_lang_tok_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
 if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
@@ -307,7 +333,15 @@ if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
     # Initialize shared embeddings
     with torch.no_grad():
         emb = model.get_input_embeddings().weight
-        emb[new_id] = emb[init_ids].mean(dim=0)
+        
+        if INIT_NOISE > 0:
+            noises = make_orthogonal_noises(emb[new_id].shape, INIT_NOISE, seed=INIT_NOISE_SEED)
+        else:
+            noises = torch.zeros_like(emb[new_id])
+
+        noises = noises.to(device=emb.device, dtype=emb.dtype)
+        
+        emb[new_id] = emb[init_ids].mean(dim=0) + noises
     
         # M2M100/NLLB usually ties lm_head to shared embeddings, but handle both cases
         out_emb = model.get_output_embeddings()
@@ -354,10 +388,10 @@ model.base_model.model.lm_head.weight = model.get_input_embeddings().weight
 
 # Freeze most embeddings to prevent drift of underrepresented tokens
 src_ids = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-zho_id = tokenizer.convert_tokens_to_ids(ZH_LANG_CODE)
+zho_id = [tokenizer.convert_tokens_to_ids(ZH_LANG_CODE)] if TRAIN_ZH_HANT else []
 special_ids = []  # [tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id, tokenizer.unk_token_id]
 
-trainable_indices = torch.tensor(src_ids + [zho_id] + special_ids).to(model.device)
+trainable_indices = torch.tensor(src_ids + zho_id + special_ids).to(model.device)
 
 max_source_length = 256
 max_target_length = 256
