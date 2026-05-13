@@ -11,6 +11,7 @@ bitsandbytes/
 !/eval_nllb.py
 !/bleu_eval.py
 !/lm_head.py
+!/check_git_status.py
 !/README.md
 !/.gitignore
 

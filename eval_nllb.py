@@ -17,6 +17,10 @@ from transformers import (
 )
 
 from bleu_eval import BleuEvalHelperNLLB
+# Quick git reproducibility check
+from check_git_status import ensure_files_clean, get_current_commit_hash
+ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
+COMMIT_HASH = get_current_commit_hash
 
 print(
     f"torch=={torch.__version__} "
@@ -180,6 +184,8 @@ for val_df, lang_tok, lang in zip(val_dfs, LANGUAGE_TOK, LANGUAGE_NAME_EN):
     scores = bleu_helper.compute_metrics(model, return_detail=True)
 
     print(scores)
+
+    scores["commit"] = COMMIT_HASH
 
     with open(f"{CHECKPOINT}/eval_scores_{lang}.json", "w+") as f:
         json.dump(scores, f, indent=2, ensure_ascii=False)

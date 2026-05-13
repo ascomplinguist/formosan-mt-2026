@@ -32,8 +32,12 @@ from bleu_eval import (
     BleuEvalHelperNLLB,
     BleuEarlyStoppingCallback
 )
-
 from lm_head import NLLBEmbeddingGradientCallback
+
+# Quick git reproducibility check
+from check_git_status import ensure_files_clean, get_current_commit_hash
+ensure_files_clean(["train_nllb.py", "bleu_eval.py", "lm_head.py"])
+COMMIT_HASH = get_current_commit_hash
 
 print(
     f"torch=={torch.__version__} "
@@ -510,6 +514,7 @@ except KeyboardInterrupt:
     trainer.save_model(f"{save_dir}/interrupted")
     tokenizer.save_pretrained(f"{save_dir}/interrupted")
     trainer.save_state()
+    config["commit"] = COMMIT_HASH
     with open(f"{save_dir}/config.json", "w+") as f:
         json.dump(config, f)
     raise KeyboardInterrupt
@@ -517,5 +522,6 @@ except KeyboardInterrupt:
 trainer.save_model(f"{save_dir}/final")
 tokenizer.save_pretrained(f"{save_dir}/final")
 trainer.save_state()
+config["commit"] = COMMIT_HASH
 with open(f"{save_dir}/config.json", "w+") as f:
     json.dump(config, f, indent=2, ensure_ascii=False)
