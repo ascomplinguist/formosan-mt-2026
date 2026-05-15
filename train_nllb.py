@@ -95,15 +95,16 @@ def main():
     ZH_LANG_CODE = config["zh_lang_code"]
     TRAIN_ZH_HANT = config.get("train_zh_hant", True)
     INIT_LANGS = config.get("init_langs", None)  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
+    INIT_VECS = config.get("init_vecs", "")
     if INIT_LANGS:
         init_lang_short = "".join([l[0] for l in INIT_LANGS])
+        if INIT_VECS:
+            raise RuntimeError(f"{CONFIG_PATH} specifies both 'init_langs' and 'init_vecs'; choose one")
     else:
-        INIT_VECS = config.get("init_vecs", None)
-        if not INIT_VECS:
-            raise RuntimeError(f"{CONFIG_PATH} does not specify either 'init_langs' or 'init_vecs'; one is required")
-
         init_lang_short = "vecload"
-        raise NotImplementedError("Haven't implemented initialisation from vector files")
+        if not INIT_VECS:
+            raise RuntimeError(f"{CONFIG_PATH} specifies neither 'init_langs' or 'init_vecs'; one is required")
+
     INIT_NOISE = config.get("init_noise", 0)
     INIT_NOISE_SEED = config.get("init_noise_seed", 42)
 
@@ -334,23 +335,29 @@ def main():
         # Initialize shared embeddings
         with torch.no_grad():
             emb = model.get_input_embeddings().weight
-            
-            if INIT_NOISE > 0:
-                noises = make_orthogonal_noises(emb[new_id].shape, INIT_NOISE, seed=INIT_NOISE_SEED)
-            else:
-                noises = torch.zeros_like(emb[new_id])
 
-            noises = noises.to(device=emb.device, dtype=emb.dtype)
-            
-            emb[new_id] = emb[init_ids].mean(dim=0) + noises
-        
-            # M2M100/NLLB usually ties lm_head to shared embeddings, but handle both cases
-            out_emb = model.get_output_embeddings()
-            if out_emb is not None and out_emb.weight is not emb:
-                print("Output embeddings not tied, initialising separately")
-                out_emb.weight[new_id] = out_emb.weight[init_ids].mean(dim=0)
+            if not INIT_VECS:
+                if INIT_NOISE > 0:
+                    noises = make_orthogonal_noises(emb[new_id].shape, INIT_NOISE, seed=INIT_NOISE_SEED)
+                else:
+                    noises = torch.zeros_like(emb[new_id])
+    
+                noises = noises.to(device=emb.device, dtype=emb.dtype)
+                
+                emb[new_id] = emb[init_ids].mean(dim=0) + noises
+
+                vector_dict = dict()
+                vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
+                                       for lang, tok_id in zip(SRC_LANG_CODE, new_id)}
+                vector_dict['meta'] = {"target_l2": INIT_NOISE, "seed": INIT_NOISE_SEED}
+                torch.save(vector_dict, f"{OUTPUT_PREFIX}vectors/{save_dir.split('/')[-1]}.pt")
             else:
-                print("Output embeddings tied, no need for separate training/init")
+                vector_dict = torch.load(INIT_VECS, map_location="cpu")
+                for lang, tok_id in zip(SRC_LANG_CODE, new_id):
+                    emb[tok_id] = vector_dict['vecs'][lang].to(device=emb.device, dtype=emb.dtype)
+                
+            # M2M100/NLLB usually lm_head to shared embeddings, make sure this is the case
+            assert model.get_input_embeddings().weight.data_ptr() == model.get_output_embeddings().weight.data_ptr()
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)
@@ -566,6 +573,6 @@ def main():
     config["commit"] = COMMIT_HASH
     with open(f"{save_dir}/config.json", "w+") as f:
         json.dump(config, f, indent=2, ensure_ascii=False)
-        
+
 if __name__ == "__main__":
     main()

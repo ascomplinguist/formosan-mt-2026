@@ -95,7 +95,9 @@ def main():
     model.config.use_cache = False
 
     #model = peft.prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
-
+    tokenizer = AutoTokenizer.from_pretrained(CHECKPOINT, use_fast=False)
+    model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
+    '''
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)  # loading base tokeniser and updating after
 
     # Check source tags exist
@@ -137,7 +139,7 @@ def main():
                 out_emb.weight[new_id] = out_emb.weight[init_ids].mean(dim=0)
             else:
                 print("Output embeddings tied, no need for separate training/init")
-
+    '''
     # Load LoRA adapter
     model = PeftModel.from_pretrained(
         model,
@@ -190,6 +192,6 @@ def main():
 
         with open(f"{CHECKPOINT}/eval_scores_{lang}.json", "w+") as f:
             json.dump(scores, f, indent=2, ensure_ascii=False)
-        
+
 if __name__ == "__main__":
     main()
