@@ -1,0 +1,37 @@
+{
+  "model_name": "facebook/nllb-200-3.3B",
+  "lang_en": [
+    "Paiwan"
+  ],
+  "lang_code": "pwn",
+  "src_lang_code": [
+    "pwn_Latn"
+  ],
+  "zh_lang_code": "zho_Hant",
+  "train_zh_hant": false,
+  "init_langs": [
+    "ceb_Latn",
+    "ilo_Latn",
+    "pag_Latn",
+    "tgl_Latn",
+    "war_Latn"
+  ],
+  "init_noise": 5,
+  "init_noise_seed": 42,
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "",
+  "num_new_tokens": 0,
+  "new_token_corpus": "fb3",
+  "token_embed_init": "sub",
+  "subset": -1,
+  "learning_rate": 0.001,
+  "oversample_zuyu": 1,
+  "subsample_zh": 1,
+  "max_epochs": 10,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ],
+  "commit": "6ca8ef0d597229dccef71fa57d90cfc2783ee70f"
+}
