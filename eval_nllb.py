@@ -97,49 +97,7 @@ def main():
     #model = peft.prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
     tokenizer = AutoTokenizer.from_pretrained(CHECKPOINT, use_fast=False)
     model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
-    '''
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)  # loading base tokeniser and updating after
-
-    # Check source tags exist
-    new_lang_tok_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-    if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
-        print(f"Initialising new lang token for {SRC_LANG_CODE}")
-        for lang in INIT_LANGS:
-            tok_id = tokenizer.convert_tokens_to_ids(lang)
-            print(lang, tok_id)
-            if tok_id is None or tok_id == tokenizer.unk_token_id:
-                raise ValueError(f"Initializer language tag not found: {lang}")
-        
-        # Add new language tag
-        num_toks = len(tokenizer)
-        num_added = tokenizer.add_special_tokens(
-            {"additional_special_tokens": tokenizer.additional_special_tokens + SRC_LANG_CODE}
-        )
-        
-        print(f"num_added: {num_added}, delta: {len(tokenizer) - num_toks}")
-        
-        # Resize model embeddings
-        model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
-        
-        new_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-        init_ids = tokenizer.convert_tokens_to_ids(INIT_LANGS)
-        
-        print("new_id:", new_id)
-        print("init_ids:", init_ids)
-        
-        # Initialize shared embeddings
-        with torch.no_grad():
-            emb = model.get_input_embeddings().weight
-            emb[new_id] = emb[init_ids].mean(dim=0)
-        
-            # M2M100/NLLB usually ties lm_head to shared embeddings, but handle both cases
-            out_emb = model.get_output_embeddings()
-            if out_emb is not None and out_emb.weight is not emb:
-                print("Output embeddings not tied, initialising separately")
-                out_emb.weight[new_id] = out_emb.weight[init_ids].mean(dim=0)
-            else:
-                print("Output embeddings tied, no need for separate training/init")
-    '''
+    
     # Load LoRA adapter
     model = PeftModel.from_pretrained(
         model,
