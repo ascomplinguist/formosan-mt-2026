@@ -310,11 +310,12 @@ def main():
     new_lang_tok_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
     if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
         print(f"Initialising new lang token for {SRC_LANG_CODE}")
-        for lang in INIT_LANGS:
-            tok_id = tokenizer.convert_tokens_to_ids(lang)
-            print(lang, tok_id)
-            if tok_id is None or tok_id == tokenizer.unk_token_id:
-                raise ValueError(f"Initializer language tag not found: {lang}")
+        if INIT_LANGS:
+            for lang in INIT_LANGS:
+                tok_id = tokenizer.convert_tokens_to_ids(lang)
+                print(lang, tok_id)
+                if tok_id is None or tok_id == tokenizer.unk_token_id:
+                    raise ValueError(f"Initializer language tag not found: {lang}")
         
         # Add new language tag
         num_toks = len(tokenizer)
@@ -328,10 +329,8 @@ def main():
         model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
         
         new_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-        init_ids = tokenizer.convert_tokens_to_ids(INIT_LANGS)
         
         print("new_id:", new_id)
-        print("init_ids:", init_ids)
         
         # Initialize shared embeddings
         with torch.no_grad():
@@ -344,8 +343,11 @@ def main():
                     noises = torch.zeros_like(emb[new_id])
     
                 noises = noises.to(device=emb.device, dtype=emb.dtype)
-                
+
+                init_ids = tokenizer.convert_tokens_to_ids(INIT_LANGS)
                 emb[new_id] = emb[init_ids].mean(dim=0) + noises
+
+                print("init_ids:", init_ids)
 
                 vector_dict = dict()
                 vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
