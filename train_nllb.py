@@ -86,6 +86,7 @@ def main():
     max_epochs = config.get("max_epochs", 10)
     early_stopping = config.get("early_stopping", False)
     subset = config.get("subset", -1)
+    EVAL_SAVE_STEPS = config.get("eval_save_steps", 500)
 
     # language codes for NLLB
     SRC_LANG_CODE = config["src_lang_code"]
@@ -503,12 +504,12 @@ def main():
         gradient_accumulation_steps=1,
         gradient_checkpointing=False,
         eval_strategy="steps",
-        eval_steps=500,
+        eval_steps=EVAL_SAVE_STEPS,
         learning_rate=learning_rate,
         num_train_epochs=1,  # real number is achieved by sampling examples 'max_epochs' times
         logging_steps=5,
         save_strategy="steps",
-        save_steps=500,
+        save_steps=EVAL_SAVE_STEPS,
         save_total_limit=2,
         load_best_model_at_end=True,
         metric_for_best_model="eval_score",
