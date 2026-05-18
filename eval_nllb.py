@@ -74,7 +74,6 @@ def main():
     if isinstance(SRC_LANG_CODE, str):
         SRC_LANG_CODE = [SRC_LANG_CODE]
     ZH_LANG_CODE = config["zh_lang_code"]
-    INIT_LANGS = config["init_langs"]  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
 
     val_dfs = []
     for lang in LANGUAGE_NAME_EN:
