@@ -31,9 +31,9 @@ def load_base_model_nllb(
     init_vecs: str,                                 # filename for vecs for init of new lang token embeddings
     init_noise: float | int,                        # target l2 distance for random deviation of mean init
     init_noise_seed,                                # seed for random init of new lang token embeddings
-    output_prefix="": str,                          # directory prefix for output of randomly generated init vecs
-    trainable_modules=None: str | None,             # modules to apply LoRA on (for training only)
-    adapter_path=None: str | None,                  # path to load adapter from (for eval only)
+    output_prefix : str = "",                       # directory prefix for output of randomly generated init vecs
+    trainable_modules : str | None = None,          # modules to apply LoRA on (for training only)
+    adapter_path : str | None = None,               # path to load adapter from (for eval only)
 ) -> tuple(PeftModel, AutoTokenizer):
     model = AutoModelForSeq2SeqLM.from_pretrained(
         model_name,
@@ -493,9 +493,9 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
     def __init__(
         self, 
         *args, 
-        bleu_helpers=None : list(BleuEvalHelperNLLB) | None, 
-        lang_weights=None : dict(str, float) | None, 
-        tracked_tok_embs=[] : list(str), 
+        bleu_helpers : list(BleuEvalHelperNLLB) | None = None, 
+        lang_weights : dict(str, float) | None = None, 
+        tracked_tok_embs : list(str) = [], 
         **kwargs
     ):
         super().__init__(*args, **kwargs)
