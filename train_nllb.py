@@ -35,10 +35,12 @@ def main():
         load_base_model_nllb,
     )
     from lm_head import NLLBEmbeddingGradientCallback
-
-    # Quick git reproducibility check
     from check_git_status import ensure_files_clean, get_current_commit_hash
-    ensure_files_clean(["train_nllb.py", "bleu_eval.py", "lm_head.py"])
+
+    # Quick git reproducibility check (if not testing)
+    CONFIG_PATH = sys.argv[1] if (len(sys.argv) > 1 and sys.argv[1] != "testing") else "config.json"
+    if not "testing" in sys.argv:
+        ensure_files_clean(["train_nllb.py", "bleu_eval.py", "lm_head.py"])
     COMMIT_HASH = get_current_commit_hash()
 
     print(
@@ -64,8 +66,6 @@ def main():
 
     if free / total < 0.9:
         print("You should have a look what's occupying all your VRAM")
-
-    CONFIG_PATH = sys.argv[1] if len(sys.argv) > 1 else "config.json"
 
     with open(CONFIG_PATH, "r") as f:
         config = json.load(f)
@@ -410,6 +410,7 @@ def main():
         callbacks=callbacks,
         bleu_helpers=bleu_helpers,
         lang_weights=LANG_WEIGHTS,  # for reweighting of different languages, ex.: {'tay': 0.8, 'pwn': 0.1, 'ami': 0.1}
+        tracked_tok_embs=SRC_LANG_CODE + [ZH_LANG_CODE, "eng_Latn"],  # tracking eng_Latn just to make sure it doesn't move
     )
 
     # Suppress log prints 

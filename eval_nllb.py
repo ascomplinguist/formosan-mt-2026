@@ -18,9 +18,12 @@ def main():
     )
 
     from bleu_eval import BleuEvalHelperNLLB, load_base_model_nllb
-    # Quick git reproducibility check
     from check_git_status import ensure_files_clean, get_current_commit_hash
-    ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
+
+    # Quick git reproducibility check (if not testing)
+    EVAL_CONFIG = sys.argv[1] if (len(sys.argv) > 1 and sys.argv[1] != "testing") else "eval_config.json"
+    if not "testing" in sys.argv:
+        ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
     COMMIT_HASH = get_current_commit_hash()
 
     print(
@@ -45,8 +48,6 @@ def main():
     if free / total < 0.9:
         print("You should have a look what's occupying all your VRAM")
 
-    EVAL_CONFIG = sys.argv[1] if len(sys.argv) > 1 else "eval_config.json"
-
     with open(EVAL_CONFIG, "r") as f:
         eval_config = json.load(f)
     if "last_run.json" in os.listdir():
@@ -57,6 +58,7 @@ def main():
     CHECKPOINT = f"{FINETUNE_DIR}/{eval_config['checkpoint']}"
     LANGUAGE_NAME_EN = eval_config["eval_lang_en"]  # languages to evaluate on
     LANGUAGE_TOK = eval_config["language_tok"]  # tokens for eval languages
+    LEGACY_LOAD = eval_config.get("legacy_load", False) # when loading checkpoints where extra token was not added if adding exactly 2 tokens
 
     print(f"Evaluating finetune '{CHECKPOINT}' on {LANGUAGE_NAME_EN} using tokens {LANGUAGE_TOK}")
 
@@ -82,7 +84,7 @@ def main():
         OUTPUT_PREFIX, run_id = FINETUNE_DIR.split(DATA_SET_NAME)
         run_id = DATA_SET_NAME + run_id
         INIT_VECS = f"{OUTPUT_PREFIX}vectors/{run_id}.pt"
-        print("Extracting initialisation from `{INIT_VECS}`")
+        print(f"Extracting initialisation from `{INIT_VECS}`")
         INIT_LANGS = None
 
     # NEW: language codes for NLLB
@@ -102,7 +104,7 @@ def main():
         val_dfs.append(val_df)
 
     model, tokenizer = load_base_model_nllb(MODEL_NAME, SRC_LANG_CODE, INIT_LANGS, INIT_VECS, INIT_NOISE, INIT_NOISE_SEED, 
-                                            adapter_path=CHECKPOINT)
+                                            adapter_path=CHECKPOINT, legacy_load=LEGACY_LOAD)
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)

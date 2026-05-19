@@ -33,8 +33,10 @@ def load_base_model_nllb(
     init_noise: float | int,                        # target l2 distance for random deviation of mean init
     init_noise_seed,                                # seed for random init of new lang token embeddings
     output_prefix : str = "",                       # directory prefix for output of randomly generated init vecs
+    save_dir : str = "",                            # directory for output of randomly generated init vecs
     trainable_modules : str | None = None,          # modules to apply LoRA on (for training only)
     adapter_path : str | None = None,               # path to load adapter from (for eval only)
+    legacy_load : bool = False,                     # flag to disable adding extra token if exactly 2 were added
 ) -> tuple[PeftModel, AutoTokenizer]:
     model = AutoModelForSeq2SeqLM.from_pretrained(
         model_name,
@@ -70,16 +72,16 @@ def load_base_model_nllb(
         
         print(f"num_added: {num_added}, delta: {len(tokenizer) - num_toks}")
 
-        # If exactly 2 tokens were added, save_embeddings will not be triggered because NLLB has two extra embedding rows -> add extra token
-        if num_added == 2:
-            num_added = tokenizer.add_special_tokens(
-                {"additional_special_tokens": tokenizer.additional_special_tokens + ["token_that_absolutely_doesnt_exist123"]}
-            )
-            if num_added != 1:
-                raise RuntimeError(f"Somehow the extra special 'waste token' was not added properly: {num_added=}")
+        # If exactly 2 tokens were added, save_embeddings will not be triggered because NLLB has two extra embedding rows -> add extra embedding row
+        if num_added == 2 and not legacy_load:
+            extra_embedding_rows = 1
+            print("Adding an extra row to the embedding matrix to ensure that embedding layer will be saved"
+                  " - if this leads to a RuntimeError during eval, please add `\"legacy_load\": true` to your eval_config.json")
+        else:
+            extra_embedding_rows = 0
         
         # Resize model embeddings
-        model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
+        model.resize_token_embeddings(len(tokenizer) + extra_embedding_rows, mean_resizing=False)
         
         new_id = tokenizer.convert_tokens_to_ids(src_lang_code)
         
@@ -102,11 +104,13 @@ def load_base_model_nllb(
 
                 print("init_ids:", init_ids)
 
-                vector_dict = dict()
-                vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
-                                       for lang, tok_id in zip(src_lang_code, new_id)}
-                vector_dict['meta'] = {"target_l2": init_noise, "seed": init_noise_seed}
-                torch.save(vector_dict, f"{output_prefix}vectors/{save_dir.split('/')[-1]}.pt")
+                # save only in training, not in eval
+                if trainable_modules is not None:
+                    vector_dict = dict()
+                    vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
+                                           for lang, tok_id in zip(src_lang_code, new_id)}
+                    vector_dict['meta'] = {"target_l2": init_noise, "seed": init_noise_seed}
+                    torch.save(vector_dict, f"{output_prefix}vectors/{save_dir.split('/')[-1]}.pt")
             else:
                 vector_dict = torch.load(init_vecs, map_location="cpu")
                 for lang, tok_id in zip(src_lang_code, new_id):
