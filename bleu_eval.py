@@ -35,7 +35,7 @@ def load_base_model_nllb(
     output_prefix : str = "",                       # directory prefix for output of randomly generated init vecs
     trainable_modules : str | None = None,          # modules to apply LoRA on (for training only)
     adapter_path : str | None = None,               # path to load adapter from (for eval only)
-) -> tuple(PeftModel, AutoTokenizer):
+) -> tuple[PeftModel, AutoTokenizer]:
     model = AutoModelForSeq2SeqLM.from_pretrained(
         model_name,
         #quantization_config=bnb_config,
