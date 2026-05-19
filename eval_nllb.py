@@ -17,7 +17,7 @@ def main():
         AutoModelForSeq2SeqLM,
     )
 
-    from bleu_eval import BleuEvalHelperNLLB
+    from bleu_eval import BleuEvalHelperNLLB, load_base_model_nllb
     # Quick git reproducibility check
     from check_git_status import ensure_files_clean, get_current_commit_hash
     ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])

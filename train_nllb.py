@@ -31,7 +31,8 @@ def main():
     from bleu_eval import (
         MySeq2SeqTrainer,
         BleuEvalHelperNLLB,
-        BleuEarlyStoppingCallback
+        BleuEarlyStoppingCallback,
+        load_base_model_nllb,
     )
     from lm_head import NLLBEmbeddingGradientCallback
 
