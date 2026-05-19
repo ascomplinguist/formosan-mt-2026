@@ -3,6 +3,7 @@ import re
 import os
 import time
 from transformers import TrainerCallback, Seq2SeqTrainer, AutoModelForSeq2SeqLM
+from peft import PeftModel
 import numpy as np
 import pandas as pd
 import torch
