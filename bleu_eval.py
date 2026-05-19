@@ -26,8 +26,8 @@ def make_orthogonal_noises(shape, target_l2, seed=0):
 
 def load_base_model_nllb(
     model_name: str, 
-    src_lang_code: list(str),                       # lang tokens for new added languages
-    init_langs: list(str),                          # lang tokens used for mean init of new lang token embeddings
+    src_lang_code: list[str],                       # lang tokens for new added languages
+    init_langs: list[str],                          # lang tokens used for mean init of new lang token embeddings
     init_vecs: str,                                 # filename for vecs for init of new lang token embeddings
     init_noise: float | int,                        # target l2 distance for random deviation of mean init
     init_noise_seed,                                # seed for random init of new lang token embeddings
@@ -493,9 +493,9 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
     def __init__(
         self, 
         *args, 
-        bleu_helpers : list(BleuEvalHelperNLLB) | None = None, 
-        lang_weights : dict(str, float) | None = None, 
-        tracked_tok_embs : list(str) = [], 
+        bleu_helpers : list[BleuEvalHelperNLLB] | None = None, 
+        lang_weights : dict[str, float] | None = None, 
+        tracked_tok_embs : list[str] = [], 
         **kwargs
     ):
         super().__init__(*args, **kwargs)
