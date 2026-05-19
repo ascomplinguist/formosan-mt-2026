@@ -78,11 +78,12 @@ def main():
     INIT_NOISE_SEED = config.get("init_noise_seed", 42)
 
     if INIT_NOISE > 0:
-        print("Extracting initialisation from adapter checkpoint")
         DATA_SET_NAME = config["data_set_name"]
         OUTPUT_PREFIX, run_id = FINETUNE_DIR.split(DATA_SET_NAME)
         run_id = DATA_SET_NAME + run_id
         INIT_VECS = f"{OUTPUT_PREFIX}vectors/{run_id}.pt"
+        print("Extracting initialisation from `{INIT_VECS}`")
+        INIT_LANGS = None
 
     # NEW: language codes for NLLB
     # Example:
