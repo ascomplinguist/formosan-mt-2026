@@ -547,6 +547,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
         self.tracked_tok_embs = tracked_tok_embs
         
         self.tracked_tok_emb_ids = self.tokenizer.convert_tokens_to_ids(self.tracked_tok_embs)
+        model = kwargs.get("model")
         self.tracked_embs_init = model.get_input_embeddings()[self.tracked_tok_emb_ids].detach().cpu().clone()
         self.tracked_embs_last = self.tracked_embs_init.clone()
 
