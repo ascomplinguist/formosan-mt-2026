@@ -289,7 +289,7 @@ def main():
 
     callbacks = [
         NLLBEmbeddingGradientCallback(
-            len(tokenizer),
+            model.get_input_embeddings().weight.shape[0],
             torch.bfloat16,
             model.device,
             trainable_indices,
