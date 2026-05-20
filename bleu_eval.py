@@ -548,7 +548,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
         
         self.tracked_tok_emb_ids = self.tokenizer.convert_tokens_to_ids(self.tracked_tok_embs)
         model = kwargs.get("model")
-        self.tracked_embs_init = model.get_input_embeddings()[self.tracked_tok_emb_ids].detach().cpu().clone()
+        self.tracked_embs_init = model.get_input_embeddings().weight[self.tracked_tok_emb_ids].detach().cpu().clone()
         self.tracked_embs_last = self.tracked_embs_init.clone()
 
     def evaluate(self, *args, **kwargs):
@@ -571,7 +571,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
                     extra_metrics[key] = mean_val
                     metrics[key] = mean_val
 
-        current_tok_embs = model.get_input_embeddings()[self.tracked_tok_emb_ids]
+        current_tok_embs = model.get_input_embeddings().weight[self.tracked_tok_emb_ids]
         extra_metrics.update({
             f"{tok_emb}-dist_to_init": (current_tok_embs[i] - self.tracked_embs_init[i]).norm() for i, tok_emb in self.tracked_tok_embs
         })
