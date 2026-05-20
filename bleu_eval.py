@@ -3,7 +3,7 @@ import re
 import os
 import time
 from transformers import TrainerCallback, Seq2SeqTrainer, AutoModelForSeq2SeqLM, AutoTokenizer
-from peft import PeftModel, LoraConfig
+from peft import PeftModel, LoraConfig, TaskType
 import numpy as np
 import pandas as pd
 import torch
