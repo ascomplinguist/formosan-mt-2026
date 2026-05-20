@@ -337,7 +337,16 @@ def send_msg(row, prompt_col, tokenizer, peft_model, silent=False, start=None, i
     return response
 
 
-def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, max_source_length=256, max_target_length=256, verbose=False):
+def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, 
+                              max_source_length=256, max_target_length=256, verbose=False, tracker=None):
+    '''Translates `text` (can be a list) from `src_lang` to `tgt_lang` (langs must be fixed) using `model` and `tokenizer`, 
+    printing the first output of the batch if `verbose` is True.
+
+    `tracker` is a dict that is updated in place. It tracks how often certain tokens occur. 
+    Every tracked token is expected to already be a key in the dict, the key 'total' also needs to be present.
+    The values should be initialised with [0], append a 0 before calling if you want to track values separately, e.g. between evaluations
+    '''
+    
     tokenizer.src_lang = src_lang
     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=max_source_length)
     inputs = {k: v.to(model.device) for k, v in inputs.items()}
@@ -351,6 +360,20 @@ def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, max_so
 
     with torch.no_grad():
         outputs = model.generate(**inputs)
+
+    if tracker is not None:
+        for interesting_token in tracker:
+            if isinstance(interesting_token, int):
+                token_id = interesting_token
+            else:
+                token_id = tokenizer.convert_tokens_to_ids(interesting_token)
+            mask = (outputs == token_id)
+            count = mask.sum().item()
+            tracker[interesting_token][-1] += count
+        pad_mask = outputs == tokenizer.pad_token_id
+        pad_count = pad_mask.sum().item()
+        total = outputs.numel() - pad_count
+        tracker['total'][-1] += total
 
     if verbose:
         print(tokenizer.decode(outputs[0]))
@@ -368,6 +391,10 @@ class BleuEvalHelper:
             "eval_chrf_zuyu": 0.6,
         }
         self.save_dir = save_dir
+        self.current_tracker = None
+
+    def get_init_tracker(self):
+        return {token: [0] for token in self.tracked_tokens}
 
     def generate_column(self, prompt_col, desc, model):
         outputs = []
@@ -388,14 +415,18 @@ class BleuEvalHelper:
         was_training = model.training
         model.eval()
 
+        scores = dict()
         self.eval_df["to_zh"] = self.generate_column("to_zh_msg", "To Mandarin", model)
+        if self.current_tracker is not None:
+            scores['tracked_tokens_to_zh'] = self.current_tracker
         self.eval_df["to_zuyu"] = self.generate_column("to_zuyu_msg", "To Zuyu", model)
+        if self.current_tracker is not None:
+            scores['tracked_tokens_to_zuyu'] = self.current_tracker
 
         #print(self.eval_df[["to_zh", "zh", "to_zuyu", "source"]].head(5))
         if self.save_dir is not None:
             self.save_eval_results()
 
-        scores = dict()
         scores['eval_bleu_zh'], scores['eval_chrf_zh'], eval_bleu_zh_detail = get_bleu_and_chrf(self.eval_df, 
                                                                                                 'to_zh', 'zh', 
                                                                                                 bleu=bleu_zh)
@@ -416,14 +447,16 @@ class BleuEvalHelper:
 
 class BleuEvalHelperNLLB(BleuEvalHelper):
     def __init__(self, eval_df, tokenizer, src_lang_code, zh_lang_code, 
-                 max_source_length=256, max_target_length=256, batch_size=8, score_weights=None, save_dir=None):
+                 max_source_length=256, max_target_length=256, batch_size=8, score_weights=None, save_dir=None, tracked_tokens=None):
         super().__init__(eval_df, tokenizer, score_weights=score_weights, save_dir=save_dir)
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length
         self.max_target_length = max_target_length
         self.batch_size = batch_size
-
+        self.tracked_tokens = tracked_tokens + ['total']
+        self.current_tracker = None
+        
     def get_src_lang_code(self):
         return self.src_lang_code
 
@@ -439,6 +472,7 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         print_example = 1
             
         outputs = []
+        tracker = self.get_init_tracker()
         with tqdm(total=len(self.eval_df), desc=desc, leave=False) as pbar:
             batch = []
             for _, row in self.eval_df.iterrows():
@@ -452,7 +486,8 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                         tokenizer=self.tokenizer,
                         max_source_length=self.max_source_length,
                         max_target_length=self.max_target_length,
-                        verbose=print_example > 0
+                        verbose=print_example > 0,
+                        tracker=tracker
                     )
                     print_example -= 1
                     outputs.extend(out)
@@ -466,10 +501,12 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                     model=model,
                     tokenizer=self.tokenizer,
                     max_source_length=self.max_source_length,
-                    max_target_length=self.max_target_length
+                    max_target_length=self.max_target_length,
+                    tracker=tracker
                 )
                 outputs.extend(out)
                 pbar.update(len(batch))
+        self.current_tracker = tracker
         return outputs
 
 
