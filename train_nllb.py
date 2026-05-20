@@ -365,6 +365,9 @@ def main():
     )
 
     bleu_helpers = []
+    tracked_tokens = [tokenizer.unk_token_id]
+    if model.get_input_embeddings().weight.shape[0] != len(tokenizer):
+        tracked_tokens.append(model.get_input_embeddings().weight.shape[0])
     for val_df, lang in zip(val_dfs, SRC_LANG_CODE):
         bleu_helper = BleuEvalHelperNLLB(
             eval_df=val_df,
@@ -374,6 +377,7 @@ def main():
             max_source_length=max_source_length,
             max_target_length=max_target_length,
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
+            tracked_tokens=tracked_tokens
         )
         bleu_helpers.append(bleu_helper)
 
