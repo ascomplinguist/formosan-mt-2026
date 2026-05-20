@@ -2,12 +2,177 @@ from sacrebleu import BLEU, CHRF
 import re
 import os
 import time
-from transformers import TrainerCallback, Seq2SeqTrainer
+from transformers import TrainerCallback, Seq2SeqTrainer, AutoModelForSeq2SeqLM, AutoTokenizer
+from peft import PeftModel, LoraConfig, TaskType, get_peft_model
 import numpy as np
 import pandas as pd
 import torch
 from trl import SFTTrainer
 from tqdm.auto import tqdm
+
+def make_orthogonal_noises(shape, target_l2, seed=0):
+    if len(shape) == 2:
+        n, dim = shape
+    elif len(shape) == 1:
+        n = 1
+        dim = shape[0]
+    else:
+        raise ValueError(f"Invalid shape for noise generation: {shape}")
+    g = torch.Generator().manual_seed(seed)
+    X = torch.randn(n, dim, generator=g)
+    # QR decomposition gives orthogonal Q and upper-triangular R such that QR = X
+    Q, _ = torch.linalg.qr(X.T)  # dim x n
+    noises = Q.T * target_l2
+    return noises
+
+def load_base_model_nllb(
+    model_name: str, 
+    src_lang_code: list[str],                       # lang tokens for new added languages
+    init_langs: list[str],                          # lang tokens used for mean init of new lang token embeddings
+    init_vecs: str,                                 # filename for vecs for init of new lang token embeddings
+    init_noise: float | int,                        # target l2 distance for random deviation of mean init
+    init_noise_seed,                                # seed for random init of new lang token embeddings
+    output_prefix : str = "",                       # directory prefix for output of randomly generated init vecs
+    save_dir : str = "",                            # directory for output of randomly generated init vecs
+    trainable_modules : str | None = None,          # modules to apply LoRA on (for training only)
+    adapter_path : str | None = None,               # path to load adapter from (for eval only)
+    legacy_load : bool = False,                     # flag to disable adding extra token if exactly 2 were added
+) -> tuple[PeftModel, AutoTokenizer]:
+    model = AutoModelForSeq2SeqLM.from_pretrained(
+        model_name,
+        #quantization_config=bnb_config,
+        torch_dtype=torch.bfloat16,
+        device_map="auto",
+    )
+
+    model.config.use_cache = False
+
+    #model = peft.prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False)
+
+    
+
+    # Check source tags exist
+    new_lang_tok_id = tokenizer.convert_tokens_to_ids(src_lang_code)
+    if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
+        print(f"Initialising new lang token for {src_lang_code}")
+        if init_langs:
+            for lang in init_langs:
+                tok_id = tokenizer.convert_tokens_to_ids(lang)
+                print(lang, tok_id)
+                if tok_id is None or tok_id == tokenizer.unk_token_id:
+                    raise ValueError(f"Initializer language tag not found: {lang}")
+        
+        # Add new language tag
+        num_toks = len(tokenizer)
+        num_added = tokenizer.add_special_tokens(
+            {"additional_special_tokens": tokenizer.additional_special_tokens + src_lang_code}
+        )
+        
+        print(f"num_added: {num_added}, delta: {len(tokenizer) - num_toks}")
+
+        # If exactly 2 tokens were added, save_embeddings will not be triggered because NLLB has two extra embedding rows -> add extra embedding row
+        if num_added == 2 and not legacy_load:
+            extra_embedding_rows = 1
+            print("Adding an extra row to the embedding matrix to ensure that embedding layer will be saved"
+                  " - if this leads to a RuntimeError during eval, please add `\"legacy_load\": true` to your eval_config.json")
+        else:
+            extra_embedding_rows = 0
+        
+        # Resize model embeddings
+        model.resize_token_embeddings(len(tokenizer) + extra_embedding_rows, mean_resizing=False)
+        
+        new_id = tokenizer.convert_tokens_to_ids(src_lang_code)
+        
+        print("new_id:", new_id)
+        
+        # Initialize shared embeddings
+        with torch.no_grad():
+            emb = model.get_input_embeddings().weight
+
+            if not init_vecs:
+                if init_noise > 0:
+                    noises = make_orthogonal_noises(emb[new_id].shape, init_noise, seed=init_noise_seed)
+                else:
+                    noises = torch.zeros_like(emb[new_id])
+    
+                noises = noises.to(device=emb.device, dtype=emb.dtype)
+
+                init_ids = tokenizer.convert_tokens_to_ids(init_langs)
+                emb[new_id] = emb[init_ids].mean(dim=0) + noises
+
+                print("init_ids:", init_ids)
+
+                # save only in training, not in eval
+                if trainable_modules is not None:
+                    vector_dict = dict()
+                    vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
+                                           for lang, tok_id in zip(src_lang_code, new_id)}
+                    vector_dict['meta'] = {"target_l2": init_noise, "seed": init_noise_seed}
+                    torch.save(vector_dict, f"{output_prefix}vectors/{save_dir.split('/')[-1]}.pt")
+            else:
+                vector_dict = torch.load(init_vecs, map_location="cpu")
+                for lang, tok_id in zip(src_lang_code, new_id):
+                    emb[tok_id] = vector_dict['vecs'][lang].to(device=emb.device, dtype=emb.dtype)
+                
+            # M2M100/NLLB usually lm_head to shared embeddings, make sure this is the case
+            assert model.get_input_embeddings().weight.data_ptr() == model.get_output_embeddings().weight.data_ptr()
+
+    torch.manual_seed(42)
+    torch.cuda.manual_seed_all(42)
+
+    print(f"allocated: {torch.cuda.memory_allocated() / 2**30:.3f}GB")
+    print(f"reserved: {torch.cuda.memory_reserved() / 2**30:.3f}GB")
+    free, total = torch.cuda.mem_get_info()
+    print(f"{free/2**30:.3f} of {total/2**30:.3f}GB free")
+
+    if trainable_modules is not None:
+        module_dict = {
+            "q": "q_proj",
+            "v": "v_proj",
+            "k": "k_proj",
+            "o": "out_proj",
+            "u": "fc1",
+            "d": "fc2",
+        }
+        target_modules = [module_dict[x] for x in trainable_modules]
+        print(f"Trainable Modules: {target_modules}")
+        if len(trainable_modules) == 0:
+            target_modules = ["q_proj"]  # we'll set requires_grad to False later but peft won't behave if we give it nothing
+    
+        peft_config = LoraConfig(
+            r=16,
+            lora_alpha=32,
+            lora_dropout=0.05,
+            bias="none",
+            task_type=TaskType.SEQ_2_SEQ_LM,
+            target_modules=target_modules,
+            modules_to_save=["shared"]
+        )
+    
+        model = get_peft_model(model, peft_config)
+        if len(trainable_modules) == 0:  # if we only train embeddings, we need to freeze fake LoRA adapters
+            for name, p in model.named_parameters():
+                if "lora_" in name:
+                    p.requires_grad = False
+        model.print_trainable_parameters()
+    elif adapter_path is not None:
+        # Load LoRA adapter
+        model = PeftModel.from_pretrained(
+            model,
+            adapter_path,
+        )
+    
+        model.eval()
+    else:
+        raise ValueError("Either `trainable_modules` or `adapter_path` has to be supplied")
+
+    # Re-tie lm_head and embeddings
+    model.base_model.model.lm_head.weight = model.get_input_embeddings().weight
+    
+    return model, tokenizer
+
 
 bleu_zh = BLEU(tokenize="zh")
 bleu_form = BLEU(tokenize="13a")
@@ -172,7 +337,16 @@ def send_msg(row, prompt_col, tokenizer, peft_model, silent=False, start=None, i
     return response
 
 
-def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, max_source_length=256, max_target_length=256, verbose=False):
+def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, 
+                              max_source_length=256, max_target_length=256, verbose=False, tracker=None):
+    '''Translates `text` (can be a list) from `src_lang` to `tgt_lang` (langs must be fixed) using `model` and `tokenizer`, 
+    printing the first output of the batch if `verbose` is True.
+
+    `tracker` is a dict that is updated in place. It tracks how often certain tokens occur. 
+    Every tracked token is expected to already be a key in the dict, the key 'total' also needs to be present.
+    The values should be initialised with [0], append a 0 before calling if you want to track values separately, e.g. between evaluations
+    '''
+    
     tokenizer.src_lang = src_lang
     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=max_source_length)
     inputs = {k: v.to(model.device) for k, v in inputs.items()}
@@ -186,6 +360,20 @@ def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer, max_so
 
     with torch.no_grad():
         outputs = model.generate(**inputs)
+
+    if tracker is not None:
+        for interesting_token in tracker:
+            if isinstance(interesting_token, int):
+                token_id = interesting_token
+            else:
+                token_id = tokenizer.convert_tokens_to_ids(interesting_token)
+            mask = (outputs == token_id)
+            count = mask.sum().item()
+            tracker[interesting_token][-1] += count
+        pad_mask = outputs == tokenizer.pad_token_id
+        pad_count = pad_mask.sum().item()
+        total = outputs.numel() - pad_count
+        tracker['total'][-1] += total
 
     if verbose:
         print(tokenizer.decode(outputs[0]))
@@ -203,6 +391,10 @@ class BleuEvalHelper:
             "eval_chrf_zuyu": 0.6,
         }
         self.save_dir = save_dir
+        self.current_tracker = None
+
+    def get_init_tracker(self):
+        return {token: [0] for token in self.tracked_tokens}
 
     def generate_column(self, prompt_col, desc, model):
         outputs = []
@@ -223,14 +415,18 @@ class BleuEvalHelper:
         was_training = model.training
         model.eval()
 
+        scores = dict()
         self.eval_df["to_zh"] = self.generate_column("to_zh_msg", "To Mandarin", model)
+        if self.current_tracker is not None:
+            scores['tracked_tokens_to_zh'] = self.current_tracker
         self.eval_df["to_zuyu"] = self.generate_column("to_zuyu_msg", "To Zuyu", model)
+        if self.current_tracker is not None:
+            scores['tracked_tokens_to_zuyu'] = self.current_tracker
 
         #print(self.eval_df[["to_zh", "zh", "to_zuyu", "source"]].head(5))
         if self.save_dir is not None:
             self.save_eval_results()
 
-        scores = dict()
         scores['eval_bleu_zh'], scores['eval_chrf_zh'], eval_bleu_zh_detail = get_bleu_and_chrf(self.eval_df, 
                                                                                                 'to_zh', 'zh', 
                                                                                                 bleu=bleu_zh)
@@ -251,14 +447,16 @@ class BleuEvalHelper:
 
 class BleuEvalHelperNLLB(BleuEvalHelper):
     def __init__(self, eval_df, tokenizer, src_lang_code, zh_lang_code, 
-                 max_source_length=256, max_target_length=256, batch_size=8, score_weights=None, save_dir=None):
+                 max_source_length=256, max_target_length=256, batch_size=8, score_weights=None, save_dir=None, tracked_tokens=None):
         super().__init__(eval_df, tokenizer, score_weights=score_weights, save_dir=save_dir)
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length
         self.max_target_length = max_target_length
         self.batch_size = batch_size
-
+        self.tracked_tokens = tracked_tokens + ['total']
+        self.current_tracker = None
+        
     def get_src_lang_code(self):
         return self.src_lang_code
 
@@ -274,6 +472,7 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         print_example = 1
             
         outputs = []
+        tracker = self.get_init_tracker()
         with tqdm(total=len(self.eval_df), desc=desc, leave=False) as pbar:
             batch = []
             for _, row in self.eval_df.iterrows():
@@ -287,7 +486,8 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                         tokenizer=self.tokenizer,
                         max_source_length=self.max_source_length,
                         max_target_length=self.max_target_length,
-                        verbose=print_example > 0
+                        verbose=print_example > 0,
+                        tracker=tracker
                     )
                     print_example -= 1
                     outputs.extend(out)
@@ -301,10 +501,12 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                     model=model,
                     tokenizer=self.tokenizer,
                     max_source_length=self.max_source_length,
-                    max_target_length=self.max_target_length
+                    max_target_length=self.max_target_length,
+                    tracker=tracker
                 )
                 outputs.extend(out)
                 pbar.update(len(batch))
+        self.current_tracker = tracker
         return outputs
 
 
@@ -330,11 +532,24 @@ class MySFTTrainer(SFTTrainer):
 
 
 class MySeq2SeqTrainer(Seq2SeqTrainer):
-    def __init__(self, *args, bleu_helpers=None, lang_weights=None, **kwargs):
+    def __init__(
+        self, 
+        *args, 
+        bleu_helpers : list[BleuEvalHelperNLLB] | None = None, 
+        lang_weights : dict[str, float] | None = None, 
+        tracked_tok_embs : list[str] = [], 
+        **kwargs
+    ):
         super().__init__(*args, **kwargs)
         self.bleu_helpers = bleu_helpers
         langs = [b.get_src_lang_code().split("_")[0] for b in self.bleu_helpers]
         self.lang_weights = lang_weights or {l: 1/len(langs) for l in langs}
+        self.tracked_tok_embs = tracked_tok_embs
+        
+        self.tracked_tok_emb_ids = self.tokenizer.convert_tokens_to_ids(self.tracked_tok_embs)
+        model = kwargs.get("model")
+        self.tracked_embs_init = model.get_input_embeddings().weight[self.tracked_tok_emb_ids].detach().cpu().clone()
+        self.tracked_embs_last = self.tracked_embs_init.clone()
 
     def evaluate(self, *args, **kwargs):
         metrics = super().evaluate(*args, **kwargs)
@@ -355,7 +570,17 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
                     mean_val = np.sum([v * self.lang_weights.get(k.split("-")[1], 0) for k, v in extra_metrics.items() if k.split("-")[0] == key])
                     extra_metrics[key] = mean_val
                     metrics[key] = mean_val
-                    
+
+        current_tok_embs = model.get_input_embeddings().weight[self.tracked_tok_emb_ids]
+        extra_metrics.update({
+            f"{tok_emb}-dist_to_init": (current_tok_embs[i] - self.tracked_embs_init[i]).norm() for i, tok_emb in self.tracked_tok_embs
+        })
+        extra_metrics.update({
+            f"{tok_emb}-dist_to_last": (current_tok_embs[i] - self.tracked_embs_last[i]).norm() for i, tok_emb in self.tracked_tok_embs
+        })
+        extra_metrics.update({
+            f"{tok_emb}-first_six": current_tok_embs[i][:6] for i, tok_emb in self.tracked_tok_embs
+        })
         self.log(extra_metrics)
 
         # Needs to be triggered once more (was already triggered in super().evaluate()) for BleuEarlyStoppingCallback

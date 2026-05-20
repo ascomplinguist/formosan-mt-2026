@@ -17,10 +17,13 @@ def main():
         AutoModelForSeq2SeqLM,
     )
 
-    from bleu_eval import BleuEvalHelperNLLB
-    # Quick git reproducibility check
+    from bleu_eval import BleuEvalHelperNLLB, load_base_model_nllb
     from check_git_status import ensure_files_clean, get_current_commit_hash
-    ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
+
+    # Quick git reproducibility check (if not testing)
+    EVAL_CONFIG = sys.argv[1] if (len(sys.argv) > 1 and sys.argv[1] != "testing") else "eval_config.json"
+    if not "testing" in sys.argv:
+        ensure_files_clean(["eval_nllb.py", "bleu_eval.py"])
     COMMIT_HASH = get_current_commit_hash()
 
     print(
@@ -45,8 +48,6 @@ def main():
     if free / total < 0.9:
         print("You should have a look what's occupying all your VRAM")
 
-    EVAL_CONFIG = sys.argv[1] if len(sys.argv) > 1 else "eval_config.json"
-
     with open(EVAL_CONFIG, "r") as f:
         eval_config = json.load(f)
     if "last_run.json" in os.listdir():
@@ -57,6 +58,7 @@ def main():
     CHECKPOINT = f"{FINETUNE_DIR}/{eval_config['checkpoint']}"
     LANGUAGE_NAME_EN = eval_config["eval_lang_en"]  # languages to evaluate on
     LANGUAGE_TOK = eval_config["language_tok"]  # tokens for eval languages
+    LEGACY_LOAD = eval_config.get("legacy_load", False) # when loading checkpoints where extra token was not added if adding exactly 2 tokens
 
     print(f"Evaluating finetune '{CHECKPOINT}' on {LANGUAGE_NAME_EN} using tokens {LANGUAGE_TOK}")
 
@@ -65,6 +67,25 @@ def main():
 
     MODEL_NAME = config["model_name"]
     DATA_DIR = config["data_dir"]
+    INIT_LANGS = config.get("init_langs", None)  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
+    INIT_VECS = config.get("init_vecs", "")
+    if INIT_LANGS:
+        if INIT_VECS:
+            raise RuntimeError(f"{CONFIG_PATH} specifies both 'init_langs' and 'init_vecs'; choose one")
+    else:
+        if not INIT_VECS:
+            raise RuntimeError(f"{CONFIG_PATH} specifies neither 'init_langs' or 'init_vecs'; one is required")
+
+    INIT_NOISE = config.get("init_noise", 0)
+    INIT_NOISE_SEED = config.get("init_noise_seed", 42)
+
+    if INIT_NOISE > 0:
+        DATA_SET_NAME = config["data_set_name"]
+        OUTPUT_PREFIX, run_id = FINETUNE_DIR.split(DATA_SET_NAME)
+        run_id = DATA_SET_NAME + run_id
+        INIT_VECS = f"{OUTPUT_PREFIX}vectors/{run_id}.pt"
+        print(f"Extracting initialisation from `{INIT_VECS}`")
+        INIT_LANGS = None
 
     # NEW: language codes for NLLB
     # Example:
@@ -82,31 +103,8 @@ def main():
         val_df["to_zh_msg"] = val_df["source"]
         val_dfs.append(val_df)
 
-    #bnb_config = BitsAndBytesConfig(load_in_8bit=True)  # If quantisation needed, comment back in
-
-    model = AutoModelForSeq2SeqLM.from_pretrained(
-        MODEL_NAME,
-        #quantization_config=bnb_config,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-
-    model.config.use_cache = False
-
-    #model = peft.prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
-    tokenizer = AutoTokenizer.from_pretrained(CHECKPOINT, use_fast=False)
-    model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
-    
-    # Load LoRA adapter
-    model = PeftModel.from_pretrained(
-        model,
-        CHECKPOINT,
-    )
-
-    model.eval()
-
-    # Re-tie lm_head and embeddings
-    model.base_model.model.lm_head.weight = model.get_input_embeddings().weight
+    model, tokenizer = load_base_model_nllb(MODEL_NAME, SRC_LANG_CODE, INIT_LANGS, INIT_VECS, INIT_NOISE, INIT_NOISE_SEED, 
+                                            adapter_path=CHECKPOINT, legacy_load=LEGACY_LOAD)
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)

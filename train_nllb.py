@@ -31,13 +31,16 @@ def main():
     from bleu_eval import (
         MySeq2SeqTrainer,
         BleuEvalHelperNLLB,
-        BleuEarlyStoppingCallback
+        BleuEarlyStoppingCallback,
+        load_base_model_nllb,
     )
     from lm_head import NLLBEmbeddingGradientCallback
-
-    # Quick git reproducibility check
     from check_git_status import ensure_files_clean, get_current_commit_hash
-    ensure_files_clean(["train_nllb.py", "bleu_eval.py", "lm_head.py"])
+
+    # Quick git reproducibility check (if not testing)
+    CONFIG_PATH = sys.argv[1] if (len(sys.argv) > 1 and sys.argv[1] != "testing") else "config.json"
+    if not "testing" in sys.argv:
+        ensure_files_clean(["train_nllb.py", "bleu_eval.py", "lm_head.py"])
     COMMIT_HASH = get_current_commit_hash()
 
     print(
@@ -63,8 +66,6 @@ def main():
 
     if free / total < 0.9:
         print("You should have a look what's occupying all your VRAM")
-
-    CONFIG_PATH = sys.argv[1] if len(sys.argv) > 1 else "config.json"
 
     with open(CONFIG_PATH, "r") as f:
         config = json.load(f)
@@ -92,7 +93,8 @@ def main():
     SRC_LANG_CODE = config["src_lang_code"]
     if isinstance(SRC_LANG_CODE, str):
         SRC_LANG_CODE = [SRC_LANG_CODE]
-    MAIN_LANG = SRC_LANG_CODE[0].split("_")[0]
+    INTERLEAVE_PROBS = config.get("interleave_probs", None) or [1] * len(train_dss)
+    LANG_WEIGHTS = {lang.split("_")[0]: p/np.sum(INTERLEAVE_PROBS) for lang, p in zip(SRC_LANG_CODE, INTERLEAVE_PROBS)}
     ZH_LANG_CODE = config["zh_lang_code"]
     TRAIN_ZH_HANT = config.get("train_zh_hant", True)
     INIT_LANGS = config.get("init_langs", None)  # ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
@@ -245,7 +247,6 @@ def main():
         train_ds = build_bidirectional_examples(train_df, lang)
         train_dss.append(train_ds)
 
-    INTERLEAVE_PROBS = config.get("interleave_probs", None) or [1] * len(train_dss)
     epoch_datasets = [
         make_epoch_dataset(train_dss, INTERLEAVE_PROBS, seed=42 + epoch)
         for epoch in range(max_epochs)
@@ -276,133 +277,9 @@ def main():
     free, total = torch.cuda.mem_get_info()
     print(f"{free/2**30:.3f} of {total/2**30:.3f}GB free (after basic clean-up)")
 
-    #bnb_config = BitsAndBytesConfig(load_in_8bit=True)  # If quantisation needed, comment back in
-
-    model = AutoModelForSeq2SeqLM.from_pretrained(
-        MODEL_NAME,
-        #quantization_config=bnb_config,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-
-    model.config.use_cache = False
-
-    #model = peft.prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
-
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
-
-    def make_orthogonal_noises(shape, target_l2, seed=0):
-        if len(shape) == 2:
-            n, dim = shape
-        elif len(shape) == 1:
-            n = 1
-            dim = shape[0]
-        else:
-            raise ValueError(f"Invalid shape for noise generation: {shape}")
-        g = torch.Generator().manual_seed(seed)
-        X = torch.randn(n, dim, generator=g)
-        # QR decomposition gives orthogonal Q and upper-triangular R such that QR = X
-        Q, _ = torch.linalg.qr(X.T)  # dim x n
-        noises = Q.T * target_l2
-        return noises
-
-    # Check source tags exist
-    new_lang_tok_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-    if any([n is None or n == tokenizer.unk_token_id for n in new_lang_tok_id]):
-        print(f"Initialising new lang token for {SRC_LANG_CODE}")
-        if INIT_LANGS:
-            for lang in INIT_LANGS:
-                tok_id = tokenizer.convert_tokens_to_ids(lang)
-                print(lang, tok_id)
-                if tok_id is None or tok_id == tokenizer.unk_token_id:
-                    raise ValueError(f"Initializer language tag not found: {lang}")
-        
-        # Add new language tag
-        num_toks = len(tokenizer)
-        num_added = tokenizer.add_special_tokens(
-            {"additional_special_tokens": tokenizer.additional_special_tokens + SRC_LANG_CODE}
-        )
-        
-        print(f"num_added: {num_added}, delta: {len(tokenizer) - num_toks}")
-        
-        # Resize model embeddings
-        model.resize_token_embeddings(len(tokenizer), mean_resizing=False)
-        
-        new_id = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
-        
-        print("new_id:", new_id)
-        
-        # Initialize shared embeddings
-        with torch.no_grad():
-            emb = model.get_input_embeddings().weight
-
-            if not INIT_VECS:
-                if INIT_NOISE > 0:
-                    noises = make_orthogonal_noises(emb[new_id].shape, INIT_NOISE, seed=INIT_NOISE_SEED)
-                else:
-                    noises = torch.zeros_like(emb[new_id])
+    model, tokenizer = load_base_model_nllb(MODEL_NAME, SRC_LANG_CODE, INIT_LANGS, INIT_VECS, INIT_NOISE, INIT_NOISE_SEED, OUTPUT_PREFIX,
+                                            trainable_modules=trainable_modules)
     
-                noises = noises.to(device=emb.device, dtype=emb.dtype)
-
-                init_ids = tokenizer.convert_tokens_to_ids(INIT_LANGS)
-                emb[new_id] = emb[init_ids].mean(dim=0) + noises
-
-                print("init_ids:", init_ids)
-
-                vector_dict = dict()
-                vector_dict['vecs'] = {lang: emb[tok_id].detach().cpu().clone() 
-                                       for lang, tok_id in zip(SRC_LANG_CODE, new_id)}
-                vector_dict['meta'] = {"target_l2": INIT_NOISE, "seed": INIT_NOISE_SEED}
-                torch.save(vector_dict, f"{OUTPUT_PREFIX}vectors/{save_dir.split('/')[-1]}.pt")
-            else:
-                vector_dict = torch.load(INIT_VECS, map_location="cpu")
-                for lang, tok_id in zip(SRC_LANG_CODE, new_id):
-                    emb[tok_id] = vector_dict['vecs'][lang].to(device=emb.device, dtype=emb.dtype)
-                
-            # M2M100/NLLB usually lm_head to shared embeddings, make sure this is the case
-            assert model.get_input_embeddings().weight.data_ptr() == model.get_output_embeddings().weight.data_ptr()
-
-    torch.manual_seed(42)
-    torch.cuda.manual_seed_all(42)
-
-    print(f"allocated: {torch.cuda.memory_allocated() / 2**30:.3f}GB")
-    print(f"reserved: {torch.cuda.memory_reserved() / 2**30:.3f}GB")
-    free, total = torch.cuda.mem_get_info()
-    print(f"{free/2**30:.3f} of {total/2**30:.3f}GB free")
-
-    module_dict = {
-        "q": "q_proj",
-        "v": "v_proj",
-        "k": "k_proj",
-        "o": "out_proj",
-        "u": "fc1",
-        "d": "fc2",
-    }
-    target_modules = [module_dict[x] for x in trainable_modules]
-    print(f"Trainable Modules: {target_modules}")
-    if len(trainable_modules) == 0:
-        target_modules = ["q_proj"]  # we'll set requires_grad to False later but peft won't behave if we give it nothing
-
-    peft_config = LoraConfig(
-        r=16,
-        lora_alpha=32,
-        lora_dropout=0.05,
-        bias="none",
-        task_type=TaskType.SEQ_2_SEQ_LM,
-        target_modules=target_modules,
-        modules_to_save=["shared"]
-    )
-
-    model = get_peft_model(model, peft_config)
-    if len(trainable_modules) == 0:  # if we only train embeddings, we need to freeze fake LoRA adapters
-        for name, p in model.named_parameters():
-            if "lora_" in name:
-                p.requires_grad = False
-    model.print_trainable_parameters()
-
-    # Re-tie lm_head and embeddings
-    model.base_model.model.lm_head.weight = model.get_input_embeddings().weight
-
     # Freeze most embeddings to prevent drift of underrepresented tokens
     src_ids = tokenizer.convert_tokens_to_ids(SRC_LANG_CODE)
     zho_id = [tokenizer.convert_tokens_to_ids(ZH_LANG_CODE)] if TRAIN_ZH_HANT else []
@@ -412,7 +289,7 @@ def main():
 
     callbacks = [
         NLLBEmbeddingGradientCallback(
-            len(tokenizer),
+            model.get_input_embeddings().weight.shape[0],
             torch.bfloat16,
             model.device,
             trainable_indices,
@@ -488,6 +365,9 @@ def main():
     )
 
     bleu_helpers = []
+    tracked_tokens = [tokenizer.unk_token_id]
+    if model.get_input_embeddings().weight.shape[0] != len(tokenizer):
+        tracked_tokens.append(model.get_input_embeddings().weight.shape[0])
     for val_df, lang in zip(val_dfs, SRC_LANG_CODE):
         bleu_helper = BleuEvalHelperNLLB(
             eval_df=val_df,
@@ -497,6 +377,7 @@ def main():
             max_source_length=max_source_length,
             max_target_length=max_target_length,
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
+            tracked_tokens=tracked_tokens
         )
         bleu_helpers.append(bleu_helper)
 
@@ -532,7 +413,8 @@ def main():
         data_collator=data_collator,
         callbacks=callbacks,
         bleu_helpers=bleu_helpers,
-        lang_weights={MAIN_LANG: 1},  # for reweighting of different languages, ex.: {'tay': 0.8, 'pwn': 0.1, 'ami': 0.1}
+        lang_weights=LANG_WEIGHTS,  # for reweighting of different languages, ex.: {'tay': 0.8, 'pwn': 0.1, 'ami': 0.1}
+        tracked_tok_embs=SRC_LANG_CODE + [ZH_LANG_CODE, "eng_Latn"],  # tracking eng_Latn just to make sure it doesn't move
     )
 
     # Suppress log prints 
