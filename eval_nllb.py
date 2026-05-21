@@ -124,6 +124,7 @@ def main():
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
             batch_size=16,
             save_dir=CHECKPOINT,
+            eval_bootstrap=True
         )
 
         print(f"allocated: {torch.cuda.memory_allocated() / 2**30:.3f}GB")

@@ -272,6 +272,76 @@ def get_bleu_and_chrf(df, hyp_col, ref_col, bleu=bleu_zh, verbose=False, normali
     return bleu_score, chrf_score, str(b)
 
 
+def bootstrap_eval_scores(
+    df,
+    n_boot=1000,
+    seed=42,
+    score_weights=None,
+):
+    """
+    Estimate evaluation noise by sentence-level bootstrap resampling.
+
+    Assumes df already contains:
+      to_zh, zh, to_zuyu, source
+
+    Returns percentile bootstrap CIs for BLEU/chrF and the combined score.
+    """
+    if score_weights is None:
+        score_weights = {
+            "eval_bleu_zh": 0.4,
+            "eval_chrf_zuyu": 0.6,
+        }
+
+    rng = np.random.default_rng(seed)
+    n = len(df)
+
+    rows = []
+
+    for b in tqdm(range(n_boot), desc="Bootstrap eval CIs", leave=False):
+        idx = rng.integers(0, n, size=n)
+        sample = df.iloc[idx].copy()
+
+        bleu_zh_score, chrf_zh_score, _ = get_bleu_and_chrf(
+            sample,
+            "to_zh",
+            "zh",
+            bleu=bleu_zh,
+        )
+
+        bleu_zuyu_score, chrf_zuyu_score, _ = get_bleu_and_chrf(
+            sample,
+            "to_zuyu",
+            "source",
+            bleu=bleu_form,
+        )
+
+        scores = {
+            "eval_bleu_zh": bleu_zh_score,
+            "eval_chrf_zh": chrf_zh_score,
+            "eval_bleu_zuyu": bleu_zuyu_score,
+            "eval_chrf_zuyu": chrf_zuyu_score,
+        }
+
+        scores["eval_score"] = np.sum([
+            score_weights.get(k, 0) * v
+            for k, v in scores.items()
+        ])
+
+        rows.append(scores)
+
+    boot_df = pd.DataFrame(rows)
+
+    summary = {}
+    for col in boot_df.columns:
+        vals = boot_df[col].to_numpy()
+        summary[f"{col}_boot_mean"] = float(np.mean(vals))
+        summary[f"{col}_boot_sd"] = float(np.std(vals, ddof=1))
+        summary[f"{col}_ci_low"] = float(np.quantile(vals, 0.025))
+        summary[f"{col}_ci_high"] = float(np.quantile(vals, 0.975))
+
+    return summary
+
+
 def score_file(fname, hyp_col="", ref_col="", bleu=bleu_zh, fname2="", normalise=True, outfile_prefix=""):
     if len(fname2) == 0:
         df = pd.read_csv(fname, sep="\t")
@@ -383,7 +453,7 @@ def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer,
 
 
 class BleuEvalHelper:
-    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None):
+    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None, eval_bootstrap=False):
         self.eval_df = eval_df.reset_index(drop=True).copy()
         self.tokenizer = tokenizer
         self.score_weights = score_weights if score_weights is not None else {
@@ -392,6 +462,7 @@ class BleuEvalHelper:
         }
         self.save_dir = save_dir
         self.current_tracker = None
+        self.eval_bootstrap = eval_bootstrap
 
     def get_init_tracker(self):
         return {token: [0] for token in self.tracked_tokens}
@@ -440,6 +511,15 @@ class BleuEvalHelper:
             scores['eval_bleu_zh_detail'] = eval_bleu_zh_detail
             scores['eval_bleu_zuyu_detail'] = eval_bleu_zuyu_detail
 
+        if self.eval_bootstrap:
+            boot_summary = bootstrap_eval_scores(
+                self.eval_df,
+                n_boot=1000,
+                seed=42,
+                score_weights=self.score_weights,
+            )
+            scores.update(boot_summary)
+
         if was_training:
             model.train()
 
@@ -455,7 +535,7 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         self.max_source_length = max_source_length
         self.max_target_length = max_target_length
         self.batch_size = batch_size
-        self.tracked_tokens = tracked_tokens + ['total']
+        self.tracked_tokens = (tracked_tokens or []) + ['total']
         self.current_tracker = None
         
     def get_src_lang_code(self):
