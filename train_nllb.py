@@ -367,7 +367,7 @@ def main():
     bleu_helpers = []
     tracked_tokens = [tokenizer.unk_token_id]
     if model.get_input_embeddings().weight.shape[0] != len(tokenizer):
-        tracked_tokens.append(model.get_input_embeddings().weight.shape[0])
+        tracked_tokens.append(model.get_input_embeddings().weight.shape[0] - 1)
     for val_df, lang in zip(val_dfs, SRC_LANG_CODE):
         bleu_helper = BleuEvalHelperNLLB(
             eval_df=val_df,

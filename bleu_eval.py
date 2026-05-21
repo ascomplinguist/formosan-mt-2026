@@ -418,10 +418,10 @@ class BleuEvalHelper:
         scores = dict()
         self.eval_df["to_zh"] = self.generate_column("to_zh_msg", "To Mandarin", model)
         if self.current_tracker is not None:
-            scores['tracked_tokens_to_zh'] = self.current_tracker
+            scores['tracked_tokens_to_zh'] = {str(k): v for k, v in self.current_tracker.items()}
         self.eval_df["to_zuyu"] = self.generate_column("to_zuyu_msg", "To Zuyu", model)
         if self.current_tracker is not None:
-            scores['tracked_tokens_to_zuyu'] = self.current_tracker
+            scores['tracked_tokens_to_zuyu'] = {str(k): v for k, v in self.current_tracker.items()}
 
         #print(self.eval_df[["to_zh", "zh", "to_zuyu", "source"]].head(5))
         if self.save_dir is not None:
@@ -434,7 +434,8 @@ class BleuEvalHelper:
                                                                                                       'to_zuyu', 'source', 
                                                                                                       bleu=bleu_form)
         # compute scores before potentially adding strings to the dict
-        scores['eval_score'] = np.sum([self.score_weights.get(k, 0) * scores[k] for k in scores])
+        scores['eval_score'] = np.sum([self.score_weights.get(k, 0) * scores[k] for k in scores 
+                                       if isinstance(scores[k], float) or isinstance(scores[k], int)])
         if return_detail:
             scores['eval_bleu_zh_detail'] = eval_bleu_zh_detail
             scores['eval_bleu_zuyu_detail'] = eval_bleu_zuyu_detail
@@ -546,7 +547,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
         self.lang_weights = lang_weights or {l: 1/len(langs) for l in langs}
         self.tracked_tok_embs = tracked_tok_embs
         
-        self.tracked_tok_emb_ids = self.tokenizer.convert_tokens_to_ids(self.tracked_tok_embs)
+        self.tracked_tok_emb_ids = self.processing_class.convert_tokens_to_ids(self.tracked_tok_embs)
         model = kwargs.get("model")
         self.tracked_embs_init = model.get_input_embeddings().weight[self.tracked_tok_emb_ids].detach().cpu().clone()
         self.tracked_embs_last = self.tracked_embs_init.clone()
@@ -565,21 +566,26 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
                 metrics.update(scores)
             # If multiple helpers, also compute weighted averages
             if len(self.bleu_helpers) > 1:
-                keys = set(k.split("-")[0] for k in extra_metrics.keys())
+                keys = set(k.split("-")[0] for k in extra_metrics.keys() 
+                           if isinstance(extra_metrics[k], float) or isinstance(extra_metrics[k], int))
                 for key in keys:
                     mean_val = np.sum([v * self.lang_weights.get(k.split("-")[1], 0) for k, v in extra_metrics.items() if k.split("-")[0] == key])
                     extra_metrics[key] = mean_val
                     metrics[key] = mean_val
 
-        current_tok_embs = model.get_input_embeddings().weight[self.tracked_tok_emb_ids]
+        current_tok_embs = self.model.get_input_embeddings().weight[self.tracked_tok_emb_ids].detach().cpu().clone()
         extra_metrics.update({
-            f"{tok_emb}-dist_to_init": (current_tok_embs[i] - self.tracked_embs_init[i]).norm() for i, tok_emb in self.tracked_tok_embs
+            f"{tok_emb}-dist_to_init": (current_tok_embs[i] - self.tracked_embs_init[i]).norm().item() 
+            for i, tok_emb in enumerate(self.tracked_tok_embs)
         })
         extra_metrics.update({
-            f"{tok_emb}-dist_to_last": (current_tok_embs[i] - self.tracked_embs_last[i]).norm() for i, tok_emb in self.tracked_tok_embs
+            f"{tok_emb}-dist_to_last": (current_tok_embs[i] - self.tracked_embs_last[i]).norm().item() 
+            for i, tok_emb in enumerate(self.tracked_tok_embs)
         })
+        self.tracked_embs_last = current_tok_embs.clone()
         extra_metrics.update({
-            f"{tok_emb}-first_six": current_tok_embs[i][:6] for i, tok_emb in self.tracked_tok_embs
+            f"{tok_emb}-first_six": [x.item() for x in current_tok_embs[i][:6]]
+            for i, tok_emb in enumerate(self.tracked_tok_embs)
         })
         self.log(extra_metrics)
 
