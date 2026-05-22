@@ -527,9 +527,9 @@ class BleuEvalHelper:
 
 
 class BleuEvalHelperNLLB(BleuEvalHelper):
-    def __init__(self, eval_df, tokenizer, src_lang_code, zh_lang_code, 
-                 max_source_length=256, max_target_length=256, batch_size=8, score_weights=None, save_dir=None, tracked_tokens=None):
-        super().__init__(eval_df, tokenizer, score_weights=score_weights, save_dir=save_dir)
+    def __init__(self, src_lang_code, zh_lang_code, *args,
+                 max_source_length=256, max_target_length=256, batch_size=8, tracked_tokens=None, **kwargs):
+        super().__init__(*args, **kwargs)
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length

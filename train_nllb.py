@@ -370,10 +370,10 @@ def main():
         tracked_tokens.append(model.get_input_embeddings().weight.shape[0] - 1)
     for val_df, lang in zip(val_dfs, SRC_LANG_CODE):
         bleu_helper = BleuEvalHelperNLLB(
-            eval_df=val_df,
-            tokenizer=tokenizer,
             src_lang_code=lang,
             zh_lang_code=ZH_LANG_CODE,
+            eval_df=val_df,
+            tokenizer=tokenizer,
             max_source_length=max_source_length,
             max_target_length=max_target_length,
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},

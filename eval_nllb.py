@@ -115,10 +115,10 @@ def main():
     for val_df, lang_tok, lang in zip(val_dfs, LANGUAGE_TOK, LANGUAGE_NAME_EN):
         print(f"Using '{lang_tok}' for '{lang}'")
         bleu_helper = BleuEvalHelperNLLB(
-            eval_df=val_df,
-            tokenizer=tokenizer,
             src_lang_code=lang_tok,
             zh_lang_code=ZH_LANG_CODE,
+            eval_df=val_df,
+            tokenizer=tokenizer,
             max_source_length=max_source_length,
             max_target_length=max_target_length,
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
