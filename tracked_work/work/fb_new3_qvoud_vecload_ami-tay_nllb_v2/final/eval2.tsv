@@ -1,0 +1,633 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	ini' saku' 'uluw ana nanu' wah.	我沒有找到任何獵物。	我沒有找到任何獵物。	ini' saku' 'uluw ana nanu' wah.	我沒有什麼東西買了。	ini' saku' pqzyu' qu kneril qasa.
+1	ssi' maku' mrusa' qu bzyok qnhyun.	我要放陷阱在山豬的路徑上。	我要放陷阱在山豬的路徑上。	ssi' maku' mrusa' qu bzyok qnhyun.	我把子放在水邊。	pqzyu' maku' rgyax na btunux qu tmucing.
+2	cyux mphoni' Tara' ki Kagi'.	Tara'跟Kagi'互相施法。	Tara'跟Kagi'互相施法。	cyux mphoni' Tara' ki Kagi'.	Tara'跟Kagi'在聊天。	cyux mqzyu' qu Tara' ki Kagi'.
+3	pintahan myan kwara' la.	我們把全部烤完了。	我們把全部烤完了。	pintahan myan kwara' la.	我們全部來排隊。	pqzyu' myan qu qnryang ta'.
+4	p'umuk yuyut qasa ga!	把那個瓶子蓋起來！	把那個瓶子蓋起來！	p'umuk yuyut qasa ga!	把那隻小狗掉!	ks'uy cikay qasa!
+5	ini' tukun qsya' nya' qu slyan myan qsya' qani ay.	我們的儲水塔不會漏水。	我們的儲水塔不會漏水。	ini' tukun qsya' nya' qu slyan myan qsya' qani ay.	我們的水田沒有接過他的水田。	ini' kngyax qu qnzyat na btunux ta'.
+6	hmit nya' balay bzirun qu zirensya' misu qani.	目前腳踏車非常貴。	目前腳踏車非常貴。	hmit nya' balay bzirun qu zirensya' misu qani.	他用子你的水。	talagay balay kinkrahu' qu 'laqi'.
+7	pqwasaw ta' biru' 'laqi' ta' lma?	我們給我們的小孩讀書好嗎？	我們給我們的小孩讀書好嗎？	pqwasaw ta' biru' 'laqi' ta' lma?	我們要為我們的孩子水嗎?	pqzyu' ta' sqani qu 'laqi' ta'?
+8	ani pkzyap kinsat qu loman qani!	叫警察來抓壞人！	叫警察來抓壞人！	ani pkzyap kinsat qu loman qani!	這隻狗要人!	pqzyux qsya' qu puli'!
+9	ss'yux kakay na bzyok qasa.	把那隻豬的腳扭起來。	把那隻豬的腳扭起來。	ss'yux kakay na bzyok qasa.	那隻小狗的腳很。	pqryax cikay na bzyok qasa.
+10	swa' blaq hi' su' isu' hiya'. ini' kkari' ana qutux.	你的身體很好，皮膚不會出疹子。	你的身體很好，皮膚不會出疹子。	swa' blaq hi' su' isu' hiya'. ini' kkari' ana qutux.	你的子很好,不容易傷。	blaq iyal qu 'laqi' su'. ini' ksngil na' qsya' la.
+11	cinkuyan maku' qu trahum maku'.	我跌倒而且弄傷了我的嘴唇。	我跌倒而且弄傷了我的嘴唇。	cinkuyan maku' qu trahum maku'.	我的拖車有支架。	minqryax maku' ru nyux mstut qu kneril maku'.
+12	blaq balay knita' nha' squ qalang ta'.	他們對我們部落的看法很不錯。	他們對我們部落的看法很不錯。	blaq balay knita' nha' squ qalang ta'.	他們在我們部落很好看。	pqzyu' nha' qu rgyax qani.
+13	phyapas ta' ma mha i Batu'.	Batu'說我們來玩。	Batu'說我們來玩。	phyapas ta' ma mha i Batu'.	我們去送Batu'給她。	Batu' ga, pqzyay ta'.
+14	ana su' pqzyu' hiya' ga, laxi sngsux hiya' ma!	說話時不要口水流滿嘴！	說話時不要口水流滿嘴！	ana su' pqzyu' hiya' ga, laxi sngsux hiya' ma!	如果你要,不要!	laxi pqzyu' su' qasa!
+15	Sayu': anay misu' shiriq pincywagan nya' ki. Sabi': laxi balay wah!	Sayu'： 我會為你破壞他的事業。Sabi'： 千萬不要！	Sayu'： 我會為你破壞他的事業。Sabi'： 千萬不要！	Sayu': anay misu' shiriq pincywagan nya' ki. Sabi': laxi balay wah!	Sayu': 我們要為他打架,說:不要打!	Sayu': pqzyuk maku' qu kneril nya'. Sabi': laxi!
+16	galan bbengan bkaruh ru soki' qu qhuniq bsyal hiya'.	bsyal樹可用做鋤頭柄和鐮刀柄。	bsyal樹可用做鋤頭柄和鐮刀柄。	galan bbengan bkaruh ru soki' qu qhuniq bsyal hiya'.	樹上有子,而且會長木頭。	cyux mqzyu' qu bsyal qasa ru pbzyuk na 'laqi'.
+17	ini' tlom ngasal nya' hiya'.	他的家沒有著火。	他的家沒有著火。	ini' tlom ngasal nya' hiya'.	她家裡沒有水。	ini' ktan qu balay nya'.
+18	ima' cyux smayuk qoli' qasa? talagay kinblaq iyal sokan!	誰家在燒烤老鼠？香味飄散，聞起來芳香無比！	誰家在燒烤老鼠？香味飄散，聞起來芳香無比！	ima' cyux smayuk qoli' qasa? talagay kinblaq iyal sokan!	誰在那隻牛?真好看!	ima' pqzyay qu ryux qani? cyux m_yan na' kneril ru wal smatu' balay!
+19	pktenux nanak guru' qani.	這些鴨自己會長大。	這些鴨自己會長大。	pktenux nanak guru' qani.	這隻狗很會。	cyux mqzyu' qu qnzyu' qani.
+20	pinbaq qpul mamu ki. qplay mamu baliq na paris. ptusay simu nya'.	小心你們的腳掌喔，你們千萬別踩到敵人的地雷，以免被炸到。	小心你們的腳掌喔，你們千萬別踩到敵人的地雷，以免被炸到。	pinbaq qpul mamu ki. qplay mamu baliq na paris. ptusay simu nya'.	你們要地,你們要拿巴士的鐵皮,他會給你們穿。	pqzyu' qnzyu' su'. laxi ktan simu btunux qu tmux na 'laqi' ru cyux m_yan.
+21	msqun sami maniq mami' babaw na kinryaxan.	下午我們一起吃飯。	下午我們一起吃飯。	msqun sami maniq mami' babaw na kinryaxan.	我們吃晚餐的菜。	pqzyay ta' qu rgyax qani.
+22	cyux mu' slqi i Bonay ki Pasang.	Bonay跟Pasang在試射弓箭。	Bonay跟Pasang在試射弓箭。	cyux mu' slqi i Bonay ki Pasang.	Bonay跟Pasang在聊天。	cyux mqzyu' qu bonay ki Pasang qasa.
+23	Taru': blaq balay na' qu ssxu' ru luhung qani. ini' kbuqax ana cikuy. Tali': aw ay. baha mswa' kinbalay maku' na skaru' uy.	Taru'： 這些杵跟臼真好，還沒腐爛。Tali： 是啊，那些是我用烏心石木做成的啦。	Taru'： 這些杵跟臼真好，還沒腐爛。Tali： 是啊，那些是我用烏心石木做成的啦。	Taru': blaq balay na' qu ssxu' ru luhung qani. ini' kbuqax ana cikuy. Tali': aw ay. baha mswa' kinbalay maku' na skaru' uy.	Taru': 這隻狗還很小,沒有頭和鼻子。Tali': 呀,我看起來是被獵人抓到的。	Taru': iyal qu qnzyu' ru pqbahuy qani. ini' kngyax. Tali': bha, nanu' maku' sqani lga.
+24	ini' kkhi' kwara' ruma' su' qani wah. baqun tbaziy la.	你的竹子不細，可以賣了。	你的竹子不細，可以賣了。	ini' kkhi' kwara' ruma' su' qani wah. baqun tbaziy la.	你的子沒有很大,要好好看。	ini' kngyax qu 'bahu su'. pqzyay la.
+25	Torih ga, baq balay pcbaq biru' ru blaq iyal inlungan nya'.	Torih很會教書，而且心腸很好。	Torih很會教書，而且心腸很好。	Torih ga, baq balay pcbaq biru' ru blaq iyal inlungan nya'.	Torih很會講話,而且很善於說話。	Torih ga, baqun qu qnzyat nya' ru ini' balay kneril.
+26	mint'alax sami pira' iyal kawas la.	我們分開來已經有好幾年了。	我們分開來已經有好幾年了。	mint'alax sami pira' iyal kawas la.	我們早上幾點鐘過。	wal myan qu rgyax ta' la.
+27	swa' si ngusngnus nguhu nya' huzil qani pi? kuna cyux ki'an wihing nguhu nya' ga?	這隻狗一直在ngus ngus作響，牠的鼻子是不是有水蛭？	這隻狗一直在ngus ngus作響，牠的鼻子是不是有水蛭？	swa' si ngusngnus nguhu nya' huzil qani pi? kuna cyux ki'an wihing nguhu nya' ga?	這隻狗的鼻子怎麼這麼呢?牠的鼻子在哪裡?	nyux mqzyu' qu huzil qani ru wal ini' ngus ngus. ana cyux nya' kngos lga?
+28	ima' huzil qu cyux mssulay qasa hya' la?	那隻脫腸的狗是誰的呢？	那隻脫腸的狗是誰的呢？	ima' huzil qu cyux mssulay qasa hya' la?	誰在那隻狗?	ima' qu huzil qasa hiya'?
+29	nbwani ayang qu pyatu' su'!	用碗喝湯！	用碗喝湯！	nbwani ayang qu pyatu' su'!	把你的床包拆掉!	qnzyu' cikay qu 'laqi'!
+30	cyux mtywaw te qszyap qu yaba' maku' ru phwo saku' mlawa' hiya' mha uwah ngasal la gi nyux hkngyun ni yaki' Amuy.	爸爸在對面的山谷工作，我要喊他回來，因為Amuy奶奶有事找他。	爸爸在對面的山谷工作，我要喊他回來，因為Amuy奶奶有事找他。	cyux mtywaw te qszyap qu yaba' maku' ru phwo saku' mlawa' hiya' mha uwah ngasal la gi nyux hkngyun ni yaki' Amuy.	我的爸爸在水,我去看他,因為Amuy奶奶說他會把它給別人吃。	cyux mqzyu' qu baba' na qnryang ru wal maku' kneril nya' lga, pskyan ni yaya' Amuy hiya'.
+31	'se' mima' sa turing qsya' qasa qu qba' su'.	去滴流水那邊洗手。	去滴流水那邊洗手。	'se' mima' sa turing qsya' qasa qu qba' su'.	你的手不要在山上打獵。	cyux mqzyu' qu qnryang qasa.
+32	msbngyaq ramat qani la.	這菜酸掉了。	這菜酸掉了。	msbngyaq ramat qani la.	這菜是乾的。	nyux mqzyu' qu kneril qani.
+33	cyux kmtu' kakay na ngta' i Tapas.	Tapas在啃雞腳。	Tapas在啃雞腳。	cyux kmtu' kakay na ngta' i Tapas.	Tapas在牛的腳。	cyux t'uzyuk qu Tapas hiya'.
+34	tqqwaw su' iyal lga, si su' luhing mnbu' ru swa'un su' kwara' laylaqi' su' la?	你一直酗酒，然後就生病，那你的孩子該怎麼辦？	你一直酗酒，然後就生病，那你的孩子該怎麼辦？	tqqwaw su' iyal lga, si su' luhing mnbu' ru swa'un su' kwara' laylaqi' su' la?	你的小孩們都在,你還要去洗衣服嗎?	nyux su' pqzyu' qasa ru ini' su' kneril lga, nanu' qu 'laqi' su' la?
+35	blaq ps'urux lozi qu hanray snsyuk ni Yubay qasa ha.	把Yubay扳翻的桌子立起來。	把Yubay扳翻的桌子立起來。	blaq ps'urux lozi qu hanray snsyuk ni Yubay qasa ha.	Yubay的子很好吃。	pqzyux cikay qu Yubay qasa.
+36	mha ni ini' ta' psli' mpkita' qu ita' qutux niqan qani lga, ppsgagay inlungan na gluw ta' la.	如果我們宗親再不聚會見面的話，我們親友的心將會分離。	如果我們宗親再不聚會見面的話，我們親友的心將會分離。	mha ni ini' ta' psli' mpkita' qu ita' qutux niqan qani lga, ppsgagay inlungan na gluw ta' la.	如果我們不看這些東西,我們的眼睛就會。	ini' ta' kmalun qu tmahung ta' ga, pqzyu' na 'laqi' myan.
+37	psuling simu qoli'? thkaw ta' ma?	你們要烤老鼠嗎？我們用煮的好嗎？	你們要烤老鼠嗎？我們用煮的好嗎？	psuling simu qoli'? thkaw ta' ma?	你們要牛嗎?我們去看吧?	pqba' su' ryux lga? kya ta' smayu' qu qba' na'?
+38	alax tbaku' la.	戒煙吧。	戒煙吧。	alax tbaku' la.	子是黑色的。	pqzyay su' qani.
+39	kya hmswa' kinkluxan qalang na Abrika' hiya'?.	非洲的熱度不知道是如何？	非洲的熱度不知道是如何？	kya hmswa' kinkluxan qalang na Abrika' hiya'?.	Abrika'的部落有什麼文化?	ini' kmaling qu qnzyat na Afrika' ga?
+40	ini' pklama' kita' na tubung.	窗戶的玻璃沒有裂痕。	窗戶的玻璃沒有裂痕。	ini' pklama' kita' na tubung.	我們不能用管子水。	ini' kngyax na qsya' qu sngiyaw.
+41	Ciwas: wal su' ktan Rimuy? Wasiq: cyux p'abi' yabut nya'.	Ciwas： 你有沒有見到Rimuy？Wasiq： 她在給她的小嬰孩睡覺。	Ciwas： 你有沒有見到Rimuy？Wasiq： 她在給她的小嬰孩睡覺。	Ciwas: wal su' ktan Rimuy? Wasiq: cyux p'abi' yabut nya'.	Ciwas:你去哪裡看Rimuy?Wasiq:他在睡覺。	Ciwas: ini' su' Rimuy? Wasiq: cyux nya' pbzyok 'laqi' nya'.
+42	mha ni ini' nya' biqi qu alu' nya' lga, ppsina' maku' mrhuw nya' la.	如果他不還帳的話，我就向他的長官要。	如果他不還帳的話，我就向他的長官要。	mha ni ini' nya' biqi qu alu' nya' lga, ppsina' maku' mrhuw nya' la.	如果他不吃他的肉,我就會把他給人。	ini' nya' pqzyu' tmux lga, saku' s'uyut qu qba' nya'.
+43	zywaw qani ga, llungaw na bnkis qalang ta'.	這個問題給部落長老去傷腦筋吧。	這個問題給部落長老去傷腦筋吧。	zywaw qani ga, llungaw na bnkis qalang ta'.	這條路是我們祖先的下坡。	psklu' cikay na ini' qu 'laqi' qani.
+44	ini' kbway ana qutux qapu' maku'.	我的甜柿沒有長出果實。	我的甜柿沒有長出果實。	ini' kbway ana qutux qapu' maku'.	我的子沒有破。	ini' kngyax qu qnzyat maku'.
+45	ini' su' k'yan Temu' qnzyat. mtqnaniq su' ru mqilang su'. laxi sze' knerinl gi iyat su' th'yazyun qmayat.	你不像Temu'勤勞，你又好吃懶做，你別想訂親因為你沒辦法養家。	你不像Temu'勤勞，你又好吃懶做，你別想訂親因為你沒辦法養家。	ini' su' k'yan Temu' qnzyat. mtqnaniq su' ru mqilang su'. laxi sze' knerinl gi iyat su' th'yazyun qmayat.	你沒有看Temu'的臉,你很,不好看他,因為你不會看他。	ini' su' tmuy Temu'. pqzyay su' ru wal m_yan. laxi ktan su' na 'laqi' lga, ini' su' iyat sqani.
+46	hlyaw saku' lwah!	別誣賴我！	別誣賴我！	hlyaw saku' lwah!	請離開我!	laxi k'nux maku'!
+47	klkahay su' yutas ay!	別踢到爺爺！	別踢到爺爺！	klkahay su' yutas ay!	你老是!	pqzyay kmal qasa!
+48	syun su' cikay snyu qolu' su' lga, aki' betunux iyal la.	如果妳脖子再加一些綴飾，就會更美麗。	如果妳脖子再加一些綴飾，就會更美麗。	syun su' cikay snyu qolu' su' lga, aki' betunux iyal la.	你一把腳就好,否則會被人咬。	ana pqzyu' cikay na qnzyux qu tmucing hiya'. swa' ga, ini' kneril.
+49	blaq qnxan ni Yuma' hiya'. ini' pqumah. cyux smi' kkmuy.	Yuma'的生活很好，不用務農，而且戴指環。	Yuma'的生活很好，不用務農，而且戴指環。	blaq qnxan ni Yuma' hiya'. ini' pqumah. cyux smi' kkmuy.	Yuma'的子很好,不乾淨,而且會發泡。	pzyux iyal qu yutas Yuma' qasa. ini' kngyax ru cyux mqwas lga, ana mtbwan na btunux nya'.
+50	mqwalax ru ini' saku' umuk ruku'. nyux saku' memaw si qeqarus la. usa' magal kinsyugan maku' ha.	下雨我沒有蓋雨傘，以致於全身濕答答的，去拿我要換穿的衣服。	下雨我沒有蓋雨傘，以致於全身濕答答的，去拿我要換穿的衣服。	mqwalax ru ini' saku' umuk ruku'. nyux saku' memaw si qeqarus la. usa' magal kinsyugan maku' ha.	我沒有吃飯,我已經喝酒了。我要拿我的子來。	ini' saku' tngyaq na 'laqi' ru pzyup maku' qu rgyax qasa. ana ga, nyux myan sbugay saku' la.
+51	snom ima' qu thekan qani?	這椅子是誰擦的？	這椅子是誰擦的？	snom ima' qu thekan qani?	誰的水桶?	ima' s'uquy qani?
+52	laxi qpul sa minslaq na rhzyal kiy! pthzyuci' su' la.	不要踏泥濘的地面，否則你會跌倒！	不要踏泥濘的地面，否則你會跌倒！	laxi qpul sa minslaq na rhzyal kiy! pthzyuci' su' la.	不要把你在上空的地板上住!否則會被人搶走。	laxi pbzyok qasa ga, pt'uqu' su'!
+53	musa' saku' mita' tlnga' na pkugih.	我要去看竹雞陷阱。	我要去看竹雞陷阱。	musa' saku' mita' tlnga' na pkugih.	我要看一下狗的頭。	pskyan maku' kmal qu 'nwan na btunux.
+54	smoya' su' maniq qbiray?	你喜歡吃碗豆嗎？	你喜歡吃碗豆嗎？	smoya' su' maniq qbiray?	你吃的東西有嗎?	wal su' ks'uquy qasa ga?
+55	pcisal ta' babaw nya' la. phb_yaw saku' glgan maku'!	以後再聊，我要趕班車！	以後再聊，我要趕班車！	pcisal ta' babaw nya' la. phb_yaw saku' glgan maku'!	我們要幫他的女生洗衣服,我要給她!	pqzyu' myan ru wal ini' kmal qu tbaqi' maku'!
+56	klkahi cikay blihun qasa ha!	把門踢開來！	把門踢開來！	klkahi cikay blihun qasa ha!	請把那塊地給!	pqzyu' cikay qasa!
+57	s'utay mamu tuqiy qsya' ay!	不要把水道堵住。	不要把水道堵住。	s'utay mamu tuqiy qsya' ay!	你們要水!	laxi pqzyu' qnzyux qu qba' na qasa.
+58	minkhi' iyal qu 'ali' btakan qani ru talagay rngu' nya' m'rkyas pi. nyux qthuy la.	麻竹筍以前是細細的，它們長的好快而且變粗了。	麻竹筍以前是細細的，它們長的好快而且變粗了。	minkhi' iyal qu 'ali' btakan qani ru talagay rngu' nya' m'rkyas pi. nyux qthuy la.	這條山很冷,而且它們的水很清。	minqzyu' qu qba' na btunux. pskut nha' ru nyux m'rangi'.
+59	ta kinmteluq na tmmyan wal su' niqun!	你吃的醃肉太生了！	你吃的醃肉太生了！	ta kinmteluq na tmmyan wal su' niqun!	因為你是子的長者!	talagay na' qnzyu' su'!
+60	mqrqul qu ayang nya' lga, ana su' twangan tobana' la.	湯汁滾開之後就可以加高麗菜。	湯汁滾開之後就可以加高麗菜。	mqrqul qu ayang nya' lga, ana su' twangan tobana' la.	牠的雞肉了,你就去吃吧。	pqzyu' qu kngyax qasa ga, psyawaw ta' cikay.
+61	yaqih nerang nya' qu qapu' lma.	聽說甜柿的價錢不好。	聽說甜柿的價錢不好。	yaqih nerang nya' qu qapu' lma.	他把子拿出來。	ini' kzyu' qu qba' na squliq hiya'.
+62	tnola' tanux qani qu 'laqi' ru ini' baqi wal inu' la?	小孩子們本來在這裡玩的，先在不知去哪裡了？	小孩子們本來在這裡玩的，先在不知去哪裡了？	tnola' tanux qani qu 'laqi' ru ini' baqi wal inu' la?	這小孩是的,怎麼還沒回來?	minqzyay ga, psklu' qu 'laqi' qani ru wal m_yan na' lga?
+63	ini' tcyamang kakay maku' hiya'.	我的腳沒有出現鱗片的形狀。	我的腳沒有出現鱗片的形狀。	ini' tcyamang kakay maku' hiya'.	我的腳不。	ini' kmal qu qba' maku'.
+64	Hacyang ga, wal biqan ni Rimuy la.	Hacyang呀，Rimuy已經給她了。	Hacyang呀，Rimuy已經給她了。	Hacyang ga, wal biqan ni Rimuy la.	Hacyang已經是Rimuy的朋友。	Hacyang, pqzyay nya' qu Rimuy la.
+65	plagi wahan ta'!	照亮我們的路！	照亮我們的路！	plagi wahan ta'!	我們開水!	k'laqi' wayal ta'!
+66	kgusi cikay ngurus su'! memaw su' m_yan cyutas ktan la.	刮一刮你的鬍子吧！你看起來快像老頭子了。	刮一刮你的鬍子吧！你看起來快像老頭子了。	kgusi cikay ngurus su'! memaw su' m_yan cyutas ktan la.	把你的子放在那裡!你會看到那隻狗的頭髮。	kngyax su' qbaq su'! pskunux myan lga.
+67	cyux inu' qyunam qlupan mamu hiya'?	你們的獵場在哪裡？	你們的獵場在哪裡？	cyux inu' qyunam qlupan mamu hiya'?	你的子在哪裡?	nanu' qu bzyok mamu?
+68	minkrkur mhuqil sa syaw na tuqi qu mqu' ru wal maku' spbuling te uru la.	有條蛇捲著身體死在馬路邊，然後我把牠丟在山谷裡。	有條蛇捲著身體死在馬路邊，然後我把牠丟在山谷裡。	minkrkur mhuqil sa syaw na tuqi qu mqu' ru wal maku' spbuling te uru la.	路邊的水溝是開的,我去過的地方已經被水淹沒了。	cyux mqzyu' qu qnzyu' ru wal nya' kneril na 'laqi'. pqbahuy maku' ga, nyux nha' tngyax.
+69	wal sami tqrgun sqsu' ru pkbrus su' na' ga!	上次你欺騙我們，你還要說謊嗎！	上次你欺騙我們，你還要說謊嗎！	wal sami tqrgun sqsu' ru pkbrus su' na' ga!	我們已經把你和你的家人關起來了!	minqzyu' su' myan qu tmucing qani ru wal su' ktan lga!
+70	ima' wal lmaqux?	誰贏？	誰贏？	ima' wal lmaqux?	誰死了?	ima' mqzyux qu qnwan hiya'?
+71	talagay kinmtalah qu qnus na 'bngan ngta' qasa.	那隻公雞的雞冠很紅。	那隻公雞的雞冠很紅。	talagay kinmtalah qu qnus na 'bngan ngta' qasa.	那隻山的樹葉很長。	cyux mqzyu' qu 'nwan ngta' qasa.
+72	Yumus mga, tehuq squ ryax na mkphpah qu lapaw lmga, mtlequn lma. hmswa' sa la?	聽說Yumus到了櫻花開花的時候，她就會發瘋。這到底是怎麼一回事兒？	聽說Yumus到了櫻花開花的時候，她就會發瘋。這到底是怎麼一回事兒？	Yumus mga, tehuq squ ryax na mkphpah qu lapaw lmga, mtlequn lma. hmswa' sa la?	Yumus,你看了,在山上的樹葉裡,他會長大。怎麼?	minqzyu' qu Yumus ga, pskluw nya' qasa. nanu' ini' kinkrahuy?
+73	qulih ga, mha ni syun su' tenpinsyang lga, katun na tlaka' lga, ptklokah kya hi' nya' ru iyat psknux.	如果把魚放在放在電冰箱裡冰住，它的肉會硬而且不會臭。	如果把魚放在放在電冰箱裡冰住，它的肉會硬而且不會臭。	qulih ga, mha ni syun su' tenpinsyang lga, katun na tlaka' lga, ptklokah kya hi' nya' ru iyat psknux.	聽說你的孫子在草樹上,但他沒有吃到,因為他的頭髮很長。	ana pqzyay qu tngyax na qsya' ga, ini' kneril nya' ru ini' nyux m'uqi'.
+74	qihuy saku qasa!	挖那個野山藥！	挖那個野山藥！	qihuy saku qasa!	把那隻狗給我!	qasa qu pqzyu' qasa!
+75	cyux pkrkur snonux nya' i Yuma'.	Yuma'在燙髮。	Yuma'在燙髮。	cyux pkrkur snonux nya' i Yuma'.	Yuma'在他的鼻子。	cyux mqzyu' qu Yuma'.
+76	mins'yux heku' ni Losun ru cyux blaq lma.	Losun的手肘扭到，聽說已經好了。	Losun的手肘扭到，聽說已經好了。	mins'yux heku' ni Losun ru cyux blaq lma.	Losun的子很長,而且很好看。	cyux mqzyu' qu qnryal na Losun ru wal ini' kmaling.
+77	'magaw su' pila' maku' ru pila' su' l'ay!	不要把我的錢和你的錢混在一起！	不要把我的錢和你的錢混在一起！	'magaw su' pila' maku' ru pila' su' l'ay!	你把我的錢拿來,你的錢就給我!	laxi pqzyu' qba' maku' ru wal suqi!
+78	laxi tqqwo!	不要嗜酒！	不要嗜酒！	laxi tqqwo!	不要!	laxi pqzyay kneril!
+79	baq balay lmpuw biru' i Ihing qasa.	Ihing真的很會朗讀。	Ihing真的很會朗讀。	baq balay lmpuw biru' i Ihing qasa.	Ihing很會吹煙。	iyat balay balay ktan i Ihing qasa.
+80	siki kneril ga maki' pluku' nha'.	女人才有陰核。	女人才有陰核。	siki kneril ga maki' pluku' nha'.	他們的子都很長。	cyux mqzyu' qu kneril qasa.
+81	pinuhi' na yaya' maku' qu ali' tnayan qani.	這綠竹筍是我母親種的。	這綠竹筍是我母親種的。	pinuhi' na yaya' maku' qu ali' tnayan qani.	這子是我媽媽給我的。	qnzyu' maku' qu btunux qani.
+82	thay cikay pila' su' gi ungat sbaziy ta' cimu'.	留一點錢買鹽巴。	留一點錢買鹽巴。	thay cikay pila' su' gi ungat sbaziy ta' cimu'.	你的錢一點都沒有,我們就去找你。	pqzyu' cikay qu qba' na bzyok.
+83	inngayan su' sa sknwan qu iga' na Gipun qani hiya' wah?	你何時看過這部日本電影？	你何時看過這部日本電影？	inngayan su' sa sknwan qu iga' na Gipun qani hiya' wah?	你把Gipun的子放在水面上嗎?	nanu' su' ktan kinmyax qani?
+84	laxi bihi squliq!	不要打人！	不要打人！	laxi bihi squliq!	不要人!	laxi pbzyok qani!
+85	squliq qasa ga qpsyaqan na bnkis ta' mha ini' qbaq inlungan ru wal hmiriq gaga'.	我們的長老嘲笑那個人並且說他不懂事犯禁忌。	我們的長老嘲笑那個人並且說他不懂事犯禁忌。	squliq qasa ga qpsyaqan na bnkis ta' mha ini' qbaq inlungan ru wal hmiriq gaga'.	那位老人家的言,我們不能說他不好,因為他很會吹。	cyux mqzyu' qu qalang ta' ru ini' nya' kneril na 'laqi'.
+86	cyux su' m'kinsat te inu'?	你在哪裡當警察？	你在哪裡當警察？	cyux su' m'kinsat te inu'?	你在哪裡?	wal su' pqzyu' qu qsya' su'?
+87	bnaziy su' inu' sulipa' su' qani?	你的拖鞋在哪裡買的？	你的拖鞋在哪裡買的？	bnaziy su' inu' sulipa' su' qani?	你的子在哪裡?	nanu' su' s'uyut qasa ga?
+88	mnuwah saku' singagay yata' Rimuy uruw thasa.	我到那邊的山谷和Rimuy阿姨告別。	我到那邊的山谷和Rimuy阿姨告別。	mnuwah saku' singagay yata' Rimuy uruw thasa.	我去向Rimuy媽媽她。	pqzyu' maku' qu rgyax qasa ru iyal Rimuy.
+89	ini' cinrgyax i Bonay hiya'.	Bonay不去採集狩獵。	Bonay不去採集狩獵。	ini' cinrgyax i Bonay hiya'.	Bonay沒有發燒。	ini' kmal qu bonay qasa.
+90	stkari' nya' krryax qu mlikuy nya' ru 'laqi' nya' ru bha blaq qnxan nha' lpi!	她常常逃離迷失，他們的家庭怎麼會好！	她常常逃離迷失，他們的家庭怎麼會好！	stkari' nya' krryax qu mlikuy nya' ru 'laqi' nya' ru bha blaq qnxan nha' lpi!	他常常他的小孩,而且很好看他們!	cyux nya' mqzyu' qu rgyax qasa. psyaw su' iyal ga!
+91	ini' nya' th'yazi kmtu' qu bqni' qasa.	他沒有辦法啃那根骨頭。	他沒有辦法啃那根骨頭。	ini' nya' th'yazi kmtu' qu bqni' qasa.	他沒有把那隻狗放在那裡。	ini' nya' kngyax qu rgyax qasa.
+92	trahu' su' nha' krryax.	他們常常稱讚你。	他們常常稱讚你。	trahu' su' nha' krryax.	他們常常在路上打獵。	nyux nha' kmal qu pqzyu' qani.
+93	nyux mtqilis kwara' rqyas nya'.	他的臉受傷。	他的臉受傷。	nyux mtqilis kwara' rqyas nya'.	他的所有衣服都了。	cyux nya' rqyas nya'.
+94	sinzzywaw iyal i Tali' qani wah!	Tali'真的很礙事！	Tali'真的很礙事！	sinzzywaw iyal i Tali' qani wah!	Tali'這個人很會吹!	talagay mqzyux qu Tali'!
+95	sm_yunaw sami mhangal minnbu' qasa.	我們輪流扛那位病人。	我們輪流扛那位病人。	sm_yunaw sami mhangal minnbu' qasa.	我們要那些小米。	pqzyu' ta' qu 'laqi' qasa.
+96	qnemul saku' nya' tmmyan kacing ru talagay kinsbngyaq qu tmmyan qasa uy!	他強行餵我吃醃牛肉，而那塊醃牛肉又酸又臭。	他強行餵我吃醃牛肉，而那塊醃牛肉又酸又臭。	qnemul saku' nya' tmmyan kacing ru talagay kinsbngyaq qu tmmyan qasa uy!	我把水到那邊,水到那裡!	cyux nya' mqzyu' qu qnzyu' maku'. 'laqi' na bzyok ru nyux kneril.
+97	ungat brbar brwan ta' la. usa' tmwang mbaziy cikay ha!	我們已經沒有書寫紙了，去多買一些吧！	我們已經沒有書寫紙了，去多買一些吧！	ungat brbar brwan ta' la. usa' tmwang mbaziy cikay ha!	我們的子沒有破,請給我們一些!	ini' ta' iyal qu qnzyat na' ga, pqbaqi cikay ha!
+98	Batu': csala ta' cikay ha. Isak: nway ha gi nyux saku' mtquh musa' pkita' nbu'.	Batu'：我們聊天呀。 Isak：抱歉，我趕著去看病。	Batu'：我們聊天呀。 Isak：抱歉，我趕著去看病。	Batu': csala ta' cikay ha. Isak: nway ha gi nyux saku' mtquh musa' pkita' nbu'.	Batu': 我們要去洗一下尿布,Isak: 我會在這裡睡覺看水。	Batu': pqzyu' myan. Isak: ps_yax, saku' s'uyut kmal qu bzyok qani la.
+99	cyux kmamil bzyux nya' qu yungay qasa.	那隻猴子在抓屁股。	那隻猴子在抓屁股。	cyux kmamil bzyux nya' qu yungay qasa.	那位老人家在他的頭。	cyux mqzyu' qu qnryang qasa.
+100	qinzyuqan ni Tana' qparung qu pitung qani.	這水池是Tana'浸泡杉木的地方。	這水池是Tana'浸泡杉木的地方。	qinzyuqan ni Tana' qparung qu pitung qani.	Tana'用子來蓋這塊田。	cyux mqwas na Tana' qu qani hiya'.
+101	cyux qmamas qlcing i Tana'.	Tana'在木板上塗。	Tana'在木板上塗。	cyux qmamas qlcing i Tana'.	Tana'在水。	Tana' cyux mqwas qu bzyok qasa.
+102	si kongat qu bnkis nha' qasa lga, musa' ungat qu squliq ka baq mqyanux la.	一旦他們的長者突然消失，他們會失去懂得生活的人。	一旦他們的長者突然消失，他們會失去懂得生活的人。	si kongat qu bnkis nha' qasa lga, musa' ungat qu squliq ka baq mqyanux la.	他們的老人家如果不好看,他們就不會去找別人。	ana psyaq qu t'aring nha' la. bhazi ga, mutu myan na' qba' ru nyux kneril nya'.
+103	mha ni rnquy hiya' lga, ini' nha' rasi ngasal.	若死於非命時，他們就不帶回家。	若死於非命時，他們就不帶回家。	mha ni rnquy hiya' lga, ini' nha' rasi ngasal.	聽說他們在這裡住,但沒有找到家。	ana mtl'uy ga, ini' kmal qu 'laqi' la.
+104	mtlapaw i Pasang lga, ini' baqi qmroq la ru si laxi kya.	Pasang一生氣就勸阻不了，不要理他。	Pasang一生氣就勸阻不了，不要理他。	mtlapaw i Pasang lga, ini' baqi qmroq la ru si laxi kya.	Pasang若有氣,他就不會哭了。	cyux mqzyu' qu Pasang ru ini' kmal qasa. laxi pnglwan hiya'.
+105	mintqlah sraral qu qlingay qasa ru swa' nyux m'bling iyal lpi?	以前這片圍籬是緊密地結合著的，而現在為什麼會有大縫隙了呢？	以前這片圍籬是緊密地結合著的，而現在為什麼會有大縫隙了呢？	mintqlah sraral qu qlingay qasa ru swa' nyux m'bling iyal lpi?	那隻狗以前常被獵捕,現在還在獵捕嗎?	qsya' qu rgyax qani ru wal mqzyu' na btunux qani lga?
+106	mcisal sami ki kinsingut qasa.	我跟那位矮個子常常聊天。	我跟那位矮個子常常聊天。	mcisal sami ki kinsingut qasa.	我們去挑那隻小狗。	nyux saku' pqzywaw qu qnryang qasa.
+107	inu' pin'aras ni Yumin qasa la?	Yumin送來的東西在哪裡？	Yumin送來的東西在哪裡？	inu' pin'aras ni Yumin qasa la?	Yumin在那邊打獵嗎?	wal inu' qu yumin qasa?
+108	wal musa' hinkangi Yumin kya Mnka' i yaki' Yumus ru ini' nya' 'lwi ma.	Yumus奶奶到台北找Yumin，聽說她沒找到。	Yumus奶奶到台北找Yumin，聽說她沒找到。	wal musa' hinkangi Yumin kya Mnka' i yaki' Yumus ru ini' nya' 'lwi ma.	祖父Mnka'去找Yumin,但他沒有回來。	Yumus yaki' ga, pqzyu' i Yumin qu yutas nya'. ini' k_yan na' la.
+109	cyux msngungok i Behuy. s'uti cikay nguhuw nya' ru p'abi'.	Behuy在流鼻血，先按住他的鼻子並讓他仰躺。	Behuy在流鼻血，先按住他的鼻子並讓他仰躺。	cyux msngungok i Behuy. s'uti cikay nguhuw nya' ru p'abi'.	Behuy在睡覺,他一點鐘就著睡。	cyux m'uzyuk qu Behuy ru pqsya' nya' la. qnzyuk cikay na 'laqi' hiya'.
+110	minkari' kwara' hi' maku' shera' ru inwahan maku' pkita' sinsi phgup la.	昨天我的身體出疹子，然後去給醫生看。	昨天我的身體出疹子，然後去給醫生看。	minkari' kwara' hi' maku' shera' ru inwahan maku' pkita' sinsi phgup la.	我昨天全都在水,我已經看到了老師的手指。	cyux saku' kneril qu rgyax maku' i na' qasa ru pqzyu' myan.
+111	pinbaq qu hmali' mamu. laxi hmut smayu' squliq!	要小心你們的舌頭，別亂罵人！	要小心你們的舌頭，別亂罵人！	pinbaq qu hmali' mamu. laxi hmut smayu' squliq!	你們的子要很長,不要把它掉!	pqzyay su' qsya' su'. laxi kngyax squliq!
+112	n_gi ana qutux bengi'!	再多等一天！	再多等一天！	n_gi ana qutux bengi'!	沒有什麼好看的!	pqzyay iyal qasa!
+113	ppkrkur maku' Rimung qu snonux maku'.	我的頭髮要給Rimung燙捲。	我的頭髮要給Rimung燙捲。	ppkrkur maku' Rimung qu snonux maku'.	我叫Rimun我的鼻子。	pbzyok cikay qu rimung qasa.
+114	lhbaw ru hlhul balay qu bnaziy su' lukus qani.	你買的衣服又輕又暖。	你買的衣服又輕又暖。	lhbaw ru hlhul balay qu bnaziy su' lukus qani.	你穿的衣服很寬和很長。	cyux mqzyu' qu rgyax su' qani.
+115	knwan qu hngawan mamu?	你們的假日在什麼時候？	你們的假日在什麼時候？	knwan qu hngawan mamu?	你們的子怎麼樣?	nanu' qu rgyax mamu?
+116	pincywagan maku' kwara' zywaw ni Sabi'.	Sabi'的事情我全部辦完了。	Sabi'的事情我全部辦完了。	pincywagan maku' kwara' zywaw ni Sabi'.	我把Sabi'的所有行為給認真看待。	wal maku' pqzywaw qu qnwan ni Sabi'.
+117	ini' smosiq roziq nya' hiya'.	他的眼睛沒有長眼屎。	他的眼睛沒有長眼屎。	ini' smosiq roziq nya' hiya'.	他的子沒有破。	ini' kngyax na' 'laqi' nya'.
+118	ima' nuzit qnryang maku' ? nyux saku' nha' gnogun lwah!	誰鑽了我的牆？他們簡直在欺負我！	誰鑽了我的牆？他們簡直在欺負我！	ima' nuzit qnryang maku' ? nyux saku' nha' gnogun lwah!	誰把我的子拔掉?他們在我!	ima' cyux mqzyu' qu qparung maku'? pskluw saku' lpi!
+119	cngsuy lga, ana qqsinu mutu musa' hmkani' sa tkm'an nha'.	寒流時，就連動物們都去尋找他們的隱蔽處。	寒流時，就連動物們都去尋找他們的隱蔽處。	cngsuy lga, ana qqsinu mutu musa' hmkani' sa tkm'an nha'.	的,還是會在他們的床上吃。	cyux mqzyu' qu rgyax ru pbzyok na qsya' la.
+120	biqi saku' qutux kinutan hi' syam ha!	給我一塊肥肉！	給我一塊肥肉！	biqi saku' qutux kinutan hi' syam ha!	請給我一些子!	pqzyu' cikay na qnryang!
+121	lokah balay qu Batu' son nha' kwara'.	他們都說Batu'很勇敢。	他們都說Batu'很勇敢。	lokah balay qu Batu' son nha' kwara'.	他們的Batu'都很漂亮。	wal nha' knan i Batu' qasa.
+122	lmqing su' balay inlungan wah isu'!	你呀，你很不誠實。	你呀，你很不誠實。	lmqing su' balay inlungan wah isu'!	你真的很!	isu', ini' k_yanux su' la.
+123	ltxi ngarux qasa kusa huzil su'.	叫你的狗對著黑熊吠叫。	叫你的狗對著黑熊吠叫。	ltxi ngarux qasa kusa huzil su'.	你的狗不要在那邊爬。	pqzyux qu huzil su' na bzyok qasa.
+124	pira' iyal ryax ini' su' skuy sa tenpinsyang qu bnaziy su' syam. ini' sknux na ga?	你好幾天沒把你買的豬肉放在冰箱裡，還沒發臭嗎？	你好幾天沒把你買的豬肉放在冰箱裡，還沒發臭嗎？	pira' iyal ryax ini' su' skuy sa tenpinsyang qu bnaziy su' syam. ini' sknux na ga?	你的子在水田裡幾天都沒有掉下來,還沒洗嗎?	wal su' ktan na' tmucing qu bzyok qasa ru pqbahuy su' lga, ini' m'uqi' la?
+125	bhlan nya' na bhray qu bbengan na pazih ru ini' tqluq la.	他用鐵線綁手鍬的手把，手把就不鬆動了。	他用鐵線綁手鍬的手把，手把就不鬆動了。	bhlan nya' na bhray qu bbengan na pazih ru ini' tqluq la.	他用子把小狗的頭髮摘下來,因為他沒有穿上。	cyux nya' qnzyu' qu rgyal na qsya' nya'. ini' kneril.
+126	cyux nya' bgahun qu guru' ka cyux pkikil squ qnalang.	他把卡在圍牆的鴨子解開來。	他把卡在圍牆的鴨子解開來。	cyux nya' bgahun qu guru' ka cyux pkikil squ qnalang.	他用子水,讓老人家吃苦瓜。	cyux nya' ktan qu qba' na bzyok qasa.
+127	pinkuxan ni mama' Yumin kwara' qu qeqaya' qani.	這裡所有的東西都是舅舅Yumin弄翻的。	這裡所有的東西都是舅舅Yumin弄翻的。	pinkuxan ni mama' Yumin kwara' qu qeqaya' qani.	Yumin爸爸在這座山上蓋水槽。	cyux mqzyu' ni Yumin qu qani hiya'.
+128	ana hmswa' ga, laxi hmut cqeri' squliq.	無論如何，不要隨意取笑別人。	無論如何，不要隨意取笑別人。	ana hmswa' ga, laxi hmut cqeri' squliq.	任何事都不要隨便發生。	ana ga, laxi pqzyu' kneril na squliq.
+129	mhikang balay qu Yumas.	Yumas很瘦。	Yumas很瘦。	mhikang balay qu Yumas.	Yumas很會發。	cyux mqzyu' i Yumas.
+130	Yukan ga, pklokah nanak babaw nya' na'.	Yukan呀，以後他自己會痊癒。	Yukan呀，以後他自己會痊癒。	Yukan ga, pklokah nanak babaw nya' na'.	Yukan還在他的嘴巴。	Yukan ga, pqzyu' nya' cikay myan la.
+131	ini' tazil na' paris ta'.	我們的敵人還沒爬上來。	我們的敵人還沒爬上來。	ini' tazil na' paris ta'.	我們的狗還沒死。	ini' kmal qu 'laqi' ta'.
+132	lhan ga, ini' sblaq ana cikuy ma.	他們處的不好。	他們處的不好。	lhan ga, ini' sblaq ana cikuy ma.	,沒有人會說什麼。	ini' pqzyu' qu rgyax nha'.
+133	cyux spungan qu tapang qasa.	那棉被發霉。	那棉被發霉。	cyux spungan qu tapang qasa.	那位勇士在打槍。	cyux mqwas qu kngyax qasa.
+134	'laqi' ni Sayun ga, ini' pinbaq ru wal nya' zqmun qu botang na lukus nya'. wal nha' rasun pkita' sinsi pbeta' la.	Sayun的小孩不小心把鈕釦吞下去之後，他就去醫院。	Sayun的小孩不小心把鈕釦吞下去之後，他就去醫院。	'laqi' ni Sayun ga, ini' pinbaq ru wal nya' zqmun qu botang na lukus nya'. wal nha' rasun pkita' sinsi pbeta' la.	Sayun的孩子沒有洗衣服,所以她穿了衣服的子,他們就去看老師。	cyux mqzyu' qu 'laqi' ni Sayun ru pqsyaw nya' lga, si qnzyu' nya' ga.
+135	pspzyang lozi ay qutux qasa ga!	那個人又要故意裝瘋賣傻。	那個人又要故意裝瘋賣傻。	pspzyang lozi ay qutux qasa ga!	把那隻狗掉!	cyux mqzyu' qu qasa ga, pqsyaw nya' kneril.
+136	pklabang hazi' tmatak tatak na kacing qani!	牛舍蓋寬一點兒！	牛舍蓋寬一點兒！	pklabang hazi' tmatak tatak na kacing qani!	把這條牛的子拿出來!	pqzyay cikay qu qnzyatan na bzyok!
+137	biqi saku' cikay ana qutux lbak tbaku' ha!	請給我一點菸葉吧！	請給我一點菸葉吧！	biqi saku' cikay ana qutux lbak tbaku' ha!	我有幾天要去送子!	pqzyu' saku' cikay qba' ga!
+138	mha ni musa' su' ngasal ni Agin ga, aras kiri' kinsugan nya' ki.	如果你要去Agin家，把她借去的背簍帶回來。	如果你要去Agin家，把她借去的背簍帶回來。	mha ni musa' su' ngasal ni Agin ga, aras kiri' kinsugan nya' ki.	Agin家的房子你去過後,他一定要給你一些東西。	ana su' pqyan i Agin ga, pbzyok cikay bway nya' qu 'laqi' qasa.
+139	qmap iyal inlungan qu Uyung qasa.	Uyung讓人心驚膽跳。	Uyung讓人心驚膽跳。	qmap iyal inlungan qu Uyung qasa.	Uyung很會講故事。	cyux mqzyu' qu uyung qasa.
+140	hgtun ni Alung qu sinplan mamu pila' ma ay.	聽說Alung要縮減你們的工錢。	聽說Alung要縮減你們的工錢。	hgtun ni Alung qu sinplan mamu pila' ma ay.	Alung已經把你們借的錢留住了。	minqzyu' cikay tmuzi' mamu i Alung ma.
+141	musa' pbhul suxan qu loman qasa lma.	聽說那位流氓明天要入監獄。	聽說那位流氓明天要入監獄。	musa' pbhul suxan qu loman qasa lma.	那隻狗將要去獵捕。	pskluw suxan qu 'laqi' qasa.
+142	ta kinkrahu' iyal nbwas nya'.	他的腹部好大。	他的腹部好大。	ta kinkrahu' iyal nbwas nya'.	牠的鼻子很長。	qnzyu' qu 'laqi' nya'.
+143	musa saku hmobing bway niqun ta kwara.	我去切水果等一下給大家吃。	我去切水果等一下給大家吃。	musa saku hmobing bway niqun ta kwara.	我去幫他們拍照。	pqzyu' maku' kneril ru nyux myan qu qani.
+144	siki mlhngan ga, mlata' qu nguziq hiya'.	貓頭鷹是夜間才活動的。	貓頭鷹是夜間才活動的。	siki mlhngan ga, mlata' qu nguziq hiya'.	一點,會讓人吃飽。	cyux mqzyu' qu kngyax qasa.
+145	bsyaq su' mnbu' la, ru si su' 'abi' sa babaw na sakaw. tuliq ru hkani' cikay!	你生了很久的病並且一直躺在病床上，起來走一走！	你生了很久的病並且一直躺在病床上，起來走一走！	bsyaq su' mnbu' la, ru si su' 'abi' sa babaw na sakaw. tuliq ru hkani' cikay!	你已經吃過,而且你在床上睡覺了。去洗!	minqzyay su' qu 'laqi' su' ru ini' su' s'uqu' na qsya' la. teta' k_yan!
+146	tpihi utux nya' teta' helaw blaq nbu' nya'.	把他的靈魂召回來，讓他的病快點痊癒。	把他的靈魂召回來，讓他的病快點痊癒。	tpihi utux nya' teta' helaw blaq nbu' nya'.	他用頭抓竹子的樹枝。	pqzyux qu rgyax nya' ru ini' kneril nya'. 'laqi' su' lga, si qnzyu' na.
+147	mha ni ki'an ngyaw qu khu' lga, mngnugu' mwah mquriq maniq trakis snku' ta' qu qoli' la.	如果貓守在倉庫的話，老鼠就會害怕偷吃我們儲存的小米。	如果貓守在倉庫的話，老鼠就會害怕偷吃我們儲存的小米。	mha ni ki'an ngyaw qu khu' lga, mngnugu' mwah mquriq maniq trakis snku' ta' qu qoli' la.	聽說在山上,我們用子來燒水。	ana m'uzyun qu kutu' na btunux ru pqsyaq nya' qani.
+148	nyux maku' rngan 'laqi' qani gi nyux m'yangi' ru ini' qbaq maniq nanak.	我在餵這位小孩子，因為他生了病，不會自己進食。	我在餵這位小孩子，因為他生了病，不會自己進食。	nyux maku' rngan 'laqi' qani gi nyux m'yangi' ru ini' qbaq maniq nanak.	我在小孩,而且他還沒吃飯。	minqzyu' saku' qu 'laqi' qani ru ini' nya' lga, ini' ga, ini' nha' pqsyaw.
+149	spskulu' ta' sumul ru trakis qu psklwan qani.	我們用蒸桶蒸糯米飯和小米。	我們用蒸桶蒸糯米飯和小米。	spskulu' ta' sumul ru trakis qu psklwan qani.	我們把子和小米放在這邊。	cyux myan qu bzyok qasa ru pqba' na hrgax.
+150	n_gaw simu balay ha!	我才懶得等你們。	我才懶得等你們。	n_gaw simu balay ha!	你們去吧!	nyux saku' pqzyu' simu.
+151	plamu' maku' i Yungay qu snonux maku' plqwi'.	我會叫Yungay拔我的白頭髮。	我會叫Yungay拔我的白頭髮。	plamu' maku' i Yungay qu snonux maku' plqwi'.	我用我的鼻子Yungay。	pqzyux maku' Yungay qu qnryang maku' qasa.
+152	uxul su' blaq nyux ini' tkzyay iyal qu kayal nya'!	幸好天氣沒那麼乾燥！	幸好天氣沒那麼乾燥！	uxul su' blaq nyux ini' tkzyay iyal qu kayal nya'!	你的天空不會有雨!	ani pqzyu' qu qba' na' ktan!
+153	han, Tara' qu pspung ta' ga. baq ga, hiya' ?	喔，Tara'是我們的裁判噢。他懂嗎？	喔，Tara'是我們的裁判噢。他懂嗎？	han, Tara' qu pspung ta' ga. baq ga, hiya' ?	,Tara'是我們的後代。好吧,不是嗎?	iyal, Tara' ga, qnzyu' ta'. ini' nya' lga?
+154	'san kmyut ni yaya' maku' qu toyu' na ryuhing ru stahuk sami nya'.	母親去埰山蘇的嫩葉煮給我吃。	母親去埰山蘇的嫩葉煮給我吃。	'san kmyut ni yaya' maku' qu toyu' na ryuhing ru stahuk sami nya'.	我媽媽把的小米和我們一起煮。	cyux mqwas qu bzyok na 'laqi' qu yaya' ru pbzyuk maku'.
+155	sabu' na galiq wakung qasa. tbosaw su' na ayang.	用餐布把碗公包起來，別被湯燙到。	用餐布把碗公包起來，別被湯燙到。	sabu' na galiq wakung qasa. tbosaw su' na ayang.	那個竹子被火燒掉了,你一定要去挖。	pqzyu' cikay qu qnzyux na btunux ru wal m_yan. iyat ta' laxi kneril.
+156	aw baq isu' qu nyux shtuw gocyo ni Masing.	原來Masing為你而出來競選鄉長。	原來Masing為你而出來競選鄉長。	aw baq isu' qu nyux shtuw gocyo ni Masing.	Masing的子在你。	cyux su' k_yan ni Masing qu tmbungan na bzyok qasa.
+157	ptl'ngxi cikay llyu na betaq qasa ha.	把那刺刀弄尖。	把那刺刀弄尖。	ptl'ngxi cikay llyu na betaq qasa ha.	請把那隻狗的頭部住。	qnzyu' cikay qu kneril qasa.
+158	cinay balay kakay na guru' wal su' kt'un la ru pktu' su' na' ga?	你已經啃很多的鴨腳了，你還要啃嗎？	你已經啃很多的鴨腳了，你還要啃嗎？	cinay balay kakay na guru' wal su' kt'un la ru pktu' su' na' ga?	你的子很長,你還要嗎?	wal su' pqzyu' kwara' qsya' lga, nanu' su' ga?
+159	mnita' su' bnkis ka ptasan ru meng hoku'?	你見過文面老人拿拐杖嗎？	你見過文面老人拿拐杖嗎？	mnita' su' bnkis ka ptasan ru meng hoku'?	你看過老鼠和子嗎?	minpinu' su' qu tmucing qasa lga, wal inu'?
+160	biqi cikay i Yana' qasa! pkbciq l'ay!	給Yana'一點！否則他會生悶氣！	給Yana'一點！否則他會生悶氣！	biqi cikay i Yana' qasa! pkbciq l'ay!	給 Yana'一點!他會人!	pqzyay i Yana' qasa! pskut nya' la.
+161	sraral ga, bun na btunux qu qba' maku' ru m'ba' lga, pkat maku' tlaka' krryax ru helaw balay wal mhtuy.	過去我的手臂被石頭砸到紅腫的時候，我常用冰敷而且消腫消得很快。	過去我的手臂被石頭砸到紅腫的時候，我常用冰敷而且消腫消得很快。	sraral ga, bun na btunux qu qba' maku' ru m'ba' lga, pkat maku' tlaka' krryax ru helaw balay wal mhtuy.	以前我的手是的,但今天我把它放在水底下,而且很快就掉下來了。	minqzyu' qu qba' maku' na btunux ru wal myan ga, pbtuw saku' rgyax. 'n_yuki' nya' la.
+162	cyux nya' 'n_gyutun lmamu' qu bwax ka minhutaw squ rhzyal.	他逐一撿起掉在地上的米粒。	他逐一撿起掉在地上的米粒。	cyux nya' 'n_gyutun lmamu' qu bwax ka minhutaw squ rhzyal.	他用子水,使人吃飽。	cyux nya' kngyax qu btunux na qnryang ru wal mqwas.
+163	laxi bsyak qolu'!	不要掐脖子！	不要掐脖子！	laxi bsyak qolu'!	不要牛!	laxi pqzyu' qasa!
+164	Pasang lalu' nya'.	他叫Pasang。	他叫Pasang。	Pasang lalu' nya'.	請他走路。	cyux nya' Pasang.
+165	wa nanak ngasal qasa hiya'. wiway syup qu ngasal nya'. ini' nya' kwagi.	他的家都是垃圾，因為他沒打掃。	他的家都是垃圾，因為他沒打掃。	wa nanak ngasal qasa hiya'. wiway syup qu ngasal nya'. ini' nya' kwagi.	那家人沒有去過,他家的房子很平滑,不乾淨。	wal m'uqi qu 'laqi' nya' ru ini' kneril qasa la.
+166	lamu' kwara' wasiq ru tana' qani!	把這些龍葵和刺蔥收集起來！	把這些龍葵和刺蔥收集起來！	lamu' kwara' wasiq ru tana' qani!	把所有的水和水都掉!	qnzyu' cikay na kngyax ru pqsyaw qani!
+167	skbalay ni yutas Hayung slqi qu 'laqi' mlikuy qasa.	Hayung爺爺為那位男孩製作弓箭。	Hayung爺爺為那位男孩製作弓箭。	skbalay ni yutas Hayung slqi qu 'laqi' mlikuy qasa.	Hayung的子把小孩放在那邊。	cyux mqzyu' qu yutas qasa i yaki' Hayung.
+168	Rimuy: hlngagay ta' ayang qu kyawan qani ma'? Ciwas: mosa' blaq ga?	Rimuy：我們在飯鍋上熱湯好嗎？Ciwas：可以嗎？	Rimuy：我們在飯鍋上熱湯好嗎？Ciwas：可以嗎？	Rimuy: hlngagay ta' ayang qu kyawan qani ma'? Ciwas: mosa' blaq ga?	Rimuy: 我們要用這把水嗎?Ciwas: 你好喝嗎?	Rimuy: pqzyay ta' na qnzyat qu ramu' lga? Ciwas: iyal ga?
+169	thgali yungay qasa kiy! kte' ini' nya' kaci tluling su'!	逗那隻猴子看看！別笨了你的手指會被他咬傷！	逗那隻猴子看看！別笨了你的手指會被他咬傷！	thgali yungay qasa kiy! kte' ini' nya' kaci tluling su'!	把那隻小狗關起來!他不會把你的子關起來。	kneril qasa ga! ini' kneril na' qu 'laqi' su'!
+170	ita' Tayal hiya' ga, psaniq qu si mhmut mzyup ngasal squliq hiya' la. mutu nha' phogun ru psyaqan nha' uzi.	對泰雅族人而言，隨意進入別人的房子是一項禁忌，不但被人罰而且被人譏笑。	對泰雅族人而言，隨意進入別人的房子是一項禁忌，不但被人罰而且被人譏笑。	ita' Tayal hiya' ga, psaniq qu si mhmut mzyup ngasal squliq hiya' la. mutu nha' phogun ru psyaqan nha' uzi.	Tayal他們已經在家裡過,所以他們把牠們的頭髮和手臂放在房間。	cyux mqzyu' qu ttayal qasa ga, pqsyaw na kneril ru wal inu' squliq. ini' s'ut su' la. iyat ta' mtzywaw lga, mutu smku' kwara'.
+171	pira' qnabu' bniq nha' isu'?	他們給你多少獎品？	他們給你多少獎品？	pira' qnabu' bniq nha' isu'?	你的水多少?	pira' cyux nha' qnzywan su'?
+172	mins'ulah musa' qmul pila' na squliq i Piling ki Takun ma ru wal hblan lma.	聽說Piling和Takun結夥搶劫別人的錢財，而且已經被關起來。	聽說Piling和Takun結夥搶劫別人的錢財，而且已經被關起來。	mins'ulah musa' qmul pila' na squliq i Piling ki Takun ma ru wal hblan lma.	Piling和Takun已經分得很多錢,而他們也分手了。	minqzyu' qu Piling ki Takun qasa ru cyux myan. ana mtbwan na'.
+173	cyux mromul tunux nha' kwara'.	他們全部都低著頭。	他們全部都低著頭。	cyux mromul tunux nha' kwara'.	他們全都在。	nyux nha' squliq qu qnzyu' la.
+174	ini' hnasi kinbleqan na king hiya' la.	黃金的價值無法超越。	黃金的價值無法超越。	ini' hnasi kinbleqan na king hiya' la.	王的眼睛還沒開。	ini' kmal qu qnzyat na 'laqi'.
+175	psalit saku' slaq mu smka' ryax ha ru suqun maku' smalit lga, musa' saku' gmayaw ana qutux ini' ga sazing qhuniq sa syaw na qmayah maku'.	我將花半天的時間到田裡砍草，之後，就到開墾地去砍一兩棵樹。	我將花半天的時間到田裡砍草，之後，就到開墾地去砍一兩棵樹。	psalit saku' slaq mu smka' ryax ha ru suqun maku' smalit lga, musa' saku' gmayaw ana qutux ini' ga sazing qhuniq sa syaw na qmayah maku'.	我去用水草,如果我去用水,我會看到一條木頭在我的樹上不見。	pqzyay maku' qu rgyax na btunux ru nyux myan. wal nha' ga, ini' musa' iyal qasa la.
+176	wal ta' slaqux paris ta' la.	我們打敗對手了。	我們打敗對手了。	wal ta' slaqux paris ta' la.	我們去洗衣服了。	nyux mqzyu' qu 'laqi' qasa.
+177	mbhuyaw iyal i phpuyun qu mami' puhut hiya'.	再來米煮起來量會增加很多。	再來米煮起來量會增加很多。	mbhuyaw iyal i phpuyun qu mami' puhut hiya'.	子的長度很大。	pqzyux iyal qu ramu' qasa.
+178	nyux mtpakuy g'nux su'. blaq balay ktan.	你的牙齒暴牙，真好看。	你的牙齒暴牙，真好看。	nyux mtpakuy g'nux su'. blaq balay ktan.	你的頭髮硬了,很好看。	cyux m'uquy qu qnzyat su'. swa' balay ktan.
+179	cyux su' tmhay tmmyan?	你有留醃肉嗎？	你有留醃肉嗎？	cyux su' tmhay tmmyan?	你在洗衣服嗎?	ana su' pqzyu' qasa ga?
+180	ungat hazi' kli' nya' te hlahuy misu qani la.	目前山林裡可能沒有豹了。	目前山林裡可能沒有豹了。	ungat hazi' kli' nya' te hlahuy misu qani la.	他把我的子放在水面上。	ini' tmucing na' qu rgyax qani.
+181	wal maku' ghapan qu slaq maku' la. qbugay su' lwah!	我的田地已經播種了，別犁我的田呀！。	我的田地已經播種了，別犁我的田呀！。	wal maku' ghapan qu slaq maku' la. qbugay su' lwah!	我的田地已經被砍掉了,你去吃吧!	nyux m'rangiq qu qnzyang maku' ru pbzyok lga, ini' k_yan su' la!
+182	ngasal ni Halo' ga, qniway na sasaw qhuniq ru minnkum iyal. misu qani lga, wal nya' ttun qu qara' na qhuniq lru cyux smyax la.	Halo'的家以前被樹蔭遮住，所以非常昏暗。目前 Halo'把樹枝砍掉，他的家變的很明亮了。	Halo'的家以前被樹蔭遮住，所以非常昏暗。目前 Halo'把樹枝砍掉，他的家變的很明亮了。	ngasal ni Halo' ga, qniway na sasaw qhuniq ru minnkum iyal. misu qani lga, wal nya' ttun qu qara' na qhuniq lru cyux smyax la.	Halo'家在山坡地,樹木被砍掉了,他想去挖水池的洞穴。	cyux mqzyu' qu balay ni Halo' qasa ru nyux kmalun lga. pskluw na btunux i Halo' ru wal ini' s'baqi' nya'.
+183	mzimal pila' qutux tncin tbziran nya' qulih qani.	他賣的魚一斤五十元。	他賣的魚一斤五十元。	mzimal pila' qutux tncin tbziran nya' qulih qani.	這位老人家在這裡賺錢。	cyux mtzywaw qulih na bzyok nya' qani.
+184	cyux s'angun ni mrhuw nya' i Silan.	Silan正被他的長官罵。	Silan正被他的長官罵。	cyux s'angun ni mrhuw nya' i Silan.	Silan在他的頭髮。	cyux mqzyu' qu Silan na qnryang nya'.
+185	mpyakux qu bakit. wal mtukun tanux kwara' qsya' la .	水桶倒下，水都流出來了。	水桶倒下，水都流出來了。	mpyakux qu bakit. wal mtukun tanux kwara' qsya' la .	子很長,所有的樹都枯乾了。	cyux mqwas qu qnzyu' ru wal nyux pqsyaw.
+186	nu'un su' patus qani?	你要槍做什麼？	你要槍做什麼？	nu'un su' patus qani?	你為什麼把這刀掉?	pbzyun su' qu rgyax qasa?
+187	mhuni' sun nha' qu tayal qasa. pingabaq ki! plhnyaw su' nya'.	他們說那人是巫師，要小心，別被她下咒了！	他們說那人是巫師，要小心，別被她下咒了！	mhuni' sun nha' qu tayal qasa. pingabaq ki! plhnyaw su' nya'.	他們在那一間房子裡工作,他們要給你!你去幫他。	cyux mqzyu' qu qasa ga, pqbaqi lga! laxi ktan su'!
+188	Yaway: cyux gmulaq yulaq na qhuniq qu mmlikuy qasa. Pisuy: aw, ggalan nha' rnamuw na tatak bzyok mha ma.	Yaway： 那些壯丁在剝樹皮。Pisuy： 是啊，聽說那些樹皮是他們要蓋豬舍的屋頂用的。	Yaway： 那些壯丁在剝樹皮。Pisuy： 是啊，聽說那些樹皮是他們要蓋豬舍的屋頂用的。	Yaway: cyux gmulaq yulaq na qhuniq qu mmlikuy qasa. Pisuy: aw, ggalan nha' rnamuw na tatak bzyok mha ma.	Yaway:那隻小狗在用樹的木。Pisuy:是啊,他們就是用竹子抓魚。	Yaway: cyux mqzyu' qu qbaqi qasa. Pisuy: iyat, pskyan nha' ga, ini' ktan na 'laqi' nya'.
+189	laxi hmut gmulaq lukus squliq ay. psaniq ru phogun su' nha' la!	不要隨便剝別人的衣服，不僅違反禁忌而且會受罰。	不要隨便剝別人的衣服，不僅違反禁忌而且會受罰。	laxi hmut gmulaq lukus squliq ay. psaniq ru phogun su' nha' la!	不要在衣服上穿衣,你會被他們到!	laxi pqzyu' rgyax qu qba' na squliq. ini' ks'uyut ru nyux mqsyaw lga, si kinmyaway su' la.
+190	nanu' wal su' triqun shera'?	昨天你裝到什麼獵物？	昨天你裝到什麼獵物？	nanu' wal su' triqun shera'?	你昨天在哪裡?	ima' su' pqzyu' qani?
+191	ini' na' kiy. psyuk saku' ke' nha'.	等一下，我先回答他們。	等一下，我先回答他們。	ini' na' kiy. psyuk saku' ke' nha'.	還沒到,我去找他們。	pqzyay ha. pt'uqu' saku' qu tmucing nha'.
+192	ini' qabu' ana cikuy qu thoki' myan wah.	我們的老闆沒有獎賞我們。	我們的老闆沒有獎賞我們。	ini' qabu' ana cikuy qu thoki' myan wah.	我們的鐵桶沒有到。	ini' pzyux qu tmbyan ta' qasa.
+193	ima' qsliq su'?	你中意誰？	你中意誰？	ima' qsliq su'?	你的頭髮是誰的?	ima' su' ktan?
+194	qrqi qinqihan su' squ rangi' su'.	停止你對朋友的仇恨。	停止你對朋友的仇恨。	qrqi qinqihan su' squ rangi' su'.	你的頭要很長。	pqzyu' su' kneril qu 'laqi' su'.
+195	phbyat saku' lupi' suxan.	我明天要拔稗草。	我明天要拔稗草。	phbyat saku' lupi' suxan.	明天我要去洗衣服。	pqzyux saku' suxan.
+196	blaq balay kwara' lelaqi' nya' hiya'. ini' phmut ru mung iyal ke' na yaba' ru yaya' nha'.	他的小孩非常棒，不隨便也聽從父母親的話。	他的小孩非常棒，不隨便也聽從父母親的話。	blaq balay kwara' lelaqi' nya' hiya'. ini' phmut ru mung iyal ke' na yaba' ru yaya' nha'.	她的小孩們都很好看,他們沒有到爸爸和媽媽的嘴。	blaq iyal qu 'laqi' nya'. pskluw cikay baba' ru mama' nya'.
+197	ini' khnuk bizrun qu tennaw wah.	電腦不便宜。	電腦不便宜。	ini' khnuk bizrun qu tennaw wah.	子不會長。	ini' ksngyaq qu pcyaw qasa.
+198	mha ni pgluw ta' ayang phapuy qu hom qasa ga, sokan iyal ru blaq balay nbun!	hom拿來當作湯汁的配料時，湯汁非常香。 很好喝！	hom拿來當作湯汁的配料時，湯汁非常香。 很好喝！	mha ni pgluw ta' ayang phapuy qu hom qasa ga, sokan iyal ru blaq balay nbun!	如果我們把子放在那邊,那麼好看!	pqzyu' qasa ga, ini' kneril qu tngryax na btunux. myan ta' la!
+199	laxi usa' qs_yap!	不要去對面的區域！	不要去對面的區域！	laxi usa' qs_yap!	不要在那裡!	laxi pqzyay qu qsya' na bway!
+200	tquhi cikay mtywaw!	做快一點！	做快一點！	tquhi cikay mtywaw!	請一下!	pqzyay kneril qasa!
+201	ima' qu mqilang ru ini' qnzyat mtywaw ga, musa' m'uzyay krryax.	誰懶惰且不勤勞的，誰就會永遠飢餓。	誰懶惰且不勤勞的，誰就會永遠飢餓。	ima' qu mqilang ru ini' qnzyat mtywaw ga, musa' m'uzyay krryax.	誰不工作,也不會忙碌,常常會。	minqzyu' ru ini' pqsyaw ga, wal m'baqi qu kneril qasa.
+202	sraral sraral hiya' mga, ini' ta' ps_yaqih ki mksingut ma.	聽說我們以前和小黑人和平相處。	聽說我們以前和小黑人和平相處。	sraral sraral hiya' mga, ini' ta' ps_yaqih ki mksingut ma.	以前我們不常見面,但今天我們還是相遇。	minqzyay ta' qu qsya' na btunux myan ru ini' knan.
+203	cyux nya' hiran inu' qu lukus maku'?	他把我的衣服晾在哪裡？	他把我的衣服晾在哪裡？	cyux nya' hiran inu' qu lukus maku'?	他在哪裡穿我的衣服?	wal inu' cyux nya' qu rqyas maku'?
+204	si su' pngaqa' mnaga' lga!	難道你要張著嘴等待！	難道你要張著嘴等待！	si su' pngaqa' mnaga' lga!	你去看別的東西!	swa' su' kngyaq qasa!
+205	cyux mtzywaw inu' yaya' su'?	你爸爸在哪裡工作？	你爸爸在哪裡工作？	cyux mtzywaw inu' yaya' su'?	你媽媽在做什麼?	wal su' qbaq baba' su'?
+206	mintayak kya sa tnobuy ru cyux pqaniq 'laqi' nya' la.	她在廚房煮完東西之後就去餵小孩。	她在廚房煮完東西之後就去餵小孩。	mintayak kya sa tnobuy ru cyux pqaniq 'laqi' nya' la.	狗在山谷中裂開,牠們已經咬小孩了。	cyux nya' ktan qu qbaq na bzyok ru wal nya' pbzyok ana qutux.
+207	bswakay ta' qolu' nya' quw?	我們勒他的脖子好不好？	我們勒他的脖子好不好？	bswakay ta' qolu' nya' quw?	我們要他的子嗎?	ini' ktan ta' qu qnzyu' nya' lga?
+208	pshuq bukil nya' ngta' qasa.	拔那隻雞的羽毛。	拔那隻雞的羽毛。	pshuq bukil nya' ngta' qasa.	把他的手臂伸長。	pqzyux qu 'n'uy ngta' qasa.
+209	wal nha' tban kwara' qulih la.	他們把魚都毒死了。	他們把魚都毒死了。	wal nha' tban kwara' qulih la.	他們已經把所有的子丟掉了。	cyux nha' qu kngil qasa.
+210	Losing ga, cyux maki' te qszyap misu qani la.	Losing呀，他現在住在對面的山谷。	Losing呀，他現在住在對面的山谷。	Losing ga, cyux maki' te qszyap misu qani la.	Losing,你已經在水。	Losing ga, cyux nya' qu rgyax qasa.
+211	bugah huzil su' ru plata' kya!	把你的狗解開來，讓牠去晃一晃！	把你的狗解開來，讓牠去晃一晃！	bugah huzil su' ru plata' kya!	你的錢和錢都拿去!	kneril qu huzil su' ru pqzyux nya' la!
+212	betunux balay i Yungi qani ay.	Yungi真的很漂亮。	Yungi真的很漂亮。	betunux balay i Yungi qani ay.	Yungi很會吹。	talagay balay krryax i Yungi.
+213	cyux muyut puniq i Watan ru ini' kbsyaq lga, wal muyut la.	Watan在滅火，不久火就熄滅了。	Watan在滅火，不久火就熄滅了。	cyux muyut puniq i Watan ru ini' kbsyaq lga, wal muyut la.	Watan在燒火,如果沒有燒到,就被燒了。	cyux mqzyu' qu Watan ru wal ini' qsya' la.
+214	aras bakit usa' psturing qsya'.	帶水桶去集水。	帶水桶去集水。	aras bakit usa' psturing qsya'.	為什麼你要把水乾。	cyux mqzyu' qu qnzyu' qasa.
+215	minaga' saku' isu' shera' .	我昨天一直等你。	我昨天一直等你。	minaga' saku' isu' shera' .	我昨天在找你。	minbzyok saku' su' myan i na' wayal.
+216	cyux nya' psktan mhul qu rruma' ka hluyun nya' musa' ngasal.	他把要拉回家的竹子綁緊。	他把要拉回家的竹子綁緊。	cyux nya' psktan mhul qu rruma' ka hluyun nya' musa' ngasal.	他用子水,因為他會把它丟到家裡。	cyux nya' mqzyu' qu 'laqi' nya'.
+217	mintbzyaq tuqiy qani ru nyux nha' tpangan la.	這條路本來是下陷的，現在已被他們填平了。	這條路本來是下陷的，現在已被他們填平了。	mintbzyaq tuqiy qani ru nyux nha' tpangan la.	這條路是很平坦的,而且他們已經開了。	wal m'uzyup qu rgyax qani ru pqsyaw nya'.
+218	ta kinbsyaq pins'ywan mamu. yasa la!	你們互相罵好久了，夠了！	你們互相罵好久了，夠了！	ta kinbsyaq pins'ywan mamu. yasa la!	你們的子很大,去看看!	pqzyu' simu qu kneril qasa la! teta' su'!
+219	ryax maku' mqyanux qani ga, musa' ya qu ayang singut qu soyan maku' iyal maniq ha.	我這輩子活著，樹豆湯應該是我最喜歡吃的了。	我這輩子活著，樹豆湯應該是我最喜歡吃的了。	ryax maku' mqyanux qani ga, musa' ya qu ayang singut qu soyan maku' iyal maniq ha.	我在這邊水,我吃的飯一定要煮好。	nyux maku' qu qnzywaw maku' ru wal myan. pqsyaw saku' na' minbu' maku'.
+220	ini' khitu' niqun qu qzimux hiya'.	水蜜桃吃起來不硬。	水蜜桃吃起來不硬。	ini' khitu' niqun qu qzimux hiya'.	子沒有被拔。	ini' kngyax qu tmucing qasa.
+221	psgaliq saku' inlaxan nha' galiq ru ggalan maku' ssom na hanray ru thikan.	我要撕他們不要的破布並做成桌椅的抹布。	我要撕他們不要的破布並做成桌椅的抹布。	psgaliq saku' inlaxan nha' galiq ru ggalan maku' ssom na hanray ru thikan.	我用他們的火鍋水,我把他們給吃的飯和食物。	pqzyu' maku' qsya' qu kneril nha' ru wal saku' s'abi' na squliq.
+222	Tali': nanu' pinsnan su' squliq qasa?	Tali'： 你跟那個人要什麼東西？	Tali'： 你跟那個人要什麼東西？	Tali': nanu' pinsnan su' squliq qasa?	Tali':你在找什麼東西?	Tali': nanu' su' pqzyu' qu qasa hiya'?
+223	ini' s'inu' ana ima' i Hakaw hiya'.	Hakaw不會想念任何人。	Hakaw不會想念任何人。	ini' s'inu' ana ima' i Hakaw hiya'.	Hakaw沒有任何事實。	ini' pqzyu' i Hakaw qani.
+224	ini' sami kryax na'!	我們還沒吃中餐！	我們還沒吃中餐！	ini' sami kryax na'!	我們還沒煮飯!	ini' ta' pqbaqi lga!
+225	ini' kmi' roziq nya'.	他的眼睛沒有閉起來。	他的眼睛沒有閉起來。	ini' kmi' roziq nya'.	他的嘴巴不好。	ini' k_yup qbaq nya'.
+226	cingay qsinu nya' maki' sa hlahuy sraral hiya'. yan na mit, bzyok qnhyun, ngarux ru bqanux.	以前在森林裡有很多野獸，例如：羊	以前在森林裡有很多野獸，例如：羊	cingay qsinu nya' maki' sa hlahuy sraral hiya'. yan na mit, bzyok qnhyun, ngarux ru bqanux.	以前他在山坡地過水,因為這樣的水流浪,會讓人食。	cyux mqzyu' qu qnryang na btunux lga, pskyan: tngil.
+227	splawa' maku' ga, cyux si biq turu' ru ini' kita' ana qutux.	我叫他，他卻背對著我看都不看。	我叫他，他卻背對著我看都不看。	splawa' maku' ga, cyux si biq turu' ru ini' kita' ana qutux.	我說過,我們在魚,但沒有人看到。	pqzyu' maku' nya'. cyux nha' k_yan qasa. ini' nyux m'baqi' la.
+228	tnnga' maku' paris ta' ru ungat ana qutux ktan mu.	我觀看我們的敵人，卻看不到任何一個。	我觀看我們的敵人，卻看不到任何一個。	tnnga' maku' paris ta' ru ungat ana qutux ktan mu.	我先來看看你的身材,否則我會你。	nyux saku' kneril qu 'laqi' ta'. ini' saku' ana nanu' la.
+229	aring nya' uyuk qmayat ksepil qani ru ini' kngungu' squliq.	這隻紅嘴黑鵯他從雛鳥就開始養，所以牠不怕人。	這隻紅嘴黑鵯他從雛鳥就開始養，所以牠不怕人。	aring nya' uyuk qmayat ksepil qani ru ini' kngungu' squliq.	他用頭把水管弄掉,所以不容易。	cyux mqzyu' qu qnryang qani ru ini' nya' pqsyaw lga, ini' ga. iyat nha' kneril na squliq.
+230	nyux mxal rey maku'.	我的喉嚨在痛。	我的喉嚨在痛。	nyux mxal rey maku'.	我的子在。	nyux m'uquy qu qnzyok maku'.
+231	yutay su' puniq qasa ki!	別熄滅那堆火！	別熄滅那堆火！	yutay su' puniq qasa ki!	你不要把火燒掉!	pqzyay su' qasa!
+232	swa' nyux mhuqil sqani qu ngyaw qani la. phlagaw ta' na abaw lmiquy. baha blaq wahan matuk na cyaqung la.	這貓怎麼死在這裡呢？我們用芒草的葉子把它趕來，否則會被烏鴉啄食。	這貓怎麼死在這裡呢？我們用芒草的葉子把它趕來，否則會被烏鴉啄食。	swa' nyux mhuqil sqani qu ngyaw qani la. phlagaw ta' na abaw lmiquy. baha blaq wahan matuk na cyaqung la.	這條河水已經下沉了,我們要用子來排水,好像是被野獸沖到。	swa' na' qu kbaqi qani? pqzyu' ta' na blaq na btunux ru wal m'tu' squliq la.
+233	ini' sqla' qcyan na yagih qasa. baq balay kmahang 'laqi' i Ciwas qasa wah.	那嬰孩的的臀部沒有溜皮，Ciwas真的很會照顧小孩。	那嬰孩的的臀部沒有溜皮，Ciwas真的很會照顧小孩。	ini' sqla' qcyan na yagih qasa. baq balay kmahang 'laqi' i Ciwas qasa wah.	那位老婆的子沒有掉下來,Ciwas很會看小孩。	ini' kngyax qu 'laqi' qasa. iyat balay pqzyu' cikay ci Ciwas la.
+234	slahay su' kneril na squliq hiya' lwah! phogun su' nha' la!	不要引誘他人之妻，否則會受罰！	不要引誘他人之妻，否則會受罰！	slahay su' kneril na squliq hiya' lwah! phogun su' nha' la!	你把的肉掉,否則會被他們咬死。	laxi pqzyu' myan qu qani! pt'un su' lga!
+235	musa' simu mluw mita' mrusa' ga, aras qutux yuyut qwo 'san ta' pbciq mha qu Amay.	Amay說：你們要一起去看陷阱，就要帶一瓶酒去敬祖。	Amay說：你們要一起去看陷阱，就要帶一瓶酒去敬祖。	musa' simu mluw mita' mrusa' ga, aras qutux yuyut qwo 'san ta' pbciq mha qu Amay.	你們看到山坡的景象時,Amay說我們要去爬山。	'laqi' simu pqzyu' kneril qasa ga, ini' snonux qu btunux na btunux. mha i Amay.
+236	minita' su' behuy ka baq mtquzit nanak?	你看過龍捲風嗎？	你看過龍捲風嗎？	minita' su' behuy ka baq mtquzit nanak?	你看過那個小孩嗎?	minmaraw su' te kngyal qasa?
+237	ini' tqsuqi' mtzywaw ana nanu' i Yukan.	Yukan做事很勤快。	Yukan做事很勤快。	ini' tqsuqi' mtzywaw ana nanu' i Yukan.	Yukan沒有用任何東西來人。	cyux mqzyu' qu Yukan qasa.
+238	somi cikay kurimo rqyas su'! pkhzyuci' lozi.	你的臉抹一些面霜吧！你的臉將再光滑細嫩。	你的臉抹一些面霜吧！你的臉將再光滑細嫩。	somi cikay kurimo rqyas su'! pkhzyuci' lozi.	請給我一些你的衣服!別再洗。	pskun cikay qba' su'! tmucing ta' qu kngyaq su' la.
+239	ungat sqani i Ciwas. wal rmanga' yutas nya'.	Ciwas不在這裡，她去餵他的公公。	Ciwas不在這裡，她去餵他的公公。	ungat sqani i Ciwas. wal rmanga' yutas nya'.	Ciwas沒有在這裡,他的祖父去過。	ini' cyux i Ciwas. pqzyu' nya' qu akong nya'.
+240	cyux mshuraq qu yaki' Yumus la.	Yumus外婆在咳痰。	Yumus外婆在咳痰。	cyux mshuraq qu yaki' Yumus la.	Yumus奶奶在魚。	cyux m_yan i yaki' Yumus.
+241	pbka' saku' yuyut mha i Sasan.	Sasan說我要打破瓶子。	Sasan說我要打破瓶子。	pbka' saku' yuyut mha i Sasan.	Sasan說我要牛。	pqzyuk maku' qu bzyok qasa ma. mha ni Sasan.
+242	hnwah mamu tatak qasa ga, wal mamu blequn lmamu' kugi' nya'? ini' mamu lmwi lga, pbetaq squliq la.	你們拆過的工寮裡，有把它的鐵釘撿乾淨嗎？如果沒有撿乾淨的話，會刺到人。	你們拆過的工寮裡，有把它的鐵釘撿乾淨嗎？如果沒有撿乾淨的話，會刺到人。	hnwah mamu tatak qasa ga, wal mamu blequn lmamu' kugi' nya'? ini' mamu lmwi lga, pbetaq squliq la.	你們在那條路上,你們到底有把腳踩過嗎?如果沒有打開的話,就會被人搶走。	wal inu' s'uqu' qu qnzywaw mamu lga, ini' ktan ru cyux mqbaqi' nya' ga? iyat ta' na' pqbaqi' la. ana iyat tngaw su' squliq.
+243	ini' saku' kthi' ke' nya'.	我不相信他的話。	我不相信他的話。	ini' saku' kthi' ke' nya'.	我不吃他的肉。	ini' saku' pqzyu' qu qnwan nya'.
+244	ima' cyux hmwaw mlawa' te qszyap qasa?	誰在對面的山吼叫？	誰在對面的山吼叫？	ima' cyux hmwaw mlawa' te qszyap qasa?	那位老人家在看什麼?	ima' cyux mqzyu' qu qnwan na 'laqi'?
+245	ungat semento ta' la. usa' ksyuw cikay Payan ha!	我們沒有水泥了，去跟Payan借一些！	我們沒有水泥了，去跟Payan借一些！	ungat semento ta' la. usa' ksyuw cikay Payan ha!	我們的水泥沒有了,請給Payan一點!	ini' ta' tmun qu qba' na'. pqzyu' cikay i Payyan la!
+246	s'yukun su' knwan gacyo qasa la?	你什麼時候要燒那隻鵝？	你什麼時候要燒那隻鵝？	s'yukun su' knwan gacyo qasa la?	你怎麼把那小牛的頭髮掉了?	nanu' su' ktan qu qbaq qasa?
+247	pklhngan la. hata' ngasal la!	天色即將變暗，回家囉！	天色即將變暗，回家囉！	pklhngan la. hata' ngasal la!	放下來,去家裡!	nyux m'rkyas qu qsya' lga, pqyas!
+248	ps'ung su' ima' ruma' su'?	你要誰砍你的竹子？	你要誰砍你的竹子？	ps'ung su' ima' ruma' su'?	你的子在誰身上?	ima' su' ktan qu bmwung su'?
+249	cyux lmamu' singut i yaki' Cisal.	Cisal奶奶在採收樹豆。	Cisal奶奶在採收樹豆。	cyux lmamu' singut i yaki' Cisal.	Cisal奶奶在雞。	cyux mqwas qu yaki' Cisal hiya'.
+250	kryasaw su' mrhuw qasa lwah!	別在長老面前走過去！	別在長老面前走過去！	kryasaw su' mrhuw qasa lwah!	你把那隻狗的頭髮掉!	psklu' qu rgyax na yutas qasa!
+251	mhtuw qu bzyacing la.	月亮出來了。	月亮出來了。	mhtuw qu bzyacing la.	子已經長起來。	nyux m'rngut qu luna'.
+252	ini' cinmuyaw ana qutux qu yutas ni Yayut qasa.	Yayut的公公很窮。	Yayut的公公很窮。	ini' cinmuyaw ana qutux qu yutas ni Yayut qasa.	Yayut的子沒有任何毛。	cyux mqzyu' qu yutan nya'.
+253	minlawa' su' sa knwan? swa' ini' pongi ana qutux.	你什麼時候喊叫我的？我怎麼沒聽見。	你什麼時候喊叫我的？我怎麼沒聽見。	minlawa' su' sa knwan? swa' ini' pongi ana qutux.	你在那裡睡覺?因為沒有任何東西。	wal su' pqzyu' qu rgyax maku'? nanu' saku' ini' knan.
+254	blaq mita' kya nanak qqnxun su'.	顧好你自己未來的生活。	顧好你自己未來的生活。	blaq mita' kya nanak qqnxun su'.	你的腳很好看。	pqzyu' kmal su' qani.
+255	kahul suru bsilung qu lpyung ta' ru nyux mwah mita' ita' soni' qani.	我們的親友是從海外來的，今天來拜訪我們。	我們的親友是從海外來的，今天來拜訪我們。	kahul suru bsilung qu lpyung ta' ru nyux mwah mita' ita' soni' qani.	我們的小孩們已經了,今天我們看到了。	cyux myan qu rgyax qasa ru pqzyu' na 'laqi'. pqsyaw sami musa' lpi.
+256	pgrgul cikay qba' su' teta' ini' tltu'.	你的手搓一搓，這樣才不會凍起來。	你的手搓一搓，這樣才不會凍起來。	pgrgul cikay qba' su' teta' ini' tltu'.	把你的手握起來,這樣它才不會。	qba' cikay qu ramat su'. ini' k_yup.
+257	msl'uy qu uru hiya'. ini' baqi balay phahu'.	山谷是潮濕的，很難起火。	山谷是潮濕的，很難起火。	msl'uy qu uru hiya'. ini' baqi balay phahu'.	子很,不能吃。	cyux m'uzyok qu rgyax qasa. ini' ksngil na blaq.
+258	prasay misu' cikay pila'. ani saku' maziy cikay bazing.	我託你一點錢，幫我買一些蛋。	我託你一點錢，幫我買一些蛋。	prasay misu' cikay pila'. ani saku' maziy cikay bazing.	我把錢給你,我會幫你拿一下。	pqzyu' maku' cikay qani ru wal misu' ktan qu 'nwan maku'.
+259	yasal la! cyux memaw mxal ktu' mamu msyaq ru pgno' simu na' ga?	好了好了！你們笑到肚子都痛了，你們還要玩嗎？	好了好了！你們笑到肚子都痛了，你們還要玩嗎？	yasal la! cyux memaw mxal ktu' mamu msyaq ru pgno' simu na' ga?	去吧!你們還在水,要吃什麼?	iyal ga! nyux mqzyu' qu bway na qani la. pskluw su' lga?
+260	ima' su' Qawil?	Qawil是你的誰？	Qawil是你的誰？	ima' su' Qawil?	你是誰Qawil?	ima' su' Qawil?
+261	laxi thzyuci' lga! psgaliq lozi yopun su' la.	不要溜滑梯，否則你的褲子又要破了。	不要溜滑梯，否則你的褲子又要破了。	laxi thzyuci' lga! psgaliq lozi yopun su' la.	不要人!你的褲子會變黑了。	laxi pqzyu' qu tmux su'. ptqsyaw su' qasa.
+262	qayat yaya' su'!	養你的媽媽！	養你的媽媽！	qayat yaya' su'!	你的媽媽太大!	pqzyay yaya' su'!
+263	qlupan nha' bzyok qnhyun krryax qu rgyax qani.	他們常常在這座山獵山豬。	他們常常在這座山獵山豬。	qlupan nha' bzyok qnhyun krryax qu rgyax qani.	他們用這些石頭來水。	cyux nha' ga, pqzyuyan nha' qu rgyax qani.
+264	ini' cgatu' qutux tayal qasa wah.	那個人不囉嗦。	那個人不囉嗦。	ini' cgatu' qutux tayal qasa wah.	那個工作不容易做。	ini' kngyax qu 'laqi' qasa.
+265	Seta' ga, cyux nya' sbiru' qu qinnxan nya' nanak sraral.	Seta'在寫她自己的回憶錄。	Seta'在寫她自己的回憶錄。	Seta' ga, cyux nya' sbiru' qu qinnxan nya' nanak sraral.	聽說以前他用水草種植。	cyux mqwasun ni Seta' qu memaw nya'.
+266	wiway rsnat qu rhzyal sqani.	這裡的土地都是岩壁。	這裡的土地都是岩壁。	wiway rsnat qu rhzyal sqani.	這塊地沒有水了。	wal m'uqi qu qnzyat na btunux qani.
+267	ani sgwayaw ina' i 'laqi' su' Torih la.	你可以為你的兒子Torih挑媳婦了。	你可以為你的兒子Torih挑媳婦了。	ani sgwayaw ina' i 'laqi' su' Torih la.	Torih的孩子已經跟媽媽去玩。	pqzyu' su' kneril qu Torih son su'.
+268	ima' kinbalay qnryang qani hiya'? swa' nyux mtuki' la?	這牆是誰做的？怎麼是歪歪的呢？	這牆是誰做的？怎麼是歪歪的呢？	ima' kinbalay qnryang qani hiya'? swa' nyux mtuki' la?	這些子是誰買的?為什麼還在烤呢?	ima' pqzyay qu qani? swa' nya' nyux mqulih lga?
+269	ana ga, pima' cikay ma! ta kinmkosuy su' iyal la.	再怎麼樣也要洗個澡啊，你怎麼這麼蓬頭垢面。	再怎麼樣也要洗個澡啊，你怎麼這麼蓬頭垢面。	ana ga, pima' cikay ma! ta kinmkosuy su' iyal la.	,你來買一下!因為你已經穿過了。	nanu' ktan qu qnzyu' ga, swa' su' pqsya' lga.
+270	laxi tluhing la.	不要生氣了。	不要生氣了。	laxi tluhing la.	不要亂來。	laxi kngil qasa.
+271	hzyuci' balay qu wakit na kikay qani wah.	機器的齒輪非常滑。	機器的齒輪非常滑。	hzyuci' balay qu wakit na kikay qani wah.	這部機器的腳很長。	blaq iyal qu qnzyat na kikay hiya'.
+272	nanu' ssu'ut ta' lpi? sulu' pagay anay ta' ssu'ut ma?	我們要用什麼來堵？我們用稻草堵好嗎？	我們要用什麼來堵？我們用稻草堵好嗎？	nanu' ssu'ut ta' lpi? sulu' pagay anay ta' ssu'ut ma?	我們要用什麼來米?我們要米嗎?	nanu' ta' s'uquy qasa? pqbaqi ta' na bzyok lga?
+273	cyux tmugun i Alang.	Alang在打瞌睡。	Alang在打瞌睡。	cyux tmugun i Alang.	阿蘭在魚。	cyux mqwas i Alang.
+274	nbun maku' na' ru laxi gali!	我還要喝，別拿走！	我還要喝，別拿走！	nbun maku' na' ru laxi gali!	我還沒洗衣服,不要洗!	pqzyu' saku' lga, ini' su' la!
+275	ani pqasuw Tali'!	讓Tali'分配！	讓Tali'分配！	ani pqasuw Tali'!	請給Tali!	pqzyay i Tali' qasa!
+276	pspung sami zywaw ni Batu' ki Behuy kira'.	今天我們要仲裁Batu'和Behuy之間的事情。	今天我們要仲裁Batu'和Behuy之間的事情。	pspung sami zywaw ni Batu' ki Behuy kira'.	我們明天要送Batu'和Behuy的禮物。	pqzyu' myan qu rgyax na Batu' ru Behuy qani.
+277	sr'un maku' na ruma'.	我要用竹子支撐。	我要用竹子支撐。	sr'un maku' na ruma'.	我要地瓜。	s'uyuk maku' na bmwung.
+278	kahul saku' Ulay.	我來自於清泉。	我來自於清泉。	kahul saku' Ulay.	我要去Ulay。	minbwan maku' i Ki'man.
+279	hori saku' ki!	撞我看看！	撞我看看！	hori saku' ki!	請給我一!	pbzyok saku' knan!
+280	cyux mlata' kwara' ngta' su' la.	你的雞到處遊蕩。	你的雞到處遊蕩。	cyux mlata' kwara' ngta' su' la.	你的子都在。	cyux mqzyu' qu 'ayam su'.
+281	"cyux thgalan ni Iran i Maya' ru si kte' cyux mha ""iyaw iyaw"" mngilis i Maya' la."	Iran在逗弄Maya'，結果Maya' iyaw iyaw地哭了起來。	Iran在逗弄Maya'，結果Maya' iyaw iyaw地哭了起來。	"cyux thgalan ni Iran i Maya' ru si kte' cyux mha ""iyaw iyaw"" mngilis i Maya' la."	"Iran在Maya',但Maya'卻一直說""好了。"	cyux mqzyu' qu Iran i Maya'. 'laqi' nya' iyat cikay pqryax i Maya'.
+282	ini' srisi qu inlungan mha qu binkisan ta'.	我們的祖先說不要貪心。	我們的祖先說不要貪心。	ini' srisi qu inlungan mha qu binkisan ta'.	我們的水田沒有過水源。	laxi pqzyu' qu kneril ta'.
+283	p'bi rawin su' Silan la ru qeri' mcisal suxan lozi.	讓你的Silan弟兄睡覺囉，明天再繼續聊。	讓你的Silan弟兄睡覺囉，明天再繼續聊。	p'bi rawin su' Silan la ru qeri' mcisal suxan lozi.	你去Silan那裡,他以後還要回來。	pqzyu' cikay Silan su' ru wal mcisal nya'. pqsyaw ta' suxan.
+284	masuq su' maniq lga, usa' mqwas biru' la.	你吃飽後就去學校囉。	你吃飽後就去學校囉。	masuq su' maniq lga, usa' mqwas biru' la.	如果你吃飯,一定要。	pqzyu' su' ga, pskluxan cikay.
+285	ini' singeray ana qutux kayal nya' te qalang myan hiya'. giway msbehuy ru sinn'iyal mqwalax baqun nya'.	我們部落的天氣不會下毛毛 雨，只有狂風和暴雨。	我們部落的天氣不會下毛毛 雨，只有狂風和暴雨。	ini' singeray ana qutux kayal nya' te qalang myan hiya'. giway msbehuy ru sinn'iyal mqwalax baqun nya'.	我們的部落沒有任何天氣,所以它很熱而且非常熱。	ini' kmal qu rgyax na qalang ta'. cyux mqsyaw ru nyux mqsyaw.
+286	laxi psyaq!	不要笑！	不要笑！	laxi psyaq!	不要洗衣服!	laxi kngil!
+287	Tali' qani ga, cingay 'laqi' nya'.	這位Tali'有很多小孩。	這位Tali'有很多小孩。	Tali' qani ga, cingay 'laqi' nya'.	Tali'是他的小孩。	talagay kmaling na Tali' qani.
+288	te bzinah qani hiya' ga, prayan nha' m_yugi'.	這邊是他們跳舞繞轉的地方。	這邊是他們跳舞繞轉的地方。	te bzinah qani hiya' ga, prayan nha' m_yugi'.	這條路是很寬的,可以走到這裡。	qani ga, pqzyu' nha' qu rgyax nya'.
+289	anay misu sros qwayux ru ani sbhul qeqaya' su'.	我為你削藤條，並拿來綁你的東西。	我為你削藤條，並拿來綁你的東西。	anay misu sros qwayux ru ani sbhul qeqaya' su'.	我把水過,然後你就把它倒下來。	pqzyu' maku' su' ru cyux saku' qani.
+290	wal s_yhuqan ni Pepay qu kisya' qasa la.	Pepay 錯過那班火車。	Pepay 錯過那班火車。	wal s_yhuqan ni Pepay qu kisya' qasa la.	Pepay已經把那隻小牛的了。	cyux mqzyu' qu Pepay qasa.
+291	si saku' laxi kya ha. plnglung saku' aki son nanu' mtzywaw zywaw ni Lesa' qani mha qu qbsuzyan maku' mlikuy.	我的哥哥說：「就讓我一個人靜一靜。我要想想要如何解決Lesa'的事情。」	我的哥哥說：「就讓我一個人靜一靜。我要想想要如何解決Lesa'的事情。」	si saku' laxi kya ha. plnglung saku' aki son nanu' mtzywaw zywaw ni Lesa' qani mha qu qbsuzyan maku' mlikuy.	我沒有在那兒,我會著一下,因為 Lesa'的說法是我的心動。	"""qzyu' saku' lga, pqsyaw maku' ru ini' maku' kneril qu rgyax maku' myan. wal inu' s'uyut misu' na Lesu'."" mha niqun maku' qani."
+292	ay! laxi ptbos kiy!	啊呀！別燙到人！	啊呀！別燙到人！	ay! laxi ptbos kiy!	!不要打人!	ani! laxi pqzyu' qasa!
+293	qhuniq na lliwang qu blaq hbk'an na tqlung hiya'.	lliwang的樹木很適合生木耳。	lliwang的樹木很適合生木耳。	qhuniq na lliwang qu blaq hbk'an na tqlung hiya'.	樹的葉子是山長的。	lliwang ga, pqzyu' qu qba' na btunux.
+294	laxi s'yahaw ga!	不要斜靠著我！	不要斜靠著我！	laxi s'yahaw ga!	不要喝酒!	laxi pqzyu' saku'!
+295	laxi thazi' loman qasa wah! ima' kutay nya'!	不要挑釁那位流氓，他會殺人！	不要挑釁那位流氓，他會殺人！	laxi thazi' loman qasa wah! ima' kutay nya'!	不要把那隻狗關起來,別給牠!	laxi pqzyu' qu qbaqi qasa. ta' mtywaw!
+296	ptru' na btunux qu hbangan na turuy qasa ha. teta' ini' pg_yax musa' te luhi.	用石頭絆住車子的輪胎，如此才不會滑落到懸崖去。	用石頭絆住車子的輪胎，如此才不會滑落到懸崖去。	ptru' na btunux qu hbangan na turuy qasa ha. teta' ini' pg_yax musa' te luhi.	那些車子的輪胎被到水泥,這樣你就不會在那裡掉下來。	pqzyu' qba' na btunux qu ramu' na tkucing ru ini' kmaling lga, ini' s'uyut su' mcisal la.
+297	yama' maku' Iban ga, biniqan saku' nya' sehuy shira' ru nyux muwah tmwang biq ngahi' lozi soni'. ima' hmut tlu' m'yan hiya' qani blaq yama' la!	我的Iban女婿昨天給我芋頭，今天又加送甘薯給我。像他這種好女婿打燈籠都不容易找啊！	我的Iban女婿昨天給我芋頭，今天又加送甘薯給我。像他這種好女婿打燈籠都不容易找啊！	yama' maku' Iban ga, biniqan saku' nya' sehuy shira' ru nyux muwah tmwang biq ngahi' lozi soni'. ima' hmut tlu' m'yan hiya' qani blaq yama' la!	我爸爸Iban,他把我到他的手上,今天就在給我們吃飯。我們要去這邊!	pqzyu' saku' na btunux qu yutan maku' Iban i nya'. pqzyu' saku' na btunux ru wal myan. ini' k'n_yax qani lga, ini' s'uyut kwara' balay ttuqun na squliq cikay!
+298	sphut nya' tbihi' qu btunux qasa.	他用石頭壓白菜。	他用石頭壓白菜。	sphut nya' tbihi' qu btunux qasa.	他用子打開那塊木頭。	cyux nya' qnzyu' qu rqyas na btunux.
+299	cyux nya' sgrgul qba' nya' gi teta' ini' kkabu' mha inlungan nya'.	他一直在搓的手，心想這樣子手才不會麻痺。	他一直在搓的手，心想這樣子手才不會麻痺。	cyux nya' sgrgul qba' nya' gi teta' ini' kkabu' mha inlungan nya'.	他把他的手伸直來,因為他沒有到那個地方。	cyux nya' qnzyu' qu rgyax nya'. pqsyaw ga, ini' kbahuy ru wal m'uqu' la.
+300	zywaw qani ga, sinpngan ni yutas Cgyo la. laxi kal ana nanu' la.	Cgyo爺爺已經決定這件事，你們不要再談了。	Cgyo爺爺已經決定這件事，你們不要再談了。	zywaw qani ga, sinpngan ni yutas Cgyo la. laxi kal ana nanu' la.	這種東西是Cgyo老人家給的,不要再用來買。	cyux mqzyu' qu yaki' Cgyo qani ru ini' su' la. laxi pngryax simu lga.
+301	laxi ani hmut tmuring squ squliq qu patus mamu.	你們的槍口別隨意指向別人。	你們的槍口別隨意指向別人。	laxi ani hmut tmuring squ squliq qu patus mamu.	不要把你們的刀子在別人的手上。	pqzyu' su' kmal qu 'laqi' qasa.
+302	phtgaw su' putaq su' ay! hala saku' magal lbit ptuqan su'.	還不要吐哦！我去拿油紙袋給你吐。	還不要吐哦！我去拿油紙袋給你吐。	phtgaw su' putaq su' ay! hala saku' magal lbit ptuqan su'.	你把你的鍋子倒下來!我會把你的鍋子倒下去。	laxi pqzyu' su'! saku' sbugay maku' ktan.
+303	ungat gasil ta' lga, son ta' nanu' mhul qu qeqaya' ta' la?	沒有繩子我們要怎麼綑綁我們的物品啦？	沒有繩子我們要怎麼綑綁我們的物品啦？	ungat gasil ta' lga, son ta' nanu' mhul qu qeqaya' ta' la?	我們沒有過,我們要用什麼來我們的衣服?	ini' ttu' qu qnzyu' ta' lga, nanu' pqsyaw na' myan la?
+304	laxi saku' cqri ma'!	不要譏笑我！	不要譏笑我！	laxi saku' cqri ma'!	不要叫我!	laxi kngyaq maku' lga!
+305	baq iyal mqwas ru mzyugi' qu Sugi.	Sugi很會唱歌和跳舞。	Sugi很會唱歌和跳舞。	baq iyal mqwas ru mzyugi' qu Sugi.	Sugi很會唱歌和表演。	baq balay ni Sugi qu 'laqi' ru pqzyu'.
+306	pqlwi kwara' syup qani.	讓這些垃圾漂走。	讓這些垃圾漂走。	pqlwi kwara' syup qani.	把這些子都拿去。	pqzyu' kwara' qalang qani.
+307	stu' maku' huzil qu yungay qasa ru memaw wal si spliq mgyay la.	我叫狗追猴子，結果猴子屁滾尿流地逃離了。	我叫狗追猴子，結果猴子屁滾尿流地逃離了。	stu' maku' huzil qu yungay qasa ru memaw wal si spliq mgyay la.	我把那隻小狗的頭蓋起來,後來牠就被獵人抓到。	pqzyux maku' qu huzil qasa ru wal m'uqi' na 'laqi' la.
+308	tuliq! laxi tama'!	站起來！不要坐！	站起來！不要坐！	tuliq! laxi tama'!	走!不要走!	qrkyas su'! laxi s'uzyay!
+309	Rimuy: ta ga ta! wal ms'ulah mnbu qwo lozi i Masing ki Payan. Lesing: yasa nha' krryax.	Rimuy： 看呀！Masing和Payan又結伴去喝酒。Lesing： 他們常常這樣。	Rimuy： 看呀！Masing和Payan又結伴去喝酒。Lesing： 他們常常這樣。	Rimuy: ta ga ta! wal ms'ulah mnbu qwo lozi i Masing ki Payan. Lesing: yasa nha' krryax.	Rimuy: 好吧!Masing和Payan彼此談話了。Lesing: 他們常常這樣。	Rimuy: talagay! cyux mqzyu' i Masing ki Payan. Lesing: pskluw nha'.
+310	qasang hiya' ga, skblaq na gwagiq ramu' ma.	聽說魚腥草可以降火氣。	聽說魚腥草可以降火氣。	qasang hiya' ga, skblaq na gwagiq ramu' ma.	子是用竹子燒的。	minqzyu' qu kngyax na qsya' ga, ini' pbzyok.
+311	ana mha nanu' qu hiya' ga, kana mamu psyaqi ki!	不管他怎麼樣，你們應該不要譏笑他！	不管他怎麼樣，你們應該不要譏笑他！	ana mha nanu' qu hiya' ga, kana mamu psyaqi ki!	什麼事情都做,你們要照顧別人!	ana pqzyay nya' ga, ini' musa' pqsyaq su'!
+312	ini' qbaq ana cikuy i Rimuy qasa.	Rimuy什麼都不會。	Rimuy什麼都不會。	ini' qbaq ana cikuy i Rimuy qasa.	那位Rimuy沒有任何頭。	ini' iyal qu Rimuy qasa.
+313	mngihuy balay ninmung hiya'.	檸檬非常酸。	檸檬非常酸。	mngihuy balay ninmung hiya'.	子很長。	qba' ga, mqzyu' qu kngyax.
+314	laxi slubay kya. phutaw simu la.	不要在那裡懸吊，否則你們會掉下來。	不要在那裡懸吊，否則你們會掉下來。	laxi slubay kya. phutaw simu la.	不要人,你們會被獵到。	laxi pqzyu' qasa. ptquw su' lga!
+315	baq msbah qu abaw na raga' hiya'.	楓樹的葉片是會變化的。	楓樹的葉片是會變化的。	baq msbah qu abaw na raga' hiya'.	子的葉子會好長。	cyux mqzyu' qu blaq na qnryang.
+316	minshlus maku' yopun maku' qani sraral ha. ki'a saku' wal qthuy lga, ru nyux ini' shlus la.	以前我這條褲子鬆垮垮的，我應該是長胖了，而不再是鬆垮垮的了。	以前我這條褲子鬆垮垮的，我應該是長胖了，而不再是鬆垮垮的了。	minshlus maku' yopun maku' qani sraral ha. ki'a saku' wal qthuy lga, ru nyux ini' shlus la.	以前我把我的褲子洗掉了,如果我到它之後,它就不會洗掉。	minqzyu' qu qani ga, pskluw maku' ru ini' saku' lga, ana ta' m'baqi' la. iyat nha' minqzyu'.
+317	mbusuk qutux qutux ryax qu Masing qani. m_yan qani lga, iyat kbsyaq 'osa' nya' la.	Masing每天喝酒，如果他持續喝酒，不久他會即將離去。	Masing每天喝酒，如果他持續喝酒，不久他會即將離去。	mbusuk qutux qutux ryax qu Masing qani. m_yan qani lga, iyat kbsyaq 'osa' nya' la.	Masing在這邊打,如果他這樣做,他的命運不會好過。	cyux mqzyay qu Masing qasa. ana pqsya' nya' ru wal ini' kneril nya'. iyat nya' laqi' lga, si tngyax na' ga.
+318	wal mtakuy qu knalay nya' qnalang qasa. ptxal kbalay lozi.	他做的圍牆倒下來了，再重新做一遍。	他做的圍牆倒下來了，再重新做一遍。	wal mtakuy qu knalay nya' qnalang qasa. ptxal kbalay lozi.	那條河的水溝是平坦的,可以開一間。	minqzyu' qu qnryang nya' ru wal m_yan. pskl'an cikay ha.
+319	ana luqus na bqni' cyux nya' siban. ki'a iyat minaniq ana nanu'.	他連骨髓都吸食，想必是很久沒吃東西了。	他連骨髓都吸食，想必是很久沒吃東西了。	ana luqus na bqni' cyux nya' siban. ki'a iyat minaniq ana nanu'.	牠的子很長,不能吃任何東西。	cyux nya' kneril qu qnzyat nya'. bha ini' pqsya' lga.
+320	ay! ay! ana msknux na kagang ga niqun su' isu' hiya' pi!	啊呀！你連發臭的螃蟹都要吃！	啊呀！你連發臭的螃蟹都要吃！	ay! ay! ana msknux na kagang ga niqun su' isu' hiya' pi!	!!你用什麼東西來打人,會被人搶到。	ani! pqzyu' su' ktan qu 'laqi' qasa la!
+321	hntoq su' yamil su' lga? bha lozi la.	你的鞋子脫下來了沒有？早就脫好了。	你的鞋子脫下來了沒有？早就脫好了。	hntoq su' yamil su' lga? bha lozi la.	你的子很乾嗎?好像已經洗了。	wal su' qbahuy su' lga? ana ta' kneril.
+322	aring sa ini' thi' kneril nya' qu 'Rabay lga wal m'ksasan la.	自從'Rabay的妻子不相信'Rabay後，他就變成了啟明星。	自從'Rabay的妻子不相信'Rabay後，他就變成了啟明星。	aring sa ini' thi' kneril nya' qu 'Rabay lga wal m'ksasan la.	聽說Rabay在這裡不久就去掉了。	wal m'baqi' qu 'laqi' ni Rabay ru ini' pqzyu' hiya'.
+323	cyux stuqi wahan glgan qu sehu'.	工人在修築道路。	工人在修築道路。	cyux stuqi wahan glgan qu sehu'.	子在水。	cyux mqwas qu rgyax qasa.
+324	tlqing! teta' su' ini' 'lwi Bonay tbusuk qasa.	躲起來！那位Bonay酒鬼才不會找到你。	躲起來！那位Bonay酒鬼才不會找到你。	tlqing! teta' su' ini' 'lwi Bonay tbusuk qasa.	!你不能讓Bonay倒在那塊地。	ks'uzyay su'! ini' pqyanux i Bonay qasa.
+325	msyam iyal qu butul qani. pzyux iyal qu qprih nya'.	這隻果貍很肥，牠的脂肪很多。	這隻果貍很肥，牠的脂肪很多。	msyam iyal qu butul qani. pzyux iyal qu qprih nya'.	這頭牛很,牠的腳很硬。	qnzyu' qu 'laqi' qani. pqbahuy nya' la.
+326	cyux m'uraw lukus su' ru yamil su' ru htqi kwara' ru bhqay ta'!	你的衣服和鞋子都髒了，把它們脫下來我們洗一洗！	你的衣服和鞋子都髒了，把它們脫下來我們洗一洗！	cyux m'uraw lukus su' ru yamil su' ru htqi kwara' ru bhqay ta'!	你的衣服和鞋子都在,我們就把它們放在那裡!	cyux mqzyu' qu rgyax ru shyuk su' lga, pqsyaw ta' qani!
+327	musa' simu' tmutu' ruma' ga, pinbaqi qu lluhiy nya' ki.	你們去砍竹子的時候，要當心懸漄。	你們去砍竹子的時候，要當心懸漄。	musa' simu' tmutu' ruma' ga, pinbaqi qu lluhiy nya' ki.	你們要去打火,那麼你們會被人家住。	pqzyu' simu qu bmwyaq qasa.
+328	msyam iyal ngta' qani. thkun ga, memaw pzyux iyal lhyung nya'.	這隻雞很肥，烹煮時，油脂還非常多。	這隻雞很肥，烹煮時，油脂還非常多。	msyam iyal ngta' qani. thkun ga, memaw pzyux iyal lhyung nya'.	這條山是很平滑的,它可以水。	talagay qu 'ayam qani. pqzyu' ga, ana qutux tmux ru ini' kneril.
+329	nyux saku' mtkgil.	我頭暈。	我頭暈。	nyux saku' mtkgil.	我在。	cyux saku' qu kngyax maku'.
+330	hkil qani ga, minhnuk ha ru wal mtklokah lozi.	這年糕本來是軟的，後來又變硬了。	這年糕本來是軟的，後來又變硬了。	hkil qani ga, minhnuk ha ru wal mtklokah lozi.	這隻狗是小牛,現在它們都在爬山。	wal m'uqi qu tmucing qani ru pqzyat na' la.
+331	qeri' maniq! bali su' squliq.	儘量吃！你可不是外人。	儘量吃！你可不是外人。	qeri' maniq! bali su' squliq.	吃飯!你不能喝酒。	pqzyay su' qani! ini' ktan su' la.
+332	nyux msegipu' qu bzyahuq qani. nyux si kuruk kuruk mqwas.	這五色鳥發情了，一直咕嚕咕嚕歌唱。	這五色鳥發情了，一直咕嚕咕嚕歌唱。	nyux msegipu' qu bzyahuq qani. nyux si kuruk kuruk mqwas.	這隻狗在,牠的頭是很硬。	cyux mqzyu' qu qnzyu' qani ru pqzyuq knan.
+333	ita' ga, ggluw ta' na Skaru'.	我們是屬於Skaru'群。	我們是屬於Skaru'群。	ita' ga, ggluw ta' na Skaru'.	我們要被Skaru'引導。	sami ga, pqzyu' ni Skaru'.
+334	"kmal yaya' maku' mha, ""slici kwara' qu lmikuy te sesyaw ngasal su'. ki'an apuk lga, hbk'an nya' kwara' tanux su' la."""	母親說：「你家周圍的'芒草要全部砍掉，一旦芒草花長出，它將會蔓延到整個廣場。」	母親說：「你家周圍的'芒草要全部砍掉，一旦芒草花長出，它將會蔓延到整個廣場。」	"kmal yaya' maku' mha, ""slici kwara' qu lmikuy te sesyaw ngasal su'. ki'an apuk lga, hbk'an nya' kwara' tanux su' la."""	我的媽媽說:『你家的子要得很好,如果到的話,你的子就會硬。』	"""bu' sa bzyok qu 'laqi' na qba' su' la. ana pqsyaw ga, ini' kmaling nya' lga, si tngryax ru wal m'uquy na squliq qasa"". mha ni mama'."
+335	laxi knguqu'! blaq tmnga' kwara'. bha blaq wahan ta' nha' mzyup la.	不要打瞌睡！好好監視，否則他們會潛入我方陣營。	不要打瞌睡！好好監視，否則他們會潛入我方陣營。	laxi knguqu'! blaq tmnga' kwara'. bha blaq wahan ta' nha' mzyup la.	不要!他們都很好看,我們可以去找他們。	laxi pqzyu' lga! tbaqi qasa. bha wal nha' m_yan qu btunux ta'.
+336	blaq spi' maku'.	我的夢是好的。	我的夢是好的。	blaq spi' maku'.	我很喜歡玩。	blaq iyal qu ngta' maku'.
+337	swa' cyux mtciriq qu mtsway' qasa lpi?	那兄弟怎麼在打架了呢？	那兄弟怎麼在打架了呢？	swa' cyux mtciriq qu mtsway' qasa lpi?	那隻狗怎麼在水?	swa' pqzywaw qu yaya' qasa?
+338	nyux si tbuci' qu ngasal myan. ini' cket ana qutux .	我們的家舍都是獨立存在，沒有銜接在一起。	我們的家舍都是獨立存在，沒有銜接在一起。	nyux si tbuci' qu ngasal myan. ini' cket ana qutux .	我們家的房間很乾,沒有水。	nyux mqzyu' qu 'laqi' myan ru ini' pbzyok qani. ini' ktan na' la.
+339	swa' mplhiq iyal ktan rqyas su'? kuna su' nyux mnbu' ga!	你為什麼看起來臉色蒼白？你生病了吧！	你為什麼看起來臉色蒼白？你生病了吧！	swa' mplhiq iyal ktan rqyas su'? kuna su' nyux mnbu' ga!	你的衣服怎麼這麼呢?你會穿什麼!	swa' su' kngyax qani lga? psyaq su' la!
+340	hlngaw cikay qsya' nbun ta'!	把我們要喝的開水溫一下！	把我們要喝的開水溫一下！	hlngaw cikay qsya' nbun ta'!	請把我們的水一下!	pqzyu' cikay qnzyux ta' lga!
+341	yaqih balay Piku' qasa ga qnlu' nya' zik ngasal kwara' lelaqi' nya' ga.	Piku'實在很差勁，她把她所有的小孩關在屋子裡。	Piku'實在很差勁，她把她所有的小孩關在屋子裡。	yaqih balay Piku' qasa ga qnlu' nya' zik ngasal kwara' lelaqi' nya' ga.	Piku'的女兒在她所有小孩家裡睡覺。	pqzyu' iyal qu Piku'. cyux nya' kbaziy na 'laqi' nya' la.
+342	cyux mpphut hmyapas qu lelaqi' qasa ru hala mptucing balay lwah?	小孩子們在玩互相壓制的遊戲，不會真的打起來吧？	小孩子們在玩互相壓制的遊戲，不會真的打起來吧？	cyux mpphut hmyapas qu lelaqi' qasa ru hala mptucing balay lwah?	那小孩在水,然後又去水了嗎?	cyux mqzyu' qu 'laqi' qasa ru pbzyok na squliq. ini' ga, si kneril lga?
+343	pniqi cikay llpyung su'!	給你的親友們吃飯！	給你的親友們吃飯！	pniqi cikay llpyung su'!	把你的子擦一洗!	pqba' cikay qalang su'!
+344	cyux pqaniq 'laqi' nya' i Ciwas.	Ciwas在餵她的小孩。	Ciwas在餵她的小孩。	cyux pqaniq 'laqi' nya' i Ciwas.	Ciwas在幫他的小孩。	cyux mqwas qu Ciwas na 'laqi' nya'.
+345	bsyaq innbu' nya' yaya' maku' la ru nyux ini' kblaq na'. ppaqut maku' sinsi pbetaq qu nbu' nya' qani.	我的媽媽久病纏身，到現在還沒好，我要詢問醫師病情。	我的媽媽久病纏身，到現在還沒好，我要詢問醫師病情。	bsyaq innbu' nya' yaya' maku' la ru nyux ini' kblaq na'. ppaqut maku' sinsi pbetaq qu nbu' nya' qani.	我媽媽的子已經很大,還沒好開。我老師把他的子給了。	minqzyay qu yaya' maku' ru ini' kneril nya'. ini' balay la. pskunux saku' na bzyok qasa.
+346	bnkis sraral hiya' ga , mutu mksragi'.	以前的祖先們，會穿戴護腳布。	以前的祖先們，會穿戴護腳布。	bnkis sraral hiya' ga , mutu mksragi'.	以前的老人家,常常會。	cyux mqzyu' qu 'laqi' qasa.
+347	msyam iyal butul qani.	這隻果狸很肥。	這隻果狸很肥。	msyam iyal butul qani.	這塊木頭很粗。	qnzyu' qu 'laqi' qani.
+348	Rimuy ga, pinqiring myan la.	Rimuy是我們嫁出去的女兒。	Rimuy是我們嫁出去的女兒。	Rimuy ga, pinqiring myan la.	Rimuy是我們的領袖。	Rimuy ga, kneril ta' qu 'laqi'.
+349	m_yan na cyux mngilis qu qwas na pupuk qasa.	貓頭鷹的叫聲像似哭泣一般。	貓頭鷹的叫聲像似哭泣一般。	m_yan na cyux mngilis qu qwas na pupuk qasa.	那隻狗的頭髮被別人住。	minqri'ay qu kneril na qnzyu'.
+350	shtuy su' qu bnkis nha' aki mwah smze' qasa ga?	你要拒絕他們的耆老來說媒嗎？	你要拒絕他們的耆老來說媒嗎？	shtuy su' qu bnkis nha' aki mwah smze' qasa ga?	你把他們的老人家的子放在那裡嗎?	pqzyu' su' tmucing qu binkisan na qasa ga?
+351	hzi'an nya' qsya' qu tunux maku' ru mtluhing saku' la.	他在我頭上倒水，我非常生氣。	他在我頭上倒水，我非常生氣。	hzi'an nya' qsya' qu tunux maku' ru mtluhing saku' la.	他把我的子弄乾,我已經洗完。	cyux nya' qnzyu' maku' qu qba' na qani. pqbbuq saku'.
+352	gopaw ta' qutux kopu' qani ha.	我們來乾一杯。	我們來乾一杯。	gopaw ta' qutux kopu' qani ha.	我們來把這刀子拔掉。	pqzyay ta' qasa.
+353	cyux sm'su' ruma' boyaw kacing i Trasi'.	Trasi'在豎牛竿。	Trasi'在豎牛竿。	cyux sm'su' ruma' boyaw kacing i Trasi'.	Trasi'在草的樹枝。	cyux mqzyu' i Trasi'.
+354	cingay hbuh hi' nya' qu tmayan hiya'. hbuh nya' qasa mga, skkwi' na hi' ta' ma.	蛾身上有許多粉粉的東西，那些粉粉的東西會讓我們的身體癢癢的。	蛾身上有許多粉粉的東西，那些粉粉的東西會讓我們的身體癢癢的。	cingay hbuh hi' nya' qu tmayan hiya'. hbuh nya' qasa mga, skkwi' na hi' ta' ma.	他把那些人留下來,他把他們留下來,我們就去找他。	cyux mqzyu' qu kneril na qba' ru pqsya' ta' la.
+355	ini' skongat na' bnkis myan.	我們的耆老還健在。	我們的耆老還健在。	ini' skongat na' bnkis myan.	我們的老人家還沒洗衣服。	cyux mqzyu' qu tmucing ta'.
+356	aras ruku'! kana su' khuziq.	帶雨傘去，你就不會淋雨。	帶雨傘去，你就不會淋雨。	aras ruku'! kana su' khuziq.	!你會吃掉。	ani pqzyu' cikay qu qnryang su' la. ini' k_yan su' lpi.
+357	tringan su' na qba' qu ubu' na qbhniq lga, ini' nya' wahi m'abi' la.	你用手摸了鳥的巢，牠就不再去睡了。	你用手摸了鳥的巢，牠就不再去睡了。	tringan su' na qba' qu ubu' na qbhniq lga, ini' nya' wahi m'abi' la.	如果你用手把子的毛,它就不會睡覺。	nyux su' ktan qu 'nzyu' na ngta' qani ru ini' nya' la.
+358	ptbosi saku' ga! kte ini' misu' ptbosi uzi ki!	你燙我啊！看我也會不會燙你！	你燙我啊！看我也會不會燙你！	ptbosi saku' ga! kte ini' misu' ptbosi uzi ki!	請給我!否則我會不會把你給!	pqzyu' su'! ana saku' ini' kba' su' la!
+359	ini' su' piray basu' lga?	你沒有開公車了是嗎？	你沒有開公車了是嗎？	ini' su' piray basu' lga?	你沒有買你的東西嗎?	ini' su' tbaziy qasa ga?
+360	kinraw maku' yutas hmakut balung shera'.	昨天我幫爺爺搬木頭。	昨天我幫爺爺搬木頭。	kinraw maku' yutas hmakut balung shera'.	我昨天去山上偷竹子。	minbkaw saku' yutas maku' i yaya' suxan.
+361	laxi si' ngasal qu mquzyaw na rhzyal hiya' !	下坡地不要蓋房子！	下坡地不要蓋房子！	laxi si' ngasal qu mquzyaw na rhzyal hiya' !	不要把天上的星空放在家裡!	laxi pbzyok qasa!
+362	krahu' balay pitung kinbalay nya'.	他做的水池真大。	他做的水池真大。	krahu' balay pitung kinbalay nya'.	他很會吹牛。	talagay kneril nya' qu tngyaq qasa.
+363	mtkari' lozi lga, si phgi kakay nya' la!	如果他再流浪的話，就打斷他的腳！	如果他再流浪的話，就打斷他的腳！	mtkari' lozi lga, si phgi kakay nya' la!	一下,他的腳就洗了!	ana pqzyay nya' ga, pbtuw kakay nya'!
+364	cinbusan su' bwax na qerang qani la? aw la, cinbusan maku' la.	你篩過這些紅豆了嗎？是的，我篩過了。	你篩過這些紅豆了嗎？是的，我篩過了。	cinbusan su' bwax na qerang qani la? aw la, cinbusan maku' la.	你已經把石頭的木頭切成兩塊了嗎?是的,我已經做好了。	wal su' pqzyu' qani? iyat maku' pqzyu'.
+365	minxal saku' mita' bway na tlwi' m_yan kmamay kinqruzyux ru qthuy.	我第一次看到桑椹的果實像毛毛蟲一樣又長又粗。	我第一次看到桑椹的果實像毛毛蟲一樣又長又粗。	minxal saku' mita' bway na tlwi' m_yan kmamay kinqruzyux ru qthuy.	我常常看到我們家的小牛和小豬的。	cyux mqzyu' maku' qu qnryang na btunux ru pbtux. wal iyal ga, kngyax la.
+366	usa' lama' r'ra' qasa isu' hiya' ha!	你先去那裡的瞭望台！	你先去那裡的瞭望台！	usa' lama' r'ra' qasa isu' hiya' ha!	請把你的子放在那邊!	pskun su' qu qsya' na 'laqi'!
+367	blaq smaqis yubing yopun su'. phutaw su' pila' sni' su' yubing la.	把你褲子的口袋逢好，要不然你會掉錢。	把你褲子的口袋逢好，要不然你會掉錢。	blaq smaqis yubing yopun su'. phutaw su' pila' sni' su' yubing la.	好好把你的褲子脫光,你會拿錢來買。	pqzyu' cikay bway na 'laqi' su'. bha ta' ttuqun su' qani.
+368	ini' bu' patus qani wah.	這把槍不準。	這把槍不準。	ini' bu' patus qani wah.	我沒有在這邊打線。	ini' kngyax qu qnzyat qani.
+369	ssyuk cikay ramat qasa ha. ptkalux kya la.	把菜翻一翻，否則會燒焦。	把菜翻一翻，否則會燒焦。	ssyuk cikay ramat qasa ha. ptkalux kya la.	把那菜一點煮,否則會腐爛。	pqzyu' cikay qu kneril qasa ru ini' suxan la.
+370	pnuhi' na yutas myan qu tqilung qani.	這棵松樹是我們祖父種植的。	這棵松樹是我們祖父種植的。	pnuhi' na yutas myan qu tqilung qani.	我們的祖父用這條路引導我們。	qnzyu' na yutas ta' qu kneril qani.
+371	ikay galiq qasa ha! ssom maku' hanray.	把那塊布遞過來！我要擦桌子用的。	把那塊布遞過來！我要擦桌子用的。	ikay galiq qasa ha! ssom maku' hanray.	請把那個燈看一下!我會給你。	pskay su' qasa! pskay saku' qu tmucing.
+372	qthuy iyal qihuy na kacing qani.	這隻牛的牛角很粗。	這隻牛的牛角很粗。	qthuy iyal qihuy na kacing qani.	這條牛的頭很長。	qnzyu' qu rgyax na bzyok qani.
+373	phuqil hazi' na innbu' nya' i Suyan ma wah.	聽說Suyan將會因病而死。	聽說Suyan將會因病而死。	phuqil hazi' na innbu' nya' i Suyan ma wah.	Suyan的子很長。	minqwas ni Suyan qu kneril nya' la.
+374	tgayaw cikay ha.	躺下來休息一下。	躺下來休息一下。	tgayaw cikay ha.	請給他一點。	qnzyay ktan ru pqsya' cikay.
+375	laxi kte nyux rroq qu Bonay qani. pkgwagiq nanak babaw nya'.	你不看Bonay現在很矮，他以後還會長高。	你不看Bonay現在很矮，他以後還會長高。	laxi kte nyux rroq qu Bonay qani. pkgwagiq nanak babaw nya'.	Bonay不要在這裡爬,他會把他的腳踩到山坡。	ini' su' kngyax i Bonay qani. pqzyu' nya' la.
+376	laxi twangi cimu' la. mosa' qmtux iyal l'ay.	不要再加鹽，會太鹹了。	不要再加鹽，會太鹹了。	laxi twangi cimu' la. mosa' qmtux iyal l'ay.	不要把子放在床上,否則會被到。	laxi pqzyu' kneril qasa. swa' suqi lga!
+377	mintpakuy qu g'nux nya' ru wal nya' qapun la.	他的牙齒暴牙，而且已被他拔掉。	他的牙齒暴牙，而且已被他拔掉。	mintpakuy qu g'nux nya' ru wal nya' qapun la.	他的頭髮了,他就洗衣服了。	cyux m'uzyup qu qwaquy nya'. pqryax nya' la.
+378	hgtay ta' cikay pinanga' su' ma? nway qeri'. bali twahiq qu ppngan ta'.	你揹的東西減少一點好嗎？沒有關係，我們又不是要揹很遠。	你揹的東西減少一點好嗎？沒有關係，我們又不是要揹很遠。	hgtay ta' cikay pinanga' su' ma? nway qeri'. bali twahiq qu ppngan ta'.	我們可以買一些你的東西嗎?沒有,我們要的很小。	minqzyu' cikay qu qnzyuan su' lga? iyat ga, ini' ta' pqzyuan myan.
+379	nyux ini' thuyay qu kakay maku' ru ppanga' saku' na 'laqi' maku' mlikuy musa'.	我的腳沒力氣走路，我的兒子將會背我去。	我的腳沒力氣走路，我的兒子將會背我去。	nyux ini' thuyay qu kakay maku' ru ppanga' saku' na 'laqi' maku' mlikuy musa'.	我的腳一直不動,我小孩叫我去看他。	ini' saku' rqyas qu rgyax maku'. pbzyok saku' ga, 'laqi' maku' la.
+380	cyux tkran na qsya' qu skzyon qasa.	水缸裝著水。	水缸裝著水。	cyux tkran na qsya' qu skzyon qasa.	那隻狗在水中游蕩。	cyux mqwas qu qnzyu' na btunux.
+381	Rimuy: gyahun su' na' qutux yuyut qani ga? Sanay: yasa la. yasa balay tnaq maku' la.	Rimuy： 這一瓶還要開嗎？Sanay： 夠了，我這樣夠了。	Rimuy： 這一瓶還要開嗎？Sanay： 夠了，我這樣夠了。	Rimuy: gyahun su' na' qutux yuyut qani ga? Sanay: yasa la. yasa balay tnaq maku' la.	Rimuy: 你還要這隻小牛嗎?Sanay: 是的,我已經買了。	Rimuy: wal su' ktan qu qnzyu' qani? Sanay: iyat ga, ini' maku' lga.
+382	ini' k_yuhum i Ciwas hiya'.	Ciwas不兇。	Ciwas不兇。	ini' k_yuhum i Ciwas hiya'.	Ciwas不發。	ini' kngyaq i Ciwas.
+383	nyux in_gyut yaqih qu babaw cinbwanan qani la'.	這個世界上越來越糟糕。	這個世界上越來越糟糕。	nyux in_gyut yaqih qu babaw cinbwanan qani la'.	這隻狗的頭髮已經硬了。	minqzyay qu kneril qani.
+384	msknux sokan qu qsinu lga, mwah tpaq kya qu yangaw la.	動物發臭時，蒼蠅就會來附著。	動物發臭時，蒼蠅就會來附著。	msknux sokan qu qsinu lga, mwah tpaq kya qu yangaw la.	子一點一點的長起來,就好像是山坡地。	ana m'uzyay qu 'laqi' ga, pqsyaw na qnryang la.
+385	cbeng qba' mamu ru laxi psazyu' la!	你們握手和好，不要吵架！	你們握手和好，不要吵架！	cbeng qba' mamu ru laxi psazyu' la!	你們的手緊握,不要著!	qba' simu qu rgyax lga, laxi pqsyaw!
+386	lnggaw myan kwara' bnaziy su' ma'?	我們燉你買的東西好嗎？	我們燉你買的東西好嗎？	lnggaw myan kwara' bnaziy su' ma'?	你的子會變硬嗎?	pqzyay ta' qsya' qu rimu' su'?
+387	guqi' qu rhzyal qasa. cyux si ps'ni na bbqzi'.	那是荒廢地，都佈滿荊棘。	那是荒廢地，都佈滿荊棘。	guqi' qu rhzyal qasa. cyux si ps'ni na bbqzi'.	那條路是很平坦的,在這裡一邊一邊的山坡地。	qasa ga, pqzyu' qu 'laqi'. kneril na btunux.
+388	pskluw sami bhray na sakuro suxan.	明天我們要拉流籠線。	明天我們要拉流籠線。	pskluw sami bhray na sakuro suxan.	我們明天要去竹子的樹枝。	pqzyux ta' suxan qani.
+389	minp'abi' saku' mlikuy maku' ka tbusuk qasa ga. smggit iyal wah!	我給我那個酒鬼老公睡覺，真折磨人！	我給我那個酒鬼老公睡覺，真折磨人！	minp'abi' saku' mlikuy maku' ka tbusuk qasa ga. smggit iyal wah!	我把我的手放在那張紙上,好像是的。	nyux maku' qu ttucing qasa. pqzyu' su'!
+390	minqhut iyal qu tuqi qani ru wal glabang cikay la.	這條路本來是很窄的，現在寬多了。	這條路本來是很窄的，現在寬多了。	minqhut iyal qu tuqi qani ru wal glabang cikay la.	這條路是很平坦的,一點一點就變成平原。	minqzyu' qu rgyax qani ru wal ini' myan. ana ga, pqsyaw la.
+391	yaqih pinqmahan myan kawas qani.	我們今年的收成不好。	我們今年的收成不好。	yaqih pinqmahan myan kawas qani.	我們的水田沒有很好。	ini' kmal qu ramat ta' qani.
+392	mplqwi' toyax skutaw nya' qu ngarux hiya'.	狗熊胸前的標誌是白色的。	狗熊胸前的標誌是白色的。	mplqwi' toyax skutaw nya' qu ngarux hiya'.	子在那邊打破他的腳。	cyux mqzyu' qu 'laqi' na huzil qasa.
+393	"""mhway su' ga, laxi sami biqi bngut."" mha tegalu' yaya' maku'."	我的媽媽祈禱說：「感謝您，不要讓我們得病。」	我的媽媽祈禱說：「感謝您，不要讓我們得病。」	"""mhway su' ga, laxi sami biqi bngut."" mha tegalu' yaya' maku'."	我媽媽說:『你不要吃飯,我們就不吃東西。』	"phung myan qu yaya' maku' mha, "" pqzyay su'. laxi ktan ta' lga. """
+394	masuq saku' phapuy la. yuti gasu' nya' la!	我煮好了，把瓦斯關掉吧！	我煮好了，把瓦斯關掉吧！	masuq saku' phapuy la. yuti gasu' nya' la!	我已經了豬,他要去吃雞!	nyux maku' ktan qu qasa ga, si pqwas!
+395	laxi hmut mihiy squliq ki! phugaw su' nha'.	不要隨便打人，免得被罰。	不要隨便打人，免得被罰。	laxi hmut mihiy squliq ki! phugaw su' nha'.	不要在這裡玩!你會被他們欺負。	laxi pbzyok qasa ga, pqsyaw su' lga.
+396	wal inu' yaba' su'? wal sm'ung ruma'.	你爸爸去哪裡？他去砍竹子。	你爸爸去哪裡？他去砍竹子。	wal inu' yaba' su'? wal sm'ung ruma'.	你的爸爸去哪裡?去田裡。	wal inu' yaba' su'? pqzyay nya' 'bahuw.
+397	bun na btunux qu tari' ni Yukan ru wal si kusa waxwax mtkara' i Yukan la.	Yukan的膝蓋被石頭射中，他應聲倒了下來。	Yukan的膝蓋被石頭射中，他應聲倒了下來。	bun na btunux qu tari' ni Yukan ru wal si kusa waxwax mtkara' i Yukan la.	Yukan的舞蹈很棒,Yukan已經走完。	cyux qnzyu' qu kneril na Yukan ru pqyan nya'.
+398	kte ki kte! pqemul squliq lozi i Iban qani.	看呀看！Iban又要強行餵人。	看呀看！Iban又要強行餵人。	kte ki kte! pqemul squliq lozi i Iban qani.	! Iban這個人很會講話。	talagay! pqzyu' iyal qu Iban qasa.
+399	cyux inu' mama' su'?	你叔叔在哪裡？	你叔叔在哪裡？	cyux inu' mama' su'?	你的爸爸在哪裡?	wal su' iyal su'?
+400	Atung ga, mthhuway iyal. blaq balay inlungan nya'.	Atung 非常溫和，心腸善良。	Atung 非常溫和，心腸善良。	Atung ga, mthhuway iyal. blaq balay inlungan nya'.	阿圖很好看,他很會講。	talagay mqzyu' i Atung. blaq iyal qu 'laqi' nya'.
+401	laxi twangi pnbu qwo qu yama' Sasan hiya' la. pkbusuk l'ay.	不要再給Sasan女婿喝酒，他會醉喔。	不要再給Sasan女婿喝酒，他會醉喔。	laxi twangi pnbu qwo qu yama' Sasan hiya' la. pkbusuk l'ay.	Sasan的媽媽已經過了,不要再太久。	laxi pqzyay kneril i Sasan qasa. pqba' nya'.
+402	blaq balay sokan phpah qaniy .	這個花很香。	這個花很香。	blaq balay sokan phpah qaniy .	這條竹子很好看。	minzyay qu kneril qani.
+403	minshtoq yopun nya' ru wal nya' blequn mkyopun lozi.	他穿的褲子掉了下來，但他又把它穿起來。	他穿的褲子掉了下來，但他又把它穿起來。	minshtoq yopun nya' ru wal nya' blequn mkyopun lozi.	他的子被打破了,他就一路走去把它撕掉。	nyux mqzyu' qu pinpuyan nya' ru pbkangi' nya'.
+404	ta qu hnuq maku' singut qasa ga, 'se tbaziy.	我摘取那些樹豆拿去賣。	我摘取那些樹豆拿去賣。	ta qu hnuq maku' singut qasa ga, 'se tbaziy.	因為我把那隻豬肉吃了,所以沒有人看。	minqzyu' maku' qasa ru pbzyus qu tmucing.
+405	uxul qrqan saku' ni Pasang ru ini' saku' ktakuy.	還好Pasang擋住我，我才沒有跌倒。	還好Pasang擋住我，我才沒有跌倒。	uxul qrqan saku' ni Pasang ru ini' saku' ktakuy.	Pasang常常叫我,但我沒有聽。	wal inu' kmal qu Pasang ru ini' maku' iyal mqwalax.
+406	nisan tehuk ngasal qu ina' nha'. sbaziy nha' hi' na bzyok ru stahuk nha'. teta' haylaw lokah ma.	他們的媳婦剛剛才到家，他們買了一些瘦豬肉煮給她，好讓她身體快速復元。	他們的媳婦剛剛才到家，他們買了一些瘦豬肉煮給她，好讓她身體快速復元。	nisan tehuk ngasal qu ina' nha'. sbaziy nha' hi' na bzyok ru stahuk nha'. teta' haylaw lokah ma.	他們的媽媽在家裡水,他們用大雨來灌水並放水,這樣可以水。	nyux mqzyu' qu 'laqi' nya' ru pbyan na' qani. cyux nha' kneril qu bway nya' ru wal mtzywaw nya'. bha zywaw ga, ini' su' s'uyut lga.
+407	musa' saku' mbaziy qutux yuyut qsya' ka blaq balay sokan ru sqamas maku' rqyas na kneril maku' mha qu mlikuy qasa.	那位男士說我要去買一瓶香水並擦在我太太的臉上。	那位男士說我要去買一瓶香水並擦在我太太的臉上。	musa' saku' mbaziy qutux yuyut qsya' ka blaq balay sokan ru sqamas maku' rqyas na kneril maku' mha qu mlikuy qasa.	我去買一些小米,因為我覺得那隻小米會使我的眼睛。	pqzyay maku' cikay bzyok qu kngyax ru cyux myan qasa squliq maku' na kacing maku'.
+408	brway maku' sin'lwan su' soni' ha.	我把你今天所賒的帳記下來。	我把你今天所賒的帳記下來。	brway maku' sin'lwan su' soni' ha.	今天我將你的子給我。	pqzyu' maku' qnwan su' myan qu ramat su'.
+409	tnu' su' Yupas mha usa' mbazi lga?	你叫Yupas去買了沒有？	你叫Yupas去買了沒有？	tnu' su' Yupas mha usa' mbazi lga?	你去 Yupas那裡買東西嗎?	pqzyay su' Yupas qasa ga?
+410	ana mkilux iyal qu kayal nya' ga, ini' s_yabux ana cikuy qu hi' nya'. blaq ga, m_yan qani?	就算天氣很熱，他也不會流汗。這樣的狀況，正常嗎？	就算天氣很熱，他也不會流汗。這樣的狀況，正常嗎？	ana mkilux iyal qu kayal nya' ga, ini' s_yabux ana cikuy qu hi' nya'. blaq ga, m_yan qani?	雖然天氣很冷,但它不會有雨,好嗎?	ana iyal qu qba' nya' la ru ini' kngyax lga. pqsya' ga, wal su' na' myan?
+411	k_yamil yamil maku'!	穿我的鞋子！	穿我的鞋子！	k_yamil yamil maku'!	把我的子給!	cbzyok cikay qani!
+412	ani sbzih yaya' su' qu pila' qani!	這些錢還給你的媽媽。	這些錢還給你的媽媽。	ani sbzih yaya' su' qu pila' qani!	把這些錢給你的媽媽!	cyux mqwas qu pila' qani ru yaya' su'.
+413	si laxi kya i Seta' qasa. pkhnuk nanak inlungan nya'.	不要理Seta'，她終究會心軟。	不要理Seta'，她終究會心軟。	si laxi kya i Seta' qasa. pkhnuk nanak inlungan nya'.	不要去那邊,Seta'會把他的眼睛開。	laxi pqzyay i Seta' ga, ini' kneril nya'.
+414	zihung balay inlungan ni Sanay hiya' wah.	Sanay的心思高深莫測。	Sanay的心思高深莫測。	zihung balay inlungan ni Sanay hiya' wah.	Sanay很會講故事。	ini' kngyax na qsya' i Sanay.
+415	sraral ga, pmhyan ta' pagay qu slaq ta'. misu qani lga, pmhyan ta' rramat ru bebway la.	我們以的田是種稻，我們現在則種蔬菜和水果了。	我們以的田是種稻，我們現在則種蔬菜和水果了。	sraral ga, pmhyan ta' pagay qu slaq ta'. misu qani lga, pmhyan ta' rramat ru bebway la.	以前我們種米,現在我們種菜了。	cyux mqzyu' qu qnryang ta' ru wal myan. pqsya' sami sqani na bzyok la.
+416	qarus cikay qaraw na ruma' qani ha!	把這根竹子的枝葉削除！	把這根竹子的枝葉削除！	qarus cikay qaraw na ruma' qani ha!	把這塊田的樹枝一點一點地磨!	qnzyux qu blaq na bbahu' qani!
+417	laxi spzyang ga isu'!	你不要故意！	你不要故意！	laxi spzyang ga isu'!	你不要人!	laxi pbzyok su'!
+418	ini' pbihiy qu msyanay hiya' ma. psanyaq son nha'.	聽說姊妹夫不能互相打架，否則犯了禁忌。	聽說姊妹夫不能互相打架，否則犯了禁忌。	ini' pbihiy qu msyanay hiya' ma. psanyaq son nha'.	的水沒有乾,他們可以吃。	ini' pqzywaw qu musa' qasa ru wal myan. ana ta' si ksngil la.
+419	hinlyan ni Tayax i Behuy mha hiya' qu wal tmutu' ruma' na rinpang.	Tayax誣賴Behuyi說他砍林班地的竹子。	Tayax誣賴Behuyi說他砍林班地的竹子。	hinlyan ni Tayax i Behuy mha hiya' qu wal tmutu' ruma' na rinpang.	Tayax用子給Behuy,因為他把紅色的花都拿來。	cyux t'uzyuk i Behuyi qu Tayax ru wal nya' pqsyaw na 'bambuy qasa.
+420	pinongan su' qwas nya'?	你聽過他的歌嗎？	你聽過他的歌嗎？	pinongan su' qwas nya'?	你把他的水過嗎?	nyux su' ktan qu singu nya'?
+421	baq iyal tlubuw qu plmukan qani.	這位漢人擅於彈奏。	這位漢人擅於彈奏。	baq iyal tlubuw qu plmukan qani.	這種草很會長毛。	cyux mqzyu' qu knwan qani.
+422	mnahu' ta' puniq lga, maki' nanak qbuli' nya' la.	我們生火的時候，自然會有就灰燼。	我們生火的時候，自然會有就灰燼。	mnahu' ta' puniq lga, maki' nanak qbuli' nya' la.	我們去燒火時,它們的火都了。	ana m'rangiq qu qba' ta'. pbzyok na btunux.
+423	phswa' simu musa'? phkani' sami musa'.	你們要怎麼樣去？我們將走路去。	你們要怎麼樣去？我們將走路去。	phswa' simu musa'? phkani' sami musa'.	你們要去洗衣服嗎?我們要洗衣服。	nanu' simu lga? pqzyay ta' la.
+424	ini' punu' ngta' maku' hiya'.	我的雞沒有得瘟疫。	我的雞沒有得瘟疫。	ini' punu' ngta' maku' hiya'.	我的子沒有破。	ini' kngyax qu 'ayam maku'.
+425	p'alax mqwas biru' kawas 'nyal i Yagu' la.	Yagu' 明年要畢業了。	Yagu' 明年要畢業了。	p'alax mqwas biru' kawas 'nyal i Yagu' la.	Yagu'已經在外面水。	cyux mqzywaw qu Yagu' i kinblayan.
+426	slici cikay suru kint'an ngasal su'.	清除一下你家的後院牆垣。	清除一下你家的後院牆垣。	slici cikay suru kint'an ngasal su'.	把你的家的衣櫃放在一邊。	s'uquy cikay na bzyok qu qasa.
+427	sin_yulaqan ni mqu' qu yulaq qani.	這些皮是蛇褪的皮。	這些皮是蛇褪的皮。	sin_yulaqan ni mqu' qu yulaq qani.	這條河是山上長的。	cyux qani ga, ini' qu kinmquy na 'laqi'.
+428	laxi sqolu' ana nanu' la gi wal su suqun maniq kwara' la.	你不要想吃任何東西，因為你把全部吃完了。	你不要想吃任何東西，因為你把全部吃完了。	laxi sqolu' ana nanu' la gi wal su suqun maniq kwara' la.	不要把任何東西丟掉,因為他們都吃了。	laxi pqzyay su' qasa. wal su' ttuqun kwara' lga, ini' su' ktan.
+429	biqi cikay cinmmyan su' mit i Yukan qasa, tringun na behuy na utux l'ay.	給Yukan一些醃山羊肉，否則會被靈魂的風觸摸。	給Yukan一些醃山羊肉，否則會被靈魂的風觸摸。	biqi cikay cinmmyan su' mit i Yukan qasa, tringun na behuy na utux l'ay.	Yukan在你的眼睛上一下,因為他被別人的鼻子住。	pqzyay cikay qu Yukan qasa ru ini' kmalun na 'laqi'.
+430	nyux mlhngan na' ru swa' su' lxun tmuliq qu squliq hiya' lpi?	現在是夜晚，為什麼要叫人家起床？	現在是夜晚，為什麼要叫人家起床？	nyux mlhngan na' ru swa' su' lxun tmuliq qu squliq hiya' lpi?	你還在,你怎麼把它放在水面上?	nyux iyal qu rgyax qani. swa' su' ktan mqzyu' lga?
+431	smagi na lupi' qu sakaw su'!	用草蓆鋪你的床！	用草蓆鋪你的床！	smagi na lupi' qu sakaw su'!	用子擦你的毛巾!	cyux mqzyu' qu bway su'!
+432	phgaw ta' ma?	我們把它折斷好嗎？	我們把它折斷好嗎？	phgaw ta' ma?	我們去洗嗎?	pqzyu' ta' lga?
+433	wal sqitan ni Maya' kwara' qu galiq qasa la.	Maya'把所有的布條剪光光了。	Maya'把所有的布條剪光光了。	wal sqitan ni Maya' kwara' qu galiq qasa la.	Maya'把所有的火鍋都弄乾了。	cyux pqzyu' qu maya' na qnryang kwara'.
+434	agal gasil qasa gi krongun nya' kakay na squliq la.	把那條繩子拿開，否則會鉤到別人的腳。	把那條繩子拿開，否則會鉤到別人的腳。	agal gasil qasa gi krongun nya' kakay na squliq la.	那隻狗的腳很,所以會咬人。	kneril qasa qu tmux qasa. pqzyu' su' na 'laqi' qasa.
+435	plkusani smyax na lukus i Ciwas ga! teta' su' nya' slwan mita'.	為Ciwas穿明亮的衣服！這樣她才會看得見你。	為Ciwas穿明亮的衣服！這樣她才會看得見你。	plkusani smyax na lukus i Ciwas ga! teta' su' nya' slwan mita'.	Ciwas要衣服的衣子,這樣你才能看得見。	pqzyay lukus qani i Ciwas! pt'uquy nya' ktan su' la.
+436	mha ni ini' su' helaw ana nanu' m'abi' su' ga, laxi prapa' m'abi'! bha hmswa' gi yaqih ktan.	如果你睡覺沒蓋任何東西的話，妳就不要仰睡！因為看起來不雅。	如果你睡覺沒蓋任何東西的話，妳就不要仰睡！因為看起來不雅。	mha ni ini' su' helaw ana nanu' m'abi' su' ga, laxi prapa' m'abi'! bha hmswa' gi yaqih ktan.	如果你沒有在夜晚吃任何東西,不要去睡覺!否則會被到。	ini' su' ktan na' qnzyu' lga, laxi ttu' su' ga! pqbaqi' kya.
+437	psturing na' namu sakaw maku' qani quw? laxi balay lwah!	我床上的屋頂還會滴水嗎？真的不要再滴了！	我床上的屋頂還會滴水嗎？真的不要再滴了！	psturing na' namu sakaw maku' qani quw? laxi balay lwah!	你們還在我的腳呢?不要!	cyux mqzyu' qu qnryal na btunux maku' ga? laxi pqzyu' lga!
+438	m_yan cikay bhut qu qlih hiya'. ana ga, mplqwi' bukil ktu' na qlih hiya' ru mhibung bukil ktu' na bhut hiya'.	灰松鼠和松鼠很類似，但是灰松鼠腹部的毛是白色的，而松鼠腹部的毛是黃色的。	灰松鼠和松鼠很類似，但是灰松鼠腹部的毛是白色的，而松鼠腹部的毛是黃色的。	m_yan cikay bhut qu qlih hiya'. ana ga, mplqwi' bukil ktu' na qlih hiya' ru mhibung bukil ktu' na bhut hiya'.	子一點一點的,如果有,會把頭的根拔起來,然後將頭的根拔出來。	cyux mqzyu' qu rgyax ru pbzyuq qasa. ana qutux na bzyok nya' ga, ini' kblaq lga, iyat kwara' na cbahuy hiya'.
+439	ini' tlasuw qu cinbukan nya' hi' su' ga? ini'. bha mha nanu' qu giwan kinatan na qtahi' hiya' la.	你的身體被他打之後沒有淤青吧？ 沒事兒，就如同螞蟻咬的一樣，無關緊要。	你的身體被他打之後沒有淤青吧？ 沒事兒，就如同螞蟻咬的一樣，無關緊要。	ini' tlasuw qu cinbukan nya' hi' su' ga? ini'. bha mha nanu' qu giwan kinatan na qtahi' hiya' la.	你的子沒有破嗎?沒,因為它是被火燒的。	ini' ksngil qu qsya' su' lga, wal inu' sbaq nya' ga? iyat la. mutu pskluw na squliq ru nyux myan. ana nanu' ttu' ha.
+440	posa' zik na tatak nya' qu guru' su' ga ru blaq qmlu' kya! ini' su' bleqi qmlu' lga, plaka' lozi ru ima' musa' kmraw isu' hinkangi lozi la!	把你的鴨子趕到鴨寮裡關好，如果不把它們關好，又飛走，誰還要幫你找回來！	把你的鴨子趕到鴨寮裡關好，如果不把它們關好，又飛走，誰還要幫你找回來！	posa' zik na tatak nya' qu guru' su' ga ru blaq qmlu' kya! ini' su' bleqi qmlu' lga, plaka' lozi ru ima' musa' kmraw isu' hinkangi lozi la!	你的老師很快要去做他的工作,而且非常好!如果你不努力工作,他會來幫忙你,因為他會幫你完成很多事。	pqzyu' cikay su' na 'laqi' qasa ru ini' ga, iyat ta' laxi lga, usa' kneril. ima' s'uyut su' la!
+441	pzitay su' tunux maku' lwah!	別鑽到我的頭！	別鑽到我的頭！	pzitay su' tunux maku' lwah!	你把我的子放在那裡!	ani pqzyu' qu qnwan maku'!
+442	laxi sragi qu rqyas na simu qutux ngasal.	不要毀壞家族聲譽。	不要毀壞家族聲譽。	laxi sragi qu rqyas na simu qutux ngasal.	不要把你們家的菜園給了。	laxi pqzyu' iyal qu 'laqi'.
+443	cyux tmukun thay ayang shira' qu yaya' maku'.	媽媽在倒昨天的剩下的湯。	媽媽在倒昨天的剩下的湯。	cyux tmukun thay ayang shira' qu yaya' maku'.	我的媽媽在飯。	cyux mqwas qu bzyok na yaya' qasa.
+444	ima' iyat minqumah? minqumah myan aring sa sraral iyal na'.	誰沒鋤過草？打從很久以前我們就在鋤草了	誰沒鋤過草？打從很久以前我們就在鋤草了	ima' iyat minqumah? minqumah myan aring sa sraral iyal na'.	誰還沒耕地?以前我們已經耕地。	ima' ini' kneril qasa? nanu' sami sraral qu tmucing lga, iyat ta' la.
+445	laxi pwah kya! prngil lukus su' qu qrgup la.	不要過那裡！否則鬼針草會黏到你的衣服。	不要過那裡！否則鬼針草會黏到你的衣服。	laxi pwah kya! prngil lukus su' qu qrgup la.	不要它!你的衣服會被火燒掉。	laxi pqzyu' qasa! cyux mqsyaw qu kngyax su'.
+446	cyux km_yaya' mita' paris nha' i Kagi' ki Masaw.	Kagi'和Masaw在監視著他們的敵人。	Kagi'和Masaw在監視著他們的敵人。	cyux km_yaya' mita' paris nha' i Kagi' ki Masaw.	Kagi'跟Masaw在看他們的外面。	cyux mqzyu' qu Kagi' ki Masaw ru wal nha' squliq qasa.
+447	ini' qbaq ryax gmno' te tanux qu 'laqi' ru katun na tyaba' balay na tryung. si wawwaw mngilis kwara' nha'..	小孩無憂無慮地在戶外玩耍，被大隻的虎頭蜂螫到，他們就哇哇地哭了起來。	小孩無憂無慮地在戶外玩耍，被大隻的虎頭蜂螫到，他們就哇哇地哭了起來。	ini' qbaq ryax gmno' te tanux qu 'laqi' ru katun na tyaba' balay na tryung. si wawwaw mngilis kwara' nha'..	小孩們在山坡上,而且他們被大象的獵物所捉到。他們全都很危險。	cyux mqzyu' qu 'laqi' qasa ru pbzyok na bzyok. tbaqaw ga, nyux nha' squliq la.
+448	yaqih pinhknyan nya' i Twaluw qasa.	Twaluw的行為舉止不好。	Twaluw的行為舉止不好。	yaqih pinhknyan nya' i Twaluw qasa.	他很不喜歡Twaluw。	ini' kneril qu rgyax na Twaluw.
+449	pkhway cikay tbaziy kusa lawpan qasa.	老闆賣便宜一點。	老闆賣便宜一點。	pkhway cikay tbaziy kusa lawpan qasa.	請把那條路一點一點的開來。	pqzyu' cikay qu kneril qasa.
+450	mtta' su' gong ka cyux msgagay qasa lga, naga' saku' kya la.	你到達河川分流的地方時，你就在那裡等我。	你到達河川分流的地方時，你就在那裡等我。	mtta' su' gong ka cyux msgagay qasa lga, naga' saku' kya la.	你把那隻狗的頭髮掉,我會咬它。	minqzyay su' qu qnryang na btunux la. nanu' su' myan lga, ini' ktan maku'.
+451	ini' skyut gasil qasa.	那條繩子沒斷。	那條繩子沒斷。	ini' skyut gasil qasa.	那個火沒有吹。	ini' kngyax qu qnzyu' qasa.
+452	cyux hmbku' pinuya' su' qerang?	你種的豆子冒出新芽了嗎？	你種的豆子冒出新芽了嗎？	cyux hmbku' pinuya' su' qerang?	你在那裡用頭?	nyux m'baq qu bzyok su' qasa ga?
+453	laxi puzit ga isu'!	你啊，你不要嚕人！	你啊，你不要嚕人！	laxi puzit ga isu'!	你不要!	isu' ga, laxi pqzyu' su'!
+454	pk_yaya' saku' mita' paris ta' te sqani knan ru 'say km_yaya' te thasa simu hiya'.	我會在這裡監視我們的敵人，而你們過去那裡監視。	我會在這裡監視我們的敵人，而你們過去那裡監視。	pk_yaya' saku' mita' paris ta' te sqani knan ru 'say km_yaya' te thasa simu hiya'.	我去看我們的外面,然后說:你們去那裡。	pqzyu' saku' qu 'laqi' ta' ru ini' maku' qani. pqzyu' mamu sqani lga, nanu' la.
+455	talagay lelaqi'! ana nyux mqwalax nga, qnahun nha' musa' tmola' te tanux. ini' khzyaq ga?	這些小孩真是的！雖然下著雨，他們越是喜歡在屋外玩耍，不會冷啊？	這些小孩真是的！雖然下著雨，他們越是喜歡在屋外玩耍，不會冷啊？	talagay lelaqi'! ana nyux mqwalax nga, qnahun nha' musa' tmola' te tanux. ini' khzyaq ga?	!小孩們啊,一點兒動了,他們就把你給倒在地上。不會嗎?	talagay ga, pqzyu' qu 'laqi' qani! ana nanu' balay nya' lga, ini' nha' kneril ru wal myan. iyat suxan?
+456	Acung ga, kucyu na pqwasan biru'.	Acung是校長。	Acung是校長。	Acung ga, kucyu na pqwasan biru'.	Acung是老鼠飼料。	cyux ms'uquy i Acung.
+457	anay misu' squling quw?	我幫你理頭髮好嗎？	我幫你理頭髮好嗎？	anay misu' squling quw?	我會用什麼?	pqzyux maku' ktan su' qasa ga?
+458	knrong nya' na kakay nya' qu qolu' maku'.	他用他的腳鉤住我的脖子。	他用他的腳鉤住我的脖子。	knrong nya' na kakay nya' qu qolu' maku'.	他的腳把我的子扭到。	cyux nya' kngyax qu qnzyu' maku'.
+459	ini' 'say mita' ni Losing qu sehu' nya' ka cyux qmumah slaq. pkqilang kya kwara' nha' la.	Losing沒有去看顧在田裡工作的工人，他們一定會偷懶。	Losing沒有去看顧在田裡工作的工人，他們一定會偷懶。	ini' 'say mita' ni Losing qu sehu' nya' ka cyux qmumah slaq. pkqilang kya kwara' nha' la.	Losing沒有看到他的田地在水,他們都已經被水淹沒了。	Losing ini' kmal qu qba' na syup. pqzyu' nha' la.
+460	sa 'laqi' cikuy saku' hga, pzyux iyal klosan qalang myan ha. misu qani lga, ini' kte iyal klosan nya' la.	在我小的時候，我們的部落蜻蜓還非常多；而現在，蜻蜓已經很少見了。	在我小的時候，我們的部落蜻蜓還非常多；而現在，蜻蜓已經很少見了。	sa 'laqi' cikuy saku' hga, pzyux iyal klosan qalang myan ha. misu qani lga, ini' kte iyal klosan nya' la.	在我的小孩的時候,我們家的老人常常在這裡偷吃東西。我來了,但是他沒有找到任何東西。	cyux mqzyu' qu qnryang ta' ga, iyat maku' ru wal ini' pqsyaw lga. ana nanu' kmalun na' la.
+461	Tali' qasa ga, ini' ksayux ana cikuy!	Tali'那個人不知羞恥！	Tali'那個人不知羞恥！	Tali' qasa ga, ini' ksayux ana cikuy!	Tali'那隻小狗,她不會長大!	Tali' ini' kneril qu qasa!
+462	cyux phaga' ren_ga' i Yubay ki Yukan.	Yubay 跟Yukan在砌磚塊。	Yubay 跟Yukan在砌磚塊。	cyux phaga' ren_ga' i Yubay ki Yukan.	Yubay跟Yukan在聊天。	cyux mqwas qu Yubay ki Yukan.
+463	ana cipuq phpah nya' qu rang hiya' ga, blaq balay sokan wah.	雖然蘭花的花朵很小，但非常香。	雖然蘭花的花朵很小，但非常香。	ana cipuq phpah nya' qu rang hiya' ga, blaq balay sokan wah.	花的果實很好吃。	ana niqun qu kngyax na bzyok qasa ga, ini' balay mqbaqi'.
+464	wal qwaxan ni Lawa' kwara' qu sara' qani la.	Lawa'把所有的盤子洗完了。	Lawa'把所有的盤子洗完了。	wal qwaxan ni Lawa' kwara' qu sara' qani la.	Lawa'把這些山全部砍掉了。	cyux mqwas kwara' qu lawa' qasa.
+465	laxi tahuk yahu!	不要煮野昭和菜！	不要煮野昭和菜！	laxi tahuk yahu!	不要牛!	laxi pqzyay kneril qasa!
+466	mhibung qu bway na pagay lga klhun la.	當稻穀呈黃色時便可收割。	當稻穀呈黃色時便可收割。	mhibung qu bway na pagay lga klhun la.	米的根會長出子。	cyux t'uzyay qu kneril qasa ga, pqsyaw ta' la.
+467	wal su' ktan ssalit sni' maku' sqani? aki maku' ssalit k'man ga!	你有沒有看到我放在這裡的砍草工具？我要砍草用的。	你有沒有看到我放在這裡的砍草工具？我要砍草用的。	wal su' ktan ssalit sni' maku' sqani? aki maku' ssalit k'man ga!	你去哪裡買我的頭?我會買什麼!	ini' su' qu qnzyat maku' qu ramat qani? pqryax saku' lga.
+468	smagaw ta' na abaw ruma' ma' ?	我們用竹葉來鋪好嗎？	我們用竹葉來鋪好嗎？	smagaw ta' na abaw ruma' ma' ?	我們用竹子水好嗎?	qnzyu' ta' na btunux qu 'laqi'?
+469	cyugal ryax inbyan nya' sakaw la, ru iyat minaniq ana nanu'. kya memaw kzyayan lwah!	他三天躺在床上且沒有吃任何東西。一定餓壞了！	他三天躺在床上且沒有吃任何東西。一定餓壞了！	cyugal ryax inbyan nya' sakaw la, ru iyat minaniq ana nanu'. kya memaw kzyayan lwah!	吃的菜多了,所以沒有什麼好吃的。要吃一些!	ini' nya' mqwas na' triqun ru ini' nha' kneril. pskun qu rgyax la!
+470	swa' su' ini' 'say smalit cikay qparung su'. cyux wiway wahi nanak la.	你怎麼不去你的杉木林砍草，都已長滿葛藤了。	你怎麼不去你的杉木林砍草，都已長滿葛藤了。	swa' su' ini' 'say smalit cikay qparung su'. cyux wiway wahi nanak la.	你怎麼沒有把你的子放在床上,那樣會被人到。	swa' su' ini' kmal qu qbaq su' lga, pbzyok na' la.
+471	laxi cinpacing la! ungat pacing babaw nya' l'ay.	不要採靈芝！否則以後會沒有靈芝了。	不要採靈芝！否則以後會沒有靈芝了。	laxi cinpacing la! ungat pacing babaw nya' l'ay.	不要把刀子掉!他不會再用刀子。	laxi pqzyay! ana ga, ini' ktan qu pqzyay lga.
+472	ini' kkrahu' qu qulih na gong Pinsalan hiya'. giway ttekuy kwara'.	Pinsalan溪的魚不大，都是小的。	Pinsalan溪的魚不大，都是小的。	ini' kkrahu' qu qulih na gong Pinsalan hiya'. giway ttekuy kwara'.	Pinsalan河的水溝沒有破裂,所有水溝都是乾淨的。	ini' kmaling qu qnzyat na Pinsalan hiya'. iyal mqyanux.
+473	pkuxaw su' otobay maku' lwah!	別把我的摩托車推倒！	別把我的摩托車推倒！	pkuxaw su' otobay maku' lwah!	你把我的摩托車丟掉吧!	pqzyu' cikay qutux maku' lga!
+474	Tecyang: pbiq saku' qutux seng knan hiya' ru pira' sbiq su' isu'? Pehu': baqaw su' pi. zywaw su' ga?!	Tecyang： 我要給壹千元，你要給多少？ Pehu'： 不要管閒事，你的事嗎？！	Tecyang： 我要給壹千元，你要給多少？ Pehu'： 不要管閒事，你的事嗎？！	Tecyang: pbiq saku' qutux seng knan hiya' ru pira' sbiq su' isu'? Pehu': baqaw su' pi. zywaw su' ga?!	Tecyang: 我在這邊,你幾點? Pehu': 你的手指很大,你怎麼會啊?!	Tecyang: pqzyay maku' qasa ga, pila' su'? Pehu': laxi kngyax lga, ini' su'?!
+475	cyux nya' hipan qu kmsya' bnaziy yaya' nya'.	他在舔他媽媽買給他的糖果。	他在舔他媽媽買給他的糖果。	cyux nya' hipan qu kmsya' bnaziy yaya' nya'.	他用子奶。	cyux nya' qu bzyok myan qu yaya' nya'.
+476	wal mbswak nanak i Yuyu' mha ma rwa'?	聽說Yuyu'自己上吊自殺的，是嗎？	聽說Yuyu'自己上吊自殺的，是嗎？	wal mbswak nanak i Yuyu' mha ma rwa'?	Yuyu'去哪裡了?	minqzyu' iyal qu Yuyux qasa ga, ini'?
+477	laxi kgi ru usa' phapuy mami'!	不要刮苧麻，去煮飯！	不要刮苧麻，去煮飯！	laxi kgi ru usa' phapuy mami'!	不要,別給我!	laxi pqzyu' qasa. usa' cingay!
+478	laxi saku' kr'usi ga!	不要覺得我是醜陋污穢的。	不要覺得我是醜陋污穢的。	laxi saku' kr'usi ga!	不要我!	laxi pqzyu' saku' ini' kneril.
+479	cyux mnbu' qu yaya' maku' ru ini' nya' baqi lmeliq qu qba' nya'. nanu' yasa psgus saku' g'nux nya' kira'.	我媽媽生病，她舉不起她的手，因此待會兒我要幫她刷牙。	我媽媽生病，她舉不起她的手，因此待會兒我要幫她刷牙。	cyux mnbu' qu yaya' maku' ru ini' nya' baqi lmeliq qu qba' nya'. nanu' yasa psgus saku' g'nux nya' kira'.	我的媽媽在,她的手不好動,今天她要我她。	ini' qu yaya' maku'. ini' nya' kneril qasa. pskus saku' nha' myan na' rgyax nya' la.
+480	ini' bwaxi qu pagay qasa. blngan qu sabak nya'.	那稻米沒有去殼，將它的殼丟掉。	那稻米沒有去殼，將它的殼丟掉。	ini' bwaxi qu pagay qasa. blngan qu sabak nya'.	那米沒有長,要它。	ini' kngyax qu 'laqi' qasa ru pqzyu' nya'.
+481	n_gop myan qutux kopu' la.	我們乾過杯了。	我們乾過杯了。	n_gop myan qutux kopu' la.	我們已經把子摘下來了。	pqzyux myan qu qnzyu' la.
+482	hinlukan nya' snonux nya' 'laqi' su' lga?	你的小孩梳過頭髮了嗎？	你的小孩梳過頭髮了嗎？	hinlukan nya' snonux nya' 'laqi' su' lga?	他把你的小孩的鼻子弄了不是嗎?	cyux mqzyu' qu 'laqi' su' lga?
+483	ana ga, khelaw cikay hmkani' ga simu! swa' simu m_yan ksipa' mknhway iyal la.	拜託你們走快一點！怎麼像烏龜一樣慢吞吞的。	拜託你們走快一點！怎麼像烏龜一樣慢吞吞的。	ana ga, khelaw cikay hmkani' ga simu! swa' simu m_yan ksipa' mknhway iyal la.	你們要一些,因為你們會被人家欺負。	pqzyay simu qasa! nanu' k_yan na bway qu tmux mtywaw.
+484	twahiq balay Smangus hiya' la.	Smangus真的很遠。	Smangus真的很遠。	twahiq balay Smangus hiya' la.	Smangus已經有三年了。	wal mqzyu' ga, smangus hiya'.
+485	psaqit sami galiq ggalan myan ssom.	我們要剪布條當作抹布。	我們要剪布條當作抹布。	psaqit sami galiq ggalan myan ssom.	我們要開我們的山坡的河溝。	pqzyu' ta' qu qnryang na btunux.
+486	mhngaw qu pqwasan biru' la.	學校放假了。	學校放假了。	mhngaw qu pqwasan biru' la.	的樹葉會長新芽。	cyux mqwas qu skong la.
+487	lomi kwara' syup ru sulu' qani!	把這些垃圾和乾草燒掉！	把這些垃圾和乾草燒掉！	lomi kwara' syup ru sulu' qani!	把這些子和子都丟掉!	pqzyu' qani qu bsyaqun ru sihuy qani!
+488	laxi putaq sqani ay!	不要在這裡嘔吐！	不要在這裡嘔吐！	laxi putaq sqani ay!	不要在這裡草!	laxi pqzyu' qani!
+489	msyaw nya' niqun qu knahul nya'.	他的農糧足夠他吃。	他的農糧足夠他吃。	msyaw nya' niqun qu knahul nya'.	他用子水。	cyux nya' qu kneril qasa.
+490	qntaqun hiya' ga, gluw na sehuy.	甜芋頭qntaqun和芋頭sehuy是同類。	甜芋頭qntaqun和芋頭sehuy是同類。	qntaqun hiya' ga, gluw na sehuy.	是種草的生。	cyux mqzyu' qu qntaqun ru pqyuk sehuy hiya'.
+491	skwan ta' pinbahuw qu khu' hiya'.	倉庫是我們儲存五穀雜糧的地方。	倉庫是我們儲存五穀雜糧的地方。	skwan ta' pinbahuw qu khu' hiya'.	我們把水到處。	cyux myan tmucing qu bzyok na qnryang ta' la.
+492	tkuyun maku' qu skzywan nya' ru wal mbka' la.	我把他的水缸推倒而且破了。	我把他的水缸推倒而且破了。	tkuyun maku' qu skzywan nya' ru wal mbka' la.	我把他的子撕掉,然後他就去吃了。	nyux maku' kneril qu qnzyu' nya'. pqsyaw la.
+493	ini' ngosi qu hrhil qani. kskisi na kskis ha!	這鋸子已經不利了， 用銼刀銼吧！	這鋸子已經不利了， 用銼刀銼吧！	ini' ngosi qu hrhil qani. kskisi na kskis ha!	這條路很不好,要一下!	nyux m'uzyup qu qnryang qani. pqryax ktan!
+494	nyux sami qmlwi qqparung.	我們在漂杉木。	我們在漂杉木。	nyux sami qmlwi qqparung.	我們在草樹。	cyux myan qu bzyok qasa.
+495	musa' saku' kegi' Tehuk kira'.	我今天要去台北開會。	我今天要去台北開會。	musa' saku' kegi' Tehuk kira'.	我今天要去台北。	pskluw maku' tayal qu Taypak.
+496	ini' qbaq qmalup ru qmbuyang qu m'rkyas na qalang ta' misu qani. aki hmswa' pslyaw ta' kwara' nha' ru pktnaqaw ta' pcbaq ma'?	部落裡的年輕人都不會打獵或圍捕獸類，我們把他們集合起來並一起教授好嗎？	部落裡的年輕人都不會打獵或圍捕獸類，我們把他們集合起來並一起教授好嗎？	ini' qbaq qmalup ru qmbuyang qu m'rkyas na qalang ta' misu qani. aki hmswa' pslyaw ta' kwara' nha' ru pktnaqaw ta' pcbaq ma'?	我們部落的子和小米沒有很好吃,我們可以把他們全部放在那裡,然后煮好嗎?	ini' kmalun qu 'laqi' na qalang ga, pqzyu' ru wal myan. ptgkat ta' nha' la?
+497	minkinhtuy saku' sa pinrkyas qasa ru memaw saku' minpira' iyal mturuy.	我在那山坡上被絆倒，害我翻滾了好幾次。	我在那山坡上被絆倒，害我翻滾了好幾次。	minkinhtuy saku' sa pinrkyas qasa ru memaw saku' minpira' iyal mturuy.	我在那座山上爬行,所以我很容易被人抓到。	minbkzyu' maku' qu rgyax qasa ru pqbahuy maku' myan.
+498	ksyugay ta' cikay phngalan su' ma' ?	借一下你的扁擔？	借一下你的扁擔？	ksyugay ta' cikay phngalan su' ma' ?	我們可以一些你的火鍋嗎?	pqzyu' su' qnryang su'?
+499	swa' ms'su' iyal qu mlikuy su'?	你的丈夫怎麼那麼沈默？	你的丈夫怎麼那麼沈默？	swa' ms'su' iyal qu mlikuy su'?	你的子怎麼會掉下來?	swa' pqzyu' qu musa' su'?
+500	sokan balay qu qbulun hiya'.	百香果很香。	百香果很香。	sokan balay qu qbulun hiya'.	子很長。	smaki' balay qu kngyax qasa.
+501	ini' saku' soya' maniq swana knan hiya'.	我不喜歡吃大蒜。	我不喜歡吃大蒜。	ini' saku' soya' maniq swana knan hiya'.	我沒有在這邊吃飯。	ini' saku' pqbahuy qasa.
+502	plpuw maku' Tali' biru' snatu' na thoki' qani.	我叫Tali'讀公文給我聽。	我叫Tali'讀公文給我聽。	plpuw maku' Tali' biru' snatu' na thoki' qani.	我把Tali'的手拿到這隻狗的頭。	pqzyux maku' Tali' qu bway na qnryang.
+503	wal maku' stmaq qurip ru ssabu' maku' sa mryu nya' ka cyux m'ba'.	我把生薑擣碎並把它們敷在他腫脹的小腿。	我把生薑擣碎並把它們敷在他腫脹的小腿。	wal maku' stmaq qurip ru ssabu' maku' sa mryu nya' ka cyux m'ba'.	我把子切掉,我用它來水。	nyux maku' qnzyu' qu kngyax ru pqbaqi nya' na 'blingun nya'.
+504	mha ni musa' su' rgyax ga, llaw cikay ttu' maku'!	如果你有上山，巡一巡我的的鐵夾！	如果你有上山，巡一巡我的的鐵夾！	mha ni musa' su' rgyax ga, llaw cikay ttu' maku'!	你的老師說,我要給你一些水!	ana su' pqzyok qu qnryang maku' ga, ks'uquy cikay myan!
+505	lamu' snyu qasa!	把繩子撿起來！	把繩子撿起來！	lamu' snyu qasa!	把那隻狗住!	pqzyu' cikay qasa!
+506	nanu' cyux su' llungun? laxi llungi la!	你到底在想什麼？不要想太多！	你到底在想什麼？不要想太多！	nanu' cyux su' llungun? laxi llungi la!	你在什麼?不要!	nanu' su' ktan? laxi pqzyay ga!
+507	minzbuq saku' aring ngasal mwah ru nyux su' m'abi' na' isu' hiya'! iyat ta' musa' cinqhuniq lga?	我一大早就從家裡來，你卻還在睡覺！我們不要去撿木柴了是嗎？	我一大早就從家裡來，你卻還在睡覺！我們不要去撿木柴了是嗎？	minzbuq saku' aring ngasal mwah ru nyux su' m'abi' na' isu' hiya'! iyat ta' musa' cinqhuniq lga?	我在家裡的水過,你就睡覺了!我們不能去洗衣服嗎?	minqzyuk saku' na qba' lga, ini' su' la! pskutux ta' ga, iyat myan?
+508	mintakuy sa ginaw qani i Iban ma.	聽說Iban跌到水溝裡。	聽說Iban跌到水溝裡。	mintakuy sa ginaw qani i Iban ma.	Iban在這條路上跑過。	minqwas qu Iban qasa.
+509	laxi ani stukun sqani syup su'.	不要在這裡倒垃圾。	不要在這裡倒垃圾。	laxi ani stukun sqani syup su'.	不要把你的子放在這裡。	laxi pqzyu' kwara' qasa.
+510	lpuw cikay tegami' pin'aras ni Ciwas knan ha!	請幫我讀Ciwas寫給我的信！	請幫我讀Ciwas寫給我的信！	lpuw cikay tegami' pin'aras ni Ciwas knan ha!	聽一下Ciwas的故事吧!	pqzyu' maku' ci Ciwas qu btunux maku'!
+511	'ntwan maku' pagay qasa.	那稻米是我堆疊的。	那稻米是我堆疊的。	'ntwan maku' pagay qasa.	我那米。	qasa maku' ktan qu btunux qasa.
+512	usa' cinqhuniq cikay ha! ungat ssangi' ta' tqinu la.	去找些木材吧！我們已經沒有烘焙香菇用的材火了。	去找些木材吧！我們已經沒有烘焙香菇用的材火了。	usa' cinqhuniq cikay ha! ungat ssangi' ta' tqinu la.	請給我們一些子,否則我們會被到。	hbzyu' cikay qnzyuan! ini' ta' na' ktan qu bzyok na spang.
+513	pbahiy saku' lukus la.	我要晾衣服。	我要晾衣服。	pbahiy saku' lukus la.	我已經穿衣服了。	pqzyu' saku' qba' la.
+514	Yupas: aki hmswa' musa' ta' smze' Rimuy ni Pasang Boki' hiya' pi?	Yupas：我們向 Pasang Boki' 的女兒 Rimuy 說媒訂親好不好？	Yupas：我們向 Pasang Boki' 的女兒 Rimuy 說媒訂親好不好？	Yupas: aki hmswa' musa' ta' smze' Rimuy ni Pasang Boki' hiya' pi?	Yupas: 我們要去拜訪Pasang Boki'的Rimuy嗎?	Yupas: pqzyu' ta' qani ga, 'laqi' na Rimuy, sqani ni Pasang Boki'?
+515	ini' su' ktngi' na' ga?	你還沒吃飽 ？	你還沒吃飽 ？	ini' su' ktngi' na' ga?	你還沒洗臉嗎?	ini' su' ktan qasa?
+516	nhay pgyaray ta'. pkat banga' nya' lwah! bha su' kongun la. lomaw ta' ru.	我們快逃開，黃蜂要螫人囉！你不要怕，我們火燒牠門。	我們快逃開，黃蜂要螫人囉！你不要怕，我們火燒牠門。	nhay pgyaray ta'. pkat banga' nya' lwah! bha su' kongun la. lomaw ta' ru.	我們去看一下,看他的大腿!你已經看到了,我們回家吧。	pqzyay ta' lga, hbtuw qu tmux qani! laxi ksruhuy ru wal m'uqi' na squliq.
+517	mwah mcisal ngasal ta' kira' qu llpyung. ani stahuk cikay rhkil.	我們的親友們今天會到家裡做客，為他們煮些糯米。	我們的親友們今天會到家裡做客，為他們煮些糯米。	mwah mcisal ngasal ta' kira' qu llpyung. ani stahuk cikay rhkil.	明天我們家人會去採草,讓他們長滿樹枝。	pqzyay myan qu rgyax na 'rkyas ta' ru wal mcisal qani. btunux nha' squliq lpi.
+518	mthelaw iyal 'san mcisal qu Sasan.	Sasan這個人去拜訪他時，態度非常殷勤。	Sasan這個人去拜訪他時，態度非常殷勤。	mthelaw iyal 'san mcisal qu Sasan.	Sasan常常在他們家裡遊玩。	cyux mqzyu' qu Sasan qani ga, pqsya' iyal nya'.
+519	"biqi qsya' qu lpyung su'! gi pkusa mha ""swa' ana qsya' ini' biq.""."	給你的親戚水！ 否則他們會說：「連水都不給。」	給你的親戚水！ 否則他們會說：「連水都不給。」	"biqi qsya' qu lpyung su'! gi pkusa mha ""swa' ana qsya' ini' biq.""."	把你的子放在那裡!別叫人說:『沒有什麼地方』。	"pqzyay qsya' su'! bha ini' nya' ""yaw pqzyay la!"""
+520	r'tung iyal talap ngasal qani hiya' la. pyanga lokah hmbing i mha ni mqwalax wah.	這房子的屋簷太短了，難怪下雨時常漏水。	這房子的屋簷太短了，難怪下雨時常漏水。	r'tung iyal talap ngasal qani hiya' la. pyanga lokah hmbing i mha ni mqwalax wah.	這家的房間很寬,聽說是Mqwalax住的地方。	talagay m'uzyay qu kneril na 'laqi' qani. ta bsyaq iyal qu tbaqan nya'.
+521	cyux skamil ni Umaw turu' nya' qu qaraw ruma' qani.	Umaw用竹枝抓他的背部。	Umaw用竹枝抓他的背部。	cyux skamil ni Umaw turu' nya' qu qaraw ruma' qani.	Umaw在用子挖田。	cyux mqzyu' nya' rgyax na Umaw qu 'laqi'.
+522	minngaqa' qinutan qani ru wal mtciku' la.	這傷口原來很大，現在已縮小了。	這傷口原來很大，現在已縮小了。	minngaqa' qinutan qani ru wal mtciku' la.	這條路是很平坦的,而且到處。	qnzyay ga, ini' kneril qu 'laqi' qani. ana ta' nyux mqsyaw la.
+523	wal maku' ktan sqani shera' i Pusi'.	昨天我在這裡看到Pusi'。	昨天我在這裡看到Pusi'。	wal maku' ktan sqani shera' i Pusi'.	Pusi'昨天我去過。	minp'uzyay maku' Pusi' i na' wayal.
+524	minpakux saku' te syaw tuqi qani shera'.	我昨天在路邊翻倒。	我昨天在路邊翻倒。	minpakux saku' te syaw tuqi qani shera'.	我昨天在山上爬行。	minbkngil saku' na wayal myan i nawali'.
+525	phuluy sami ruma' suxan.	明天我們要拉竹子。	明天我們要拉竹子。	phuluy sami ruma' suxan.	我們明天要去採竹子。	pqzyux ta' suxan 'bahuw.
+526	cingay balay lmiquy nya' sqani ru qzyay ta' sqani qu kacing lma'?	這裡的芒草很多，我們就把牛綁在這裡好嗎？	這裡的芒草很多，我們就把牛綁在這裡好嗎？	cingay balay lmiquy nya' sqani ru qzyay ta' sqani qu kacing lma'?	他這麼多的子,我們要用什麼來他?	talagay na' kneril qani. nanu' ta' sqani qu sapi' lga?
+527	nanu' lukus qani qu sinliqan nya'.	他撕破的就是這一件衣服。	他撕破的就是這一件衣服。	nanu' lukus qani qu sinliqan nya'.	他所穿的衣服是什麼樣的。	qnzyu' nya' qu lukus qani.
+528	glabang abaw na bsyaw hiya'.	月桃的葉子是寬的。	月桃的葉子是寬的。	glabang abaw na bsyaw hiya'.	聽說是男人的子。	cyux m'uzyay qu blaq na bzyok qasa.
+529	cyux ps'unan ramat hanray qasa.	桌上放滿了菜。	桌上放滿了菜。	cyux ps'unan ramat hanray qasa.	那隻狗在田。	cyux mqzyu' qu qnzyu' na bway.
+530	Pepay ga, qbsuyan ni Yayut.	Pepay是Yayut 的姊姊。	Pepay是Yayut 的姊姊。	Pepay ga, qbsuyan ni Yayut.	Pepay 是Yayut的女。	Pepay ga, iyal ni Yayut.
+531	ani scilis cikay toyuw mami' nya'.	他的飯淋一點醬油。	他的飯淋一點醬油。	ani scilis cikay toyuw mami' nya'.	請給他一些子。	pqzyu' cikay qu qalang nya'.
+532	nway kun qu pgleng maras lelaqi' ka musa' mkaraw rgyax Hagay ki!	就讓我帶領孩子們去爬雪山吧！	就讓我帶領孩子們去爬雪山吧！	nway kun qu pgleng maras lelaqi' ka musa' mkaraw rgyax Hagay ki!	聽說小孩們在河邊爬山!	pqzyu' saku' kneril qu 'laqi' qasa!
+533	inbleqaw ta' hmiluk snonux su'. baha su' si pkkosuy musa' mqwas biru' la.	我們來好好梳理妳的頭髮，妳怎能可以一頭亂髮的去讀書。	我們來好好梳理妳的頭髮，妳怎能可以一頭亂髮的去讀書。	inbleqaw ta' hmiluk snonux su'. baha su' si pkkosuy musa' mqwas biru' la.	我們來你的鼻子,否則你會被人家到。	pqzyux ta' kneril qasa qu 'laqi' na yutas qani. ana ga, pqzyux ttu' cikay sqani' la.
+534	qlyu'aw su' syup qasa kiy!	別讓垃圾漂走。	別讓垃圾漂走。	qlyu'aw su' syup qasa kiy!	你把那條子拿出來!	laxi pqzyu' qu bsyaq qasa.
+535	ini' saku' ptlu' ana nanu'.	我沒有遇到任何東西。	我沒有遇到任何東西。	ini' saku' ptlu' ana nanu'.	我什麼都不會。	ini' saku' pqzyu' qu bnkis.
+536	nyux saku' bnkis qani lga, lokah saku' zmungi' ana nanu' zywaw la.	當我老邁時，我常常把事情給忘記了。	當我老邁時，我常常把事情給忘記了。	nyux saku' bnkis qani lga, lokah saku' zmungi' ana nanu' zywaw la.	我在這條路上水,我會用什麼東西來水。	minqzyu' maku' ga, pqsyaw saku' qu ttucing.
+537	cbil musa' su' rgyax! niqun su' qlyan.	去山上要帶便當，你中午要吃的。	去山上要帶便當，你中午要吃的。	cbil musa' su' rgyax! niqun su' qlyan.	你的腳要!你會被人咬。	pqzyu' su' rgyax ru wal m_yanux su' la.
+538	wal su' suqun tbaziy kwara' qu rhzyal ta' ru 'lun ta' inu' qu kki'an na 'laqi' kinbahan babaw nya' lpi!	你把我們所有的土地都賣光了，未來後代子孫要住的地方哪裡都找不到呢！	你把我們所有的土地都賣光了，未來後代子孫要住的地方哪裡都找不到呢！	wal su' suqun tbaziy kwara' qu rhzyal ta' ru 'lun ta' inu' qu kki'an na 'laqi' kinbahan babaw nya' lpi!	你把我們的土地全部砍掉,讓我們用小孩的手臂抓住!	wal su' pqzyu' qu qnzyuan ta' ru ini' kmalun na' lga, ini' saku' s'iyal myan kwara' balay niqun na' laqi' la!
+539	ta kingwagiq iyal ktan qu ngasal ni Tali' uy.	Tali'的家看起來很高。	Tali'的家看起來很高。	ta kingwagiq iyal ktan qu ngasal ni Tali' uy.	Tali'的家裡很寬。	talagay ktan balay ni Tali'.
+540	Yumin: phknyaw ta' yabut su' la. Tara': nyux su' mrawi' qani la!	Yumin： 我們讓你的男嬰走路。 Tara'： 你這是在開玩笑吧！	Yumin： 我們讓你的男嬰走路。 Tara'： 你這是在開玩笑吧！	Yumin: phknyaw ta' yabut su' la. Tara': nyux su' mrawi' qani la!	Yumin: 我們要你的奶嘴了,Tara': 你已經在喝酒了!	Yumin: pqzyay ta' 'laqi' su'. Tara': isu' ktan la!
+541	pkbhuyaw m'rkyas kwi' nya' 'bagan qani ma.	聽說今年夏天的蚊子將大量繁殖。	聽說今年夏天的蚊子將大量繁殖。	pkbhuyaw m'rkyas kwi' nya' 'bagan qani ma.	他把這些菜放在水田裡。	cyux mqzyu' qu kneril na qani.
+542	pgulaq sami cikay yulaq na hayung. ggalan myan ss'aring na puniq.	我們要剝一些hayung的樹皮當作火種。	我們要剝一些hayung的樹皮當作火種。	pgulaq sami cikay yulaq na hayung. ggalan myan ss'aring na puniq.	我們用頭來燒一些火,因為我們把火燒到處。	pqzyu' ta' cikay qu qnryang na hayung.
+543	ana mha nanu' qu kinhulan na kneril su' hiya' mga, ini' syuki mha ma gi psaniq ru ini' an skblaq ma.	不管你太太的娘家做了什麼，你不要有不當的回應，因為聽說對親家有不當的回應，不僅犯了禁忌而且對自己沒有益處。	不管你太太的娘家做了什麼，你不要有不當的回應，因為聽說對親家有不當的回應，不僅犯了禁忌而且對自己沒有益處。	ana mha nanu' qu kinhulan na kneril su' hiya' mga, ini' syuki mha ma gi psaniq ru ini' an skblaq ma.	你的樹木的長度會變短,不會到,也不會枯乾。	ana pqzyu' qu 'laqi' su' ga, ini' kbaziy qasa. nanu' sqani na' bway nya' ru nyux m_yan iyal squliq lga, ini' ttu' kwara' la.
+544	'pxan na btunux qu tluling nya' ru cyux nya' ini' ani string ana nanu'.	他的手指被石頭壓到，他不敢用手指摸任何東西。	他的手指被石頭壓到，他不敢用手指摸任何東西。	'pxan na btunux qu tluling nya' ru cyux nya' ini' ani string ana nanu'.	他的頭髮被子咬了,他沒有任何麻煩。	cyux nya' qu qnzyu' na btunux ru wal nya'. ini' nya' pqsyaw kwara' kneril.
+545	ps'uni qsya' qu takan qani! teta' su' ini' uwah mebul lozi kira'.	把這盛水器裝滿！這樣你就不用再來裝水。	把這盛水器裝滿！這樣你就不用再來裝水。	ps'uni qsya' qu takan qani! teta' su' ini' uwah mebul lozi kira'.	把這鍋子放在這裡!這樣你不會把它倒掉。	pqzyu' cikay qani! bha ini' su' ttu' ktan lga.
+546	pkrayas ta' gong ru qziti quzit na yopun su'. teta' ini' khozyaq.	我們即將渡河，把你的褲管捲起來，這樣才不會弄濕。	我們即將渡河，把你的褲管捲起來，這樣才不會弄濕。	pkrayas ta' gong ru qziti quzit na yopun su'. teta' ini' khozyaq.	我們要用鐵和你的褲子的皮把人家壓住,這樣他們不會被人家壓住。	pqzyu' ta' qu qnzyuw su' ru psbzyux su' la. ini' k_yup.
+547	ptungi kwara' syup qani!	把這些垃圾燒掉！	把這些垃圾燒掉！	ptungi kwara' syup qani!	把這些子都放在鍋子裡!	pqzyu' kwara' qani!
+548	bway na qyunaq hiya ga, qqamas ta' wayay.	山黃梔的果子是我們染紡線用的。	山黃梔的果子是我們染紡線用的。	bway na qyunaq hiya ga, qqamas ta' wayay.	野的小,我們一定會吃。	cyux myan qu bzyok na 'laqi' qasa.
+549	smagi na tapang sakaw qani gi 'byun ni Umaw mlhngan kira'!	把這張床鋪好！因為Umaw今晚要睡的。	把這張床鋪好！因為Umaw今晚要睡的。	smagi na tapang sakaw qani gi 'byun ni Umaw mlhngan kira'!	請用這把頭和Umaw的刀子開!	pqzyu' cikay na 'laqi'! ptzyuy i Umaw suxan.
+550	laxi kngta' ki!	不要昏厥！	不要昏厥！	laxi kngta' ki!	不要人!	laxi pqzyu' qasa!
+551	cyux mpkut Yubay ki Yukan.	Yubay和Yukan在互相殺來殺去。	Yubay和Yukan在互相殺來殺去。	cyux mpkut Yubay ki Yukan.	Yubay和Yukan在聊天。	cyux mqwas qu Yubay ki Yukan qasa.
+552	ima' pinqzywan ni yutas?	爺爺談論到誰？	爺爺談論到誰？	ima' pinqzywan ni yutas?	是誰的孫子?	ima' kmalun ni yutas qani?
+553	pshziqaw ni Batu' qu brbar qasa lki!	Batu'別把紙張給弄濕了！	Batu'別把紙張給弄濕了！	pshziqaw ni Batu' qu brbar qasa lki!	聽說Batu'把那條木頭掉了!	pqzyu' cikay qutux na Batu' qasa!
+554	ani sqhzyaw btunux qu qhzyaw qani!	用這鐵杵撬石頭！	用這鐵杵撬石頭！	ani sqhzyaw btunux qu qhzyaw qani!	這條路是很平滑的!	qnzyu' qu btunux qani!
+555	ta kinmhibung qu g'nux su'. sgusi cikay!	你的牙齒太髒了，刷刷牙吧！	你的牙齒太髒了，刷刷牙吧！	ta kinmhibung qu g'nux su'. sgusi cikay!	你的鼻子很,請擦一下!	talagay kneril su' ga, pqryax nha'!
+556	naga' saku' son maku' ga, qzinah saku' nya' spqzinah mgyay.	我叫她等我，她反而寧願跑著離開。	我叫她等我，她反而寧願跑著離開。	naga' saku' son maku' ga, qzinah saku' nya' spqzinah mgyay.	我生病了,我去看他的家人。	pqzyay maku' nya' ru nyux m_yan. iyat nya' ktan qu rgyax la.
+557	cyux ptl'ngux betaq na bbu' nya' i Qawil.	Qawil把他的魚刺削的尖尖的。	Qawil把他的魚刺削的尖尖的。	cyux ptl'ngux betaq na bbu' nya' i Qawil.	Qawil在他的雞肉。	qwail ga, cyux mqzyu' qu btunux nya'.
+558	bqni' nanak hi' su' sraral ha. wal su' qthuy cikay ru ini' su' khikang la.	你以前是個瘦排骨，你已經胖了一些且不再是個瘦排骨了。	你以前是個瘦排骨，你已經胖了一些且不再是個瘦排骨了。	bqni' nanak hi' su' sraral ha. wal su' qthuy cikay ru ini' su' khikang la.	以前你有吃過魚,現在你已經吃了一些,所以不能吃。	minqzyay su' myan. ana pqsyaw su' ru ini' ktan lga.
+559	pskyuti qsya' qasa!	斷水！	斷水！	pskyuti qsya' qasa!	把水下來!	qnzyu' qu pinqbaqi!
+560	nanu' yasa lga, rpsi cikay iyu' qu qzimux su' ru ptrasul bway nya' la.	這樣的話，你的水蜜桃樹噴一些藥，它的果實將茂盛地長出來。	這樣的話，你的水蜜桃樹噴一些藥，它的果實將茂盛地長出來。	nanu' yasa lga, rpsi cikay iyu' qu qzimux su' ru ptrasul bway nya' la.	聽說你的子一點一點的痛到,然後它就掉下來了。	pqzyu' su' qani ga, ini' kneril qu 'laqi' su'. bhazi na' rgyax la.
+561	bsyaq ini' qaniq qulih rgyax la.	好久沒吃到山裡的魚了。	好久沒吃到山裡的魚了。	bsyaq ini' qaniq qulih rgyax la.	子不會長。	wal ini' ktan qu rgyax na qba' hiya'.
+562	ini' pakux turuy nya'.	他的車沒有翻倒。	他的車沒有翻倒。	ini' pakux turuy nya'.	他的小狗沒有。	ini' kngyax qu tbaq nya'.
+563	blaq balay sramat qu hmuci' hiya'.	胡瓜非常好下菜。	胡瓜非常好下菜。	blaq balay sramat qu hmuci' hiya'.	子很好吃。	blaq balay pqzyay qu kngan.
+564	ki'a pira' yabux maku' mqumah rhzyal qani, iyat su' baqun.	我不知道流了多少汗水耕耘這塊土地，你不會懂。	我不知道流了多少汗水耕耘這塊土地，你不會懂。	ki'a pira' yabux maku' mqumah rhzyal qani, iyat su' baqun.	我在這邊工作很多年,你不會留下來。	ini' saku' qu qnzyu' na btunux qu 'laqi' qani ru wal su' ktan la. ini' su' lga.
+565	lneliq ima' btunux qani?	這石頭是誰搬的？	這石頭是誰搬的？	lneliq ima' btunux qani?	這些子是誰的?	ima' pqzyuk qani qu btunux qani?
+566	pskluxun su' qu tmmyan qani?	你要把這些醃肉弄熱嗎？	你要把這些醃肉弄熱嗎？	pskluxun su' qu tmmyan qani?	你把水過嗎?	pqzyu' su' qani ga, qani lga?
+567	ini' syax qu rento qani.	這電燈不亮。	這電燈不亮。	ini' syax qu rento qani.	這水沒有乾淨。	ini' kngyax qu qnzyat qani.
+568	betunux balay Sayun hiya'. ini' kbetunux ana cikuy qu Rimuy hiya'.	Sayun非常漂亮，Rimuy一點都不漂亮。	Sayun非常漂亮，Rimuy一點都不漂亮。	betunux balay Sayun hiya'. ini' kbetunux ana cikuy qu Rimuy hiya'.	Sayun很,Rimuy沒有到。	talagay krryax i Sayun qasa. ini' iyat pqsyaq qu Rimuy la.
+569	matuk balay qu atuk na qwali' hiya'.	老鷹的喙嘴很犀利。	老鷹的喙嘴很犀利。	matuk balay qu atuk na qwali' hiya'.	石頭的很大。	cyux mqzyu' qu kngyax na qba' qasa.
+570	laxi thbku' ga!	不要撒嬌了！	不要撒嬌了！	laxi thbku' ga!	不要人!	laxi pqzyu' qasa!
+571	anay misu' sgop qutux kopu' qani.	我為你乾這一杯。	我為你乾這一杯。	anay misu' sgop qutux kopu' qani.	我把這刀子掉。	pqzyu' maku' qani.
+572	yani balay tnaq maku' plkusun. ini' qhut ru ini' klabang.	這件衣服我穿的剛剛好，不緊也不寬。	這件衣服我穿的剛剛好，不緊也不寬。	yani balay tnaq maku' plkusun. ini' qhut ru ini' klabang.	我這次不吃飯,也不喝酒。	nyux mqzyu' qu rgyax qani ru ini' ktan na' ga, ini' psyaw ru ini' sbugay.
+573	ungat pputung ta' la. usa' mbaziy putung ha.	我們沒有點火的用具了，去買火柴吧。	我們沒有點火的用具了，去買火柴吧。	ungat pputung ta' la. usa' mbaziy putung ha.	我們沒有把子掛起來,請幫我們拿來。	ini' ta' qu qnzyu' na' ga, pqbahuy cikay.
+574	minbahing sa qutux rehay wayal qu qutux ngasal qasa.	上個星期，那一家非常憂傷。	上個星期，那一家非常憂傷。	minbahing sa qutux rehay wayal qu qutux ngasal qasa.	那家的子常常被人住。	nyux mqzyu' qu balay qasa.
+575	cyux qmiway syax na gwagi' qu qara' qhuniq qasa. 'say tmutu' ha!	那樹幹擋住陽光，去把它砍掉！	那樹幹擋住陽光，去把它砍掉！	cyux qmiway syax na gwagi' qu qara' qhuniq qasa. 'say tmutu' ha!	那棵樹的根被子拔掉了,請把它砍掉!	cyux mqzyu' qu rgyax qasa. pqbtuw!
+576	laxi wah! htulaw su' balay la!	不要！你別真的封住啊！	不要！你別真的封住啊！	laxi wah! htulaw su' balay la!	不要!你會被人家嚇到。	laxi! pqzyu' su' lga, iyat su'!
+577	siki lnggan qu layan ga, baqun maniq.	綠豆需要熬煮才能吃。	綠豆需要熬煮才能吃。	siki lnggan qu layan ga, baqun maniq.	子吃起來很。	psklu' qu tmucing qasa ru wal mqwas.
+578	wal slitan yama' nya' kwara' k'man naki lingay ngasal nya'. blaq balay yama' nya' qasa wah.	他房子周邊的草被他的女婿砍光光了，真好心！	他房子周邊的草被他的女婿砍光光了，真好心！	wal slitan yama' nya' kwara' k'man naki lingay ngasal nya'. blaq balay yama' nya' qasa wah.	媽媽在家裡用子洗衣服,那樣是很好的。	cyux nya' kneril qu qnzyu' na 'laqi' nya'. swa' ga!
+579	laxi pqihut ga!	不要互相阻擋！	不要互相阻擋！	laxi pqihut ga!	不要人!	laxi pqzyu' qu 'laqi'!
+580	ini' hzinas qlyan na'.	還沒到中午。	還沒到中午。	ini' hzinas qlyan na'.	子還沒長。	ini' kbaq na' qu tngaw qasa.
+581	kinbunik hiya' ga, msknux iyal sokan.	臭青母很臭。	臭青母很臭。	kinbunik hiya' ga, msknux iyal sokan.	眼看起來很長。	minbzyok balay qu kneril qasa.
+582	cyux stapaq ni Masaw qhuniq qu yasam.	Masaw用斧頭刨打樹皮。	Masaw用斧頭刨打樹皮。	cyux stapaq ni Masaw qhuniq qu yasam.	Masaw在樹。	cyux mqzyu' qu Masaw na qnryang.
+583	laxi thuluy!	不要互相拖來拖去！	不要互相拖來拖去！	laxi thuluy!	不要!	laxi pqzyu' myan!
+584	nyux ungat qu pcywagun qani ru minhngaw saku' qutux byacing la.	現在工作難找，我已經休息一個月了。	現在工作難找，我已經休息一個月了。	nyux ungat qu pcywagun qani ru minhngaw saku' qutux byacing la.	這條路是不乾的,我會把它翻掉。	nyux mqzyu' qu rgyax qani. pbyan maku' cikay na mintucing la.
+585	minkmuw saku' shera' ru ini' saku' usa'.	我昨天懶洋洋的，所以我沒去。	我昨天懶洋洋的，所以我沒去。	minkmuw saku' shera' ru ini' saku' usa'.	我昨天去過,我還沒回來。	minl'uy saku' myan i na' qasa. ini' saku' la.
+586	qlihi slaq su' la.	把田裡的水放乾。	把田裡的水放乾。	qlihi slaq su' la.	把你的田砍掉。	pqzyu' cikay qu qba' na pala'.
+587	sraral hiya' ga yaqih maku' niqun qu kuku'. misu qani lga blaq maku' niqun la.	以前我不喜歡吃佛手瓜，現在我喜歡吃了。	以前我不喜歡吃佛手瓜，現在我喜歡吃了。	sraral hiya' ga yaqih maku' niqun qu kuku'. misu qani lga blaq maku' niqun la.	以前我沒聽過雞,現在我知道我已經聽說了。	ini' saku' kneril maku' qasa ru pqzyay maku' la.
+588	laxi pongi ke' nya'! kzyopi uzi qalang na yutas nya'!	不要聽他的話！他岳父的部落照樣侵入！	不要聽他的話！他岳父的部落照樣侵入！	laxi pongi ke' nya'! kzyopi uzi qalang na yutas nya'!	不要去那邊!他老婆的家人也會去!	laxi pqzyu' qu qba' nya'! cyux mqwas na 'laqi' nya' lga!
+589	iyat saku' minita' qaxa' na' ryax maku' mqyanux qani.	我活到現在還沒看過龜殼花。	我活到現在還沒看過龜殼花。	iyat saku' minita' qaxa' na' ryax maku' mqyanux qani.	我還沒看到我的子在這塊地。	ini' saku' kmal qu qnzyat maku' ru wal myan.
+590	pgyari i Hayung qasa gi qmulan su' nya' mami la.	離Hayung遠一點，否則他會強行餵你吃飯。	離Hayung遠一點，否則他會強行餵你吃飯。	pgyari i Hayung qasa gi qmulan su' nya' mami la.	Hayung要她,否則她會被你欺負。	pqzyu' cikay hayung qasa. pt'uquy su' ktan qu ramu'.
+591	cingay balay zzywaw pcyagun su'.	你做很多事情。	你做很多事情。	cingay balay zzywaw pcyagun su'.	你的腳很。	pzyux su' qnzyu'.
+592	s'angun na bnkis nya' qu squliq qasa ru ini' kal ana qutux.	那個人被老人責備，他都不敢說話。	那個人被老人責備，他都不敢說話。	s'angun na bnkis nya' qu squliq qasa ru ini' kal ana qutux.	那個水瓶被他的老人家過,所以沒有任何水味。	minqzyu' na m_yanux qu musa' qasa. ini' kbaqi lga, ini' pqsyaw la.
+593	cyux qmuling snonux ni Payas i Sanay.	Sanay在理Payas的頭髮。	Sanay在理Payas的頭髮。	cyux qmuling snonux ni Payas i Sanay.	Sanay在Payas的鼻子。	cyux mqzyu' qu sanay qasa ni Payas.
+594	cyux hmap qu sinsi phgup la.	醫師在打針。	醫師在打針。	cyux hmap qu sinsi phgup la.	老師在水。	cyux mqwas qu sinsi qasa.
+595	ima' cyux su' hb_yagun?	你在追誰？	你在追誰？	ima' cyux su' hb_yagun?	你在等誰?	ima' su' pqzyu'?
+596	pgyari! laxi kaki' ska' na tuqiy. qplun su' na llgan la.	閃開！不要站在路中央，要不然車子將碾過你。	閃開！不要站在路中央，要不然車子將碾過你。	pgyari! laxi kaki' ska' na tuqiy. qplun su' na llgan la.	聽啊!不要把狗的腳踩到,你已經被火燒了。	ks'uquy! laxi staq na 'laqi' qu tzyok qasa. pbzyuk su' na bzyok na tbaqa'.
+597	anay misu' skmi' cikay ha.	我為你閉一下眼睛。	我為你閉一下眼睛。	anay misu' skmi' cikay ha.	讓我們一些。	minqzyuk maku' ktan su'.
+598	truqi cikay tuqiy qani. teta' blaq cikay phkngyan.	這條路鋤一鋤，這樣比較好走。	這條路鋤一鋤，這樣比較好走。	truqi cikay tuqiy qani. teta' blaq cikay phkngyan.	這條路很寬,可以到水邊。	cyux mqzyu' qu rgyax qani. pskunux lga, ini' kmaling la.
+599	bazi krahu' na kyawan!	買大的飯鍋。	買大的飯鍋。	bazi krahu' na kyawan!	請把飯給!	cyux mqzyu' qu ramu' qasa.
+600	sbehuw ni Kagi' blihun qu sosu' qani.	Kagi'用鎖頭鎖門。	Kagi'用鎖頭鎖門。	sbehuw ni Kagi' blihun qu sosu' qani.	Kagi'把這套子丟掉。	cyux mqzyu' qu Kagi'.
+601	klokah inlungan su laxiy koyay.	你要堅強不要喪志。	你要堅強不要喪志。	klokah inlungan su laxiy koyay.	你沒有用子來打獵。	laxi pqzyu' su' ini' k_yan.
+602	tkura' sa yuyut qu qhzi qasa ha!	將那些酒裝入瓶子！	將那些酒裝入瓶子！	tkura' sa yuyut qu qhzi qasa ha!	把那隻狗放在子裡!	qnzyu' cikay qu kngyax qasa!
+603	cyux msrapa' m'abi' i Maray.	Maray仰躺睡覺。	Maray仰躺睡覺。	cyux msrapa' m'abi' i Maray.	Maray在睡覺。	cyux m'uzyuk qu Maray.
+604	mtbzyaq qu kilux na yagih su' lga?	你小女孩的燒退了沒有？	你小女孩的燒退了沒有？	mtbzyaq qu kilux na yagih su' lga?	你媽媽的子好長嗎?	wal m'rngyaw qu 'laqi' su' lga?
+605	cyux pqzyu' zywaw inwahan nha' qmalup qu bbnkis qasa.	那些長老們在談論他們去打獵的事情。	那些長老們在談論他們去打獵的事情。	cyux pqzyu' zywaw inwahan nha' qmalup qu bbnkis qasa.	那位老人家在水處處地挖泥土。	cyux mqwas qu t'uray qasa la.
+606	pkngbang mpanga' patus su'. bwaw sami nya'.	把槍枝斜揹，免得誤傷我們。	把槍枝斜揹，免得誤傷我們。	pkngbang mpanga' patus su'. bwaw sami nya'.	把你的刀起來,我們就把它拿來。	pqzyu' cikay qu qnzyux ru nyux m_yan ta'.
+607	nyux mxal lhbu' maku'.	我的下腹部在痛。	我的下腹部在痛。	nyux mxal lhbu' maku'.	我的子在。	nyux saku' qu qnzyat maku'.
+608	laxi thki wah. thkaw nya' nanak gi ima' abas tbukaw ta' nha'!	不要煮，還是給他自己煮，免得被人家揍！	不要煮，還是給他自己煮，免得被人家揍！	laxi thki wah. thkaw nya' nanak gi ima' abas tbukaw ta' nha'!	不要,他們會把我們給丟掉!	laxi pqzyay ga, ini' ktan qu pqzyay nya' ru wal suqun qasa!
+609	laxi s'urux isu' hiya' la.	你不要站。	你不要站。	laxi s'urux isu' hiya' la.	不要在這裡停留。	laxi pqzyu' su'.
+610	hata' hkangi pinhknyan na binkisan ta'.	我們來去探索祖先的足跡。	我們來去探索祖先的足跡。	hata' hkangi pinhknyan na binkisan ta'.	我們的水田要多種草。	pqzyux ta' ramat na binkisan.
+611	mha ni snqwaq su' iyal lga, sqisun nha' nqwaq su' l'ay.	如果你太囉嗦的話，他們就會縫你的嘴巴。	如果你太囉嗦的話，他們就會縫你的嘴巴。	mha ni snqwaq su' iyal lga, sqisun nha' nqwaq su' l'ay.	你的眼睛看起來很,否則會被你眼睛住。	ana su' kngyaq lga, pskluw nha' qu 'laqi' su'.
+612	wal musa' pqihut sa ska' na kobu' qu qulih ru kbolung.	魚蝦被魚籠擋住。	魚蝦被魚籠擋住。	wal musa' pqihut sa ska' na kobu' qu qulih ru kbolung.	子和子在山坡地被砍掉。	cyux mqzyu' qu kngyax qasa.
+613	cyux tmapih mha wah mcisal i Nomi'.	Nomi'邀請我們去拜訪他。	Nomi'邀請我們去拜訪他。	cyux tmapih mha wah mcisal i Nomi'.	Nomi'在水。	cyux mqwas ta' qu Nomi'.
+614	ima' cyux makux teribi qasa?	誰在翻電視？	誰在翻電視？	ima' cyux makux teribi qasa?	誰在我那條子?	ima' kngyax qsya' qu tbiyaw?
+615	"Lomuy ga, mintama' mcisal sqani ha. ini' kbsyaq lga, wal mshriq mha,""musa' saku' sinrzyut binhqan la"" mha."	Lomuy原來坐在這裡聊天，不一會兒就說：「我要去整理衣服了。」然後就離開了。	Lomuy原來坐在這裡聊天，不一會兒就說：「我要去整理衣服了。」然後就離開了。	"Lomuy ga, mintama' mcisal sqani ha. ini' kbsyaq lga, wal mshriq mha,""musa' saku' sinrzyut binhqan la"" mha."	Lomuy在這邊工作,沒有時間,他就說:『我要去做什麼。』	"wal inu' kneril qu Lomuy ru ini' qsya' la. ""buq saku' pqzyu' lpi"". mha niqun nya'."
+616	ktwa' kinkrahu' nya' qu tniriq su' bqanux qasa?	你裝到的野鹿有多大？	你裝到的野鹿有多大？	ktwa' kinkrahu' nya' qu tniriq su' bqanux qasa?	你那個子的長度怎麼樣?	qnzyu' qu tmucing su' la?
+617	wal mcisal Yumin i mama' Muri'.	Muri'舅舅去跟Yumin聊天。	Muri'舅舅去跟Yumin聊天。	wal mcisal Yumin i mama' Muri'.	Muri'的爸爸去嫁Yumin。	minqwas i Yumin qu kneril ni Muri'.
+618	laxay sami wah!	別放棄我們！	別放棄我們！	laxay sami wah!	我們放下來吧!	laxi pqzyux myan!
+619	guru' ga, qruzyux balay insuna' nya'. ana su' si syaki ga, ini' kngya' ay.	鴨子的氣很強，就算你把它給掐了，也不會昏過去。	鴨子的氣很強，就算你把它給掐了，也不會昏過去。	guru' ga, qruzyux balay insuna' nya'. ana su' si syaki ga, ini' kngya' ay.	子很長,如果你的妹妹是小姐的話,她不會睡覺。	qnzyat na bzyok qu tmucing la. ana su' pqbahuy ga, ini' k_yan iyal lga.
+620	sraral hiya' ga, sqibuw ta' slaq qu kacing hiya'.	以前我們利用牛來耕田。	以前我們利用牛來耕田。	sraral hiya' ga, sqibuw ta' slaq qu kacing hiya'.	以前我們用子耕地。	cyux myan qu bzyok ta' qasa.
+621	pqnxaw su' kwara' paris qani!	別讓這些敵人活著！	別讓這些敵人活著！	pqnxaw su' kwara' paris qani!	你把這些狗都抓掉!	laxi pqzyux qu 'laqi' qani!
+622	nyux msyak qolu' maku' qu snyu qani la.	這繩子掐到我的脖子了。	這繩子掐到我的脖子了。	nyux msyak qolu' maku' qu snyu qani la.	這隻狗在我的腳上。	cyux m'uquy qu qnzyat qani la.
+623	mpqbaq sami ki yama' su' Amay.	我和你的女婿Amay認識。	我和你的女婿Amay認識。	mpqbaq sami ki yama' su' Amay.	Amay跟你的媽媽聊天。	nyux saku' na 'laqi' su' Amay.
+624	sr'i nanak ngasal su'.	你自己要撐起你的家計生活。	你自己要撐起你的家計生活。	sr'i nanak ngasal su'.	把你的家人關起來。	pqzyu' su' ktan qu 'laqi' su'.
+625	cyux su' phakut ima'?	你叫誰搬？	你叫誰搬？	cyux su' phakut ima'?	你在關誰的門?	ima' su' pqzywaw?
+626	ta! yulaq qhuniq qani ga, nyux ms'yulaq la. qnamas kamit na ngarux wah.	看！這樹皮脫落了，這是熊爪摩擦造成的。	看！這樹皮脫落了，這是熊爪摩擦造成的。	ta! yulaq qhuniq qani ga, nyux ms'yulaq la. qnamas kamit na ngarux wah.	!這樹的葉子會長起來,它們會長出青。	tala! nyux m'uquy qu qnzyat qani ru wal ini' k_yan na btunux qasa.
+627	kpitaq hiya' ga, cikuy hi' nya' ru cipuq wakit nya'.	蝗蟲kpitaq頭小並且有個小尖牙。	蝗蟲kpitaq頭小並且有個小尖牙。	kpitaq hiya' ga, cikuy hi' nya' ru cipuq wakit nya'.	眼,他會眼睛和眼鏡。	cyux m'uzyay qu kngyax qasa ru ana cikuy na 'laqi'.
+628	nanu' nyux su' sqilang qani? swa' su' ini' ptywaw?	你到底為了什麼事情而懶惰？為什麼不去工作？	你到底為了什麼事情而懶惰？為什麼不去工作？	nanu' nyux su' sqilang qani? swa' su' ini' ptywaw?	你在什麼?為何你不把它丟掉呢?	nanu' su' kngyaq qani? swa' ini' psyawal lga?
+629	sqamas nya' qcyan nya' qu brbar qani.	他用衛生紙擦屁股。	他用衛生紙擦屁股。	sqamas nya' qcyan nya' qu brbar qani.	他用這把刀他的腳。	cyux nya' qu qnzyu' nya' na btunux.
+630	swa' tekuy kwara' qu qulih cinepan su'?	你釣的魚為什麼都是小的？	你釣的魚為什麼都是小的？	swa' tekuy kwara' qu qulih cinepan su'?	你的水都在哪裡?	swa' kzyuqi qu qnzyux su' la?
+631	laxi pkzyap la! p'agal simu mxal la.	不要再摔角了！你們會受傷。	不要再摔角了！你們會受傷。	laxi pkzyap la! p'agal simu mxal la.	不要人!你們會被獵到。	laxi pqzyu' lga! pbinugay simu.
