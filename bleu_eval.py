@@ -480,11 +480,13 @@ class BleuEvalHelper:
             i += 1
         self.eval_df.to_csv(f"{self.save_dir}/eval{i}.tsv", sep="\t")
 
-    def compute_metrics(self, model, state=None, return_detail=False):
+    def compute_metrics(self, model=None, state=None, return_detail=False):
         # state could be used to extract step if I want to store intermediate predictions
-        
-        was_training = model.training
-        model.eval()
+
+        was_training = False
+        if model is not None:
+            was_training = model.training
+            model.eval()
 
         scores = dict()
         self.eval_df["to_zh"] = self.generate_column("to_zh_msg", "To Mandarin", model)
@@ -520,7 +522,7 @@ class BleuEvalHelper:
             )
             scores.update(boot_summary)
 
-        if was_training:
+        if model is not None and was_training:
             model.train()
 
         return scores
@@ -590,6 +592,21 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         self.current_tracker = tracker
         return outputs
 
+
+class BleuEvalHelperFromFile(BleuEvalHelper):
+    def __init__(self, eval_file, *args, **kwargs):
+        self.eval_file = eval_file
+        eval_df = pd.read_csv(eval_file, sep="\t")
+        super().__init__(eval_df=eval_df, tokenizer=None, **kwargs)
+        
+    def generate_column(self, prompt_col, desc, model):
+        # Figure out which direction to translate
+        if "to_zh" in prompt_col:
+            return_col = "to_zh"
+        else:
+            return_col = "to_zuyu"
+        return self.eval_df[return_col]
+        
 
 class MySFTTrainer(SFTTrainer):
     def __init__(self, *args, bleu_helper: BleuEvalHelper = None, **kwargs):
