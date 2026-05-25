@@ -453,7 +453,7 @@ def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer,
 
 
 class BleuEvalHelper:
-    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None, eval_bootstrap=False):
+    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None, eval_bootstrap=False, eval_lang=None):
         self.eval_df = eval_df.reset_index(drop=True).copy()
         self.tokenizer = tokenizer
         self.score_weights = score_weights if score_weights is not None else {
@@ -463,6 +463,7 @@ class BleuEvalHelper:
         self.save_dir = save_dir
         self.current_tracker = None
         self.eval_bootstrap = eval_bootstrap
+        self.eval_lang = eval_lang
 
     def get_init_tracker(self):
         return {token: [0] for token in self.tracked_tokens}
@@ -475,10 +476,11 @@ class BleuEvalHelper:
         return outputs
 
     def save_eval_results(self):
+        lang_code = self.eval_lang or ""
         i = 1
-        while f"eval{i}.tsv" in os.listdir(self.save_dir):
+        while f"eval_{lang_code}{i}.tsv" in os.listdir(self.save_dir):
             i += 1
-        self.eval_df.to_csv(f"{self.save_dir}/eval{i}.tsv", sep="\t")
+        self.eval_df.to_csv(f"{self.save_dir}/eval_{lang_code}{i}.tsv", sep="\t")
 
     def compute_metrics(self, model=None, state=None, return_detail=False):
         # state could be used to extract step if I want to store intermediate predictions
@@ -532,6 +534,8 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
     def __init__(self, src_lang_code, zh_lang_code, *args,
                  max_source_length=256, max_target_length=256, batch_size=8, tracked_tokens=None, **kwargs):
         super().__init__(*args, **kwargs)
+        if self.eval_lang is None:
+            self.eval_lang = src_lang_code.split("_")[0]
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length
