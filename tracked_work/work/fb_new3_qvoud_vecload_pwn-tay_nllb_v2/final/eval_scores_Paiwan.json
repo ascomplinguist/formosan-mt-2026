@@ -1,14 +1,4 @@
 {
-  "tracked_tokens_to_zh": {
-    "total": [
-      7574
-    ]
-  },
-  "tracked_tokens_to_zuyu": {
-    "total": [
-      9492
-    ]
-  },
   "eval_bleu_zh": 12.302883977753998,
   "eval_chrf_zh": 17.680879608903975,
   "eval_bleu_zuyu": 10.17614175172379,
@@ -36,5 +26,5 @@
   "eval_score_boot_sd": 0.5601952934757366,
   "eval_score_ci_low": 25.46110589889231,
   "eval_score_ci_high": 27.679016905947975,
-  "commit": "79875cff0fc88163b18fce158592b201cabad4ea"
+  "commit": "e10d24b4dca3c6e4c5d1d9ed06f4aeb65c9a5a15"
 }
