@@ -13,6 +13,7 @@ bitsandbytes/
 !/lm_head.py
 !/check_git_status.py
 !/evaluate_file.py
+!/convert_lang_code.py
 !/README.md
 !/.gitignore
 
