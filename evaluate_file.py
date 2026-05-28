@@ -1,4 +1,5 @@
 import sys
+import json
 import pandas as pd
 from bleu_eval import BleuEvalHelperFromFile
 from check_git_status import ensure_files_clean, get_current_commit_hash
@@ -12,7 +13,7 @@ if len(sys.argv) < 2:
     raise ValueError("No file given")
 
 eval_files = sys.argv[1:]
-checkpoints = [eval_file.split("/")[:-1] for eval_file in eval_files]
+checkpoints = ["/".join(eval_file.split("/")[:-1]) for eval_file in eval_files]
 langs = []
 for eval_file in eval_files:
     filename = eval_file.split("/")[-1]
@@ -41,7 +42,7 @@ for eval_file in eval_files:
             if first_source == first_eval_source and last_zh == last_eval_zh and length == eval_length:
                 detected_lang = lang_name
                 print(f"Matched eval file '{filename}' to {lang_name}")
-            break
+                break
     if detected_lang is None:
         raise ValueError(f"Could not identify language of {filename}")
     langs.append(detected_lang)
@@ -49,8 +50,6 @@ for eval_file in eval_files:
 
 bleu_helpers = [
     BleuEvalHelperFromFile(
-        eval_df = None,
-        tokenizer = None,
         eval_bootstrap = True,
         eval_file = eval_file,
     )
