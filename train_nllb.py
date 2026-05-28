@@ -93,7 +93,7 @@ def main():
     SRC_LANG_CODE = config["src_lang_code"]
     if isinstance(SRC_LANG_CODE, str):
         SRC_LANG_CODE = [SRC_LANG_CODE]
-    INTERLEAVE_PROBS = config.get("interleave_probs", None) or [1] * len(train_dss)
+    INTERLEAVE_PROBS = config.get("interleave_probs", None) or [1] * len(SRC_LANG_CODE)
     LANG_WEIGHTS = {lang.split("_")[0]: p/np.sum(INTERLEAVE_PROBS) for lang, p in zip(SRC_LANG_CODE, INTERLEAVE_PROBS)}
     ZH_LANG_CODE = config["zh_lang_code"]
     TRAIN_ZH_HANT = config.get("train_zh_hant", True)
