@@ -1,0 +1,528 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	maanal tu ku tangah ni Buku.	Buku禿頭了。	Buku禿頭了。	maanal tu ku tangah ni Buku.	Buku 的頭了。	tudac sa ci Buku.
+1	u tawki ci Bunuy.	Bunuy是老闆。	Bunuy是老闆。	u tawki ci Bunuy.	Bunu是魚。	ci Bunuy ku babalaki.
+2	Kalingku Kuhkuh kuwan Maibul niyazu'.	花蓮縣瑞穗鄉鶴村馬立雲部落。	花蓮縣瑞穗鄉鶴村馬立雲部落。	Kalingku Kuhkuh kuwan Maibul niyazu'.	花蓮縣玉里鎮瑞穗鄉	Kalingku Puseku kuwan Tubu i Maibul.
+3	balaki tu ci Nunuz.	Nunuz 長大了。	Nunuz 長大了。	balaki tu ci Nunuz.	Numuz已經長大了。	balaki tu ci Numuz.
+4	i nuwalian nu luma' ni Pudaws.	Pudaws家住東海岸。	Pudaws家住東海岸。	i nuwalian nu luma' ni Pudaws.	在 Pudaws 家的前面。	i wali bayu ku luma' ni Pudaws.
+5	u Sakizaya ku uzip nu maku.	我身為撒奇萊雅人。	我身為撒奇萊雅人。	u Sakizaya ku uzip nu maku.	我的生命是撒奇萊雅族。	sakizumaay ku balucu' nu maku.
+6	i Silamitay micakay kaku tu tipus.	我在豐南部落購買穀子。	我在豐南部落購買穀子。	i Silamitay micakay kaku tu tipus.	我在花蓮買子。	micakay kaku tu tipus i Kuhkuh.
+7	ci Silu ku ngangan nu maku.	我的名字叫Silu。	我的名字叫Silu。	ci Silu ku ngangan nu maku.	我的名字叫Silu。	ci Silu ku ngangan nu maku.
+8	nanu Hulam a ngangan ku Siwin hananay.	Siwni這名字是由中文來的。	Siwni這名字是由中文來的。	nanu Hulam a ngangan ku Siwin hananay.	Siwin 就這樣被叫做Hulam。	u Cinay ku nana' ni Siwni.
+9	ci Tiway ku ngangan nu maku.	我的名字叫Tiway。	我的名字叫Tiway。	ci Tiway ku ngangan nu maku.	我的名字叫Tiway。	ci Tiway ku ngangan nu maku.
+10	ci Tuku ku ngangan nu maku.	我的名字叫Tuku。	我的名字叫Tuku。	ci Tuku ku ngangan nu maku.	我的名字叫Tuku。	ci Tukuh ku ngangan nu maku.
+11	sanglac tu ku bukes ni Unu.	Unu 的頭髮白多了。	Unu 的頭髮白多了。	sanglac tu ku bukes ni Unu.	Unu 的頭髮已白了。	tanestes tu ku bukes ni Unu.
+12	manamuh tu masengetay a kilang ku aayad.	白蟻喜歡潮濕的木頭。	白蟻喜歡潮濕的木頭。	manamuh tu masengetay a kilang ku aayad.	子喜歡沉著的樹。	manamuh ku sangutuc tu mamuesay a kilang.
+13	maduka ku abala nu maku.	我的肩牓受傷了。	我的肩牓受傷了。	maduka ku abala nu maku.	我的肩膀受傷。	malibawa ku abala nu maku.
+14	abesa' ku ni salami' ni Bunuk.	Bunuk 煮的菜很清淡。	Bunuk 煮的菜很清淡。	abesa' ku ni salami' ni Bunuk.	Bunuk 的菜沒有味。	asu' ku nisalami' ni Bunuk.
+15	acasa haw ka tayza.	當然要去。	當然要去。	acasa haw ka tayza.	順便去。	sawna sa tayza.
+16	adideman ku nuayawan nu luma' niyam.	我家前面是桑樹園。	我家前面是桑樹園。	adideman ku nuayawan nu luma' niyam.	我家前面是木屋。	nuayawan ku luma' niyam.
+17	adidi'henay kaku sa mitusul tu papah nu tabaku mietan.	小時候我常去串菸葉賺領用錢。	小時候我常去串菸葉賺領用錢。	adidi'henay kaku sa mitusul tu papah nu tabaku mietan.	我很小心要煙葉當藥材。	kalaucil kaku mipadang tu kalisiw i wawa.
+18	adiping nu gaciw kuni.	這是鵝冠。	這是鵝冠。	adiping nu gaciw kuni.	這是子的小姐。	u tupel kuyni.
+19	tabakiyay adiyuc sa mibituwad tu luma'.	大旋風會吹走房屋。	大旋風會吹走房屋。	tabakiyay adiyuc sa mibituwad tu luma'.	大人家在開會時常說『大聲』。	mabaliyus nu baliyus ku luma'.
+20	aduh sa ci Akiw i nasanal sa kanamuhan nu belaw.	Akiw 早上一打米，鄰居就很高興。	Akiw 早上一打米，鄰居就很高興。	aduh sa ci Akiw i nasanal sa kanamuhan nu belaw.	Akiw在早上小聲很喜歡鄰居。	tu sanal sa mibihkac ci Akiw sisa kalawawan nu belaw.
+21	aheciday ku heci nu lebus.	鹽膚木的果實是鹹的。	鹽膚木的果實是鹹的。	aheciday ku heci nu lebus.	子的果實很酸。	asu' ku heci nu da'dac.
+22	aheciden kaku tu silaw.	我覺得醃肉很鹹。	我覺得醃肉很鹹。	aheciden kaku tu silaw.	我覺得很酸。	aledah kaku tu titi nu pa'tang.
+23	ahemawen kaku tu malasaydangay.	我覺得老師的工作很輕鬆。	我覺得老師的工作很輕鬆。	ahemawen kaku tu malasaydangay.	我覺得很有助於病人。	ahemi'en kaku tu kawaw nu saydang.
+24	alaen ku saluk i sasa nu kalibungan!	把床舖底下的小鋤頭拿出來！	把床舖底下的小鋤頭拿出來！	alaen ku saluk i sasa nu kalibungan!	去把房裡的水泡拿去!	patahekalen kiya patusuzan nu kalibungan!
+25	naimelang ci Sinay ales hantu niza ku tabaku.	Sinay 因生病就把菸戒掉。	Sinay 因生病就把菸戒掉。	naimelang ci Sinay ales hantu niza ku tabaku.	Sinay生病因吸而痛。	siimelang ci Sinay kiyu palesen tu padingad.
+26	matalaw kaku tu alisalap.	我很怕蜈蚣。	我很怕蜈蚣。	matalaw kaku tu alisalap.	我很怕鼠。	matalaw kaku tu ngalac.
+27	aluday muculil tina zazan.	習慣走這條路。	習慣走這條路。	aluday muculil tina zazan.	雨天這條路很慢走。	namanam ku culil nina zazan.
+28	amabaliyus tu sa pihaymawi kita.	颱風將至我們要小心。	颱風將至我們要小心。	amabaliyus tu sa pihaymawi kita.	吹風了我們就去休息。	abih sa kita tu kabaliyusan.
+29	elacen ku laku aminiwaniw!	去把水田放水準備除草！	去把水田放水準備除草！	elacen ku laku aminiwaniw!	去把水田的水排放起來!	pacumacen ku laku sa misamula'!
+30	aniwiway kiya niyazu' niya Kalala.	迦納納是個寂寞的部落。	迦納納是個寂寞的部落。	aniwiway kiya niyazu' niya Kalala.	Kalala 這個部落很有愛心。	malaliday a niyazu' ku Kalana.
+31	amana ka anub kita.	我們不要貪心。	我們不要貪心。	amana ka anub kita.	我們不要太貪吃。	amana kita ka makasic.
+32	caay kanca ka tayni anusanal micudad.	明天上午務必要來上課。	明天上午務必要來上課。	caay kanca ka tayni anusanal micudad.	你每天都來不及去讀書。	sakapahen a tayza i picudadan anucila.
+33	likeluh hantu ku wawa anusani.	等一下去接小孩。	等一下去接小孩。	likeluh hantu ku wawa anusani.	孩子從那時就開始口吐口水。	pacumudi henay kiya wawa.
+34	taneng tu apaluen ku apalu ayza!	現在可以去採麵包果了！	現在可以去採麵包果了！	taneng tu apaluen ku apalu ayza!	現在去調麵包果多一點!	kapah tu amilupas tu apalu ayza!
+35	makabasu kaku atahekal midang.	我搭巴士出去玩。	我搭巴士出去玩。	makabasu kaku atahekal midang.	我喝醉後拿杯子來玩。	makacaw tu bas kaku midang.
+36	atayza kaku mizizaw tu imelangay.	我將要去探訪病患。	我將要去探訪病患。	atayza kaku mizizaw tu imelangay.	我很會看病的人。	a tayza kaku miazih tu imelangay.
+37	u atikak ku sapacemut tu buting.	用蚯蚓當餌釣魚。	用蚯蚓當餌釣魚。	u atikak ku sapacemut tu buting.	魚用竹子製作。	u tudac ku sapakan tu buting.
+38	amana ka pawan mibanaw tu atip.	不要忘記洗筷子。	不要忘記洗筷子。	amana ka pawan mibanaw tu atip.	不要忘記洗。	amana ka pawan pitawsi.
+39	auaukan ku kanamuhan nu padakuwan.	白鷺鷥喜歡在很多竹子的地方。	白鷺鷥喜歡在很多竹子的地方。	auaukan ku kanamuhan nu padakuwan.	龍眼喜歡吃海鮮果。	manamuh ku tubah i katuuday a auk.
+40	abesa' ku kabi nu aus.	小田螺的湯沒有味道。	小田螺的湯沒有味道。	abesa' ku kabi nu aus.	甜點的湯很清。	caay ka sanek ku kabi nu tamulus.
+41	awasen ni Benel ku cilis nu laku!	Benel 跨過去田裡的水溝！	Benel 跨過去田裡的水溝！	awasen ni Benel ku cilis nu laku!	去田裡的水!Benel 要去把水田的水排放好!	calapen ni Benel ku cilis nu laku!
+42	u labi ku babukud masuni i liwliw nu luma'.	蚱蜢夜晚在家附近叫聲響亮。	蚱蜢夜晚在家附近叫聲響亮。	u labi ku babukud masuni i liwliw nu luma'.	黑眼鬼在夜晚常出現在屋內。	labi' sa a 'neng ku tapilalaway i luma'.
+43	i badahung ku lesa' nu udad.	屋頂漏水。	屋頂漏水。	i badahung ku lesa' nu udad.	雨淋在屋頂。	lecuh ku badahung.
+44	calaycay ku heci nu badisusu' ni Namuh.	Namuh 種的葡萄結實纍纍。	Namuh 種的葡萄結實纍纍。	calaycay ku heci nu badisusu' ni Namuh.	Namuh 的毒的果實很酸。	mabitelac ku nipalumaan ni Namuh a badidiw.
+45	bakah sa tu kapahayay hena zikuc ci Siku.	還很好的衣服就被Siku丟棄。	還很好的衣服就被Siku丟棄。	bakah sa tu kapahayay hena zikuc ci Siku.	Siku 買這件好衣服很貴。	pahezek henay a zikuc sahenay ni Siku.
+46	balakiay tu kina katalalan.	這頭牛已長大。	這頭牛已長大。	balakiay tu kina katalalan.	這隻牛已經長大了。	balaki tu kina katalalan.
+47	u bali han ku pasaungayay tu pahpah nu kilang.	能使樹葉搖動的就是風。	能使樹葉搖動的就是風。	u bali han ku pasaungayay tu pahpah nu kilang.	用風來吹樹下。	u baliyus ku makayakay tu papah nu kilang.
+48	bangsis ku balu nu balidas.	山棕的花很香。	山棕的花很香。	bangsis ku balu nu balidas.	風的氣氛很香。	bangsis ku balu nu paza' i buyu'.
+49	u balulu ku saculu' tu tubah i sumamad.	過去用背蔞背地瓜。	過去用背蔞背地瓜。	u balulu ku saculu' tu tubah i sumamad.	以前用圓筒地瓜。	namahini tu ku subuk sa u tubah.
+50	baungen nu mita ku babalaki anu malalitemuh.	當我們遇到長輩要打招呼。	當我們遇到長輩要打招呼。	baungen nu mita ku babalaki anu malalitemuh.	老人家在遇難時常抱怨。	makaazih kita tu babalaki sa miwali.
+51	tanengen bek han nu maku kisu!	你小心被我打！	你小心被我打！	tanengen bek han nu maku kisu!	我請你去試穿!	pihaymaen kaku mucekul i tisuwan!
+52	nanu belac ku sapisaaam.	稀飯是由米所煮成的。	稀飯是由米所煮成的。	nanu belac ku sapisaaam.	煮酒時要加入米。	u sabakad ku sapihakhak.
+53	belin hantu kya nisalami'an.	順便翻炒鍋裡煮的菜。	順便翻炒鍋裡煮的菜。	belin hantu kya nisalami'an.	順便菜。	liyuh han kiya sasalami' i nabi.
+54	besi han ku masabesibesiay a banges.	皮膚上長一塊塊很多水分的即是水泡。	皮膚上長一塊塊很多水分的即是水泡。	besi han ku masabesibesiay a banges.	去乾的牛。	yadah ku tanda' nu kulit sa u tabayal tu bulad.
+55	talaayaw a patawsi sa betiken henay ku kakawsan!	要喝酒之前要先向祖先祭酒！	要喝酒之前要先向祖先祭酒！	talaayaw a patawsi sa betiken henay ku kakawsan!	請先向他提問結果!	anu sawni minanumen sa patudusen tu babalaki!
+56	betil sa ci Kaniw tu tangila nu maku.	Kaniw 故意彈我的耳朵。	Kaniw 故意彈我的耳朵。	betil sa ci Kaniw tu tangila nu maku.	Kaniw一直在我的耳朵。	mialesay ci Kaniw tu tangila nu maku.
+57	mingaay tu baha ku bicacay.	金桔可以治療咳嗽。	金桔可以治療咳嗽。	mingaay tu baha ku bicacay.	飛機已經開動了。	u sunsuli ku sakayakay tu ngales.
+58	u bila' ku ni palumaan ni ina i umah.	媽媽在田裡種的是荖葉。	媽媽在田裡種的是荖葉。	u bila' ku ni palumaan ni ina i umah.	媽媽用田種草。	papah nu lalengac ku nipaluma' ni ina i umah.
+59	buhat manakahan kya panan.	別把門開太大。	別把門開太大。	buhat manakahan kya panan.	這部機車很便宜。	amana ka habeteban ku sasaedeb.
+60	naizaay tu ku ni pilipida ni kulas tu bulabulad sa nayi' tu.	本來 Kulas 每個月有收入，但是已經沒有了。	本來 Kulas 每個月有收入，但是已經沒有了。	naizaay tu ku ni pilipida ni kulas tu bulabulad sa nayi' tu.	子用那樣的草就可以沒有了。	sibiliay tu ci Kulas i bulad ayza nayay tu.
+61	u cabay nu maku ci Taymu.	Taymu 是我的同學。	Taymu 是我的同學。	u cabay nu maku ci Taymu.	Taymu 是我的朋友。	u cacudadan nu maku ci Taymu.
+62	kisu ku cabay nu maku a tayza i sawali.	我找你做伴一同到東海岸。	我找你做伴一同到東海岸。	kisu ku cabay nu maku a tayza i sawali.	你是我去山東的同伴。	pacabayen kaku tayza i pasingaay.
+63	mipacek tu picaitan i cabeng ci Dungi.	Dungi 在牆壁上釘掛鉤。	Dungi 在牆壁上釘掛鉤。	mipacek tu picaitan i cabeng ci Dungi.	Dungi在牆上釘子。	mituktuk ci Dungi tu cabeng.
+64	i cabengen pacait ku tupel.	帽子掛在牆上。	帽子掛在牆上。	i cabengen pacait ku tupel.	在帽子上掛帽子。	micangked ku tupel i cabeng.
+65	pinanaman ku cacudadan nu wawa.	小學是學習的地方。	小學是學習的地方。	pinanaman ku cacudadan nu wawa.	這孩子的學校很豐。	u picudadan ku picudad tu micudad.
+66	azihen ku saydang tu cacudaden nu misu!	請老師批改你的作業！	請老師批改你的作業！	azihen ku saydang tu cacudaden nu misu!	去讓老師看你的學業!	pacubelisen ku saydang tu ngatu nu misu!
+67	cacuy han nu ina ku lutungay i cacacuyan.	媽媽把嬰兒放在搖籃上面搖。	媽媽把嬰兒放在搖籃上面搖。	cacuy han nu ina ku lutungay i cacacuyan.	嬰兒被媽媽帶到洗衣機。	pacelcelen nu ina ku lutungay i nanuy.
+68	caelay sa kaku tu alubu sa u nu wawa.	原來我戴的是小朋友的情人袋。	原來我戴的是小朋友的情人袋。	caelay sa kaku tu alubu sa u nu wawa.	我懷疑是不是是小孩的肚子。	u pawti nu wawa ku nipawalian nu maku.
+69	cakayan tu nu tau kiya kazizeng.	那部車已被別人買了。	那部車已被別人買了。	cakayan tu nu tau kiya kazizeng.	那部車子已經被別人買了。	mapacakay tu nu tau kiya kazizeng.
+70	u manu ku caluwayay maluk tu lutuk.	用鋤頭除草較輕鬆。	用鋤頭除草較輕鬆。	u manu ku caluwayay maluk tu lutuk.	是靠人手完成的工作。	dangah ku sapisanga' tu lutuk.
+71	u canan kuyni?	這是什麼？	這是什麼？	u canan kuyni?	這是什麼東西?	u canan kuyni?
+72	hina cawcaw kina wawa anu mililuc.	這小孩洗澡時很愛潑水。	這小孩洗澡時很愛潑水。	hina cawcaw kina wawa anu mililuc.	這個小孩洗時常亂跳。	halilucan kina wawa a mibacaan.
+73	caykaasu' kina lami' a kanen.	這道菜不好吃。	這道菜不好吃。	caykaasu' kina lami' a kanen.	這菜是最好的。	la'cus a lami' kina lami'.
+74	nisanga'an tu dita' ku caykeng.	水缸是用陶土做出來的。	水缸是用陶土做出來的。	nisanga'an tu dita' ku caykeng.	鍋子是用來製作米的。	u dita' ku sapisanga' tu saupu.
+75	celcel sa ci Imi ci Bunukan.	Imi 推擠 Bunuk。	Imi 推擠 Bunuk。	celcel sa ci Imi ci Bunukan.	Imi 一直對Bunuk氣。	padadingu ci Bunuk ni Imi.
+76	u cica' nu tubah sa sakibasal.	生吃地瓜可以幫助排泄蛔蟲。	生吃地瓜可以幫助排泄蛔蟲。	u cica' nu tubah sa sakibasal.	用地瓜的來煮。	miedac ku tubah sa mianipis tu padadiw.
+77	caay ku cikah dada' ku sakaasu' nu kabi.	不是只有鹽巴能使湯美味。	不是只有鹽巴能使湯美味。	caay ku cikah dada' ku sakaasu' nu kabi.	湯沒有味可使湯乾燥。	caay ka salacecay ku kabi nu panay.
+78	ciyan hatu ku tamulak sakalabi a lami'.	順便炒南瓜做晚餐菜餚。	順便炒南瓜做晚餐菜餚。	ciyan hatu ku tamulak sakalabi a lami'.	晚餐吃的南瓜就這麼多。	misaaam tu sakalabi ku tubah.
+79	cudaden henay ku cacudaden nu misu!	先去寫你的作業！	先去寫你的作業！	cudaden henay ku cacudaden nu misu!	去繼續讀你的學校!	pikatinengen henay ku nipiasip nu misu a kawaw!
+80	katuud kuni pahabayan ni ina aku tu siminciw i dabek.	我媽媽在工寮養了很多火雞。	我媽媽在工寮養了很多火雞。	katuud kuni pahabayan ni ina aku tu siminciw i dabek.	我媽媽養很多子。	yadah ku nipahabayan ni ina nu maku tu sangla i dabek.
+81	makanen ku dadipis nu sauwac.	河裡的蟑螂可以吃。	河裡的蟑螂可以吃。	makanen ku dadipis nu sauwac.	溪水邊生吃。	asu' ku tunuz i alangahay.
+82	damek nu umah ku lutuk.	草是田的肥料。	草是田的肥料。	damek nu umah ku lutuk.	田裡的草很肥沃。	u lutuk ku sapakan tu umah.
+83	dawmi' ku kiyu tuduhen.	茄子烤過之後會變軟。	茄子烤過之後會變軟。	dawmi' ku kiyu tuduhen.	是用來燒火的。	masamel ku kamulaw sa mangaayuh.
+84	debay i kulul nu katalalan mapintu ku lima.	牛背上跌落手脫臼。	牛背上跌落手脫臼。	debay i kulul nu katalalan mapintu ku lima.	在牛背上手會。	mapacebu ku kuku' nu katalalan.
+85	debung sa tayni tu kasaupuwan kiya tademaw.	那人不請自來到我們當中。	那人不請自來到我們當中。	debung sa tayni tu kasaupuwan kiya tademaw.	那個人不知何時來到這裡。	laliw sa kiya tademaw a tayza i niyam.
+86	mangelu' ku uzip aku tu demidemiad.	我每天都感到身體疲憊。	我每天都感到身體疲憊。	mangelu' ku uzip aku tu demidemiad.	我的身體每天都很辛苦。	hinaay tu demidemiad sa kaku.
+87	tu demidemiad salihalay sa kaku midang.	我每一天都悠遊自在的玩。	我每一天都悠遊自在的玩。	tu demidemiad salihalay sa kaku midang.	每天早上我會遊玩。	micakay kaku tu demidemiad.
+88	didi'tuan ku niyazu' nu Maibul.	馬立雲部落是鬼村。	馬立雲部落是鬼村。	didi'tuan ku niyazu' nu Maibul.	馬立雲部落是個清潔的地方。	u la'cusay a niyazu' kiya Maibul.
+89	dimata' tu bunak ci Taymu.	Taymu 挑沙子。	Taymu 挑沙子。	dimata' tu bunak ci Taymu.	Taymu 挑子。	midapu ci Taymu tu bunak.
+90	u dungi ku miladayay tu balucu' nu tademaw.	靈魂帶領人的心思意念。	靈魂帶領人的心思意念。	u dungi ku miladayay tu balucu' nu tademaw.	是神照顧人的心。	miladayaw ku balucu' tu nizateng nu tademaw.
+91	dyi' han nu babalaki ku tatayna a wawa milimula'.	長輩撒嬌稱小姑娘 dyi'。	長輩撒嬌稱小姑娘 dyi'。	dyi' han nu babalaki ku tatayna a wawa milimula'.	長輩咒罵女孩撒。	dyi' han nu babalaki ku tatayna a wawa.
+92	edeben ku patulakukan!	去關雞舍！	去關雞舍！	edeben ku patulakukan!	去關田!	hekalen ku teluk!
+93	caay ka edem ku balucu' nu tademaw.	人心永不滿足。	人心永不滿足。	caay ka edem ku balucu' nu tademaw.	人的心不容易。	caay ka sikaz ku balucu'.
+94	elacan ku taku ni Namuh a mibuting.	Namuh 把池塘放水為了要捕魚。	Namuh 把池塘放水為了要捕魚。	elacan ku taku ni Namuh a mibuting.	Namuh捕魚時用池來渡過。	mibutus ci Namuh tu taku maydih misinga'.
+95	yadah ku nikan tu elaw sa mabusuk.	酒釀吃多了會醉。	酒釀吃多了會醉。	yadah ku nikan tu elaw sa mabusuk.	喝酒過量會使人醉。	yadah ku nikan tu epah mabusuk.
+96	palamelen ku habay tu hemay sa u zuma ku asu'.	小米加白米一起煮，特別好吃。	小米加白米一起煮，特別好吃。	palamelen ku habay tu hemay sa u zuma ku asu'.	小米和飯一起混合很好吃。	pacena'en ku belac a sapaiyu, kapah kanen.
+97	i tipidan mipazeng ku habel nu pabuy.	豬的食物放在木槽裡。	豬的食物放在木槽裡。	i tipidan mipazeng ku habel nu pabuy.	在豬舍放置豬小米。	i tuludan ku kakanen nu pabuy.
+98	caay ka hacica.	很少。	很少。	caay ka hacica.	沒辦法。	nayi'ay a tayni.
+99	hakaen ku wawelwel ni ina!	去發動媽媽的摩托車！	去發動媽媽的摩托車！	hakaen ku wawelwel ni ina!	去把媽媽的摩托車拿去玩!	paculilen ku wawelwel ni ina!
+100	sinanum ci Akiw hakiya?	Akiw 有沒有帶水？	Akiw 有沒有帶水？	sinanum ci Akiw hakiya?	Akiw有多長水?	izaw ku nisangasibayan ni Akiw?
+101	hemhemen ku hemay amana henay buhati!	飯剛煮熟不要開蓋先悶蓋！	飯剛煮熟不要開蓋先悶蓋！	hemhemen ku hemay amana henay buhati!	小心飯沒有!	taneng tu pawalien ku lami' sa patatuni' henay!
+102	hini han tu.	就這樣。	就這樣。	hini han tu.	就那樣。	hiza han tu.
+103	singawa' i pabaw nu tangah ku hukang.	公牛頭上會長角。	公牛頭上會長角。	singawa' i pabaw nu tangah ku hukang.	頭上方有穿山甲。	siading ku tangah nu katalalan.
+104	anu izau ku katinengan nu mita tu hulic sa caay ka samsam nu tau.	若懂得一些法律常識，就不易受騙。	若懂得一些法律常識，就不易受騙。	anu izau ku katinengan nu mita tu hulic sa caay ka samsam nu tau.	如果有的人才不會被人認同。	anu matineng tu kawaw nu leysa sa caay ka pahengad.
+105	tayza kaku i padekuwan paazih tu imelang.	我去醫院看病。	我去醫院看病。	tayza kaku i padekuwan paazih tu imelang.	我去醫院看病。	tayza kaku i padekuwan miazih tu imelangay.
+106	amana ingign hank u banges madukaaw.	避免曝曬皮膚免得受傷。	避免曝曬皮膚免得受傷。	amana ingign hank u banges madukaaw.	不要用刀傷害身體。	amana pawalien ku banges matapatengaw.
+107	mangaluh ku malukay mukan tu kabutulay.	工人口渴吃腎蕨。	工人口渴吃腎蕨。	mangaluh ku malukay mukan tu kabutulay.	農民討厭吃白子。	mangaluh ku masaupuay mukan tu sienaw.
+108	adidi' ku papah malecad u cepi' ku akaway kacepi'ay han pangangan.	青江菜葉子小，梗像大腿所以叫大腿菜。	青江菜葉子小，梗像大腿所以叫大腿菜。	adidi' ku papah malecad u cepi' ku akaway kacepi'ay han pangangan.	葉子一點免得傷身。	u papah nu kayabes kiyu samuwacay a sangelac kiyu tengalan.
+109	la'cus pahabayen ku kahkah mubahel.	紅面鴨不好養因為牠會飛。	紅面鴨不好養因為牠會飛。	la'cus pahabayen ku kahkah mubahel.	搖動一搖就對不起。	la'cus ku sapakan tu nuhpicay a mamiyad.
+110	sibaninih ku kakalitangan nu maku.	我的花生園有很多蟋蟀。	我的花生園有很多蟋蟀。	sibaninih ku kakalitangan nu maku.	我有十幾種花生。	yadah ku angsi nu kalitang nu maku.
+111	siuning ku kakelikeli'an nu zikuc ni Tenged.	Tenged衣服的腋下很髒。	Tenged衣服的腋下很髒。	siuning ku kakelikeli'an nu zikuc ni Tenged.	Tenged 的衣服有滑坡。	ahetket ku puces nu zikuc ni Tenged.
+112	kakitaan ku pikadabuan ni Siwin.	Siwin 嫁到富有的婆家。	Siwin 嫁到富有的婆家。	kakitaan ku pikadabuan ni Siwin.	Siwin的生日禮拜是有錢的。	siwina' ci Siwin tu siidakay a acawa.
+113	kalacunged kiya babalaki anu sakamuen.	那個老人家才被說一下脾氣就來了。	那個老人家才被說一下脾氣就來了。	kalacunged kiya babalaki anu sakamuen.	那老人不懂話。	na mabalucu'ay kiya babalaki tayni taluma'.
+114	kalamkamen ku bawad a maluk.	作工的動作快一點。	作工的動作快一點。	kalamkamen ku bawad a maluk.	耕作是最快的。	azaway ku bawad nu malukay.
+115	u katalawan nu wawa sa u kalapiyat.	小孩子最怕閃電。	小孩子最怕閃電。	u katalawan nu wawa sa u kalapiyat.	小孩怕的是小刀。	sa ku wawa matalaw tu mililiyung.
+116	balaki ku tademaw kalasinawal tu.	人老了很容易頭暈。	人老了很容易頭暈。	balaki ku tademaw kalasinawal tu.	人已老邁可以常忘記。	balaki tu ku tademaw sa mabuting.
+117	kalihanawan ku pisakakawawan nu wawa nu maku.	我孩子的工作性質讓我擔心。	我孩子的工作性質讓我擔心。	kalihanawan ku pisakakawawan nu wawa nu maku.	我覺得我的孩子很有能力。	pakalatay kaku tu kawaw nu wawa aku.
+118	kalitubah ku kakanen nu babalaki i sumamad.	從前老人家都吃葛鬱金。	從前老人家都吃葛鬱金。	kalitubah ku kakanen nu babalaki i sumamad.	過去,長輩以瓜為食材。	namahini ku kalaucung nu babalaki.
+119	i tasutasunan ku nikauzip nu kaludi.	泥鰍生存在泥沼中。	泥鰍生存在泥沼中。	i tasutasunan ku nikauzip nu kaludi.	子生在泥沼地。	tasutasunan ku kaludi a mauzip.
+120	malibawa ku duka sipasipen tu kalusa'ay.	火炭母草莖葉搗碎後塗抹在傷腫處可消腫。	火炭母草莖葉搗碎後塗抹在傷腫處可消腫。	malibawa ku duka sipasipen tu kalusa'ay.	傷口腫起來要擦。	lupisak sa ku papah nu lucik sapisina' tu duka.
+121	u kalut ku sapimuni' tu maatiladay a lala'.	手耙是用來粉碎土塊的工具。	手耙是用來粉碎土塊的工具。	u kalut ku sapimuni' tu maatiladay a lala'.	用泥來填補爛土。	u sapisupit tu lala' ku takid.
+122	pahezek mikuwapi sa kaluten tu.	割耙之後就可以使用手耙了。	割耙之後就可以使用手耙了。	pahezek mikuwapi sa kaluten tu.	完整的完成之後,就結束。	milangec tu sa kapah tu ku sapitulu.
+123	kasihecian nu kamaya ayza.	現在是毛柿長果子的時機。	現在是毛柿長果子的時機。	kasihecian nu kamaya ayza.	現在是最高級的。	ayza ku kasihecian nu mamiay tu heci nu lalengac.
+124	makalikes kasicalaped ku kapahay!	蚊蟲多要穿長褲比較好！	蚊蟲多要穿長褲比較好！	makalikes kasicalaped ku kapahay!	好穿鞋子容易滑倒!	yadahen ku tulitiy sa sapazaet tu calaped!
+125	puu' nu kasienawan.	冬季。	冬季。	puu' nu kasienawan.	冬天。	kasienawan.
+126	kasuy han ni Kacaw ni palumaan a kilang ni Putal.	Kacaw 把 Putal 種的樹林當木材砍。	Kacaw 把 Putal 種的樹林當木材砍。	kasuy han ni Kacaw ni palumaan a kilang ni Putal.	Kacaw 用木材來砍Putal種的樹。	telumen ni Kacaw ku nipalumaan ni Putal a kilang.
+127	katatudud a pabeli tu cudad.	把書傳過去。	把書傳過去。	katatudud a pabeli tu cudad.	翻開書最直接的。	palaziwen kiya cudad i.
+128	katukuh i Sakul sa patelay han tu kaku.	一到國福就打電話給我。	一到國福就打電話給我。	katukuh i Sakul sa patelay han tu kaku.	我到撒固兒部落時被叫醒。	katukuh i Kuhkuh sa miawaw tu ciniza i takuwanan.
+129	katukuh tu kaku i niyazu' nu Maibul.	我到馬立雲部落了。	我到馬立雲部落了。	katukuh tu kaku i niyazu' nu Maibul.	我在馬立雲部落很久了。	tayza tu kaku i Maibul.
+130	papah nu katup sapaiyu tu siwanengay ku isi'.	欖仁民間將葉子煮湯來喝可治糖尿病。	欖仁民間將葉子煮湯來喝可治糖尿病。	papah nu katup sapaiyu tu siwanengay ku isi'.	的葉子可補麻。	sapabibil nu tabayal ku sapakan sa u tebing.
+131	aluday ku kawili niza wawa misulit.	這個小孩習慣用左手寫字。	這個小孩習慣用左手寫字。	aluday ku kawili niza wawa misulit.	那小孩用灰草寫字。	malikalik kina wawa tu bali.
+132	kilimen ku katalalan i umah.	去園裡找那頭牛。	去園裡找那頭牛。	kilimen ku katalalan i umah.	去田裡放牛。	pikimuken kiya katalalan i umah.
+133	masazuma tu ku wayway nu kitakit.	世界改變了。	世界改變了。	masazuma tu ku wayway nu kitakit.	蚊子的樣子改變了。	masasizuma tu ku nikauzip nu binawlan.
+134	yadah ku kuhkuh i laku.	水田有很多田螺。	水田有很多田螺。	yadah ku kuhkuh i laku.	水田裡有很多。	yadah ku tubah i laku.
+135	mabutus ku kuku' ni baki.	叔叔的腳水腫了。	叔叔的腳水腫了。	mabutus ku kuku' ni baki.	叔叔的腳水泡了。	mabutus ku kuku' ni baki.
+136	labangbang sa ku zikuc nu babalaki.	老人家的衣服很寬鬆。	老人家的衣服很寬鬆。	labangbang sa ku zikuc nu babalaki.	老人的衣服都是寬鬆的。	ahbal ku zikuc nu babalaki.
+137	labungen i lala' kiya tayu.	把生薑埋在土裡。	把生薑埋在土裡。	labungen i lala' kiya tayu.	把田弄亂。	i labuen ku sawdawa.
+138	lakecen kiya alangahay tiya katukuh kita!	我們必須要過河才能到達！	我們必須要過河才能到達！	lakecen kiya alangahay tiya katukuh kita!	去渡過河流到那邊才能到達!	cacebaen ku alangahay a makatukuh kita!
+139	yadah i bayu ku lalacan.	海邊很多海螺。	海邊很多海螺。	yadah i bayu ku lalacan.	海裡有很多魚。	yadah ku tubah i lilis nu bayu.
+140	u lalami a misanga'an a lait.	用稻草製作的繩子。	用稻草製作的繩子。	u lalami a misanga'an a lait.	是用來製作甜食的。	sapisanga' tu uli' ku lait.
+141	u lalengawan nu bunnga' ku kamu'.	語言是文化的起源。	語言是文化的起源。	u lalengawan nu bunnga' ku kamu'.	故事是用豆做出來的。	u tungus ku sapakan tu lisin nu binawlan.
+142	laliti'an kina lenget ni Kumud.	Kumud的豬舍是閹豬的地方。	Kumud的豬舍是閹豬的地方。	laliti'an kina lenget ni Kumud.	Kumud 的腳印是刻的。	pabuyingan ku pibihkac ni Kumud.
+143	laliyas sa tu kuheni a tatusa.	他們倆就這樣分開了。	他們倆就這樣分開了。	laliyas sa tu kuheni a tatusa.	這些人搬走,趕快回家了。	ngalaya han kuheni mapalaway.
+144	katukuh han tu tu lalud.	夏天到了。	夏天到了。	katukuh han tu tu lalud.	去到太陽。	tu ku lalud ayza.
+145	yadah ku lami' i palami'an.	菜園裡很多菜。	菜園裡很多菜。	yadah ku lami' i palami'an.	菜園裡有很多菜。	yadah ku lami' i palami'an.
+146	u lamit nu kilang kuyni.	這是樹根。	這是樹根。	u lamit nu kilang kuyni.	這是樹的種子。	u lumulu' nina kilang.
+147	kapah ku langaw nina padingad.	這片鳳梨田長的很好。	這片鳳梨田長的很好。	kapah ku langaw nina padingad.	這梨樹長得很好。	kapah ku langaw nina padingad.
+148	nayi' ku lawad nu maku tayza i luma' nu misu.	我沒有時間去你家。	我沒有時間去你家。	nayi' ku lawad nu maku tayza i luma' nu misu.	我沒有帶領你去你的家。	nayay ku tenesen nu maku tayza i luma' nu misu.
+149	cima ku lawpesen sananay tu kalisiw?	是誰把錢弄丟？	是誰把錢弄丟？	cima ku lawpesen sananay tu kalisiw?	是誰要拿錢來的?	cima ku milawpesay tu kalisiw?
+150	kau tanayu'ay ku ledung taumah.	去田裡時務必穿長袖。	去田裡時務必穿長袖。	kau tanayu'ay ku ledung taumah.	太長了去田裡。	anu taumah sa sicacay ku lima.
+151	lekala tu! misakalanam a mumul maluk.	起床了！要煮早餐準備上工。	起床了！要煮早餐準備上工。	lekala tu! misakalanam a mumul maluk.	開始工作了!剛開始工作。	mulekal tu a mumul tu pakakalahuk.
+152	lekecen ku payselaselal nu niyazu'!	去團結起部落各年齡階級！	去團結起部落各年齡階級！	lekecen ku payselaselal nu niyazu'!	部落要團結!	sakapulungen ku sakacacay a katuuday nu niyazu'!
+153	liduen tu ku bihkac nu misu!	你去查看你放的陷阱！	你去查看你放的陷阱！	liduen tu ku bihkac nu misu!	去把你的陷拆掉!	pihicaen ku nipipazan nu misu a bihkac!
+154	manamuh kaku tu tanayu'ay ku liel.	我很喜歡脖子長的。	我很喜歡脖子長的。	manamuh kaku tu tanayu'ay ku liel.	我最喜歡子長的。	manamuh kaku tu sicilal a mami.
+155	sizuma amana ka sa patatenga' tu lihab.	不要相信謠言。	不要相信謠言。	sizuma amana ka sa patatenga' tu lihab.	不要隨便亂丟肚子。	amana pitekengen ku kamu.
+156	pahezek tu ku kawaw lihalay tu kaku.	工作完成我輕鬆了。	工作完成我輕鬆了。	pahezek tu ku kawaw lihalay tu kaku.	工作結束了我離開你們。	malaheciw tu kaku a miheca tu kawaw.
+157	lihanaw kaku tu wawa aku.	我好擔心我的孩子。	我好擔心我的孩子。	lihanaw kaku tu wawa aku.	我懷孕了孩子。	malihanaw kaku tu wawa nu maku.
+158	lihanaway kaku tataytay tiya luma'.	我很害怕自己去那間空屋。	我很害怕自己去那間空屋。	lihanaway kaku tataytay tiya luma'.	我很想去那個家。	matalaw kaku a tayza i ya luma' izau.
+159	u canan a likat kuyza saw?	那是什麼光？	那是什麼光？	u canan a likat kuyza saw?	那是什麼東西?	u canan ku sakatakelal?
+160	kizemu kaku likecu tu ku zikuc.	我胖衣服都很窄了。	我胖衣服都很窄了。	kizemu kaku likecu tu ku zikuc.	我很胖所以不要再穿衣服了。	makutay tu ku kizemuay a zikuc nu maku.
+161	calenget ku nikalatan nu likes.	被蚊子咬過的地方會覺得癢。	被蚊子咬過的地方會覺得癢。	calenget ku nikalatan nu likes.	蚊子咬的地方很。	makalat ku nikalatan nu likes.
+162	linengen kiya sapibaca' tu zikuc!	去啟動洗衣機！	去啟動洗衣機！	linengen kiya sapibaca' tu zikuc!	要衣服要洗的好!	pikiluen kiya cacebal!
+163	linges sa kaku a makaazih cinizaan.	我很討厭看到他。	我很討厭看到他。	linges sa kaku a makaazih cinizaan.	我很討厭看到他。	mabidang kaku makaazih tiya cinizaan.
+164	misanga' tu lubu ci Taymu.	Taymu搭蓋雞舍。	Taymu搭蓋雞舍。	misanga' tu lubu ci Taymu.	Taymu 做嬰兒床。	misaluma' ci Taymu tu sangla.
+165	siduba' ku lukedaw.	雲豹跑得很快。	雲豹跑得很快。	siduba' ku lukedaw.	豬舍有跑狗。	kalamkam sa ku kalang nu alitilelan.
+166	kawaw nu luma'.	家事。	家事。	kawaw nu luma'.	家務。	kawaw nu luma'.
+167	lumeni' ku banges niya limecedan.	那位小姐的膚色很黑。	那位小姐的膚色很黑。	lumeni' ku banges niya limecedan.	那位小姐的皮膚是黑色的。	lumeni' ku kulit niya limecedan.
+168	u lunguc nu maku i tisuwan sa pahezeken ku nipicudad.	我對你的期望是一定要完成學業。	我對你的期望是一定要完成學業。	u lunguc nu maku i tisuwan sa pahezeken ku nipicudad.	我寫好的好,請你完成這本書。	mihalhal kaku i tisuwan sakapahen tu micudad.
+169	mibelesiw tu lutuk i umah.	到田裡劈草。	到田裡劈草。	mibelesiw tu lutuk i umah.	草在田裡。	katayza i umah miluwa.
+170	luwalu'en tu i haw caay ka sanek!	要漱口才不會有口臭！	要漱口才不會有口臭！	luwalu'en tu i haw caay ka sanek!	常說事不要亂講!	sipuen ku ngisngis tiya caay ka ahedaw nu ngiha'!
+171	maawaw ni Mayaw kaku a maduba' i Puseku.	我被 Mayaw叫去玉里跑步。	我被 Mayaw叫去玉里跑步。	maawaw ni Mayaw kaku a maduba' i Puseku.	我在玉里縣跑步時被 Mayaw 邀請。	miawaw kaku ci Mayaw maduba' i Puseku.
+172	maawzaay nu yakuba ci Bunuk musakakawaw.	Bunuk被雇用在鄉公所上班。	Bunuk被雇用在鄉公所上班。	maawzaay nu yakuba ci Bunuk musakakawaw.	Bunuk 在家族裡被邀請做工作。	mapadalaw ci Bunuk a misakakawaw i nukay.
+173	mabalud tu ku nisapudan nu maku a tudem.	我撿的漂流木已經綁好了。	我撿的漂流木已經綁好了。	mabalud tu ku nisapudan nu maku a tudem.	我的子被出來了。	masiket tu ku nibaludan nu maku a tudem.
+174	mabanaw tu ku kaysing.	碗洗好了。	碗洗好了。	mabanaw tu ku kaysing.	碗已被清洗好了。	mahuca tu ku kaysing.
+175	mabangabang ku bukes ni Bunga.	Bunga 的頭髮很散亂。	Bunga 的頭髮很散亂。	mabangabang ku bukes ni Bunga.	Bunga 的頭髮是染色的。	malalamel ku bukes ni Bunga.
+176	pina tu a demiad mabanic kaku.	我拉肚子好幾天了。	我拉肚子好幾天了。	pina tu a demiad mabanic kaku.	我十幾天都沒有。	matimel tu ku bili nu maku.
+177	mabihun tu ku mapatayay.	往生者已經被化好妝了。	往生者已經被化好妝了。	mabihun tu ku mapatayay.	死者已經被解散了。	malimulak tu ku mauzipay.
+178	mabilil ci Kacaw mipelu' tu heci nu kayabes.	Kacaw 很勤快的摘番石榴。	Kacaw 很勤快的摘番石榴。	mabilil ci Kacaw mipelu' tu heci nu kayabes.	Kacaw很勤快的把芭樂果實拿去割。	mabililay ci Kacaw a milangec.
+179	mabusuk kaku nasandeb.	我昨晚喝醉了。	我昨晚喝醉了。	mabusuk kaku nasandeb.	我昨天晚上喝醉了。	mabusuk kaku nasandeb.
+180	macabiyas ku nanum nu pa'tang.	木桶的水滿出來了。	木桶的水滿出來了。	macabiyas ku nanum nu pa'tang.	鍋子裡的水滿出來了。	maculul tu ku pa'tang.
+181	macamul nu kulang ku kenaw.	把芥菜混到大蔥裡面。	把芥菜混到大蔥裡面。	macamul nu kulang ku kenaw.	被蛇吞了。	lamelen i bulubulu' kiya salengacay.
+182	macangalen kaku tu suni nu kazizeng.	我覺得汽車聲很吵。	我覺得汽車聲很吵。	macangalen kaku tu suni nu kazizeng.	我覺得車子的聲音很麻煩。	lengleng sa kaku tu suni nu kazizeng.
+183	macupu tu ku nuayawan nu Sakul a niyazu'.	撒固兒部落前已經有堤防了。	撒固兒部落前已經有堤防了。	macupu tu ku nuayawan nu Sakul a niyazu'.	撒固兒部落現在已經成為部落。	sediw tu i Sakul ku niyazu'.
+184	u madapunuhay tu ci Kuli.	Kuli 是喪偶的人。	Kuli 是喪偶的人。	u madapunuhay tu ci Kuli.	Kuli 是個騙子。	u malawacuyay ci Kuli.
+185	madihi tu babalaki kiya tayling.	那位警察關心老人。	那位警察關心老人。	madihi tu babalaki kiya tayling.	那條路很容易到老人。	mapadeku kiya tatayna.
+186	u madiputay nu maku kiya wawa.	這個小孩是我照顧的。	這個小孩是我照顧的。	u madiputay nu maku kiya wawa.	那小孩是我的護照。	pahabayan nu maku kina wawa.
+187	maduka kaku napawawelwel.	我騎機車受傷了。	我騎機車受傷了。	maduka kaku napawawelwel.	我受過電動傷。	malibung kaku paculil tu wawelwel.
+188	maedeb tu ku sulu.	倉庫已經被關上。	倉庫已經被關上。	maedeb tu ku sulu.	倉庫已經關好了。	maedeb tu kiya sulu.
+189	adasay diputen nu takalaway ku maepiay amin.	希望政府照顧所有的殘障者。	希望政府照顧所有的殘障者。	adasay diputen nu takalaway ku maepiay amin.	富豪們都很喜歡擁有的東西。	mihemhem ku pukaw tu maliyuhay amin a tademaw.
+190	u sapiemic tu bukes ku mahedaway nu maku.	我掉的是髮夾。	我掉的是髮夾。	u sapiemic tu bukes ku mahedaway nu maku.	我是用髮剪的。	u pudac ku napuling nu maku.
+191	maid'iday tu kiya basis.	那豬肉已烤過。	那豬肉已烤過。	maid'iday tu kiya basis.	豬肉已經烤好了。	maacakay tu kiya titi nu pabuy.
+192	mainging nu cilal ku niapaan tu wawa.	背在背上的小孩被太陽曬了。	背在背上的小孩被太陽曬了。	mainging nu cilal ku niapaan tu wawa.	太陽照到這孩子。	maedil nu cilal kiya wawa i kulul.
+193	makademec kaku tu tau.	我打贏人家。	我打贏人家。	makademec kaku tu tau.	我會對別人眼。	mibetik kaku tu micumulay.
+194	makadungdung ku cima katukuh i pahezekan sa u musepiay.	能忍耐到底的就是幸福的人。	能忍耐到底的就是幸福的人。	makadungdung ku cima katukuh i pahezekan sa u musepiay.	收費員很討厭到停工是不公平的。	u kapahay a tademaw ku mihemay.
+195	mahetik ku kalisiw nu maku a makakilim.	我的錢遺失了所以在找。	我的錢遺失了所以在找。	mahetik ku kalisiw nu maku a makakilim.	我去找錢得到了。	mahedaw ku kalisiw nu maku kiyu makakilim.
+196	makalusa' ku mata sa paazihen ku misaydang.	眼睛常流淚，去給醫生看。	眼睛常流淚，去給醫生看。	makalusa' ku mata sa paazihen ku misaydang.	眼睛有異物才讓醫生看。	kalaangic ku mata sa palimaen tu misaydang.
+197	makasic maluk, u mamangalay.	工作懶惰終身必飢餓。	工作懶惰終身必飢餓。	makasic maluk, u mamangalay.	惰工作,容易怠。	makasic tu i mahudaday mangalay ku nikauzip.
+198	nayay ku kakanen nu makasicay a tademaw.	懶惰的人沒東西吃。	懶惰的人沒東西吃。	nayay ku kakanen nu makasicay a tademaw.	惰的人沒有食物。	caay ka tu kakanen ku makasicay.
+199	makelem nu maku ku ukak.	骨頭被我咬碎。	骨頭被我咬碎。	makelem nu maku ku ukak.	我的骨被我塞住了。	malebut nu maku ku ukak.
+200	makesemay azihen kiya tademaw.	那個人看起來很悲傷。	那個人看起來很悲傷。	makesemay azihen kiya tademaw.	那個人看起來很可愛。	meluc sa azihen kiya tademaw.
+201	maketun ku lima ni Umin i pisakakawawan.	Umin 在公司用斷了手。	Umin 在公司用斷了手。	maketun ku lima ni Umin i pisakakawawan.	Umin工作時手硬。	mitapes ci Umin i lima nu misakakawaway.
+202	u malaapetay ci Ilid aci Sawmah.	Ilid 跟 Sawmah 是妯娌關係的。	Ilid 跟 Sawmah 是妯娌關係的。	u malaapetay ci Ilid aci Sawmah.	Ilid和Sawmah是雙胞胎。	malucecay ci Ilid aci Sawmah.
+203	malabadesay ci Umas mipadeku tu saba niza.	Umas 為了照顧他的弟弟而痛苦。	Umas 為了照顧他的弟弟而痛苦。	malabadesay ci Umas mipadeku tu saba niza.	Umas很勤勞照顧他的妹妹。	maedil ci Umas midipeng tu saba niza.
+204	adasay malaheci ku lunguc nu mita.	但願我們的祈求可以實現。	但願我們的祈求可以實現。	adasay malaheci ku lunguc nu mita.	我們的嘴巴才剛結束了。	matungusan ku nipiyamayan nu mita.
+205	malakapah ku saacawaan nu maku.	我的結婚對象很英俊。	我的結婚對象很英俊。	malakapah ku saacawaan nu maku.	我的朋友很好人。	salunganay ku tatama nu maku a palicaen.
+206	malakapahay kiya wawa ni Sinay i Maibul.	Sinay 的兒子是馬立雲部落裡最帥的。	Sinay 的兒子是馬立雲部落裡最帥的。	malakapahay kiya wawa ni Sinay i Maibul.	Sinay的小孩在馬立雲部落很聰明。	satadasus ku wawa ni Sinay i niyazu' nu Maibul.
+207	malebut ku telay nu dingki.	電燈的電線被用斷了。	電燈的電線被用斷了。	malebut ku telay nu dingki.	電線被斷。	mahetik ku telay nu dingki.
+208	u telay nu dingki ku malebutay.	被用斷的是電燈的電線。	被用斷的是電燈的電線。	u telay nu dingki ku malebutay.	是電線斷的。	u telay nu dingki ku pikedil tu.
+209	maletep ni Akiw ci Tubah i zazan.	Tubah在路上被Akiw追上。	Tubah在路上被Akiw追上。	maletep ni Akiw ci Tubah i zazan.	Tubah 在路上被 Akiw 擋住。	malemu' ni Akiw ci Tubah i zazan.
+210	malikalik tu kalahukan siangil ku kawaw.	午睡後工作會有精神。	午睡後工作會有精神。	malikalik tu kalahukan siangil ku kawaw.	中午早上工作的人來了。	simabi' kita a sibiliy ku pisakakawaw.
+211	haymawen ku pukan malikedaw.	小心吃別噎到了。	小心吃別噎到了。	haymawen ku pukan malikedaw.	飯鍋要煮乾淨以免被掉。	haymawen mukan tu malacibi'ay.
+212	malikelun ku culil sa adada ku tusuz nu maku.	我走下坡時膝蓋會痛。	我走下坡時膝蓋會痛。	malikelun ku culil sa adada ku tusuz nu maku.	我走路到腳痛。	adada ku tusuz nu maku taluma' i teban.
+213	malineng tu ku kikay.	機器已轉動了。	機器已轉動了。	malineng tu ku kikay.	轉動了。	milingking tu ku masin.
+214	malinges kaku i ci nizaan.	他被我討厭。	他被我討厭。	malinges kaku i ci nizaan.	我討厭他。	maedil nu maku ciniza.
+215	u maliyuhay tu nu tademawan ci Benel.	Benel最不懂得做人。	Benel最不懂得做人。	u maliyuhay tu nu tademawan ci Benel.	Benel 是愛說話的人。	u pilikaay ku katinengan ni Benel tu misakakawaw.
+216	maemek nu kazizeng ku kuku' mamelmel ku ukak.	腳骨被車子輾碎了。	腳骨被車子輾碎了。	maemek nu kazizeng ku kuku' mamelmel ku ukak.	被車子踩到的腳骨。	malepi' nu kazizeng ku kuku'.
+217	kisu ku mamitabu tu zikuc nu maku.	你來打包我的衣服。	你來打包我的衣服。	kisu ku mamitabu tu zikuc nu maku.	你來幫我縫補衣服。	kisu ku pabuy tu zikuc nu maku.
+218	manacnac nu wacu ku duka ni Kacaw.	Kacaw的傷口被狗舔。	Kacaw的傷口被狗舔。	manacnac nu wacu ku duka ni Kacaw.	Kacaw 的傷口被狗了。	mitukudan nu wacu ku duka ni Kacaw.
+219	mananihalay ku malihmihay a zikuc.	衣服飾薄紗很透明。	衣服飾薄紗很透明。	mananihalay ku malihmihay a zikuc.	的衣服是容易脫水的。	malawin ku zikuc a satazengen.
+220	mangaleb kiya imelang niza.	他的病情惡化。	他的病情惡化。	mangaleb kiya imelang niza.	他的病很嚴重。	malawacuway ku imelang niza.
+221	mangazu ku iluc nu atimsi.	龍葵的尾端很嫩。	龍葵的尾端很嫩。	mangazu ku iluc nu atimsi.	青春的花開了。	sicedam ku iluc nu kalang.
+222	mangicngic nu cilekay ku takal.	桌子被蟲子啃蝕。	桌子被蟲子啃蝕。	mangicngic nu cilekay ku takal.	桌子上有雞。	maedac nu takal ku takal.
+223	mangitid nu wacu ku kala ni baki.	叔叔的獵物被狗叼走了。	叔叔的獵物被狗叼走了。	mangitid nu wacu ku kala ni baki.	叔叔的被狗咬了。	malima nu wacu ku kalabaw ni baki.
+224	mangta'ay a kalitang sademsem sa kanen.	生花生吃起來很爽口。	生花生吃起來很爽口。	mangta'ay a kalitang sademsem sa kanen.	腐爛的花生很香。	asu' kanen ku kalitang.
+225	katalawan azihen ku mangucedisay a tademaw.	面目凶惡的人看起來很可怕。	面目凶惡的人看起來很可怕。	katalawan azihen ku mangucedisay a tademaw.	食的人看起來真可怕。	katalawan a azihen ku mazuhemay a tademaw.
+226	u labi sa masuni tu ku maninih.	一到夜晚蟋蟀就應聲。	一到夜晚蟋蟀就應聲。	u labi sa masuni tu ku maninih.	夜間有聲音。	anu kalabian sa kasiwliw ku tingnaw.
+227	mapaaca tu aku.	我已付錢了。	我已付錢了。	mapaaca tu aku.	我付了錢。	mapabeli tu nu maku tu paysu'.
+228	mapacibul nu bunak ku lala'.	泥土被砂石混和。	泥土被砂石混和。	mapacibul nu bunak ku lala'.	泥土被石頭堆積。	malalamel nu ba'tu ku lala'.
+229	mapadaki kaku muculil tu labi.	我晚上走路很膽小。	我晚上走路很膽小。	mapadaki kaku muculil tu labi.	我在夜間走路覺得很長。	matalaw kaku a muculil tu labi.
+230	tayza i luma' sa kaku mapahalhal tu nu wawa tu sakalahuk.	我回到家時，小孩已經為我準備好中餐了。	我回到家時，小孩已經為我準備好中餐了。	tayza i luma' sa kaku mapahalhal tu nu wawa tu sakalahuk.	我到家裡準備早餐給孩子。	taluma' kaku milangatu tu nu wawa tu sakalahuk nu maku.
+231	mapatekung ku tangah i cabeng.	頭被敲到牆壁。	頭被敲到牆壁。	mapatekung ku tangah i cabeng.	掛在牆上頭的陷。	matebat ku tangah tu cabeng.
+232	mapatelid nu tau kaku.	我被別人嫁禍。	我被別人嫁禍。	mapatelid nu tau kaku.	我被別人挑戰了。	malabades nu tau kaku.
+233	mapatizeng tu ku luma' nu misu Panay.	Panay你的房子蓋好了。	Panay你的房子蓋好了。	mapatizeng tu ku luma' nu misu Panay.	Panay 的家已經賣掉了。	mapabangsun tu ku luma' isu ni Panay.
+234	mahetik ku cungal sa mapeci' tu.	酒瓶掉到地上就摔破了。	酒瓶掉到地上就摔破了。	mahetik ku cungal sa mapeci' tu.	松竹一被掉就斷了。	mapacelem ku tabakiay namatiik.
+235	mapecih ni Kacaw ku tunuz.	糯米被Kacaw撥開。	糯米被Kacaw撥開。	mapecih ni Kacaw ku tunuz.	Kacaw 把麻弄斷。	mabulesiw ni Kacaw ku tipus.
+236	katalawan mapelal ku buyu'.	山崩塌很恐怖。	山崩塌很恐怖。	katalawan mapelal ku buyu'.	山上爬山很可怕。	katalawan ku mulungaay nu buyu'.
+237	mapili' nu binawlan ci Etuy a malatumuk.	Etuy被部落選為部落領袖。	Etuy被部落選為部落領袖。	mapili' nu binawlan ci Etuy a malatumuk.	族人選用Etuy來參加賽事。	u tumuk nu niyazu'ay ci Etuyan sa u tumuk.
+238	masaatilad tu ku matabesiway a hacul nu katalalan.	過期的牛奶會成塊狀。	過期的牛奶會成塊狀。	masaatilad tu ku matabesiway a hacul nu katalalan.	牛的水已經被分開了。	masacul ku hacul nu ba'tu.
+239	masapal tu ku kakabi'an ni ama a ci ina.	父母的床已經舖好了。	父母的床已經舖好了。	masapal tu ku kakabi'an ni ama a ci ina.	爸爸和媽媽的床已經被蓋好了。	maatal tu ku kakabi'an ni ama.
+240	u caay pikales kiyu masasibud ku bukes.	因沒整理頭髮才頭髮散亂。	因沒整理頭髮才頭髮散亂。	u caay pikales kiyu masasibud ku bukes.	因為沒有穿衣服,所以頭髮會發。	caay ka lisimet tu bukes sa mucebu' ku bukes.
+241	masasucabay ay kami a tatusa.	我們兩個是朋友。	我們兩個是朋友。	masasucabay ay kami a tatusa.	我們二人都是同伴。	u cabay kami a mapulung.
+242	masasumidang ku wawa ni Benel atu wawa ni Bunuk.	Benel 和 Bunuk 的孩子在交往。	Benel 和 Bunuk 的孩子在交往。	masasumidang ku wawa ni Benel atu wawa ni Bunuk.	Benel 和 Bunuk 的孩子是互相喜歡的。	malililay ku wawa ni Benel aci Bunuk.
+243	masenat nu lucik ku kuku' nu maku namibelesiw tu cilis.	我砍水溝的草時被草割到。	我砍水溝的草時被草割到。	masenat nu lucik ku kuku' nu maku namibelesiw tu cilis.	我的腳被草刺到因為爬上路。	milmil kaku tu lutuk malabung nu lucik.
+244	masilsil ku papacakayen a lami' i Iciba.	市場要賣的菜擺的很整齊。	市場要賣的菜擺的很整齊。	masilsil ku papacakayen a lami' i Iciba.	賣的菜在伊奇巴部落有芽。	silsil tu lami' i tiza picakayay i tiza pikakayan.
+245	masinang kina bakan.	這把刀很利。	這把刀很利。	masinang kina bakan.	這個刀很巧。	masinang kina bakan.
+246	tada yadah ku kawaw sa masiwala kuzuma.	因為事情太多所以弄亂了。	因為事情太多所以弄亂了。	tada yadah ku kawaw sa masiwala kuzuma.	事務過多導致疏忽。	yadah ku kawaw kiyu malalamel.
+247	masuni ku dadayday kapah tengilen.	蟬的叫聲很好聽。	蟬的叫聲很好聽。	masuni ku dadayday kapah tengilen.	聽聲音很好聽。	kapah tengilen ku ngiha' nu kalang.
+248	masuut ku husu nu nanum mabetas.	水管一被阻塞就爆裂。	水管一被阻塞就爆裂。	masuut ku husu nu nanum mabetas.	水管掉後就打結。	masengel ku husu sa mapacebu.
+249	anu masamel masuwab kaku.	我如果打瞌睡就會打哈欠。	我如果打瞌睡就會打哈欠。	anu masamel masuwab kaku.	我會因為口渴而發。	masamel kaku anu mapatihtuk.
+250	anusandeb matatengil kita tu kawaw.	晚上我們互相討論工作。	晚上我們互相討論工作。	anusandeb matatengil kita tu kawaw.	其他工作我們都會聽說。	mapulung kita tu kalabian tu kawaw.
+251	matatudud ku malatumukay ayza.	現在是部落領袖交接的日子。	現在是部落領袖交接的日子。	matatudud ku malatumukay ayza.	現在有很多人來遊玩。	malalitin ayza ku demiad nu tumuk.
+252	matatuni' ku labu nu luma' ni Pasang.	Pasang的屋內非常雜亂。	Pasang的屋內非常雜亂。	matatuni' ku labu nu luma' ni Pasang.	Pasang 家的背後是泥沼地。	masalabit ku lalabu ni Pasang.
+253	matebuc nu saydang kaku.	我被老師懲罰。	我被老師懲罰。	matebuc nu saydang kaku.	老師對我的話很有幫助。	mapaedaway nu saydang kaku.
+254	matinpi' ku tangah kapah azihen.	扁平的頭很好看。	扁平的頭很好看。	matinpi' ku tangah kapah azihen.	頭很好看。	kapah azihen ku mapuyuhay a tangah.
+255	maukak kinawawa.	這小孩很瘦。	這小孩很瘦。	maukak kinawawa.	嬰兒子。	makudus kina wawa.
+256	amana pizikec tu lala' mauninga ku zikuc.	不要玩泥土，免得衣服弄髒。	不要玩泥土，免得衣服弄髒。	amana pizikec tu lala' mauninga ku zikuc.	不要把泥土堆積到衣服會腐爛。	amana paceba tu lala' madangah ku zikuc.
+257	mazakep kina wawa namikidem tu ciyak.	這個小孩偷西瓜被抓到。	這個小孩偷西瓜被抓到。	mazakep kina wawa namikidem tu ciyak.	這個小孩因偷叔叔而被騙。	makaala kiya wawa mikawaw tu ciyak.
+258	nayay tu ku mazatengay nu maku.	我想不起來了。	我想不起來了。	nayay tu ku mazatengay nu maku.	我沒有頭腦。	mayay tu kaku mulekal.
+259	anu izaw ku menaw kapahay tukaden.	若長了痔瘡，最好手術拿掉。	若長了痔瘡，最好手術拿掉。	anu izaw ku menaw kapahay tukaden.	如果有會引。	anu sicaen tu ku ngisngis sa kapah maculi.
+260	miapaay ci Lali' tu wawa ni Tubah.	背 Tubah 孩子的人是 Lali'。	背 Tubah 孩子的人是 Lali'。	miapaay ci Lali' tu wawa ni Tubah.	Lali'照顧 Tubah 的孩子。	ci Lali' ku pabayabay tu wawa ni Tubah.
+261	miauk kaku tu sapilangat tu putah.	我砍竹子要作操場圍籬。	我砍竹子要作操場圍籬。	miauk kaku tu sapilangat tu putah.	我在廣場草。	mipudac kaku tu auk satakidan.
+262	awawan naku ku mibadisusu'ay a mibadisusu' tu nu maku.	我請採葡萄的人來採我的葡萄。	我請採葡萄的人來採我的葡萄。	awawan naku ku mibadisusu'ay a mibadisusu' tu nu maku.	我邀請採的人來採。	miawaw kaku tu saasipay mipadang tu ku nipatakid.
+263	mibanaw kaku tu kazizeng nu maku.	我正在洗我的汽車。	我正在洗我的汽車。	mibanaw kaku tu kazizeng nu maku.	我在洗我的車。	mibacaku tu kazizeng nu maku.
+264	mibanic ku cucu nu katalalan.	喝牛奶會腹瀉。	喝牛奶會腹瀉。	mibanic ku cucu nu katalalan.	牛的奶奶會。	mabihkac tu cucu nu katalalan.
+265	u canan ku katalawan micabi' tu tau.	與別人競爭有什麼好怕的。	與別人競爭有什麼好怕的。	u canan ku katalawan micabi' tu tau.	什麼事讓人害怕睡覺。	u canan ku katalawan misasukibang tu tau.
+266	a micabiyas tu ku nanum nu laku.	水田的水快滿出來。	水田的水快滿出來。	a micabiyas tu ku nanum nu laku.	水田的水快要開了。	macapi tu ku nanum nu laku.
+267	micacuy kaku tu saba a pakanamuh i ci nizaan.	我把弟弟搖得很高他很高興。	我把弟弟搖得很高他很高興。	micacuy kaku tu saba a pakanamuh i ci nizaan.	我跟著弟弟去拜訪他。	takalaw sa kaku tu saba a salungeday.
+268	micebus tu lami' ci bayi.	阿嬤在澆菜。	阿嬤在澆菜。	micebus tu lami' ci bayi.	阿在煮菜。	milami' ci bayi tu lami'.
+269	micengel tu kanus ci ina ni Sayun.	Sayun 的媽媽有擦指甲油。	Sayun 的媽媽有擦指甲油。	micengel tu kanus ci ina ni Sayun.	Sayun的媽媽會編字。	sipudac tu siking ku ngipit ni ina ci Sayun.
+270	mahica tayza henay kita i sauwac micuhcuh?	我們去溪邊撿田螺好嗎？	我們去溪邊撿田螺好嗎？	mahica tayza henay kita i sauwac micuhcuh?	我們去溪邊田螺的時候可以田螺嗎?	tayza i sauwac micakak tu ku ngisngis kapah tu?
+271	micuzuh tu kelakela' ci Kulas.	Kulas 在推牛車。	Kulas 在推牛車。	micuzuh tu kelakela' ci Kulas.	Kulas 引車去上山。	mihuwad ci Kulas tu katalalan.
+272	manamuh ku tuwid tu habay sademidemiad sa midawa ci Panay.	小鳥喜歡吃小米，Panay每天趕小鳥。	小鳥喜歡吃小米，Panay每天趕小鳥。	manamuh ku tuwid tu habay sademidemiad sa midawa ci Panay.	Panay 每天都嫁喜歡吃麻。	manamuh ku pakayabang mukan tu habay ci Panay tu demidemiad mibabaka tu pakayabang.
+273	u miedaway ci Kacaw.	Kacaw 是卜卦的人。	Kacaw 是卜卦的人。	u miedaway ci Kacaw.	Kacaw 是水的人。	u malawayay ci Kacaw.
+274	ciniza kiya mihalhalay i nacila.	昨天是他在等待的。	昨天是他在等待的。	ciniza kiya mihalhalay i nacila.	昨天是他發燒的火。	u mihalhal ciniza nacila.
+275	matineng ciniza mihamunika.	他會吹口琴。	他會吹口琴。	matineng ciniza mihamunika.	他很會管房子。	matineng ciniza mipiyang.
+276	kau isu ku mihinumay tiya wawaan.	您去安慰那小孩子。	您去安慰那小孩子。	kau isu ku mihinumay tiya wawaan.	是你來玩那個小姐。	pacemeten nu misu kiya wawa.
+277	mikiayaw i takuwanan kiya tau a muculil.	那個人搶先走到我的前面。	那個人搶先走到我的前面。	mikiayaw i takuwanan kiya tau a muculil.	那個人走路向我轉來一轉去。	malawada kiya tademaw a tayza i tapiingan nu maku.
+278	i kalibungan kaku mikilim tu mahetikay a kalisiw.	我在床底下找掉落的錢。	我在床底下找掉落的錢。	i kalibungan kaku mikilim tu mahetikay a kalisiw.	我在床底下掉的錢。	mibabukud kaku tu malepi'ay a kalisiw i kalibungan.
+279	matineng mikuwang ci Umas tu kapulus.	Umas 很會獵松鼠。	Umas 很會獵松鼠。	matineng mikuwang ci Umas tu kapulus.	Umas很會編番茄。	matineng ci Umas mibihkac tu kapulus.
+280	milaedis ku niyazu' tu sakalima atu sakaenem a puu' nu mihecaan.	部落的捕魚祭在每年的五六月份舉行。	部落的捕魚祭在每年的五六月份舉行。	milaedis ku niyazu' tu sakalima atu sakaenem a puu' nu mihecaan.	部落在每年的五月份和六月份都會團結。	pilisima tu mibutingay i niyazu' sa i lima atu sabaay.
+281	milakec tu alangahay kita.	我們要過河。	我們要過河。	milakec tu alangahay kita.	我們要跨過河。	lakec han ita ku alangahay.
+282	kasilawadan sa tayza kita i bayu milalacan.	我們有空時去海邊撿海螺。	我們有空時去海邊撿海螺。	kasilawadan sa tayza kita i bayu milalacan.	我們很勇敢能去海上打魚。	silawad kami tayza i lilis nu bayu mibihkac tu puces.
+283	i tabakiyay a padekuwan milecuh ku kapahayay.	在大醫院生產比較好。	在大醫院生產比較好。	i tabakiyay a padekuwan milecuh ku kapahayay.	長輩在醫院合。	i i tabakiyay a padekuwan ku kapah pakaduka.
+284	milihud ci Panay tu mamidang niza.	Panay對她的男朋友輕聲細語。	Panay對她的男朋友輕聲細語。	milihud ci Panay tu mamidang niza.	Panay 挑選他的男朋友。	maingti ci Panay tu mamidang niza.
+285	u mililiday ci Hani tu takenip.	Hani是抬棺木的人。	Hani是抬棺木的人。	u mililiday ci Hani tu takenip.	Hani是主持會議的。	u pakaelaay tu sapanusu'an ci Hani.
+286	ci Bedi' tu ku milisimetay tu kakabi'an.	都是Bedi'在整理房間。	都是Bedi'在整理房間。	ci Bedi' tu ku milisimetay tu kakabi'an.	Bedi'已經是整理房間的。	ci Bedi' ku mimetim tu kakabian.
+287	sakakapah nu uzip minanum tuway.	常喝水對身體有好處。	常喝水對身體有好處。	sakakapah nu uzip minanum tuway.	喝水可以使身體健康。	hinapaliman minanum sa kapah ku uzip.
+288	mingaay ku wasulu tu lami'.	用瓦斯爐煮菜。	用瓦斯爐煮菜。	mingaay ku wasulu tu lami'.	菜黃是用來煮菜的。	u wasi ku sapilami'.
+289	mingicih tu da'dac kaku.	我在咬檳榔。	我在咬檳榔。	mingicih tu da'dac kaku.	我在削草。	mienguc kaku tu langdaway.
+290	mipacena' henay kaku ta caay ka ngelu' ku kuku'.	我暫時休息那麼我的腳才不會累。	我暫時休息那麼我的腳才不會累。	mipacena' henay kaku ta caay ka ngelu' ku kuku'.	我先坐下才發現腳沒有痛。	mitebeng henay kaku sa caay ka lebut ku kuku'.
+291	tayza kaku mipadama tu baeketay a nimuku niza.	我去幫他搬重物。	我去幫他搬重物。	tayza kaku mipadama tu baeketay a nimuku niza.	我去他那裡幫忙種肥沃的果子。	miadup kaku tu baeketay a canacanan niza.
+292	mipaliw kaku ci Taymuan a mikalitang.	我先去Tymun的田幫忙拔花生。	我先去Tymun的田幫忙拔花生。	mipaliw kaku ci Taymuan a mikalitang.	我替 Taymu 採花生。	tayza kaku i umah ni Tymun milupas.
+293	mipana' kaku tu ayam.	我在獵鳥。	我在獵鳥。	mipana' kaku tu ayam.	我用木抓鳥。	miadup kaku tu ayam.
+294	mipasepi kita tiya baluhayay a malaacawa.	我們來祝福那對新人。	我們來祝福那對新人。	mipasepi kita tiya baluhayay a malaacawa.	我們要幫忙蓋新房子。	misahabay kita tu la'cusay a tademaw.
+295	mipiya' kami i sauwac.	我們在溪邊撿蜆。	我們在溪邊撿蜆。	mipiya' kami i sauwac.	我們在溪邊抓。	i lilis nu sauwac mipiyu kita.
+296	u misabalungaay ku acawa nu maku.	我的先生是很會造船的人。	我的先生是很會造船的人。	u misabalungaay ku acawa nu maku.	我的先生是捕魚人。	matineng misanga'ay ku acawa nu maku.
+297	misacelecelem ci Putal i nanum miazih tu buting.	Putal 潛進水裡去看魚。	Putal 潛進水裡去看魚。	misacelecelem ci Putal i nanum miazih tu buting.	Putal 趁著要跳到水裡看魚。	micelim ci Putal i bayu miazih tu buting.
+298	tuduhen nu babalaki ku saasik misacilal.	祈晴祭中鰥夫寡婦們燒稻穗。	祈晴祭中鰥夫寡婦們燒稻穗。	tuduhen nu babalaki ku saasik misacilal.	長輩用石來製作木。	miulul tu kalalikidan ku mapalaway a balu.
+299	yadah ku nizatengan kiyu misaculiculil ku kapahay.	想得太多不如出去走一走比較好。	想得太多不如出去走一走比較好。	yadah ku nizatengan kiyu misaculiculil ku kapahay.	我們想太多所以走路很慢。	yadah ku nizateng sa taluma' sahenay a culilen.
+300	u misalami'ay ku kawaw niza i tabakiyay pikanan.	他的職業是飯店的大廚師。	他的職業是飯店的大廚師。	u misalami'ay ku kawaw niza i tabakiyay pikanan.	他在大型餐廳做菜的工作。	u pakakawaw ku kawaw niza.
+301	misamihemihecaan paluma tu kubkub.	每一年都種玉米。	每一年都種玉米。	misamihemihecaan paluma tu kubkub.	將玉米種植到年齡層。	mipaluma tu kubkub ku miheca tu mihecaan.
+302	misanga'ay ci Kacaw tu misamis nu tatayna.	Kacaw專門做女生的吊飾。	Kacaw專門做女生的吊飾。	misanga'ay ci Kacaw tu misamis nu tatayna.	Kacaw 是製作女人的製衣品。	u sapisanga' ci Kacaw tu maluway nu tatayna.
+303	manamuh ci Silu misapud tu baetu.	Silu很喜歡撿拾石頭。	Silu很喜歡撿拾石頭。	manamuh ci Silu misapud tu baetu.	Silu 喜歡用石頭石。	manamuh ci Silu mikulud tu ba'tu.
+304	misataling kaku tu taling nu laku.	我去整理水田的田埂。	我去整理水田的田埂。	misataling kaku tu taling nu laku.	我去田抓水田的田。	milisimet kaku tu laku.
+305	misatuutuud tu kawaw ci Tubah azihen.	Tubah做起事來有隨便。	Tubah做起事來有隨便。	misatuutuud tu kawaw ci Tubah azihen.	Tubah看起來是個專門寫作的人。	malimuh ci Tubah misakakawaw.
+306	misawacuway ci Inga' tu tademaw.	Inga' 會欺悔人。	Inga' 會欺悔人。	misawacuway ci Inga' tu tademaw.	Inga'是照顧人的人。	pahengaday ci Inga' tu tademaw.
+307	misipu kaku tu tanang.	我在擦汗。	我在擦汗。	misipu kaku tu tanang.	我在擦乾地瓜。	miasik kaku tu sienaw.
+308	mitabu tu zikuc a tayza midang.	打包衣服出去玩。	打包衣服出去玩。	mitabu tu zikuc a tayza midang.	去玩的地方把衣服蓋起來。	pacuken ku zikuc a tayza mibalakas.
+309	katayza mitakus ci Ahay a ci Alikan.	Ahay在邀請 Alik。	Ahay在邀請 Alik。	katayza mitakus ci Ahay a ci Alikan.	Ahay去找Alik。	miawaway ci Ahay i ci Alikan.
+310	icelang ci Bunuk mitamuzung tu kasuy.	Bunuk很有力氣可以扛木材。	Bunuk很有力氣可以扛木材。	icelang ci Bunuk mitamuzung tu kasuy.	Bunuk很會用木頭木頭。	maydakay ci Bunuk micakak tu kasuy.
+311	ci Pucu' ku mitastasay tu batikal.	是Pucu'把單車拆掉的。	是Pucu'把單車拆掉的。	ci Pucu' ku mitastasay tu batikal.	Pucu'是卸單車的人。	ci Pucu' ku milimad tu batikal.
+312	katayza i umah miteki' tu pawalil ci baki.	baki 去田裡放夾子獵兔子。	baki 去田裡放夾子獵兔子。	katayza i umah miteki' tu pawalil ci baki.	叔叔去田裡子。	pahabayen nu baki ku sangla i umah.
+313	mitihemuk ci Kacaw tu takid.	Kacaw把杯子倒扣。	Kacaw把杯子倒扣。	mitihemuk ci Kacaw tu takid.	Kacaw把杯子收藏起來。	micepcep ci Kacaw tu takid.
+314	matineng mitubtub kaku.	我很會吹口簧琴。	我很會吹口簧琴。	matineng mitubtub kaku.	我會插。	matineng kaku misipiw tu sinkwil.
+315	amana paceba miwait tu ba'tu, masikedaan ku tademaw.	不要隨便丟石頭，會打到人。	不要隨便丟石頭，會打到人。	amana paceba miwait tu ba'tu, masikedaan ku tademaw.	不要隨便用石頭打人,可能會傷到人。	amana paceba milawpes, taduyen ku tau.
+316	mizuheman ku paza'.	香蕉用成熟了。	香蕉用成熟了。	mizuheman ku paza'.	香很甜。	mazuhem tu ku paza' i.
+317	matineng a mudadiw ci ina nu maku.	我媽媽很會唱歌。	我媽媽很會唱歌。	matineng a mudadiw ci ina nu maku.	我媽媽很會唱舞。	matineng misingi' ci ina nu maku.
+318	mukmuk sa kiya tademaw nayay ku sikaz.	那個人一頭鑚進宴席中不知羞恥。	那個人一頭鑚進宴席中不知羞恥。	mukmuk sa kiya tademaw nayay ku sikaz.	那個人藏起來沒帶身分證。	caay ka sikaz kiya tademaw a mituluy tu patiyamay.
+319	mulangaw tu ku nipalumaan nu maku a da'dac i buyu'.	我在山上種的檳榔長芽了。	我在山上種的檳榔長芽了。	mulangaw tu ku nipalumaan nu maku a da'dac i buyu'.	我在山上種的已經長芽了。	siciid tu ku nipaluma aku i buyu'.
+320	limaay ku tuki mulekal kaku.	我五點鐘起床。	我五點鐘起床。	limaay ku tuki mulekal kaku.	我起床用手。	limaay ku sakacukat nu maku.
+321	muni' sa tu ku lami' ni Pelac i palami'an.	Pelac菜園裡的菜都腐爛了。	Pelac菜園裡的菜都腐爛了。	muni' sa tu ku lami' ni Pelac i palami'an.	Pelac的菜園已經滿出來了。	mamuni' tu ku lami' i palami'an ni Pelac.
+322	musabili tu ku cabay yaku.	我的同事懷孕了。	我的同事懷孕了。	musabili tu ku cabay yaku.	我的朋友已經準備好吃了。	misabili ku cabay nu maku.
+323	naayaw a miheca la'cus ku salangec.	去年的收穫不佳。	去年的收穫不佳。	naayaw a miheca la'cus ku salangec.	上個月菜不好吃。	la'cus ku nilangec nu miheca a miheca.
+324	naayaway a nikauzip kangeluan.	過去的生活很苦。	過去的生活很苦。	naayaway a nikauzip kangeluan.	很久以前的生活。	mangelu' ku nikauzip nu i sumamad.
+325	i cuwa ku nalecuhan nu misu?	你的出生地在何處？	你的出生地在何處？	i cuwa ku nalecuhan nu misu?	你的遺體在那裡?	i cuwa ku nilecuh nu misu?
+326	naliti'an kiya katalalan kiyu caay ka siwawa.	那頭牛已經被閹過所以不會生育。	那頭牛已經被閹過所以不會生育。	naliti'an kiya katalalan kiyu caay ka siwawa.	那頭牛有刺所以沒有留下痕。	maemisen kiya katalalan sisa caay ka satena'.
+327	namalabi tuway kaku i pawalayan.	我已經在麵攤吃過晚餐了。	我已經在麵攤吃過晚餐了。	namalabi tuway kaku i pawalayan.	我在餐廳吃過早餐了。	namalabi tu kaku i padingad.
+328	namulecuh sa amana paceba pabali tu tangah.	剛生產完不要把頭弄濕或吹到風。	剛生產完不要把頭弄濕或吹到風。	namulecuh sa amana paceba pabali tu tangah.	坐車時不要輕易撞頭。	na mulecuh sa amana paceba sa pawalien.
+329	nanumen henay ku nipahalhalan nu i luma'ay!	請先飲用家人準備的茶水！	請先飲用家人準備的茶水！	nanumen henay ku nipahalhalan nu i luma'ay!	家庭人先去喝飯!	nanumen henay ku nipalami'an nu luma'!
+330	u nanyukuy ku sakalabi niyam a lami'.	我們晚餐的菜是吳郭魚。	我們晚餐的菜是吳郭魚。	u nanyukuy ku sakalabi niyam a lami'.	我們的晚餐吃子。	u tuda' ku sakalabi niyam.
+331	napaluma tu padingad kami i nacila.	我們昨天種鳳梨。	我們昨天種鳳梨。	napaluma tu padingad kami i nacila.	昨天我們種了梨園。	paanip kami i nacila misapul.
+332	nasawni sahenay mumul ku acawa nu maku.	我的先生剛剛才走。	我的先生剛剛才走。	nasawni sahenay mumul ku acawa nu maku.	我的先生剛從職開始。	nasawni henay ku acawa nu maku.
+333	nayat tu ku dimiad apuyu' tu ku labi.	白天時間拉長晚上時間縮短。	白天時間拉長晚上時間縮短。	nayat tu ku dimiad apuyu' tu ku labi.	天黑了,晚上睡覺了。	tanaya' tu ku demiad u kalabian.
+334	nazikuz henay tiya maazih niza kisu.	你退後些，他才會看到你。	你退後些，他才會看到你。	nazikuz henay tiya maazih niza kisu.	你去看他後面穿上衣。	sakataluma' sa makaazih ciniza i tisuwanan.
+335	nazikuzan niya kawaw sa amana ka pawani.	經過這次事件之後，此後別忘了。	經過這次事件之後，此後別忘了。	nazikuzan niya kawaw sa amana ka pawani.	因為那件事情,所以不要忘記。	na tayza a kawaw sa amana tu laliwan.
+336	kapah malusapaiyu ku ngawa nu ngabul.	鹿角可作中藥材。	鹿角可作中藥材。	kapah malusapaiyu ku ngawa nu ngabul.	魚的嘴巴很好玩。	u sibiliay ku cebu.
+337	ngiwangiwen niza ku udu!	把你的屁股搖一搖！	把你的屁股搖一搖！	ngiwangiwen niza ku udu!	他搖動股!	ngiyangi'en ku ciid nu misu!
+338	ngiwngiw han nu mipuyuhay ku tangila nu maku.	理髮師挖我的耳朵。	理髮師挖我的耳朵。	ngiwngiw han nu mipuyuhay ku tangila nu maku.	我的耳朵一直聽到的人叫。	mitutung ku tatayna tu tangila nu maku.
+339	ngucedis sa kiya bihid azihen.	看起來面目凶惡。	看起來面目凶惡。	ngucedis sa kiya bihid azihen.	那個臉看起來很。	sanguced sa azihen kiya bihid.
+340	nguhanguh han ni Kacaw ku hecek nu luma'.	Kacaw去把家裡的柱子搖鬆。	Kacaw去把家裡的柱子搖鬆。	nguhanguh han ni Kacaw ku hecek nu luma'.	Kacaw 一直摸著屋頂的柱子。	micangcang ci Kacaw tu tektek nu luma'.
+341	mainal kaku tu nikakapah nu kauzip niza.	我好羨慕他過優渥的生活。	我好羨慕他過優渥的生活。	mainal kaku tu nikakapah nu kauzip niza.	我很高興他的身體有改善。	maseneng kaku tu kapahay a nikauzip niza.
+342	izau ku nipabelian nu Nukay a sapal nu kilang atu lami' i luma' nu maku.	我家有農會送的樹苗和菜苗。	我家有農會送的樹苗和菜苗。	izau ku nipabelian nu Nukay a sapal nu kilang atu lami' i luma' nu maku.	我家有 Nukay 的樹葉和菜。	sipalumaan nu malukay kaku tu sapal a kilang atu lami'.
+343	nipacikahan a ukak asu' kanen.	骨頭被醃漬過所以很好吃。	骨頭被醃漬過所以很好吃。	nipacikahan a ukak asu' kanen.	的香很好吃。	mapacikiyan kiya ukak sa kapah kanen.
+344	u nipatizengan nu maku a luma' kuyni.	這是我建立起來的房子。	這是我建立起來的房子。	u nipatizengan nu maku a luma' kuyni.	這是我置的房子。	nipazeng nu maku kuyni a luma'.
+345	masinang ku nipikidis isu tu bakan.	你磨的刀很銳利。	你磨的刀很銳利。	masinang ku nipikidis isu tu bakan.	你的刀很好磨。	masinang ku ni kidisan nu misu tu bakan.
+346	u tubah ku nitabu nu maku.	我的飯盒包的是地瓜。	我的飯盒包的是地瓜。	u tubah ku nitabu nu maku.	我用地瓜來包。	tubah ku pawti nu maku.
+347	nituduhan nu Taluku ku pipalumaan tu kubkub i buyu'.	種在山上的玉米被太魯閣族人燒了。	種在山上的玉米被太魯閣族人燒了。	nituduhan nu Taluku ku pipalumaan tu kubkub i buyu'.	達魯閣族把山上種玉米的引火。	paadipan nu Taluku ku nipaanip tu kubkub i buyu'.
+348	caay tu niwaniw tu laku ku malukay ayza.	現在的農人水田已經不再除稻子的草了。	現在的農人水田已經不再除稻子的草了。	caay tu niwaniw tu laku ku malukay ayza.	現在水田沒有了。	caay tu ku taling nu malukay ayza milangec tu lutuk.
+349	niyamay a wawelwel kuyza.	那部摩托車是我們的。	那部摩托車是我們的。	niyamay a wawelwel kuyza.	那是原廠的機車。	nu mita kiya wawelwel.
+350	nayi' ku nizatengan ni Bunuk tu malukawaw tadamabelilih!	Bunuk從來沒想過要做什麼工作，真笨！	Bunuk從來沒想過要做什麼工作，真笨！	nayi' ku nizatengan ni Bunuk tu malukawaw tadamabelilih!	Bunuk 認為沒有人善待瓜!	caay paisip ci Bunuk tu kawaw sa, caket!
+351	i labu nu pa'tang mipacpac tu nilangecan.	在摔桶裡面打擊稻穀。	在摔桶裡面打擊稻穀。	i labu nu pa'tang mipacpac tu nilangecan.	在木桶裏面魚。	mibalat tu tipus i pa'tang.
+352	paabuen ku nipalumaan nu misu a lami'!	你種的菜要施肥！	你種的菜要施肥！	paabuen ku nipalumaan nu misu a lami'!	去把你種的菜放入水中!	paasien ku nipaluma nu misu a lami'!
+353	picakayi tu paabuwan ni ina i patiyaman!	去店裡買媽媽的骨灰罐！	去店裡買媽媽的骨灰罐！	picakayi tu paabuwan ni ina i patiyaman!	去買媽媽的鞋子!	picakay tu alabi ni ina nu maku i patiyamay!
+354	paayawan tu nizateng nu misu.	以你的想法為主。	以你的想法為主。	paayawan tu nizateng nu misu.	將你的想法提升到更高的水平。	pa'teng ku nizateng nu misu.
+355	pabayang kaku tu kazizeng.	我掛汽車的帆布。	我掛汽車的帆布。	pabayang kaku tu kazizeng.	我去掛車子。	pabayu kaku tu pawalil nu kazizeng.
+356	u pabulsakan tu habay ayza.	現在是撒小米的季期。	現在是撒小米的季期。	u pabulsakan tu habay ayza.	現在是去發米的地方。	kasibulungan ayza paanip tu habay.
+357	pacakayan tu cudad ku luma' nu maku.	我家開書店。	我家開書店。	pacakayan tu cudad ku luma' nu maku.	我家是賣書的地方。	sipicak tu cudad i luma' niyam.
+358	pacekceken ku piazih tu sasikedaan.	要目不轉睛的看目標。	要目不轉睛的看目標。	pacekceken ku piazih tu sasikedaan.	看窗戶看起來很清。	caay pilucil sa miazih tu patucek.
+359	pacelem kaku tu tudem i taku.	我把漂流木浸入池塘中。	我把漂流木浸入池塘中。	pacelem kaku tu tudem i taku.	我把水田裡的泥堆積。	micunus kaku tu saliyut i taku.
+360	u paculilay ku kawaw nu maku.	我的工作是開車。	我的工作是開車。	u paculilay ku kawaw nu maku.	我的職業是擔保員。	u paculil ku kawaw nu maku.
+361	anu padameken ku nipalumaan sa kapah ku langaw.	若種植的植物加以施肥，就長得很好。	若種植的植物加以施肥，就長得很好。	anu padameken ku nipalumaan sa kapah ku langaw.	如果把種植的水堆積好,植物會長芽。	anu siculen ku nipalumaan a nipaluma' sa kapah tu sakasakaadup.
+362	u padekuway ku kawaw ni Panay.	Panay的職業是護士。	Panay的職業是護士。	u padekuway ku kawaw ni Panay.	Panay的工作是護士。	u padekuay ku kawaw ni Panay.
+363	nu palumaay kami i ayaw tu padingad.	我家以前是種鳳梨的。	我家以前是種鳳梨的。	nu palumaay kami i ayaw tu padingad.	我們在野外種梨是最好的。	namaanip tu padingad ku luma' niyam.
+364	a padungus kami ayza tu mamalahitayay i pangizuan.	我們現在到車站為當兵的人送行。	我們現在到車站為當兵的人送行。	a padungus kami ayza tu mamalahitayay i pangizuan.	我們今天要向大家祝福梨生產的人。	tayza kita i pisiting tu sakayakay nu sakalahitay.
+365	paangic sa ci Pasang pakasiacawa aca i takuwan.	Pasang 逼我再婚。	Pasang 逼我再婚。	paangic sa ci Pasang pakasiacawa aca i takuwan.	Pasang向我開口笑,才說他是個女人。	pacumaen ni Pasang kaku a misaluma'.
+366	mabetesay a tubul kapah tu a pakelakela'.	穿好鼻洞的小牛可以拉牛車。	穿好鼻洞的小牛可以拉牛車。	mabetesay a tubul kapah tu a pakelakela'.	包的地瓜比較好吃過的飯。	siciid ku siwnung a katalalan kapah taluk tu keliw.
+367	pakilulen ku kapawanan niza a cudad.	把他忘記的書跟著給他。	把他忘記的書跟著給他。	pakilulen ku kapawanan niza a cudad.	把那本書的東西翻轉起來。	pacabayen ku naliwan niza a cudad.
+368	pakuyucay kiya wawa nayay tu ku ina atu ama.	這個小孩是沒有父母親的窮人。	這個小孩是沒有父母親的窮人。	pakuyucay kiya wawa nayay tu ku ina atu ama.	那個小孩因為父母不了解他而孤單。	u malimuhay a wawa caay ka ama ku ama.
+369	palalid han ku kawaw, amana piales!	繼續工作，不要放棄！	繼續工作，不要放棄！	palalid han ku kawaw, amana piales!	就能完成這個工作,不要忘記!	pilakalak tu, amana pitilesen!
+370	palilid ci Bunuk ci Benelan mihuwad tu pawti.	Bunuk到Benel家去幫忙抬稻穀。	Bunuk到Benel家去幫忙抬稻穀。	palilid ci Bunuk ci Benelan mihuwad tu pawti.	Bunuk 陪 Benel 去麻。	micaliway ci Bunuk tu sabak nu luma' ni Benel.
+371	u sauwac ku palilucan tu katalalan.	溪邊是牛洗澡的地方。	溪邊是牛洗澡的地方。	u sauwac ku palilucan tu katalalan.	河是用來洗牛的。	u sakalanum ku lilis nu katalalan.
+372	ni palilucan tu kaku i Cihabayan a kiwkay.	我已在中興部落教會受洗過。	我已在中興部落教會受洗過。	ni palilucan tu kaku i Cihabayan a kiwkay.	我已經送洗的水到花蓮教會了。	maapaay tu kaku i kiwkay nu Cihabayan.
+373	palita han ci Kulang.	去詢問Kulang。	去詢問Kulang。	palita han ci Kulang.	請邀請 Kulang。	tayzaen ci Kulang minatu.
+374	paliyun kaku tu zikuc amana pibuhat tu panan.	我要換衣服的時候不要打開門。	我要換衣服的時候不要打開門。	paliyun kaku tu zikuc amana pibuhat tu panan.	我衣服不要用作衣料。	a mibaluhay kaku amana pihuwal tu sasaedeb.
+375	palumaen tu kubkub ku umah kapah malu kakanen nu tulakuk!	田裡種玉米用來供作雞的飼料！	田裡種玉米用來供作雞的飼料！	palumaen tu kubkub ku umah kapah malu kakanen nu tulakuk!	田裡種玉米可以用來吃雞!	paluma tu kubkub i umah ku sapakan tu tulakuk!
+376	panunu' ci Kacaw tu tunuz i takuwan.	Kacaw向我炫耀他的麻糬。	Kacaw向我炫耀他的麻糬。	panunu' ci Kacaw tu tunuz i takuwan.	Kacaw 用麻替我拿麻。	miayaw ci Kacaw tu tusuz niza i takuwanan.
+377	palatak kaku tu laku papaanipan.	我要將插秧的水田打平。	我要將插秧的水田打平。	palatak kaku tu laku papaanipan.	我將水田用來種。	palumasiway kaku tu nipaanipan a laku.
+378	u sakapahay a bila' nu da'dec sa u papaung.	papaung是最好的檳榔葉。	papaung是最好的檳榔葉。	u sakapahay a bila' nu da'dec sa u papaung.	是用來做棒打棒的佳品。	kapah ku papaung a papah nu mami.
+379	papicudad ci Tubah tu tigami i ci Lalaan.	Tubah 叫 Lala 寫信。	Tubah 叫 Lala 寫信。	papicudad ci Tubah tu tigami i ci Lalaan.	Tubah 送信給 Lala。	nana'ni Tubah ci Lala misulit.
+380	papikidis ci ina tu bakan.	媽媽叫我磨刀。	媽媽叫我磨刀。	papikidis ci ina tu bakan.	媽媽正在磨刀。	pa'kek ci ina kaku tu bakan.
+381	pasaupuen ni ama kami malekaka.	爸爸要我們兄弟姐妹聚在一起。	爸爸要我們兄弟姐妹聚在一起。	pasaupuen ni ama kami malekaka.	爸爸幫我們肥,很會吃。	papicumudi'an ni ama kami a malekakalak.
+382	patadaen ku pawti masengeta.	要墊麻袋免得潮濕！	要墊麻袋免得潮濕！	patadaen ku pawti masengeta.	把麻袋到水中免得被污染。	pa'kisen ku pawti malamala!
+383	patanengen ku saba mukan tu elaw i.	讓弟弟去試吃酒釀。	讓弟弟去試吃酒釀。	patanengen ku saba mukan tu elaw i.	請弟弟吃酒。	pakalanayen ku saba tu elaw.
+384	amana patawid tu tademaw mapataya.	不要嚇人免得把別人嚇死。	不要嚇人免得把別人嚇死。	amana patawid tu tademaw mapataya.	不要害怕人會被死。	amana pitalaw tu tademaw mapapatay.
+385	izau mamin ku patay nu tademaw.	人都會死亡。	人都會死亡。	izau mamin ku patay nu tademaw.	人的死因都有。	mapatay amin ku tademaw.
+386	patupelan niina kaku i sananal.	早上媽媽幫我戴上帽子。	早上媽媽幫我戴上帽子。	patupelan niina kaku i sananal.	他在早上幫我跳舞。	pacuungan ku tupel ci ina nu maku tu sananalan.
+387	Imiaw pauucen henay ku zinum nu maku!	Imi，去幫我穿一下針！	Imi，去幫我穿一下針！	Imiaw pauucen henay ku zinum nu maku!	去穿上我的針!	padungiwen henay kaku a micunus tu zinum!
+388	pauzipen nu misaydang ku imelangay.	醫生將病人救起。	醫生將病人救起。	pauzipen nu misaydang ku imelangay.	醫生幫病人照顧。	micakay ku padeku tu imelangay.
+389	anu ci bali sa kapah kuni ka bahel nu payapay.	如果有風時風箏飛的高。	如果有風時風箏飛的高。	anu ci bali sa kapah kuni ka bahel nu payapay.	風天時,竹的風水很好。	anu sibaliyuc ku bali sidadiping sa tu ku bali.
+390	pela' han kiya ciyak.	把這個西瓜剖開。	把這個西瓜剖開。	pela' han kiya ciyak.	去割那隻。	lengasen kina ciyak.
+391	pesad sa kya nuzikuzan a buyu'.	後山常崩塌的現象。	後山常崩塌的現象。	pesad sa kya nuzikuzan a buyu'.	那個山的後面有山。	kalalikidan ku sakatupes nu buyu'.
+392	piatalan tu nanum ku caykeng.	水缸是舀水的地方。	水缸是舀水的地方。	piatalan tu nanum ku caykeng.	鍋子拿水去倒。	u pidadumi'an tu nanum ku tebun.
+393	zitin piazihan tu kaliyuhan a cudad.	不會的字要查看字典。	不會的字要查看字典。	zitin piazihan tu kaliyuhan a cudad.	看不懂的書。	azihen ku keliw nu la'cusay a kamu i lisin.
+394	pibalakasi kisu tu mali i putah!	你去院子裡玩球！	你去院子裡玩球！	pibalakasi kisu tu mali i putah!	你去廣場玩球!	tayza kisu i putah midang!
+395	pibanawi tu kuku' kisu a mabi'!	睡覺前要洗腳！	睡覺前要洗腳！	pibanawi tu kuku' kisu a mabi'!	睡覺要洗你的腳!	pidadumi sa bacaen!
+396	makatukuh tu ku luma' isu pidebuyi tu!	你的家到了請下車！	你的家到了請下車！	makatukuh tu ku luma' isu pidebuyi tu!	你的家已經靠近了,去探!	mitengil tu kazizeng i luma' nu misu!
+397	pikalati han nu maku kisu haw?	我叫你咬嗎？	我叫你咬嗎？	pikalati han nu maku kisu haw?	我寫信給你嗎?	miawaw kaku i tisuwanan mucucuk?
+398	pikalihi tu kalitang sa ci ina nu maku.	我媽媽叫我耙花生。	我媽媽叫我耙花生。	pikalihi tu kalitang sa ci ina nu maku.	我媽媽會花生。	miawaw ci ina nu maku tu kalitang.
+399	pikinaul tu dadiw ni Bunuk.	去調侃Bunuk唱歌。	去調侃Bunuk唱歌。	pikinaul tu dadiw ni Bunuk.	追 Bunuk 的唱歌。	pacubelisen ci Bunuk a paicelkel.
+400	u pilangecan nu malukay ayza.	現在是農民的收割期。	現在是農民的收割期。	u pilangecan nu malukay ayza.	現在是農民收割地。	kasibelac ayza nu malukay.
+401	i Maibul ku pilecuhan nu maku.	我的出生地在馬立雲部落。	我的出生地在馬立雲部落。	i Maibul ku pilecuhan nu maku.	我生產地在馬立雲部落。	i Maibul ku papanalan nu maku.
+402	anu yaan ku pilecuhan nu misu?	你的生日是甚麼時候？	你的生日是甚麼時候？	anu yaan ku pilecuhan nu misu?	你何時出生的?	anu yaan ku icelecan nu misu?
+403	limaay ku tuki nu pilekalan nu maku tu sananal.	每天早上我都五點起床。	每天早上我都五點起床。	limaay ku tuki nu pilekalan nu maku tu sananal.	我在清晨停覺時用五把手。	sakalima ku mulekal nu maku tu sananal.
+404	ahbal ku pililucan i nuzikuzan nu luma' niyam.	我們家後面的浴室很寬。	我們家後面的浴室很寬。	ahbal ku pililucan i nuzikuzan nu luma' niyam.	我家後面的洗場很寬。	ahebal ku pipacumuway i nu zikuzan nu luma'.
+405	piluceki tu kawaw i binawlan!	部落的事情要公平！	部落的事情要公平！	piluceki tu kawaw i binawlan!	要在民眾面前完成工作!	patataling tu sakapah nu niyazu'!
+406	namukan tu buting piluwalu'i tu!	吃過魚務必要漱口！	吃過魚務必要漱口！	namukan tu buting piluwalu'i tu!	吃過魚要再起水!	micakay tu buting sa pidademi!
+407	pipacabaya tu saba muculil!	去陪妹妹走路！	去陪妹妹走路！	pipacabaya tu saba muculil!	去陪弟弟走路!	pilalutay ci kaka!
+408	sakacecay a bulad u pitekaan nu miheca.	一月是一年之初。	一月是一年之初。	sakacecay a bulad u pitekaan nu miheca.	每年的第一個月是梅雨季。	sakacacay a bulad sa u cecay nu mihecaan.
+409	cecay a lipay pitu ku demiad.	一星期有七天。	一星期有七天。	cecay a lipay pitu ku demiad.	週一是星期二的日期。	pitu ku demiad tu sakacudad.
+410	yadah ku puda' nu mata.	眼睛的眼屎很多。	眼睛的眼屎很多。	yadah ku puda' nu mata.	眼睛有很多黑斑。	yadah ku lusa' nu mata.
+411	pulet kiya tademaw.	那個人很矮小。	那個人很矮小。	pulet kiya tademaw.	那個人是變態的。	mapuletay kiya tademaw.
+412	i putah kita mapalaw.	我們在庭外跳舞。	我們在庭外跳舞。	i putah kita mapalaw.	我們在廣場跳舞。	palaw han nu mita i putah.
+413	u lalidec ku sapisanga' tu sabetil.	用九芎來製作彈弓。	用九芎來製作彈弓。	u lalidec ku sapisanga' tu sabetil.	用草花來製作箭。	u nuli ku sapisanga' tu sabetil.
+414	sahemayen tu ku sakalahuk nu binawlan!	去為部落煮中餐！	去為部落煮中餐！	sahemayen tu ku sakalahuk nu binawlan!	要準備要吃的午餐!	sakalabi tu hemay nu niyazu'!
+415	u suni nu balaut ku sakatineng tu sakaudad.	從青蛙的叫聲可以得知要下雨了。	從青蛙的叫聲可以得知要下雨了。	u suni nu balaut ku sakatineng tu sakaudad.	風雨天的聲音真好聽。	masicak ku ngalic nu kuwawi tu a maudad.
+416	sapaiyu tu kemi ku sakikemi sa ku babalaki.	長輩說小花蔓澤蘭是治療運動後的疼痛。	長輩說小花蔓澤蘭是治療運動後的疼痛。	sapaiyu tu kemi ku sakikemi sa ku babalaki.	老人說吃麻可以治癒。	u lutungay ku sakayakaen tu adada nu idadan sa ku babalaki.
+417	sakuwan tu kanatal.	政治。	政治。	sakuwan tu kanatal.	想到明天。	pulitika.
+418	maacak tu ku salangec nu maku.	我的稻子熟了。	我的稻子熟了。	maacak tu ku salangec nu maku.	我的菜園已經被清洗了。	mazuhem tu ku tipus nu maku.
+419	u salaway ci Kaniw i niyazu'.	Kaniw在部落是屬巨大的人。	Kaniw在部落是屬巨大的人。	u salaway ci Kaniw i niyazu'.	Kaniw 在部落是老。	u sibila'ay ci Kaniw i niyazu'.
+420	caay salisin tu nababalaki ku misakilistuay.	基督徒不祭拜祖先。	基督徒不祭拜祖先。	caay salisin tu nababalaki ku misakilistuay.	收費工人不可以跟老人同床。	caay pilisima ku kiwikay tu babalaki.
+421	saliyaliyaw amanakasa tu kamu i nuayawan nu katuuday.	在眾人面前不要一再重覆說話。	在眾人面前不要一再重覆說話。	saliyaliyaw amanakasa tu kamu i nuayawan nu katuuday.	在會眾前演說不要隨便出口。	i katuuday amana pitiiktih tu kamu.
+422	saliyuken kina niyazu' maduba'!	去繞著部落跑！	去繞著部落跑！	saliyuken kina niyazu' maduba'!	要團結這個部落跑步!	pilalaba'i ku niyazu' miawaw!
+423	samabataday ku luma' ni Pasang.	Pasang 的家是最遠的。	Pasang 的家是最遠的。	samabataday ku luma' ni Pasang.	Pasang的家是最遠的。	satakalaway ku luma' ni Pasang.
+424	tulakuk, basis, buting, paza', epah... ku sapatungus i di'tu ni bayi.	雞肉、豬肉、魚肉、香蕉、酒，這些都是阿嬤要用來獻祭的祭品。	雞肉、豬肉、魚肉、香蕉、酒，這些都是阿嬤要用來獻祭的祭品。	tulakuk, basis, buting, paza', epah... ku sapatungus i di'tu ni bayi.	雞肉,豬肉,魚肉,香,酒...都是奶奶裝在烤火鍋裡的米。	tulay, titi, buting, paza' atu elaw sa u sakatabuyan ni bayi.
+425	u sapidimata' ni Taymu tu bunak kina unuc.	這個扁擔是Taymu用來挑沙子的。	這個扁擔是Taymu用來挑沙子的。	u sapidimata' ni Taymu tu bunak kina unuc.	這子是Taymu用來挑的。	ni Taymu ku sapidadum tu bunak kina pusuk.
+426	kapah sapisulac tu siuy ku katus.	木賊草可以用來刷鍋子。	木賊草可以用來刷鍋子。	kapah sapisulac tu siuy ku katus.	木可以用來做成圓柱。	kapah ku sapisulahid tu siuy.
+427	u wawelwel ku sapitupin nu maku tu wawa.	我騎機車載小孩。	我騎機車載小孩。	u wawelwel ku sapitupin nu maku tu wawa.	我用摩托車接小孩。	paculil kaku tu wawa i wawelwel.
+428	sicucuay tu yadahay a pabuy ku sasaulangen.	用來繁殖的母豬要有很多乳房。	用來繁殖的母豬要有很多乳房。	sicucuay tu yadahay a pabuy ku sasaulangen.	有多隻豬才可以當飼料。	sibiliay ku susu nu pabuy a sakasulemu'.
+429	u putut nu auk ku satakidan a patawsi.	用竹節做成的杯子來和大家喝酒。	用竹節做成的杯子來和大家喝酒。	u putut nu auk ku satakidan a patawsi.	用竹的葉子做成香。	u auk a takid ku sapicukcu tu epah.
+430	tadatanaya' kuna satelec.	這皮帶特別長。	這皮帶特別長。	tadatanaya' kuna satelec.	那個坐椅很長。	siaduc kina pising.
+431	sazumaen ku wayway tiya kapah azihen.	動作修正才會好看。	動作修正才會好看。	sazumaen ku wayway tiya kapah azihen.	要有不同的樣子才會漂亮。	misanga'ay ku bawad sa kapah azihen.
+432	anu tabaki ku cilal sa siadingu ku kilang.	如果太陽很大，樹會有影子。	如果太陽很大，樹會有影子。	anu tabaki ku cilal sa siadingu ku kilang.	太陽長太大時,樹就紅色的發光。	anu tabaki ku cilal makaada ku kilang.
+433	siakaway henay kiya kawpil.	地瓜葉還帶梗。	地瓜葉還帶梗。	siakaway henay kiya kawpil.	隊伍裡還有小姐。	siabih henay ku papah nu tubah.
+434	sialebis ku buyubuyu'an nu Taywan.	臺灣的山有大冠鳩。	臺灣的山有大冠鳩。	sialebis ku buyubuyu'an nu Taywan.	臺灣的山上有很多野。	sialupid ku buyu' nu Taywan.
+435	sialipatu ku tabu ni Tubah tu demidemiad.	Tubah 的便當每天都有雞腿。	Tubah 的便當每天都有雞腿。	sialipatu ku tabu ni Tubah tu demidemiad.	Tubah 每天用兩隻手指來包禮。	sipudac ku tabu ni Tubah tu demidemiad.
+436	siapiyan ku kakabian niya wawa.	那個小孩的房間有藏匿毒品。	那個小孩的房間有藏匿毒品。	siapiyan ku kakabian niya wawa.	那小孩的床邊有小刀。	izau ku malingudusay a dadaw i kakabian niya wawa.
+437	siayam ku buyu' nu Maibul.	馬立雲部落的山上有飛鳥。	馬立雲部落的山上有飛鳥。	siayam ku buyu' nu Maibul.	馬立雲部落的山上有很多野。	simabengetay ku buyu' nu Maibul.
+438	sibalaut ku lakulakuan nu pongkang.	涵洞邊的水田有青蛙。	涵洞邊的水田有青蛙。	sibalaut ku lakulakuan nu pongkang.	道的水田有白。	sibahud ku lakub nu buhang.
+439	sibali ku luma' ni Tilu tu labi.	Tilu 的家夜晚有風。	Tilu 的家夜晚有風。	sibali ku luma' ni Tilu tu labi.	Tilu的家裡有夜晚吹風。	mabaliyus ku luma' ni Tilu tu labi.
+440	nayi' ku sibalucu'ay milihiza tu mapalaway.	沒有人願意參與祭師的儀式。	沒有人願意參與祭師的儀式。	nayi' ku sibalucu'ay milihiza tu mapalaway.	沒有心地的人要跟弟兄們在一起。	nayay ku maydih milimad tu sakatanektek.
+441	uyza sibaluluay ci Kacaw.	背背簍的是 Kacaw。	背背簍的是 Kacaw。	uyza sibaluluay ci Kacaw.	Kacaw 那個帶有氣球的人。	ci Kacaw ku tapesu'ay tu kulul.
+442	u sibutulay a tatama.	有氣概的男人。	有氣概的男人。	u sibutulay a tatama.	是有肚子的男生。	damsayay a tatama.
+443	sicengelay tu sumanahay ku zikuc ni Tubah.	Tubah 的衣服是染紅色的。	Tubah 的衣服是染紅色的。	sicengelay tu sumanahay ku zikuc ni Tubah.	Tubah 的衣服有紅色。	sumanahay a kasizikuc ku zikuc ni Tubah.
+444	sicuhcuh ku sauwac nu Maibul sa!	馬立雲部落的溪流有田螺！	馬立雲部落的溪流有田螺！	sicuhcuh ku sauwac nu Maibul sa!	馬立雲部落的小溪到處都有水井!	siaus ku sauwac nu Maibul!
+445	sicupu tu ku nuamisan nu Maibul.	馬立雲部落的北邊有堤防了。	馬立雲部落的北邊有堤防了。	sicupu tu ku nuamisan nu Maibul.	馬立雲部落的村莊有小姐。	siami' tu ku culil nu Maibul.
+446	sidingeten ku dinget isu!	你去擤鼻涕！	你去擤鼻涕！	sidingeten ku dinget isu!	把你的耳朵遮住!	piceliki kisu tuway!
+447	siduka ku bihid ni Ibong.	Ibong 的臉上有受傷。	Ibong 的臉上有受傷。	siduka ku bihid ni Ibong.	Ibong 有鼻子腫。	siizang ku bihid ni Ibong.
+448	saabesa'en ku kanen nu siimelangay tu takalaway ku izang.	血壓高的人要吃清淡一點。	血壓高的人要吃清淡一點。	saabesa'en ku kanen nu siimelangay tu takalaway ku izang.	患有血病的人要少吃。	sicedam sa ku takalaway a tademaw mukan.
+449	siiyu ku hacul nu sizi.	羊奶很有營養。	羊奶很有營養。	siiyu ku hacul nu sizi.	羊肉有味。	siedad ku cucu nu sizi.
+450	sikanay ku lalabu nu luma' sa u kakitaan.	想吃什麼都吃得到的家庭就是有錢人。	想吃什麼都吃得到的家庭就是有錢人。	sikanay ku lalabu nu luma' sa u kakitaan.	一間房子有管家是賺錢的。	u maylayay ku sapakan tu kakawaw nu luma'.
+451	amana ka silangiwngiw tu cabay.	對朋友不要發怨言。	對朋友不要發怨言。	amana ka silangiwngiw tu cabay.	不要對朋友罵。	amana pilikab tu cabay.
+452	matabal tu sananal silesing ku papah nu kilang.	早上樹葉有露水。	早上樹葉有露水。	matabal tu sananal silesing ku papah nu kilang.	樹葉在早上被開。	siciid ku papah tu sananal.
+453	silihab tu la'cusay masikaz ku lalabu nu luma'.	有壞的風聲會讓家人蒙羞。	有壞的風聲會讓家人蒙羞。	silihab tu la'cusay masikaz ku lalabu nu luma'.	屋內有不好的東西可以做成收納。	siciid tu kabaliyusan mapacelem ku lalabu nu luma'.
+454	silikes kina niyazu'.	這個部落有蚊子。	這個部落有蚊子。	silikes kina niyazu'.	這個部落有子。	sikaling kina niyazu'.
+455	siluni ku palami'an ni Benel.	Benel的菜園裡有絲瓜。	Benel的菜園裡有絲瓜。	siluni ku palami'an ni Benel.	Benel 的菜園裡有。	siaupa ku palami'an ni Benel.
+456	simawen ku mikuliay!	去管理這些工人！	去管理這些工人！	simawen ku mikuliay!	要有時間給工作的人!	kuwanen ku misakakawaway!
+457	simisamis ku limecedan nu tatayna.	少女會戴耳環。	少女會戴耳環。	simisamis ku limecedan nu tatayna.	女人戴上戒指可成為女。	matineng misulahid ku tatayna.
+458	amana ka singangan tu la'cusay.	不要有壞名聲。	不要有壞名聲。	amana ka singangan tu la'cusay.	不要抱怨壞話。	amana ka sikaz tu la'cusay.
+459	sisakilima maluk, sakacaay ka betu nu lima.	戴手套工作，手才不會起水泡。	戴手套工作，手才不會起水泡。	sisakilima maluk, sakacaay ka betu nu lima.	工作上用手,最好不要太大手。	silaluma' miculil sa caay ka sulalis ku lima.
+460	sisalang ku heci nu ciyak.	西瓜多汁。	西瓜多汁。	sisalang ku heci nu ciyak.	叔叔的果實有味。	siabu kina saci nu tubah.
+461	sisubuk ku babalaki tayza i buyu' midungec.	老人背背袋上山採藤心。	老人背背袋上山採藤心。	sisubuk ku babalaki tayza i buyu' midungec.	長輩把背袋帶到山上抓。	siudu' ku subuk nu babalaki tu faku.
+462	u malukay manamuh sitapudu.	工作的人喜歡用包巾。	工作的人喜歡用包巾。	u malukay manamuh sitapudu.	農人喜歡帶腳。	manamuh ku malukay a tademaw mikalitang.
+463	makai kaku tayza i sitatuni'ay a aidangan.	我不想去有垃圾的公園。	我不想去有垃圾的公園。	makai kaku tayza i sitatuni'ay a aidangan.	我不喜歡去穩重的場所。	caay ka namuh kaku tayza i sitatuni'an a park.
+464	sitektek ku luma' sakatanektek.	籬笆有柱子才會堅固。	籬笆有柱子才會堅固。	sitektek ku luma' sakatanektek.	房子很堅固所以穩重。	sitik ku sata nu alucen kiyu tanektek.
+465	sitilesen tu kina hakhak.	糯米飯發霉了。	糯米飯發霉了。	sitilesen tu kina hakhak.	該煮米飯了。	masibul tu ku hakhak.
+466	situda ku Alangahay.	紅葉溪裡有鰻魚。	紅葉溪裡有鰻魚。	situda ku Alangahay.	豐年祭是水祭。	siabi ku alangahay i Alupalan.
+467	situpel kaku tu sumanahay.	我有黑色的帽子。	我有黑色的帽子。	situpel kaku tu sumanahay.	我有靠的人。	lumeni'ay ku tupel nu maku.
+468	tayza i cacudadan ku wawa amana ka sizikuc tu nu babalaki.	小孩上學不要穿大人的衣服。	小孩上學不要穿大人的衣服。	tayza i cacudadan ku wawa amana ka sizikuc tu nu babalaki.	小孩不要去學校,長輩不要帶衣服。	amana pacalap tu zikuc nu babalaki ku wawa tayza i picudadan.
+469	angangan nu sulac sasangen tu mahud, manamuh ku ayam mukan tu heci.	菲律賓榕樹根可做蒸桶鳥喜歡吃它的果食。	菲律賓榕樹根可做蒸桶鳥喜歡吃它的果食。	angangan nu sulac sasangen tu mahud, manamuh ku ayam mukan tu heci.	樹根可以做成麻,雞喜歡吃果實。	sibulang ku heci nu da'dac i Pilipinan kanamuhan nu ayam mukan tu heci niza.
+470	sulalis ku wawa.	小孩發燒。	小孩發燒。	sulalis ku wawa.	小孩發燒了。	naela' kiya wawa.
+471	taduk nu malungayangay.	鴛鴦。	鴛鴦。	taduk nu malungayangay.	貪吃鬼的。	ci ku taduk.
+472	talalusa' miazih tu tilibi ci baki.	阿公看電視會流眼淚。	阿公看電視會流眼淚。	talalusa' miazih tu tilibi ci baki.	叔叔長的很會看電視。	malabadac ci baki miazih tu tilibi.
+473	talaw sa kaku maimelang.	我很怕生病。	我很怕生病。	talaw sa kaku maimelang.	我很怕生病。	matalaw kaku tu imelang.
+474	asu' ku tamulak a sakabien.	南瓜煮湯很好吃。	南瓜煮湯很好吃。	asu' ku tamulak a sakabien.	桃很好吃。	asu' ku sapisalami' tu tamulak.
+475	tanaya' ku labi nu kasienawan.	冬天的夜晚很長。	冬天的夜晚很長。	tanaya' ku labi nu kasienawan.	冬天的夜晚會很長。	tanaya' ku sakalabi i kasienawan.
+476	sa tanengayen ku takalaw nu tatangahan.	枕頭的高度要剛好。	枕頭的高度要剛好。	sa tanengayen ku takalaw nu tatangahan.	想像大家的大門。	sakapahen ku takalaw nu pilis.
+477	manamuh ku tangalaw tu kacikiyan.	蒼蠅喜歡骯髒的地方。	蒼蠅喜歡骯髒的地方。	manamuh ku tangalaw tu kacikiyan.	喜歡吃麻。	manamuh ku tangalaw a papacuk.
+478	sitangalaw i pacakayay tu buting a iciba.	賣魚的地方有很多蒼軋蠅。	賣魚的地方有很多蒼軋蠅。	sitangalaw i pacakayay tu buting a iciba.	賣魚的豬肉含有子。	yadah ku tuda i picakayan tu buting.
+479	asu' sa pacamul tu mulimuli ku tangu'.	湯圓加上茼萵很好吃。	湯圓加上茼萵很好吃。	asu' sa pacamul tu mulimuli ku tangu'.	子用來盛黃瓜的飯。	paaluyen ku kayku sa asu' kanen.
+480	tanupuduh sa kina kupa.	棉被裡有很多螞蟻。	棉被裡有很多螞蟻。	tanupuduh sa kina kupa.	這杯子是的。	yadah ku ngisngis i pada.
+481	tanuuning sa ku zikuc ni baki.	阿公的衣服髒兮兮。	阿公的衣服髒兮兮。	tanuuning sa ku zikuc ni baki.	叔叔的衣服長得很。	tanud ku zikuc ni baki.
+482	izaw tu ku tapud nya lami'.	菜已長白色霉了。	菜已長白色霉了。	izaw tu ku tapud nya lami'.	菜的頭有湯了。	mangawali tu ku lami' i putah.
+483	salangdaw sa ku tapuku.	天空很藍。	天空很藍。	salangdaw sa ku tapuku.	頭長的很清。	alangaw ku tapuku.
+484	amana ka tastasen ku batikal.	不要損壞腳踏車。	不要損壞腳踏車。	amana ka tastasen ku batikal.	不要把腳踏車弄不穩的。	amana ka elucen ku kuku' nu batikal.
+485	tanektek ku tatama nu Sakizaya.	撒奇萊雅的男人很健壯。	撒奇萊雅的男人很健壯。	tanektek ku tatama nu Sakizaya.	撒奇萊雅族的男人很堅固。	tanestes ku tatama nu Sakizaya.
+486	ki tabakiyan nu tatekuh ku kaketi.	虎頭蜂比草蜂大。	虎頭蜂比草蜂大。	ki tabakiyan nu tatekuh ku kaketi.	子比大子大隻。	ki tabakiyan nu kaketi ku tataak.
+487	tatenga' mikikung tu ci Panay?	Panay真的要結婚是嗎？	Panay真的要結婚是嗎？	tatenga' mikikung tu ci Panay?	去找 Panay 回家了嗎?	tanektek ci Panay a misaluma haw?
+488	tatip kaku anucila mizizaw ci bakiyan.	明天我要去西部拜訪伯父。	明天我要去西部拜訪伯父。	tatip kaku anucila mizizaw ci bakiyan.	我明天要去上班看阿。	mikayza kaku anucila i tipuku mizizaw ci baki.
+489	tatulu ku wawa ni Panay.	Panay 有三個小孩。	Panay 有三個小孩。	tatulu ku wawa ni Panay.	Panay 的小孩有三個兄弟。	tati ku wawa ni Panay.
+490	cima ku tayniay miwadwad tu pazikucan.	誰來這將衣櫃翻動？	誰來這將衣櫃翻動？	cima ku tayniay miwadwad tu pazikucan.	是那個來付衣服的人。	cima ku mibenekay tu pazikucan?
+491	tebing han ci Ikang muwangic tu.	觸碰一下Ikang就哭。	觸碰一下Ikang就哭。	tebing han ci Ikang muwangic tu.	Ikang快點發出聲音了。	cuzuh han tu ci Ikang malabang.
+492	teka sahnay micudad maimelang tuway.	剛開學就生病了。	剛開學就生病了。	teka sahnay micudad maimelang tuway.	常讀大學容易生病。	nanutay sa imelang henay.
+493	sakapahen ku mipahecek tu tektek tawya caay ka piluh.	柱子要先立好才不會倒掉。	柱子要先立好才不會倒掉。	sakapahen ku mipahecek tu tektek tawya caay ka piluh.	把柱子好才不會倒掉。	patekteken ku tektek amana ka piluh.
+494	telung han tu ku saupu nu niyazu'.	就去負責部落的聚會。	就去負責部落的聚會。	telung han tu ku saupu nu niyazu'.	部落的口袋就這麼豐富。	sakapahen ku saupu nu niyazu'.
+495	i tepaday ci Labi miuway.	Labi在岩壁處採籐心。	Labi在岩壁處採籐心。	i tepaday ci Labi miuway.	Labi在邊緣手。	miadiping ci Labi i teban nu ba'tu.
+496	matineng ku sizi muculil i tepatepadan.	山羊很能在懸崖峭壁行走。	山羊很能在懸崖峭壁行走。	matineng ku sizi muculil i tepatepadan.	羊很會走到山坡地。	matineng ku sizi muculil tu tepad.
+497	u tepi ku sapi atal tu hemay.	用飯匙添飯。	用飯匙添飯。	u tepi ku sapi atal tu hemay.	飯鍋是用來盛飯的。	kau takulac ku sapisahemay tu hemay.
+498	tiikan ni Panay ci Kacaw.	Panay打了Kacaw。	Panay打了Kacaw。	tiikan ni Panay ci Kacaw.	Panay去打Kacaw。	benek han ni Panay ci Kacaw.
+499	timtim han mihaymaw mukan.	慢慢一點一點細咬進食。	慢慢一點一點細咬進食。	timtim han mihaymaw mukan.	吃起來容易。	hinanay sa mibelat mukan tu hemay.
+500	banihiw ku bali nay tipay.	從西方吹來涼風。	從西方吹來涼風。	banihiw ku bali nay tipay.	吹來一陣風。	beliw sa ku bali nay wali.
+501	salengacay ku cica' nu titic.	榕樹的汁液是白色的。	榕樹的汁液是白色的。	salengacay ku cica' nu titic.	雞肉的子很香。	sangelacay ku jus nu azaway.
+502	tiwasen ku mapacaitay i kilang a zikuc!	去把跑到樹上的衣服收下！	去把跑到樹上的衣服收下！	tiwasen ku mapacaitay i kilang a zikuc!	把穿在樹上的衣服起來!	pibalati henay ku zikuc i kilang!
+503	tizeng amanakasa i panan.	不要一直站在門口。	不要一直站在門口。	tizeng amanakasa i panan.	不要隨便在桌上坐。	amana ka tiza i panan nu sasaedeb.
+504	tudungen ku kamu nu maku!	跟著我說！	跟著我說！	tudungen ku kamu nu maku!	聽我的話!	kilulen kaku a misakamu!
+505	pina tu ku tuki ayza?	現在幾點鐘了？	現在幾點鐘了？	pina tu ku tuki ayza?	現在有多少?	pina tu ku sakacelal ayza?
+506	tukus ku pipalumaan tu kuciyam.	旱稻是種在旱地。	旱稻是種在旱地。	tukus ku pipalumaan tu kuciyam.	竹種植的地方是玉米園。	i umah ku nipaluma'an tu daul.
+507	tukus nu buyu' atu helung nu buyu' sa madadimata'.	山谷和山頂是相對的。	山谷和山頂是相對的。	tukus nu buyu' atu helung nu buyu' sa madadimata'.	山谷的山坡很危險。	malecad ku buyu' atu buyu'.
+508	tulatulaw mukan tu kalang atu cuhcuh.	灰胸秧雞捕食蟹與螺。	灰胸秧雞捕食蟹與螺。	tulatulaw mukan tu kalang atu cuhcuh.	子吃子容易口渴。	mibihkac ku tuwid mukan tu banuh atu ci nalebah.
+509	caay henay pakaazih kaku tu tumay.	我還沒看過熊。	我還沒看過熊。	caay henay pakaazih kaku tu tumay.	我還沒看到子。	caay henay kaku makaazih tu kelacal.
+510	u tungus niza kiya luma'.	那個房子是屬於他的。	那個房子是屬於他的。	u tungus niza kiya luma'.	那間家是他獨有的。	nu niza kuyza a luma'.
+511	sizumaay sa ku tutuy a muisi', mutai'.	小狗隨地亂大小便。	小狗隨地亂大小便。	sizumaay sa ku tutuy a muisi', mutai'.	雞肉隨便吃,容易。	mitataling ku wacu micebu'.
+512	matumes nu tuud ku sulu.	倉庫被東西塞滿了。	倉庫被東西塞滿了。	matumes nu tuud ku sulu.	倉庫被垃圾淹沒了。	mataling ku sulu nu sakizu'ay.
+513	tabaki ku udad i kabaliyusan.	颱風天的雨下得很大。	颱風天的雨下得很大。	tabaki ku udad i kabaliyusan.	風天的雨很大。	mabaliyus a demiad sa matenes ku udad.
+514	tasasa tu ku uul sa a kapah tu ku demiad.	山上的霧散了，天氣就變好了。	山上的霧散了，天氣就變好了。	tasasa tu ku uul sa a kapah tu ku demiad.	烏的穿上是美好的。	masay ku buyu' sa matimel tu kina demiad.
+515	uyza kiya sitangahay a tademaw.	那位是聰明人物。	那位是聰明人物。	uyza kiya sitangahay a tademaw.	那個人是有智慧的人。	sitangahay kiya tademaw.
+516	yadah ku uzang i sauwac nu Maibul.	馬立雲部落的溪流很多蝦。	馬立雲部落的溪流很多蝦。	yadah ku uzang i sauwac nu Maibul.	馬立雲部落的小溪裡有很多子。	yadah ku sauwac nu alangahay nu Maibul.
+517	kasaetimen nu mita ku uzip.	我們要愛護身體。	我們要愛護身體。	kasaetimen nu mita ku uzip.	我們要健康。	pidemi' kita tu uzip.
+518	i wakungen milacul tiy walay.	用大碗公盛麵！	用大碗公盛麵！	i wakungen milacul tiy walay.	在空氣中放。	pabelien ku pakaysingan a papah nu patah!
+519	wilet sa tu uzip kya adiwawa.	小朋友把身體扭轉起來。	小朋友把身體扭轉起來。	wilet sa tu uzip kya adiwawa.	那個小孩一直搖動著身體。	belin han nu wawa ku uzip.
+520	i tuhenian ku i yadahay a buting.	他們那裡的魚比較多。	他們那裡的魚比較多。	i tuhenian ku i yadahay a buting.	他們那裡的魚比較多。	i tuhenian ku i buting.
+521	anu izau ku kawaw sa katayza i yakuba mitengil.	若有要事可到公所去詢問。	若有要事可到公所去詢問。	anu izau ku kawaw sa katayza i yakuba mitengil.	如果有工作的話,一定去學校聽說。	anu maykah ku sakakawaw tayza i paysu'.
+522	izau ku zuma u nu kilangay ku sapi saluma' a luma'.	有些房子是用木頭蓋的。	有些房子是用木頭蓋的。	izau ku zuma u nu kilangay ku sapi saluma' a luma'.	樹根有源地所以可建房子。	nu kilang ku sapibadahung nu luma'.
+523	malalebu ku katalalan i nacila.	昨天有牛在打鬥。	昨天有牛在打鬥。	malalebu ku katalalan i nacila.	昨天牛到處都是跑。	silalabu kiya katalalan i nacila.
+524	nayi' sa ku wantan tiya tademawan.	對那個人很沒信心。	對那個人很沒信心。	nayi' sa ku wantan tiya tademawan.	那個人沒有想要的。	caay ka sizumaen kiya tademaw.
+525	yadah tu ku nisinga'an nu maku tu paysu'.	我已存了不少錢。	我已存了不少錢。	yadah tu ku nisinga'an nu maku tu paysu'.	我存的錢很多了。	yadah tu ku nizateng nu maku a kalisiw.
+526	pahezek han nu mita.	我們就這樣停止。	我們就這樣停止。	pahezek han nu mita.	我們就完成這件事了。	ngahaw han nu mita ku nikatayni.
