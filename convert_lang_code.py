@@ -16,6 +16,7 @@ conv_dict = {
   "tsu": "Tsou",
   "xnb": "Kanakanavu",
   "xsy": "Saisiyat",
+  "pyu": "Puyuma",
 }
 
 inv_dict = {v: k for k, v in conv_dict.items()}
