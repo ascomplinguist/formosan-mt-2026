@@ -1,0 +1,461 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	Gaga Brayaw ka alang mu.	我的部落在Brayaw。	我的部落在Brayaw。	Gaga Brayaw ka alang mu.	我部落在布拉瓦地區。	Gaga Brayaw ka alang mu.
+1	Alaw su psparu bi, kiya do ungat lupung su da.	因為你很驕傲，所以你沒有朋友。	因為你很驕傲，所以你沒有朋友。	Alaw su psparu bi, kiya do ungat lupung su da.	你會變成很大的老人,這樣你的朋友就沒有了。	Embburu su embanah, kiya ka ini su lupung.
+2	Gaga inu ka ayus ta dxgal da?	我們的土地界線在那裡了？	我們的土地界線在那裡了？	Gaga inu ka ayus ta dxgal da?	我們的土地在哪裡?	Ga inu da dgiyaq ta ka dxgal su?
+3	Pakaw bbalaw.	刺藤的刺。	刺藤的刺。	Pakaw bbalaw.	用槍擊你。	Tjicun ka qwarux.
+4	Bbatu na ka sknarux na.	他因貪心而生病的。	他因貪心而生病的。	Bbatu na ka sknarux na.	他用腳來治療他的病。	Sqpuruh na endaan ka mnarux na.
+5	Bbrbur mu sudu ka parih nii.	這鋤頭用來翻動樹葉。	這鋤頭用來翻動樹葉。	Bbrbur mu sudu ka parih nii.	這頭是我要把垃圾堆積起來的。	Pqlbil sida qhuni ka parih nii.
+6	Kana bbriqax skuy elug ga o daun gmeelug.	那些交錯在路上的箭竹要清理成一條路。	那些交錯在路上的箭竹要清理成一條路。	Kana bbriqax skuy elug ga o daun gmeelug.	那些路障都是要讓人改進的。	Kana bbrtauk ga o pspui elug ka llungaw gaga.
+7	Kana bbsbas btakan ga o nbuan sunu kana.	那些破爛的竹子是山崩造成的。	那些破爛的竹子是山崩造成的。	Kana bbsbas btakan ga o nbuan sunu kana.	那些甜是你帶來的。	Kana mrruput djima ga o hmrapas btunux ka ki da.
+8	Ini hari pnegbeyluh ka hiya.	他不太喜歡豆子。	他不太喜歡豆子。	Ini hari pnegbeyluh ka hiya.	他比較不會流口水。	Ini hari kuxul bi ka gisang.
+9	Alang Bgaal nniqan seejiq Toda sbiyaw.	Bgaal 部落曾經是Toda群族人住過的地方。	Bgaal 部落曾經是Toda群族人住過的地方。	Alang Bgaal nniqan seejiq Toda sbiyaw.	以前的Toda是位於比加爾部落的人。	Nmaan seejiq Toda ka alang Bgaal han.
+10	Mlbay bi blbilan ka bhniq na.	他的弓箭拉起來已經疲乏。	他的弓箭拉起來已經疲乏。	Mlbay bi blbilan ka bhniq na.	他的腰很容易折斷。	Wada kbubur kmrut buji na.
+11	Kana saw blbulih nbuyas ka mirit ga o niqan wawa kana.	像那些肚子肥肥的羊都懷孕。	像那些肚子肥肥的羊都懷孕。	Kana saw blbulih nbuyas ka mirit ga o niqan wawa kana.	那些肚子充滿乳房的羊都有女兒。	Mgbrbuut ka mirit ga o mgbuut kana.
+12	Pltudun do maapu bnarah ka apu rungay.	野生柿子接枝後成為新改良的柿子。	野生柿子接枝後成為新改良的柿子。	Pltudun do maapu bnarah ka apu rungay.	子生長時會帶來新芽。	Gmcina sida ka rungay o maaqnu maamphngil da.
+13	Bntug mu masu do mkrapiq ka nii da.	這竹片刀割過小米之後裂開了。	這竹片刀割過小米之後裂開了。	Bntug mu masu do mkrapiq ka nii da.	我煮的小米已經有裂痕了。	Msneqih hmidaw ka djima nii wada embsgaliq da.
+14	Bowli ngungu ka pnskraya paangal bhring samat.	摸別人的獵物尾巴使自己也擁有獵物的靈氣。	摸別人的獵物尾巴使自己也擁有獵物的靈氣。	Bowli ngungu ka pnskraya paangal bhring samat.	獵人挑尾巴是用獵刀捕捉獵物。	Tmtmun quyu samat seejiq o ki ka mniq uri da.
+15	Malu bi sluun wihi ka qhuni bqlit.	樺樹是製做木匙很好的原料。	樺樹是製做木匙很好的原料。	Malu bi sluun wihi ka qhuni bqlit.	黃木很適合做蜜汁。	Sndrimun o malu bi ssalu rungus qhuni.
+16	Qnpahan mu o niqan bi birh niya.	我做的工很有代價。	我做的工很有代價。	Qnpahan mu o niqan bi birh niya.	我種的田有很多苗。	Gmndumul bi qpahun mu ka qnpahan mu.
+17	Buluq bubug msa tlngun ka bubul laqi rbnaw.	嬰兒的熜門摸起來軟軟的。	嬰兒的熜門摸起來軟軟的。	Buluq bubug msa tlngun ka bubul laqi rbnaw.	嬰兒牙的聲音叫「bum」。	Mluway bi hngkuran ka laqi rbnaw.
+18	Buur sari ka gaga.	那是芋頭的皮。	那是芋頭的皮。	Buur sari ka gaga.	那是頭。	Qqraqil sari ka gaga.
+19	Dhiya bybayuh mnkan nii o qdali duri!	他們這些沒有好好好吃飯的人，再給他們吃飯吧！	他們這些沒有好好好吃飯的人，再給他們吃飯吧！	Dhiya bybayuh mnkan nii o qdali duri!	這些子吃過的人也要丟掉!	Dmpsdlut dha mkan nhapuy ka dhiya nii, pqdaani ki da.
+20	Gmaxi cicih bunga qurug ka masu.	小米混合著一些馬鈴薯。	小米混合著一些馬鈴薯。	Gmaxi cicih bunga qurug ka masu.	把小米加上大甘。	Nspug duma ka masu.
+21	"""Cir""msa smriyu paah bling btunux ka qsiya."	"水從石縫中發出""cir""聲噴流出來。"	"水從石縫中發出""cir""聲噴流出來。"	"""Cir""msa smriyu paah bling btunux ka qsiya."	"水從石洞裡發出""cir""的聲音。"	"""Cir"" msa hmnang qsiya ka qsiya btunux."
+22	"""Cxcix"" msa mapa qaya steetu kana."	"揹東西爬坡會發出""cxcix""的聲音"	"揹東西爬坡會發出""cxcix""的聲音"	"""Cxcix"" msa mapa qaya steetu kana."	"起火時""cxcix""的聲音響著,人人都在推車。"	Pqscix msaang ka mnkala.
+23	Msncimah pihiq ka tama na o asi csrusuq, yaasa pnsmiyah bi laqi snaw.	爸爸因為生女孩而掉眼淚，因他很期待男孩。	爸爸因為生女孩而掉眼淚，因他很期待男孩。	Msncimah pihiq ka tama na o asi csrusuq, yaasa pnsmiyah bi laqi snaw.	他爸爸因喝酒而生氣,因為男孩子很會吐。	Asi lux lmingis laqi kuyuh ka tama na, ki ga naalax bi laqi snaw.
+24	Cyadan o tgyaan bkuwir.	縷線桿是理線用的。	縷線桿是理線用的。	Cyadan o tgyaan bkuwir.	線是藤所形成的。	Djiyun qngqaya o djiyun qngqaya.
+25	Seejiq daan muda o msngusul bi.	人們感冒時容易流鼻涕。	人們感冒時容易流鼻涕。	Seejiq daan muda o msngusul bi.	以前的人很相互執著。	Mnegsbus bi muuyas ka seejiq o msuway balay.
+26	Tayal bi dahang su.	你怎麼那麼小氣。	你怎麼那麼小氣。	Tayal bi dahang su.	你的視力很亮。	Masu saw sqrkaw balay.
+27	Daling hini ka sapah na.	他的家很近。	他的家很近。	Daling hini ka sapah na.	他的家就到這裡。	Kbaraw balay ka sapah na.
+28	Dmciyux sneunux ga o niqan snaw uri.	那些美髮師中也有的是男性。	那些美髮師中也有的是男性。	Dmciyux sneunux ga o niqan snaw uri.	那些髮的人也是男士。	Dmptbrsul ga o dmpdrasan kana ka snaw gaga.
+29	Dmptbrihut sun nami ka dhiya gaga.	我們稱他們為捕松鼠的人。	我們稱他們為捕松鼠的人。	Dmptbrihut sun nami ka dhiya gaga.	他們說我們是作松鼠工人。	Dmptbarit sun nami ka dhiya.
+30	Dhiya ga o dmptbusuq qmasun dha qmsiya.	他們在專摘李子要加上糖醃起來吃。	他們在專摘李子要加上糖醃起來吃。	Dhiya ga o dmptbusuq qmasun dha qmsiya.	他們是專門瓶子的人。	Dmptbusuq ka dhiya tmktuy uqun dha.
+31	Dmptmamung ka dhiya gaga.	他們是專抓老鷹的人。	他們是專抓老鷹的人。	Dmptmamung ka dhiya gaga.	他們是專門作山的人。	Dmtqraqung ka dhiya gaga.
+32	Aji yami ka dmtbnghur, yamu kiya.	專門找黃蜂的是你們，不是我們。	專門找黃蜂的是你們，不是我們。	Aji yami ka dmtbnghur, yamu kiya.	我們不是找石頭的人,你們就那樣。	Yamu ka ga gmcina bgiya o aji yami.
+33	Dnuuy na ita nanak ka skbisi na.	因殺害自己人而浮腫。	因殺害自己人而浮腫。	Dnuuy na ita nanak ka skbisi na.	他給我們他的智慧。	Pnbubul qnmrinas nanak.
+34	Bhgay bi dqras na ka risaw su.	你孩的子臉白白嫩嫩的。	你孩的子臉白白嫩嫩的。	Bhgay bi dqras na ka risaw su.	你的年輕人臉上很。	Mnegblus bi dqras na ka laqi su.
+35	Bgay su emaan ka patas nii?	這本書你要給誰？	這本書你要給誰？	Bgay su emaan ka patas nii?	你要把這本書送給誰?	Bgay su ima ka patas nii?
+36	Embanah sulay na ka rungay.	猴子的屁股是紅色的。	猴子的屁股是紅色的。	Embanah sulay na ka rungay.	子吃的味道是南瓜的味道。	Mgtanah ka hgupun ruru.
+37	Embbeywat ka gamil qhuni.	樹根長得彎彎曲曲的。	樹根長得彎彎曲曲的。	Embbeywat ka gamil qhuni.	木容易鬆動。	Embbeyway ka pusu qhuni.
+38	Embbraw paru ka gsilung o iya bi usa tmqsurux han.	海浪很大時，不要去網魚。	海浪很大時，不要去網魚。	Embbraw paru ka gsilung o iya bi usa tmqsurux han.	海面很大,先不要去捕魚。	Seayang bi ka tpngan gsilung o iya osa tmriq qsurux.
+39	Embhring bi ka hiya.	他很有靈氣。	他很有靈氣。	Embhring bi ka hiya.	他很會找。	Ungat bi lnglungan na ka hiya.
+40	Embkuy ku djima ka sayang.	今天我要綑綁竹子。	今天我要綑綁竹子。	Embkuy ku djima ka sayang.	我今天要用竹子。	Empknuwar ku djima ka sayang.
+41	Pntgtudu ku mtakur ni ki ka embukit ku da.	我跌倒導致脊椎受傷而彎腰。	我跌倒導致脊椎受傷而彎腰。	Pntgtudu ku mtakur ni ki ka embukit ku da.	我因為摔倒,所以腰間的。	Mnkbuwil ku do hmuruh ku uyung.
+42	Embutul mtbnaw ka payay dhquy su da.	你的糯米稻子已經結實了。	你的糯米稻子已經結實了。	Embutul mtbnaw ka payay dhquy su da.	你的米會長得很粗胖。	Wada mhedu hlama su do asi klmaxan da.
+43	Emeima namu ka musa hiya.	你們是那些人要去那裏的。	你們是那些人要去那裏的。	Emeima namu ka musa hiya.	你們去那裏要帶誰。	Yamu ka musa hiya.
+44	Kruyi balay ka empaadangi su.	要好好觀察你未來的伴侶。	要好好觀察你未來的伴侶。	Kruyi balay ka empaadangi su.	你要帶的東西非常重。	Qlhangi bi ka lupung su.
+45	Empbunga bsiyaw pteemungun mu.	我要將片粟製成粉。	我要將片粟製成粉。	Empbunga bsiyaw pteemungun mu.	我要用小子地種甘。	Empeebghaw ku powsa smmalu ka payay nii.
+46	Empbuwan nanak ka blxun mu.	我在清理芋苗。	我在清理芋苗。	Empbuwan nanak ka blxun mu.	我要讓自己長的母。	Nii ku tmpsama sari.
+47	Empcyaqung ka meekan trabu su gaga.	烏鴉要吃你那些花生。	烏鴉要吃你那些花生。	Empcyaqung ka meekan trabu su gaga.	你的花生會被子吃。	Kana qpah prparu ga o emptqnaqi ka cyaqung.
+48	Empdgit gupun na msaang msa ka tama mu.	我父親憤怒的發出切齒聲。	我父親憤怒的發出切齒聲。	Empdgit gupun na msaang msa ka tama mu.	我爸爸生氣時,把他的牙折斷。	Pqsqus msaang ka tama mu.
+49	Aji ku biyaw mowsa empdkrang da.	我將要去獵人頭。	我將要去獵人頭。	Aji ku biyaw mowsa empdkrang da.	我快要去打獵了。	Mha ku tmbrihur mqraqil.
+50	Musa su do empdurun ku sunan niqan kari mu tmaan.	你要離開的時候請你幫我帶話給我爸爸。	你要離開的時候請你幫我帶話給我爸爸。	Musa su do empdurun ku sunan niqan kari mu tmaan.	你來之後,我會告訴你有話要說。	Pdatai ku musa su hiyi.
+51	Empeebtraw ka nii mu smluun nii.	我現在裝設的是要成為擊腳陷阱。	我現在裝設的是要成為擊腳陷阱。	Empeebtraw ka nii mu smluun nii.	我要做這件竹片器。	Empsbqru ka ga mu tmraqun sayang.
+52	Empeebusuk ka laqi na uri kaway binaw.	你們看看！他的孩子也變成醉酒的人。	你們看看！他的孩子也變成醉酒的人。	Empeebusuk ka laqi na uri kaway binaw.	他的孩子也很會喝酒。	Qtai namu! wada bsukan ka laqi na uri da.
+53	Tmneaji tmqsurux ga o aji empeekla pngahi.	那位不是抓魚的人，一定不會釣魚。	那位不是抓魚的人，一定不會釣魚。	Tmneaji tmqsurux ga o aji empeekla pngahi.	那專門捕魚的人從未過來。	Ini pqluli qsurux ka seejiq gaga o aji mkla tmalang.
+54	Empeemisan do prajing mskuy da.	冬天了，開始冷了。	冬天了，開始冷了。	Empeemisan do prajing mskuy da.	冬天時成黑色的了。	Misan da o msmur da.
+55	Empeepasi haya ka saun ta maduk saman.	明天那裏就是我們打獵的地方。	明天那裏就是我們打獵的地方。	Empeepasi haya ka saun ta maduk saman.	我們明天要去關家是為了找香。	Ida nami bbuyu saman ka hiya.
+56	Empeepring manu ka gaga?	那是做那種槍的板機桿嗎？	那是做那種槍的板機桿嗎？	Empeepring manu ka gaga?	那樣會是什麼事情?	Kana bbrunguy ga o tnbgan buji?
+57	Empgbownay ku phuqil tmurak ka saman.	明天我要去我的黃瓜甪殺死椿象蟲。	明天我要去我的黃瓜甪殺死椿象蟲。	Empgbownay ku phuqil tmurak ka saman.	明天我要補虎頭蜂的毛。	Mha ku psbu bunga mu saman.
+58	Empgdudux nami rmala ka yami.	我們要摘過貓菜。	我們要摘過貓菜。	Empgdudux nami rmala ka yami.	我們是養的朋友。	Gmpruqay ta ka ita.
+59	Empida ku misan ka tmsamat.	冬天時，我會去打獵。	冬天時，我會去打獵。	Empida ku misan ka tmsamat.	冬天我去狩獵。	Misan do musa ku lmiqu.
+60	Empmkay sapah mu ka hiya.	他要整理我的家事。	他要整理我的家事。	Empmkay sapah mu ka hiya.	他要成為我的房子的頭。	Hiya ka mspug sapah mu.
+61	Empnami ka slaq gaga.	那水田將會是屬於我們的。	那水田將會是屬於我們的。	Empnami ka slaq gaga.	把那水田做為耕地。	Empeepsa nami ka qmpahan gaga da.
+62	Emprhbiq ku qmpahan mu ini lowmi jijyax saman.	我明天要去拔除墾地沒有燒完的雜草。	我明天要去拔除墾地沒有燒完的雜草。	Emprhbiq ku qmpahan mu ini lowmi jijyax saman.	明天我要整平我的田,因為沒有空白時間。	Empspuhak ku saman ka qmpahan mu.
+63	Emptbukuy su rmngaw hyaan hmuya ka asi pdqras emprngaw.	你為什麼在背後說他？當面把話說清楚不就好了。	你為什麼在背後說他？當面把話說清楚不就好了。	Emptbukuy su rmngaw hyaan hmuya ka asi pdqras emprngaw.	你如果不好意思跟他說出來就顯明你很傲慢。	Ma su gmnunug rngagan hyaan? aji klai siida ka msru.
+64	Empscikuh ku mgay ka munan bilaq ka naku uri da.	我會給你少一點，因為我的也很少。	我會給你少一點，因為我的也很少。	Empscikuh ku mgay ka munan bilaq ka naku uri da.	我原本想要一份,但是現在已經有份了。	Empgeaguh ku cicih sunan, meagtug ka naku uri da.
+65	Iya tsgii gmhguh ka rkrak empsdara da.	不要太用力地抓癢，會流血的。	不要太用力地抓癢，會流血的。	Iya tsgii gmhguh ka rkrak empsdara da.	不要在草上找枯乾的老鼠。	Iya qlhangi bi qduriq su, msrhiq dara da.
+66	Empsmbasur ka nhapuy su, yasa msnga gnumuk su.	你的飯不會熟，因為蓋子沒蓋好。	你的飯不會熟，因為蓋子沒蓋好。	Empsmbasur ka nhapuy su, yasa msnga gnumuk su.	你煮的東西還沒有味,可能因為你把它蓋好。	Ini khada nhapuy su, ga mkmumu ka gemuk na da.
+67	Emptbowyak ku gaga tmqmpahan mu.	我要在我土地上獵山豬。	我要在我土地上獵山豬。	Emptbowyak ku gaga tmqmpahan mu.	我要殺山豬在我的田地。	Empkbhniq ku bowyak ka qmpahan mu.
+68	Emptbsuring ku saman yahun mangal mtabug rqnux.	我明天要砍芒草準備養牛。	我明天要砍芒草準備養牛。	Emptbsuring ku saman yahun mangal mtabug rqnux.	明天我要去獵鹿。	Empspritak ku ka saman o empeedaka tbubug mu kacing.
+69	Emptbubu kacing prnaun na ka hiya.	他專門養母牛繁殖。	他專門養母牛繁殖。	Emptbubu kacing prnaun na ka hiya.	她是養牛的媽媽。	Tmnbucing tnbgan ka hiya.
+70	Emptcip ku luqi buut.	我要吸骨髓。	我要吸骨髓。	Emptcip ku luqi buut.	我要吸骨髓的。	Emptbuut ku buut.
+71	Emptpasir qpahun na ka hiya.	他是以製做鑿子為業。	他是以製做鑿子為業。	Emptpasir qpahun na ka hiya.	他的職業是製船。	Tmeaba ka qpahun na.
+72	Encyaqung ka tntama tqiring qrul ga o rhu ka gaga da.	本來是烏鴉停留在筆筒樹頂，現在則是老鷹了。	本來是烏鴉停留在筆筒樹頂，現在則是老鷹了。	Encyaqung ka tntama tqiring qrul ga o rhu ka gaga da.	那隻針織的木將會變粗了。	Nciqaw smbbarig pusu bruling ka cyaqung han, paru da.
+73	Ma namu asi endjiyax msnbungug ma ki biyax namu.	你們怎麼為了食茱萸爭吵而費那麼大力氣和時間。	你們怎麼為了食茱萸爭吵而費那麼大力氣和時間。	Ma namu asi endjiyax msnbungug ma ki biyax namu.	你們怎麼常常互相爭,這樣才不會敗掉。	Ma namu qnnaqih bi uwit mnegatuy.
+74	Enduhung baki mu ka duhung nii.	這木臼曾是我祖父的。	這木臼曾是我祖父的。	Enduhung baki mu ka duhung nii.	這支鈴是我祖父帶來的。	Nbukun tama mu rudan ka nii.
+75	Ensayang bi ka qsurux nii.	這條魚很新鮮	這條魚很新鮮	Ensayang bi ka qsurux nii.	這個魚很臭。	Msbngrux bi ka qsurux nii.
+76	Enseysay o maadrami da.	原本飽滿的稻穗變成稻穗枝。	原本飽滿的稻穗變成稻穗枝。	Enseysay o maadrami da.	化了就變白色了。	Nbukun ka sari o asi luung da.
+77	Entdhug su nhari ka sapah qmituy do hana su pkbarah.	你應早一點加強穩固房屋怎麼到風雲驟變時才臨時做防颱工作呢！	你應早一點加強穩固房屋怎麼到風雲驟變時才臨時做防颱工作呢！	Entdhug su nhari ka sapah qmituy do hana su pkbarah.	你很快就搬走,家裡就會滿地亂。	Kdrih hari enlmaung su sapah o maada su smricik ka bgihur paru da.
+78	Enttngay su musa.	你不要常常的去！	你不要常常的去！	Enttngay su musa.	不要隨便走	Iya hari usa su!
+79	Lala bi eran na ka bubu mu rudan.	我的阿嬤皺紋越來越多了。	我的阿嬤皺紋越來越多了。	Lala bi eran na ka bubu mu rudan.	我祖母的子很多。	Gaga embbaraw ka payi mu da.
+80	Iya hmuc dmuuy, eru mnalux.	不要隨便亂碰避免受傳染。	不要隨便亂碰避免受傳染。	Iya hmuc dmuuy, eru mnalux.	不要隨便,會生氣的。	Iya hmut msklat empseentuq.
+81	Gburaw qhuni ka isu psaun ta pusu mami.	你收集腐木，我們要放在橘子樹根做肥料。	你收集腐木，我們要放在橘子樹根做肥料。	Gburaw qhuni ka isu psaun ta pusu mami.	你是頭木的將軍,我們來放在山的根基。	Gmutu ka isu qhuni gaga, gisu ta qlbuun ka bubu bluqun.
+82	Gcicih mu hmangas ka gupun.	我用牙齒一點一點地咬。	我用牙齒一點一點地咬。	Gcicih mu hmangas ka gupun.	我要用木來製成牙縫。	Tmquhing ku gupun mu mqiyut.
+83	Asi na gdriqi mita.	他立刻用眼睛瞄他。	他立刻用眼睛瞄他。	Asi na gdriqi mita.	他直接開眼睛看。	Asi na qmici dowriq ka hiya.
+84	Ggbowlaw na tmalang ka ngungu kacing o iya haya slapi.	牛尾是牛蹦跳來源，不要把它切掉	牛尾是牛蹦跳來源，不要把它切掉	Ggbowlaw na tmalang ka ngungu kacing o iya haya slapi.	如果牛的尾巴是用跑步的方式來,就不要拖著。	Sbbowyay tabug kacing ka ngungu dapa, iya qtali da.
+85	Ghpani nhari ka masu.	快播種小米！	快播種小米！	Ghpani nhari ka masu.	趕快把小米收成。	Psmayi nhari!
+86	Tayan knparu ka giril gaga.	那根毛蕨長得非常碩大。	那根毛蕨長得非常碩大。	Tayan knparu ka giril gaga.	那個線很大的。	Saw sqpnuxa bi ka suqu gaga.
+87	Gmbaang rmngaw.	從側面說話。	從側面說話。	Gmbaang rmngaw.	隨便說。	Ksgiyah rmngaw.
+88	Gmbhngil ka rungay.	猴子專吃芒草。	猴子專吃芒草。	Gmbhngil ka rungay.	子專找。	Tmqmunay ka rungay.
+89	Gmdadak pais.	監視敵人。	監視敵人。	Gmdadak pais.	專門獵敵人。	Gmlawa pais.
+90	Klat wada gmeeluk dnuuy.	他用的的搶奪那個要用的東西。	他用的的搶奪那個要用的東西。	Klat wada gmeeluk dnuuy.	獵人偷東西。	Gmbgbug na ka gmndungus na gaga.
+91	Gmihat bi mangal ka baga na.	他出手很快。	他出手很快。	Gmihat bi mangal ka baga na.	他手很會拿東西。	Asi klhang bi qnpahan na.
+92	Gmlmbay mkan ka bowyak.	山豬挑選山藥吃。	山豬挑選山藥吃。	Gmlmbay mkan ka bowyak.	山豬專挑食用。	Gmbhgay mkan ka bowyak.
+93	Gmndurah ku slung tminun tawkan rqling o pslhang nksa na mapa ka risaw.	用鮮艷的毛線織成的揹網，年輕人揹起來很亮麗。	用鮮艷的毛線織成的揹網，年輕人揹起來很亮麗。	Gmndurah ku slung tminun tawkan rqling o pslhang nksa na mapa ka risaw.	我在磨木頭織的網線使年輕人知道該做什麼。	Tnbgan lhang ka snalu o saw balay bi sblay hnigan riso.
+94	Gmrqnux musa maduk ka hiya.	他是打獵專挑水鹿來打。	他是打獵專挑水鹿來打。	Gmrqnux musa maduk ka hiya.	他專找鹿去關。	Gmbanga rqnux ka hiya.
+95	Ungat bi jiyax na gmsgmut ka hiya.	他沒有時間去採紫背草	他沒有時間去採紫背草	Ungat bi jiyax na gmsgmut ka hiya.	他很會找麻的子。	Ini biyaw musa pteuray ka hiya.
+96	Gmslih bi ka tama.	我爸爸專捉高山松鼠	我爸爸專捉高山松鼠	Gmslih bi ka tama.	父母親很會找。	Tmtmtmtbarit ka tama mu.
+97	Mkla bi gmuyuq elug ka rudan.	老人很會設陷阱。	老人很會設陷阱。	Mkla bi gmuyuq elug ka rudan.	老人很會做路障。	Mkla bi tmlenga ka rudan.
+98	Gnbabuy mu ka ina mu.	我的媳婦是用豬換來的。	我的媳婦是用豬換來的。	Gnbabuy mu ka ina mu.	我以賣貝的錢養育我的母嬰。	Bnrihan babuy ka ina mu.
+99	Gnbqaran mu priyux ka bklit tbabaw.	我用陷阱架換捕鳥器的陷阱踏桿。	我用陷阱架換捕鳥器的陷阱踏桿。	Gnbqaran mu priyux ka bklit tbabaw.	我用草皮做成首長。	Gnqian mu tmpi ka qbhni.
+100	Gnbubul mu qsiya tksadu o marig ku kingal libu slaq.	我用打水的工資買了一塊水田。	我用打水的工資買了一塊水田。	Gnbubul mu qsiya tksadu o marig ku kingal libu slaq.	我用十桶水煮,想要一個鍋子。	Gmnbulus mu qmpahan ka kingal lituk.
+101	Gnlklak mu pais ka lklak nii.	這是我用來掃射敵人的機槍。	這是我用來掃射敵人的機槍。	Gnlklak mu pais ka lklak nii.	這是敵人用來綁的。	Gnsqbu mu smsas pais ka puniq nii.
+102	Gnpapak mu babuy ka towkan mu.	我的揹袋是用豬腳換來的。	我的揹袋是用豬腳換來的。	Gnpapak mu babuy ka towkan mu.	我用豬腳做了我的拖鞋。	Gnliqan mu buji babuy ka gasil mu.
+103	Gnpulas mu qnqan laqi ka uqun mu.	我吃孩子吃剩下來的粿粒。	我吃孩子吃剩下來的粿粒。	Gnpulas mu qnqan laqi ka uqun mu.	我所吃的東西是孩子過的。	Gmnunuh mu hangan laqi ka yaku.
+104	Maapudung ka qhuni ga o gnrung bgihur.	那些斷裂的樹是被颱風吹斷的。	那些斷裂的樹是被颱風吹斷的。	Maapudung ka qhuni ga o gnrung bgihur.	那棵粗的木頭被風吹掉了。	Kana bqhngil ga o sbhniq bgihur paru.
+105	Gtwici ka trak su.	用你的毛巾旋轉	用你的毛巾旋轉	Gtwici ka trak su.	你的車子用形機來。	Ptwri ka toyuq su.
+106	Gaga thngayan hagay ka yayung Busij.	埠希那裡的河流圔滿了沙子。	埠希那裡的河流圔滿了沙子。	Gaga thngayan hagay ka yayung Busij.	布西奇溪的水很快湧出來。	Asi klgan bnaqig ka yayung gaga Qushi hiya.
+107	Hawan bi ma sqada.	這丟掉很可惜。	這丟掉很可惜。	Hawan bi ma sqada.	很可惜,卻丟失了。	Hawan bi qduriq ka nii.
+108	Asi tqita ka hbay qraqil nbuyas su.	你的肚皮很明顯。	你的肚皮很明顯。	Asi tqita ka hbay qraqil nbuyas su.	你腹部的皮看起來很粗壯。	Mkla bi ka hpuyun nbuyas su.
+109	Hbgi ka sari nini.	煮芋頭要加水。	煮芋頭要加水。	Hbgi ka sari nini.	把這頭交配給我。	Psqsiya ka sari gaga.
+110	Krhan na dmngu ka hiyi pada.	他把山羌肉烤乾。	他把山羌肉烤乾。	Krhan na dmngu ka hiyi pada.	他把山肉切成乾淨。	Srbun na hiyi dgiyaq ka hiya.
+111	Iya suling hlmadan.	不要對親姊妹講下流的話。	不要對親姊妹講下流的話。	Iya suling hlmadan.	不要隨便燒了。	Iya rmngaw ka brayi.
+112	Hmici rmangi uqun.	請留食物。	請留食物。	Hmici rmangi uqun.	吃東西要味。	Hlagi uqun.
+113	Iya hmtani peekan ka sapuh.	不要隨便給藥吃。	不要隨便給藥吃。	Iya hmtani peekan ka sapuh.	不要讓藥物不易過敏。	Iya hmut ppeedux mkan.
+114	Seekan mu sapuh ka mnarux mu do asi kpngpang ka hnlitan na da.	吃過藥後疼痛就減輕了。	吃過藥後疼痛就減輕了。	Seekan mu sapuh ka mnarux mu do asi kpngpang ka hnlitan na da.	我把我的病給醫師檢查時,他的結果一定是腫瘤。	Mnkan idaw o mhur uqan na da.
+115	Hrigay ta ka nisu nini.	我們把你的東西倒出來。	我們把你的東西倒出來。	Hrigay ta ka nisu nini.	我們來收你的。	Pqralay ta ka nuda su.
+116	Saw aji qqbuquh daan rngsux ka qmpahan su o htrani qmdrux.	你要讓你的地不被洪水沖積就要做好防坡堤。	你要讓你的地不被洪水沖積就要做好防坡堤。	Saw aji qqbuquh daan rngsux ka qmpahan su o htrani qmdrux.	如果不要長出布料,就要在田地種植狐。	Psqmquun su ka qmpahan o smmalu bi embasi.
+117	Huya ksun?	怎麼辦？	怎麼辦？	Huya ksun?	怎麼樣?	Malu bi da?
+118	Hangan na o Ibuh ksun.	他的名字叫「Ibuh」。	他的名字叫「Ibuh」。	Hangan na o Ibuh ksun.	它的味道是肥。	"""Ibuh"" sun na ka hiya."
+119	Jima mnkan idaw da.	我已經吃過飯了。	我已經吃過飯了。	Jima mnkan idaw da.	菜飯吃完了。	Mnkan ku nhapuy da.
+120	Malu bi bhangan ka uyas kjiyay.	蟬聲很好聽	蟬聲很好聽	Malu bi bhangan ka uyas kjiyay.	唱歌的聲音很好聽。	Malu bi bhangan ka tngqlung.
+121	Jyamu nanak seejiq gaga.	那些人是你們自己人	那些人是你們自己人	Jyamu nanak seejiq gaga.	那個人是你們自己要來的。	Kana ddara ga o isu nanak.
+122	Mtabug kacing.	養牛者。	養牛者。	Mtabug kacing.	"牛很容易發出""bug""聲。"	Dmptkumaw kacing.
+123	Kbisay na ka lukus mu da.	他把我的衣服弄濕。	他把我的衣服弄濕。	Kbisay na ka lukus mu da.	我的衣服已經色了。	Spghqan lukus mu ka hiya.
+124	Kdakil nhari.	趕快長大。	趕快長大。	Kdakil nhari.	趕快上去。	Kdakil hawas.
+125	Sapah msalu daran o asi kdaran kana ka sduman.	製作診斷用竹占者，其屑內存放器具的架子擺滿了所製作的診斷器材。	製作診斷用竹占者，其屑內存放器具的架子擺滿了所製作的診斷器材。	Sapah msalu daran o asi kdaran kana ka sduman.	製作頭房的房子需要全都立上方。	Tmbtar smluun na o asi kpnlpiyan qnalang na ka snalu na.
+126	Kdkat kalat.	鳳梨的皮凹凸不平。	鳳梨的皮凹凸不平。	Kdkat kalat.	全身背。	Smbklit ka gasil bngbang.
+127	Khbilan ka laqi.	我的孩子長牙了。	我的孩子長牙了。	Khbilan ka laqi.	孩子要長得很快。	Mdngdang gupun laqi mu da.
+128	Aji na kkbahing psrui bi pqeepah.	為了不使他懶惰而督促他工作。	為了不使他懶惰而督促他工作。	Aji na kkbahing psrui bi pqeepah.	他沒有辦法讓他負氣工作。	Ksyiay su bi ka ini psqnaqih qmpah.
+129	Aji su kkcicis huriq o tsasaw ka qmuyux.	你若不要被雨淋的滿身濕，就找躲雨的地方。	你若不要被雨淋的滿身濕，就找躲雨的地方。	Aji su kkcicis huriq o tsasaw ka qmuyux.	若不要露出風雨,會被雨水淹沒。	Saw aji ksbngbing qmuyux ka isu o gguhi mquyu.
+130	Kkmowng na hmnang o tqrii lala qbulit.	若要爆炸聲大，就裝填多一點火藥。	若要爆炸聲大，就裝填多一點火藥。	Kkmowng na hmnang o tqrii lala qbulit.	要使它發出大聲就需要很多的火藥。	Knbngbang hnang na o pstngi cicih qbulit.
+131	Ida ta paah klbus qmpah.	我們還是得從山坡地的下方開始工作。	我們還是得從山坡地的下方開始工作。	Ida ta paah klbus qmpah.	我們開始種植香。	Asi ta ka pqmpah qmhdu dgiyaq na.
+132	Wada klihan ka nasi gaga.	那些果樹因成熟而落葉。	那些果樹因成熟而落葉。	Wada klihan ka nasi gaga.	那個子已經很舊了。	Kana pshiya ga o mdada hiyi na da.
+133	Pqabang hmilaw mtaqi kman ka seejiq.	族人晚上睡覺都會蓋毯子。	族人晚上睡覺都會蓋毯子。	Pqabang hmilaw mtaqi kman ka seejiq.	人要趁著睡覺先起床。	Tmbkuy keeman ka seejiq alang o mtaqi kana.
+134	Kmeurit uqun ni sknarux nbuyas ka sbngux damat.	臭酸的菜餚，吃了會中毒	臭酸的菜餚，吃了會中毒	Kmeurit uqun ni sknarux nbuyas ka sbngux damat.	菜會阻礙食物生病。	Ssakus damat o empksa uqan.
+135	Kmlbu rhngun sapah na o asi ta ka thmuku mtmay.	他家的門矮，我們必須彎著腰進去。	他家的門矮，我們必須彎著腰進去。	Kmlbu rhngun sapah na o asi ta ka thmuku mtmay.	要蓋他房子的門,我們就必需要用手接著拿。	Knlulung ka rhngun sapah na o asi ta ka pqnaqih mgrung.
+136	Kmnegasut muda qmpah ka Rabaw.	Rabaw工作做的乾淨俐落。	Rabaw工作做的乾淨俐落。	Kmnegasut muda qmpah ka Rabaw.	拉瓦是專門做山的工作。	Qmpah qbulit bi ka ga na smluun Rabaw.
+137	Bukung Truku sbiyaw o ini pnegduma, kmngkana alang.	以前太魯閣族人的領袖不會只關心少數人，而是照顧全體部落的人。	以前太魯閣族人的領袖不會只關心少數人，而是照顧全體部落的人。	Bukung Truku sbiyaw o ini pnegduma, kmngkana alang.	以前太魯閣族的公牛不會交配,都會在部落種植。	Ini biyaw tgkla ka qbsuran Truku seuxal o gmdrumut kana ka alang truku.
+138	Kyaana kmparu su tgtuluk su rhngun da.	你的高度就這樣了，免得太高頭會撞到門。	你的高度就這樣了，免得太高頭會撞到門。	Kyaana kmparu su tgtuluk su rhngun da.	你怎麼那麼想打人家,竟然就打了。	Kiya hari brah su ha, aji tkkuluw mduk rhngun.
+139	Kmrabuh ku bi sunan.	我很想跟你談戀愛。	我很想跟你談戀愛。	Kmrabuh ku bi sunan.	我很想。	Mkmealu ku bi smqaras su.
+140	Kmsqbsuran bi ka laqi su.	你孩子很尊重兄姊。	你孩子很尊重兄姊。	Kmsqbsuran bi ka laqi su.	你孩子很孝敬的兄弟姊妹。	Kmsbaki bi ka laqi su.
+141	Knbsu na o tbrhug ka mkan.	他吝嗇地關起門來吃飯。	他吝嗇地關起門來吃飯。	Knbsu na o tbrhug ka mkan.	他的東西吃起來很重。	Smbsbiyaw na msru ka enduk ni mkan idaw.
+142	Maaturug bi kndkilan na ka laqi rbnaw gaag.	那個嬰兒長得很嫩胖結實	那個嬰兒長得很嫩胖結實	Maaturug bi kndkilan na ka laqi rbnaw gaag.	嬰兒身體長的很快。	Mtbowyak bi hnigan na ka laqi gaga.
+143	Knlhkah na o mdka ragu.	他的體重像羽毛。	他的體重像羽毛。	Knlhkah na o mdka ragu.	它的結實和細的。	Mgpyuyuy hnigan na ka hiyi na.
+144	Knrbkan na o wada dhuq ptpusu kana laqi na.	他辛苦的付價已經讓他的孩子成家立業。	他辛苦的付價已經讓他的孩子成家立業。	Knrbkan na o wada dhuq ptpusu kana laqi na.	他為了孩子的氣都走得很遠。	Nbngbang na bi o wada na dmanga tmbkal ka laqi na da.
+145	Saw sknasi kari na ungat knshaya na.	他說話常說如果怎樣就會怎樣，沒有一個是肯定的。	他說話常說如果怎樣就會怎樣，沒有一個是肯定的。	Saw sknasi kari na ungat knshaya na.	他常說沒有意義,只是說不好。	Saw skmnmanu ka kari na o ungat ana manu endaan.
+146	Kntruan ka mowsa ku marig lukus.	大後天我才去買衣服	大後天我才去買衣服	Kntruan ka mowsa ku marig lukus.	我因為太晚才去買衣服。	Mnskari ku balay mggalix lukus da.
+147	Knuwana ka hiya da?	他算老幾呢？	他算老幾呢？	Knuwana ka hiya da?	他什麼時候來的?	Piya hngkwasan na hug?
+148	Si kpais kana ka alang nami.	我們部落的人跟周圍的部落互相敵對。	我們部落的人跟周圍的部落互相敵對。	Si kpais kana ka alang nami.	我們的部落滿地都是孤獨的人。	Msgasaw alang nami ka alang empqapal.
+149	Asi kpinay kana ka laqi mu.	我的孩子都長的很矮。	我的孩子都長的很矮。	Asi kpinay kana ka laqi mu.	我的孩子都是子。	Qbowsay bi ka laqi mu.
+150	Asi kplux kana ka ga phdu dqiyaq hiya.	那片山全都是plux樹。	那片山全都是plux樹。	Asi kplux kana ka ga phdu dqiyaq hiya.	曬在田裡的都長滿了子。	Asi kbbiyax kana ka dgiyaq gaga.
+151	Kruyaw mu.	讓我觀察看看！	讓我觀察看看！	Kruyaw mu.	我要用刀抓牠。	Pqita ta han.
+152	Kusut o pdaan bgiya tminun.	線綜棒是編織經緯理線之用。	線綜棒是編織經緯理線之用。	Kusut o pdaan bgiya tminun.	穿衣機用虎頭蜂來織布。	Djiyun o djiyun tminun qwarux.
+153	Wauwa ga o Labi ka hangan na.	那個小女孩的名字叫Labi。	那個小女孩的名字叫Labi。	Wauwa ga o Labi ka hangan na.	那小姐的姓氏叫Labbi。	Labi ngahan na ka laqi kuyuh gaga.
+154	Lhangi llabang ka lmahang su.	你的防火線要作寬一點。	你的防火線要作寬一點。	Lhangi llabang ka lmahang su.	挑白來當種。	Kmngahi hari ka dgiyaq su.
+155	Kana libaw ga o tlayan qbhni.	那些是鳥的陷阱。	那些是鳥的陷阱。	Kana libaw ga o tlayan qbhni.	那些布都是鳥製的。	Qbhni qbhni ka gaga.
+156	Mkla bi lmamu kari ka bubu su.	你媽媽很會撿話來講	你媽媽很會撿話來講	Mkla bi lmamu kari ka bubu su.	你媽媽很會講話。	Mkla bi smmalu rmngaw ka bubu su.
+157	Ini pneghipay lnpaxan ka sowki gaa, ana sqtul mkray qhuni o ini kgrung.	鐮刀磨得不利，砍硬的木頭也不會斷。	鐮刀磨得不利，砍硬的木頭也不會斷。	Ini pneghipay lnpaxan ka sowki gaa, ana sqtul mkray qhuni o ini kgrung.	那個刀不利於機力,即使得靠著木頭也不利。	Ini bi sdrxun ka slmadaw ni ini ptgaliq ka qhuni tqrengat.
+158	Ini tduwa maabgbug sibus embanah ka sibus balay.	土甘蔗的新芽不會成為紅甘蔗。	土甘蔗的新芽不會成為紅甘蔗。	Ini tduwa maabgbug sibus embanah ka sibus balay.	甘不能拿來煮開新鮮出來的甘。	Ini pneglbnaw ka sari bluhing.
+159	Maabhngil taan ka gmiya.	茅草看起來很像芒草。	茅草看起來很像芒草。	Maabhngil taan ka gmiya.	木看起來像灰。	Mgqbubur qtaan ka bngrux.
+160	Maacyadan ka malu jiyan tmgiya.	好的縷線桿就很好用。	好的縷線桿就很好用。	Maacyadan ka malu jiyan tmgiya.	線成形狀很好。	Malu bi qnqan ka cyadan o malu bi useun.
+161	Maah niya na.	還會再來	還會再來	Maah niya na.	他還要來。	Jita na.
+162	Maamawan mu ka hiya da.	他是我太太姐的先生。	他是我太太姐的先生。	Maamawan mu ka hiya da.	他要成為我的親家。	Angu qbsuran mu ka hiya.
+163	Madas hlama kiya da bubu mu.	我媽媽等一下會帶糯米餅來。	我媽媽等一下會帶糯米餅來。	Madas hlama kiya da bubu mu.	我媽媽要那糖果。	Dduri ku tgdurang na kiya hari ka bubu mu.
+164	Ax ka isu da, ma su smddgiyal bi kari.	你住口！老是愛強詞奪理。	你住口！老是愛強詞奪理。	Ax ka isu da, ma su smddgiyal bi kari.	你就是那個人,怎麼講太多。	Pngngahi hari kari su.
+165	Mgbanah lukus na ka wauwa gaga.	那個女孩子的衣服是淺紅色的。	那個女孩子的衣服是淺紅色的。	Mgbanah lukus na ka wauwa gaga.	那位小姐的衣服很白。	Saw embrhaq lukus na ka laqi kuyuh gaga.
+166	Laqi mu gaga o mgbtunux ka tunux na.	我的孩子頭像石頭一樣的笨重。	我的孩子頭像石頭一樣的笨重。	Laqi mu gaga o mgbtunux ka tunux na.	我那孩子是頭髮。	Mgbubul tunux na ka laqi mu.
+167	Mgpada qtaan ka huling su.	你的狗看起來像很山羌。	你的狗看起來像很山羌。	Mgpada qtaan ka huling su.	你的狗像一樣。	Ma saw bi kmhlah ka huling su.
+168	Niqan kingal qbhni mgpit purut uyas na.	"有一種鳥叫聲跟山麻雀的""嗶吱""叫聲很像。"	"有一種鳥叫聲跟山麻雀的""嗶吱""叫聲很像。"	Niqan kingal qbhni mgpit purut uyas na.	他有一隻鳥的尾巴著。	Tngpix dgiyaq o mdka pntgbitan pada ka kingal tbhniq qbhni.
+169	Mgplux taan ka qhuni gaga.	那樹看起來像是plux。	那樹看起來像是plux。	Mgplux taan ka qhuni gaga.	那棵樹看起來很。	Ma saw bi plux ka qhuni gaga.
+170	Mgpniri ka lukus wauwa gaga.	那女孩的衣服很像是挑織紋布。	那女孩的衣服很像是挑織紋布。	Mgpniri ka lukus wauwa gaga.	那女孩的衣服很像一樣。	Lukus na ka wauwa ga o mdka sbrangan tminun.
+171	Mgpurik laqi mu ka laqi na.	他的孩子跟我的孩子一樣發育不良。	他的孩子跟我的孩子一樣發育不良。	Mgpurik laqi mu ka laqi na.	他的孩子跟我的孩子一樣很親密。	Mgpngduwa laqi mu ka laqi na.
+172	Tqapi musa rmuyuk mgsbu samat ka tama.	父親低身潛伏射獵物。	父親低身潛伏射獵物。	Tqapi musa rmuyuk mgsbu samat ka tama.	父父踩著獵物跳躍的聲音而動。	Mksakur msquriq samat ka tama.
+173	Mgxiyux balay ka quni rucin.	漂流木是堅硬不爛的木頭。	漂流木是堅硬不爛的木頭。	Mgxiyux balay ka quni rucin.	木很像雨一樣。	Qhuni mksa o mkray ungat msburaw.
+174	Bunga nhapuy su o mhada da.	你煮的地瓜已經熟了。	你煮的地瓜已經熟了。	Bunga nhapuy su o mhada da.	你煮的地瓜熟了。	Madu ka bunga nhapuy su da.
+175	Hiya o pruway mhruy lnglungan seejiq.	他專門曲解別人的意思。	他專門曲解別人的意思。	Hiya o pruway mhruy lnglungan seejiq.	她是鼓勵別人的心靈的人。	Tmkla bi smluhay lnglungan seejiq ka hiya.
+176	Wada mkhgalang mhuqin kana.	一個一個滅亡。	一個一個滅亡。	Wada mkhgalang mhuqin kana.	他們都被打死。	Wada asi klmutux wada mhuqil.
+177	Nii ku midaw masu dhquy.	我正在煮小糯米飯。	我正在煮小糯米飯。	Nii ku midaw masu dhquy.	我在小米。	Nii ku tmmuwang masu.
+178	Mimah nami sinaw masu ka shiga.	昨天我們喝小米酒。	昨天我們喝小米酒。	Mimah nami sinaw masu ka shiga.	昨天我們在吃小米糖。	Mimah nami sinaw masu ka shiga.
+179	Ga dmayaw misux idaw ka laqi mu.	我的孩子在幫忙攪飯。	我的孩子在幫忙攪飯。	Ga dmayaw misux idaw ka laqi mu.	我的孩子在幫我取飯的香。	Gaga dmayaw empduduy nhapuy ka laqi mu.
+180	Mkhbal ka dowras gaga.	那座山已經裂開了。	那座山已經裂開了。	Mkhbal ka dowras gaga.	那個大山頂很。	Wada embslas ka dgiyaq gaga da.
+181	Mkkamul bi qtaan ka lukus na.	他的衣服看起來很醜。	他的衣服看起來很醜。	Mkkamul bi qtaan ka lukus na.	他的衣服很像色的布。	Saw bi qqubah taan ka lukus na.
+182	Mkmbtut ku meytaq brah na o pklug gisu mnarux do ki niyah mu da.	我原想突擊他的胸部，但因他正值生病，我就回來了。	我原想突擊他的胸部，但因他正值生病，我就回來了。	Mkmbtut ku meytaq brah na o pklug gisu mnarux do ki niyah mu da.	如果我要刺到他的胸部,就靠在身體上,這樣我會不會好起來。	Mkmpbruling mu bi hyaan o yaasa mnarux ku haya da.
+183	Mknrisuh dxgal lmingis ka laqi ini biqi pila bubu na.	媽媽不給錢，孩子就哭著在地上打滾。	媽媽不給錢，孩子就哭著在地上打滾。	Mknrisuh dxgal lmingis ka laqi ini biqi pila bubu na.	孩子不給媽媽錢,哭著在地上玩。	Ini biyaw pila bubu na o tkrakaw lmingis ka laqi.
+184	Mkreiril uuda na.	他總是走得偏左邊。	他總是走得偏左邊。	Mkreiril uuda na.	他做事直截的。	Saw skkiya bi ka hiya.
+185	Mksmus ska dgiyaq ka kingal yami hiya.	我們那裡有一個人在山上受凍而死	我們那裡有一個人在山上受凍而死	Mksmus ska dgiyaq ka kingal yami hiya.	我們一個人上山狩獵。	Wada mhuqil mtakur dgiyaq ka kingal seejiq nami hiya.
+186	Mktruma kana ka seejiq dhiya.	他們都是來自南部的人。	他們都是來自南部的人。	Mktruma kana ka seejiq dhiya.	他們的人都是喜歡吃的。	Dmptagu kana ka dhiya gaga.
+187	Mkyiuyung ini tmay sapah ka hiya.	他沿著後院走卻不進門	他沿著後院走卻不進門	Mkyiuyung ini tmay sapah ka hiya.	他很固執不留家。	Pksiran na ka uyung o ini osa enduk.
+188	Mlanguy ku han, taga ku han.	我等一下要去洗澡。	我等一下要去洗澡。	Mlanguy ku han, taga ku han.	我先洗水,等一下再洗。	Mha ku tmrima han.
+189	Ini squwaq mmlux bi ka laqi na.	他的孩子不講話很安靜。	他的孩子不講話很安靜。	Ini squwaq mmlux bi ka laqi na.	他的孩子沒有口吃。	Mnegseesu bi ini pnegpah ka laqi na.
+190	Mmnegbeenux bi dxgal na.	他的土地都很平坦。	他的土地都很平坦。	Mmnegbeenux bi dxgal na.	他的地很適合長。	Mnegbsbus bi kana ka qmpahan na.
+191	Mndakil ska bbuyu ka riwa o sriwa.	野生的菇類都長的很大。	野生的菇類都長的很大。	Mndakil ska bbuyu ka riwa o sriwa.	若是獵人喜歡爬山鹿的話,我們就盡力抓牠們。	Paru bi knparu ka rngji uyug dxgal.
+192	Mnegeakuy bi o snhkan dha balay.	容易被驅使的人常受人所利用。	容易被驅使的人常受人所利用。	Mnegeakuy bi o snhkan dha balay.	他們很會食弱的人。	Tmblux bi ka seejiq o pbkluan bi seejiq.
+193	Mnegpaut bi hwinuk na ka wauwa na.	他女兒腰很挺直。	他女兒腰很挺直。	Mnegpaut bi hwinuk na ka wauwa na.	他的女兒腰很有骨折。	Mnegsuwi bi ka wauwa na.
+194	Mnegpini bi kari dha ka alang namu.	你們部落的人講話常常說：「pini是這樣嗎？」。	你們部落的人講話常常說：「pini是這樣嗎？」。	Mnegpini bi kari dha ka alang namu.	你們的部落很喜歡聽族人說的話。	Saw skpini nii o kiya siida rmngaw ka alang namu.
+195	Sqtun ka rbnaw djima o mnegpiyut balay.	竹子枝葉砍掉後，很容易枯死。	竹子枝葉砍掉後，很容易枯死。	Sqtun ka rbnaw djima o mnegpiyut balay.	竹子的軸心非常地堅固。	Mqhuqil bi ka sida djima o ini biyaw mdngu da.
+196	Mnegqulit bi ka qmpahan su.	你的土地很適長檜木。	你的土地很適長檜木。	Mnegqulit bi ka qmpahan su.	你的田非常地平坦。	Mnegbsbus bi ka dxgal su.
+197	Baki mu o mnegsdaran bi utux.	我的爺爺很相信竹占診斷。	我的爺爺很相信竹占診斷。	Baki mu o mnegsdaran bi utux.	我的祖父是子的祖先。	Mnegpeyh bi gmeuqu ka baki mu.
+198	Mnegtrak bi ka rudan Truku sbiyaw.	太魯閣族的祖先喜歡戴頭巾	太魯閣族的祖先喜歡戴頭巾	Mnegtrak bi ka rudan Truku sbiyaw.	以前太魯閣族的老人喜歡穿大被。	Mneghuway bi msmayi ka rudan Truku sbiyaw.
+199	Mneydang ku mnlala bi ka yaku.	我曾經迷路過好幾次。	我曾經迷路過好幾次。	Mneydang ku mnlala bi ka yaku.	"我很容易發出""啊""的聲音。"	Mnegdgut ku bi wada ku mndudut.
+200	Mngasih kana ka gupun payi gaga da.	那個祖母的牙齒都掉了。	那個祖母的牙齒都掉了。	Mngasih kana ka gupun payi gaga da.	"那些婆的牙都發出了""asah""聲。"	Tgtud gupun na ka payi gaga.
+201	Ida mnlama ka sowki su.	你的柴刀本來就有裂口。	你的柴刀本來就有裂口。	Ida mnlama ka sowki su.	你的刀還沒有做成糖。	Nbrakaw nanak ka slmadac su.
+202	Mnmspatan ta mqqita sayang da.	我們已見了十六次。	我們已見了十六次。	Mnmspatan ta mqqita sayang da.	我們現在見面了。	Mkmpussal nami qmnita da.
+203	Mnppsru shiga ka mddungus ga o ini ku qmqita.	昨天我很不想看那對夫妻打架。	昨天我很不想看那對夫妻打架。	Mnppsru shiga ka mddungus ga o ini ku qmqita.	那些流的石頭是昨天才噴出來的,我沒有看到。	Mqpurah ku bi qmita mntenaw ka pare mnarux kiya shiga.
+204	Pnlhpa mu kana ka mnsrbuq.	凹凸不平是我填平的。	凹凸不平是我填平的。	Pnlhpa mu kana ka mnsrbuq.	堆積著都是我留下來的。	Pnpnuxan mu ka embkil.
+205	Saw sklmak samaw na ka mqlahang tdruy.	交通號誌燈一直在閃爍。	交通號誌燈一直在閃爍。	Saw sklmak samaw na ka mqlahang tdruy.	駕駛車很會開。	Tmmbilaq msa hmnang ka emptdagan.
+206	Mqrhu bi lnglungan na ungat rngagan.	他非常固執，不能溝通。	他非常固執，不能溝通。	Mqrhu bi lnglungan na ungat rngagan.	他心地很虛弱,沒有話可說。	Ungat bi smqaras ka hiya.
+207	Mquluh ka dxgal hnici rudan mu.	我父母留下很貧瘠的土地給我。	我父母留下很貧瘠的土地給我。	Mquluh ka dxgal hnici rudan mu.	我祖父所耕作的地是的。	Rpanan mu o asi ku bi ka dxgal empdrumut.
+208	Mreurung musa mdkrang pgkla gaya bi ka Sita Duku.	Sita Duku去出草是為了向神靈證明他嚴孚生活規範	Sita Duku去出草是為了向神靈證明他嚴孚生活規範	Mreurung musa mdkrang pgkla gaya bi ka Sita Duku.	Sita Duku很會模仿傳統的藝。	Wada rmigaw smngaw ka Sita Duku o pkraya bi knmalu na ka malu balay.
+209	Mribaq ka pucing mu nii da.	我的刀鋒彎了。	我的刀鋒彎了。	Mribaq ka pucing mu nii da.	我的刀出裂了。	Mksa pucing mu.
+210	Pnatas na ka patas o mrramas balay kana.	他寫的文章非常雜亂無章。	他寫的文章非常雜亂無章。	Pnatas na ka patas o mrramas balay kana.	他的書本都很重寫。	Msbrakaw balay ka matas na.
+211	Asaw uusa na bbuyu o mrramus kana ka hiyi na.	因為他常常去打獵，身體都是割傷。	因為他常常去打獵，身體都是割傷。	Asaw uusa na bbuyu o mrramus kana ka hiyi na.	他要去打獵時他的身體都是的。	Saw skpatul ka qbubur na, kika saw skpatul.
+212	Ma hmut mrrudaw snalu su qdrux.	你做的石牆那麼不整齊。	你做的石牆那麼不整齊。	Ma hmut mrrudaw snalu su qdrux.	你做板子怎麼像火一樣的光。	Ma saw skgguh qdrux snalu su.
+213	Msbnbun bi ka dxgal nii.	這土地很肥沃地。	這土地很肥沃地。	Msbnbun bi ka dxgal nii.	這塊地長滿了胡瓜。	Tgpuhung bi ka dxgal nii.
+214	Msdlut knan ka hiya.	他很黏我。	他很黏我。	Msdlut knan ka hiya.	他為我親切。	Kmspus ku na.
+215	Kbuyan wahir ka djima do mslbi da.	竹子被藤蔓藤包覆而垂下來了。	竹子被藤蔓藤包覆而垂下來了。	Kbuyan wahir ka djima do mslbi da.	若竹子被藤住,就會松掉。	Mqrig wahir ka djima da.
+216	Msmsung bi qmpah ka payi mu.	我祖母一直工作到傍晚才回來	我祖母一直工作到傍晚才回來	Msmsung bi qmpah ka payi mu.	我祖母很會工作。	Tmkjiyan musa paah bi qmpah ni miyah ka payi mu.
+217	Msnbhbuh ka laqi gaga.	那些孩子為了芒草花發生爭執。	那些孩子為了芒草花發生爭執。	Msnbhbuh ka laqi gaga.	那個孩子為了而爭執。	Msnqlatul pngpung ka lqlaqi gaga.
+218	Msnkana mkeekan.	引起大家打鬥。	引起大家打鬥。	Msnkana mkeekan.	他們相互爭執。	Psrulax bi ka seejiq.
+219	Msnmaqaw nami mkeekan kari.	我們因荖葉而爭吵。	我們因荖葉而爭吵。	Msnmaqaw nami mkeekan kari.	我們為了爭而架。	Msnpusu nami sida.
+220	Msntatat huling ka laqi gaga ni mkeekan da.	孩子在為幼狗爭吵打架。	孩子在為幼狗爭吵打架。	Msntatat huling ka laqi gaga ni mkeekan da.	那個孩子因被狗追而架。	Gaga tmssula huling ka laqi.
+221	Mkla mspaux ka laqi mu bilaq da.	我的小孩已經會翻身了。	我的小孩已經會翻身了。	Mkla mspaux ka laqi mu bilaq da.	我的孩子很會跳舞了。	Mkla bi kmrtur ka laqi mu da.
+222	Msququq kana ka dgiyaq alang namu hiya.	你們部落被群山包圍。	你們部落被群山包圍。	Msququq kana ka dgiyaq alang namu hiya.	你們部落的山都是草。	Gmqlbungan dgiyaq ka alang namu.
+223	Msrusaq ka qsiya daan paru rngsux.	洪水使水混濁。	洪水使水混濁。	Msrusaq ka qsiya daan paru rngsux.	大水溝的水呈現狀。	Pssuqan rngsux ka qsiya.
+224	Mssagi ka bubu kacing ni wawa na.	母牛與牠的小牛互相呼叫。	母牛與牠的小牛互相呼叫。	Mssagi ka bubu kacing ni wawa na.	牛媽與她的小孩在爭。	Gaga mllagu ka bubu ni wawa na.
+225	Msseeliq bi ka dhiya mnswayi gaga.	兄弟姊妹互相破壞	兄弟姊妹互相破壞	Msseeliq bi ka dhiya mnswayi gaga.	他們兄弟姊妹相互討厭。	Msnraqux bi ka mnswayi.
+226	Tbbowk mssipaq ka seejiq.	有人在互相擊打的聲音。	有人在互相擊打的聲音。	Tbbowk mssipaq ka seejiq.	群眾在砍樹。	Tppang tmalang seejiq.
+227	Mssixal nami bi ka lupung mu.	我和我的朋友互相來往	我和我的朋友互相來往	Mssixal nami bi ka lupung mu.	我朋友我們很相互愛護。	Msskla nami ka lupung mu.
+228	Mstrung ka hlmadan o msuluh.	近親結婚會受咒詛而得病。	近親結婚會受咒詛而得病。	Mstrung ka hlmadan o msuluh.	成群結會成為團隊。	Msbkal ka ltlutut o ki mnarux da.
+229	Asi nami psnulug mstrung elug.	我們恰巧在路上相遇。	我們恰巧在路上相遇。	Asi nami psnulug mstrung elug.	我們立刻在路上相互架。	Mnsndutun nami mkleelug.
+230	Msttarux uwit ka hiya da.	他處在非常累的狀態	他處在非常累的狀態	Msttarux uwit ka hiya da.	他因為痛風而打。	Nii na mnarux balay.
+231	Mtbangah ka tahut da.	火已經燒成木炭了。	火已經燒成木炭了。	Mtbangah ka tahut da.	火已燃燒了。	Wada asi kbulit ka tahut da.
+232	Mtbhbuh ka sayang da.	現在正是開芒草花的季節。	現在正是開芒草花的季節。	Mtbhbuh ka sayang da.	現在是結大石的季節。	Mtbngrux ka sayang da.
+233	Mtbsiyaq nami bi mtmeuriq ka mspung do mtrikit ka hiya da.	我們奮力摔角一段時間後，他累得倒下去了。	我們奮力摔角一段時間後，他累得倒下去了。	Mtbsiyaq nami bi mtmeuriq ka mspung do mtrikit ka hiya da.	我們很想交配時他退婚。	Mnslupung nami tmppuhing da, wada mtruwa do mtahu da.
+234	Mteapa mtakur.	跌成一堆。	跌成一堆。	Mteapa mtakur.	座的很高。	Mstakur mtuku.
+235	Mtnunuh ka sayang da.	現在是盛產無花果季節。	現在是盛產無花果季節。	Mtnunuh ka sayang da.	現在是結冰的季節。	Mtbnaw ka sayang.
+236	Mtqapuh ka luqih knrtan pnspuhan msapuh da.	醫生開刀的傷口已經痊癒了。	醫生開刀的傷口已經痊癒了。	Mtqapuh ka luqih knrtan pnspuhan msapuh da.	傷口被醫師擦時會腫掉的。	Wada mklhay ka npata pucing ising da.
+237	Mtqiri uyung sapah hmrapas ka laqi.	孩子繞家院子玩耍。	孩子繞家院子玩耍。	Mtqiri uyung sapah hmrapas ka laqi.	孩子在家後面玩。	Tmmring ngangut ka laqi.
+238	Mtqpuruh gneabu mu o naqih smlaan emu.	我揉的不好，所以不能製作糖果。	我揉的不好，所以不能製作糖果。	Mtqpuruh gneabu mu o naqih smlaan emu.	我種植的李子不好,可以做糖果。	Naqih qnqan mu ni ini ku kmalu emu.
+239	Negduyung su nhari ka hmaan su, ki ha malu karat.	趁著天氣好的時候，趕快犁成培土播種。	趁著天氣好的時候，趕快犁成培土播種。	Negduyung su nhari ka hmaan su, ki ha malu karat.	你若趕快成田地,這樣會很好。	Malu karat da, nhari nhuma phmaun.
+240	Sai mangal ha negul kacing gaga.	先去拿那條綁牛的繩子。	先去拿那條綁牛的繩子。	Sai mangal ha negul kacing gaga.	你去把那牛的子拿走。	Sai mangal ka gasil ga mkbukit kacing han.
+241	Nnamu ka ptasan nii?	這間學校是你們的？	這間學校是你們的？	Nnamu ka ptasan nii?	這些是你們寫的嗎?	Nisu ka gako nii?
+242	Npmkay su nanak ma su smtama seejiq?	你應該自己整理家事，怎麼倚賴人？	你應該自己整理家事，怎麼倚賴人？	Npmkay su nanak ma su smtama seejiq?	你是自以為是,又為人家做?	Endamung su nanak emptmalu tmhkuy seejiq da?
+243	Sxali ku rmngaw iya ku nrrui.	只對我說一次尌好，不要再說了	只對我說一次尌好，不要再說了	Sxali ku rmngaw iya ku nrrui.	請不要騙我,我常說是真的。	Pqsqay bi rngagi ku, iya rngagi da.
+244	Paani bukuy su ka laqi gaga.	把小孩背在你的後面。	把小孩背在你的後面。	Paani bukuy su ka laqi gaga.	讓那孩子在你後背上坐著。	Pbkug su bukuy ka laqi.
+245	Ini ku palah ka rbagan.	夏天我不會烤火。	夏天我不會烤火。	Ini ku palah ka rbagan.	夏天我沒有涼。	Ini ku pbahang mtahu ka rbagan.
+246	Ini bi peeluhay pburux nanak mkan ka rudan mu.	我父母不會讓我們習慣獨自吃飯。	我父母不會讓我們習慣獨自吃飯。	Ini bi peeluhay pburux nanak mkan ka rudan mu.	我的祖父絕不會亂給我百貨吃。	Ini pnegdamat mkan nhapuy ka rudan mu.
+247	Gaga o pdahik mu.	那刨刀是我的。	那刨刀是我的。	Gaga o pdahik mu.	那是我要給的。	Nirih mu ka gaga.
+248	Wada mada pdaung wasil ka qaqay na.	他的腳被繩子勾住了。	他的腳被繩子勾住了。	Wada mada pdaung wasil ka qaqay na.	他腳被草刺了。	Gaga qtqapuh btuku ka qaqay na da.
+249	Niqan knkla ka seejiq o ini pddayak.	有智慧的人從不相互干涉。	有智慧的人從不相互干涉。	Niqan knkla ka seejiq o ini pddayak.	有智慧的人不會昏。	Ini bi seejiq mklax ka mkla bi knkela.
+250	Musa ptasan ka laqi mu o pdudul mu sunan.	我托你帶我的孩子去學校。	我托你帶我的孩子去學校。	Musa ptasan ka laqi mu o pdudul mu sunan.	我帶我的孩子上學會很快。	Pdesun su musa ptasan ka laqi mu.
+251	Pealix tmalang knan ka likaw na.	他跑的速度超越我。	他跑的速度超越我。	Pealix tmalang knan ka likaw na.	他向我努力跑。	Sknealay knan ka hiya.
+252	Peiril dmuuy qngqaya ka laqi na.	他孩子用左手提東西。	他孩子用左手提東西。	Peiril dmuuy qngqaya ka laqi na.	他的孩子用子玩工具。	Gmribul baga na kiwa ka laqi na.
+253	Pggiyug bi dgiyaq o sunu ni rngsux.	常使山變為山溝的是地震和土石流。	常使山變為山溝的是地震和土石流。	Pggiyug bi dgiyaq o sunu ni rngsux.	山頂上很大面積是水泥和山灰。	Mkaan ka dgiyaq o msqpuring runug.
+254	Pgiying su bi knan.	你讓我到處找你。	你讓我到處找你。	Pgiying su bi knan.	不要讓我受傷。	Pglai ku powsa isu.
+255	Psrangaw ta han kiya ka phmaa ta trabus da.	我們等陰天，再來種花生	我們等陰天，再來種花生	Psrangaw ta han kiya ka phmaa ta trabus da.	我們要種花生時先放大樹枝。	Ptlayaw ta han, phmaun ta trabus.
+256	Phrhranay mu hyaan ka phpah gaga.	我請他協助我把花一個個採收下來。	我請他協助我把花一個個採收下來。	Phrhranay mu hyaan ka phpah gaga.	我要讓他先種植花。	Rrahan mu hiya ka prmuxan mu kingal phepah.
+257	Ttdgarung na o ini phuma rahuq na hi qhuni da.	他們只喜歡種楓樹，其他的樹種都不種。	他們只喜歡種楓樹，其他的樹種都不種。	Ttdgarung na o ini phuma rahuq na hi qhuni da.	因為他地大,所以沒有種植樹枝。	Dhiya o dmeeda uri, ini dha pnegphuma kana ka qhuni gaga.
+258	Ngali ku haya phung dowriq mu.	請你取出我眼中的木屑。	請你取出我眼中的木屑。	Ngali ku haya phung dowriq mu.	我先把眼睛放開。	Angal bi rudu dowriq mu ha.
+259	Pkbanah rmbug ka gasil towkan.	把那揹袋的繩子染紅。	把那揹袋的繩子染紅。	Pkbanah rmbug ka gasil towkan.	"用刀打獵時會發出""bbanh""的聲音。"	Rsuxi rmisuh ka gasil gaga.
+260	Pkbnaay ka qmpahan su binaw, maah kana ka rungay.	如果讓你的田地成為野橘子園的話，猴子就都會來喔！	如果讓你的田地成為野橘子園的話，猴子就都會來喔！	Pkbnaay ka qmpahan su binaw, maah kana ka rungay.	你要叫田地長植樹,因為子會出草。	Kkbnuwar ka qmpahan su do empeedmuwar kana da.
+261	Pknruhun mu bmbang ka knuruh sapah nii.	用鐵皮蓋屋頂脊。	用鐵皮蓋屋頂脊。	Pknruhun mu bmbang ka knuruh sapah nii.	這房子的大片是我要用彈蓋的。	Gdakar dmamux.
+262	Pkrdani pkeudus ka rudun.	讓老人長壽。	讓老人長壽。	Pkrdani pkeudus ka rudun.	讓我們使雞長得高大。	Psrbgi bi ka rudan ha.
+263	Pksaman ta hmurit.	我們留他到明天。	我們留他到明天。	Pksaman ta hmurit.	我們讓他惰過來。	Pgyai ta saman.
+264	Plahi han.	先烤火啊！	先烤火啊！	Plahi han.	讓他知道。	Ptahu han!
+265	Pnegbowk Ini bowk paqun ka tpaqan kacin.	擊打牛臀部不會發「bowk」的聲音。	擊打牛臀部不會發「bowk」的聲音。	Pnegbowk Ini bowk paqun ka tpaqan kacin.	牛吃的東西不會變成山豬。	Ini bowq smagi ka tpaqan kacing.
+266	Ini pnegbrayaw ka qlquluh dgiyaq.	貧瘠的地長不出姑婆芋。	貧瘠的地長不出姑婆芋。	Ini pnegbrayaw ka qlquluh dgiyaq.	山頂上的木不會長出布草。	Qmpahan brkawe o ini sgdanga.
+267	Ini pnegbunur ka rqling qwarux.	細的籐條不能作為骨架。	細的籐條不能作為骨架。	Ini pnegbunur ka rqling qwarux.	藤的角不長結。	Ini tduwa rqling ka qwarux.
+268	Ini pnegciyu lmhlih seejiq ka tama su.	我爸爸不喜歡指指點點欺侮別人。	我爸爸不喜歡指指點點欺侮別人。	Ini pnegciyu lmhlih seejiq ka tama su.	你爸爸不喜歡隨便去打人。	Msaang bi tmriq qmlahang seejiq ka tama mu.
+269	Ini pneglingay ana bsukan ka alang nami.	我們部落不會因酒醉而有暴力。	我們部落不會因酒醉而有暴力。	Ini pneglingay ana bsukan ka alang nami.	酒醉的人不會忘記我們的部落。	Ini pnegbsukan bsukan ka alang nami.
+270	Pnpadaw mu hyaan ka tdruy gaga.	那車子是我給他的禮物。	那車子是我給他的禮物。	Pnpadaw mu hyaan ka tdruy gaga.	那車子是我借他開的。	Bghaw mu hiya ka tdruy gaga.
+271	Pnpusut ima ka qabang gaga?	那被單是誰捲起來的？	那被單是誰捲起來的？	Pnpusut ima ka qabang gaga?	那被子是誰的?	Pnpnuqir ima ka gasil gaga?
+272	Pnpuy huling knan ka hiya.	他叫他的狗來咬我。	他叫他的狗來咬我。	Pnpuy huling knan ka hiya.	"他讓我的狗發出""""聲。"	Seuyun ku na qmiyut ka huling na.
+273	Srbuxan o pnsping tqring usux lukus kuyuh.	袖口是女人衣服的裝飾品。	袖口是女人衣服的裝飾品。	Srbuxan o pnsping tqring usux lukus kuyuh.	線是女人穿上衣服時所產生的紋狀。	Dmptpyuyu o pspinuh lukus kuyuh.
+274	Pnssuwili sapah nami, hnici rudan nami ka nii.	這是傳家之寶，是我們祖先留下的東西	這是傳家之寶，是我們祖先留下的東西	Pnssuwili sapah nami, hnici rudan nami ka nii.	我們的家就是這棟大房子,是傳承給我們的祖先來的。	Naki lutut ta rudan ta ka nii.
+275	Pqbangi ka laqi.	為孩子塔帳棚。	為孩子塔帳棚。	Pqbangi ka laqi.	讓孩子們體。	Ptbiuk pqabang ka laqi.
+276	Pqbbruan na gmqur.	他雕刻人像。	他雕刻人像。	Pqbbruan na gmqur.	他專找子。	Pnsliqaw dowriq ka hiya.
+277	Iya pqnqihi kuxul ka rudan.	不要使老人家傷心。	不要使老人家傷心。	Iya pqnqihi kuxul ka rudan.	不要讓長輩生氣的。	Iya pqnaqih mgay rudan ha.
+278	Pqpalaw su ha mkuy ka kana laqi.	別把孩子都綁在一起。	別把孩子都綁在一起。	Pqpalaw su ha mkuy ka kana laqi.	不要讓孩子都著背。	Iya biwiqi lbihi ka laqi.
+279	Gaga musa prabang saan na msqar puniq ka tama mu.	我父親去做標靶，以便用來射擊。	我父親去做標靶，以便用來射擊。	Gaga musa prabang saan na msqar puniq ka tama mu.	我爸爸去打獵在他的獵場射擊。	Wada smmalu djima ka tama mu.
+280	Priq msa qmuci ka laqi.	小孩在放屁。	小孩在放屁。	Priq msa qmuci ka laqi.	孩子一下子就要掉。	Gaga psbgilaq ka laqi.
+281	Pruxul o malu bi smluun bhniq.	桬木做弓箭是很好的。	桬木做弓箭是很好的。	Pruxul o malu bi smluun bhniq.	是很好的弓箭。	Malu bi sbyaxan bhniq ka qhuni o smluun buji.
+282	Psaun mu ka wauwa mu da.	我要讓我的女兒出嫁。	我要讓我的女兒出嫁。	Psaun mu ka wauwa mu da.	我要讓女兒睡得安靜。	Psrjingan mu ka wauwa mu.
+283	Ga mu saan psbalay laqi ka qlubung mu da.	我請孩子去弄好套足陷阱。	我請孩子去弄好套足陷阱。	Ga mu saan psbalay laqi ka qlubung mu da.	我已經把我的床給做小孩的房間了。	Pkslawa mu qlubung ka laqi.
+284	Psbilaq hari lnglungan su.	你的心謙卑一點。	你的心謙卑一點。	Psbilaq hari lnglungan su.	讓你的心情安靜。	Smkuhi ka lnglungan su.
+285	Psbkiun mu ka hrus gaga.	那片山坡地我要種檳榔	那片山坡地我要種檳榔	Psbkiun mu ka hrus gaga.	我要把那塊樹砍光。	Pstmka ku ptucing ka dgiyaq gaga.
+286	Psbkraw qnslan ka bkraw gaga.	那個鐵夾彈簧使它彈跳。	那個鐵夾彈簧使它彈跳。	Psbkraw qnslan ka bkraw gaga.	那子專找蟲。	Pbbows ptpaan na ka xiluy.
+287	Pscicis kmalu su bi! Ini ka isu ddawi su.	你真好啊！因為偷懶沒有被淋濕。	你真好啊！因為偷懶沒有被淋濕。	Pscicis kmalu su bi! Ini ka isu ddawi su.	你不要我的子!你不是那個理經者。	Malu su bi wa! Ini sshida ka rmuba.
+288	Nii ku psealu dhquy hlmaun mu.	我在蒸糯米糕。	我在蒸糯米糕。	Nii ku psealu dhquy hlmaun mu.	我正在煮米飯。	Nii ku tmnbuwa ka hlama mu.
+289	Psgbiyan qmpah ka qpahun na.	他每天工作到傍晚。	他每天工作到傍晚。	Psgbiyan qmpah ka qpahun na.	他從業於打獵。	Qmpah kjiyan ka hiya.
+290	Pshpaha mu huling ka luqih.	讓狗舔我的傷口	讓狗舔我的傷口	Pshpaha mu huling ka luqih.	我要讓狗擦傷。	Psqlit ka huling hawas mu.
+291	Ma su pskiyux bi powsa udri?	你為什麼勉強她去呢？	你為什麼勉強她去呢？	Ma su pskiyux bi powsa udri?	為什麼你要把子用成雨布?	Ma su saw spdungaw hiya?
+292	Pspangus bi dqras na msaan ka snaw su.	你讓你的先生板著臉孔生氣。	你讓你的先生板著臉孔生氣。	Pspangus bi dqras na msaan ka snaw su.	你先生常常露臉笑。	Pqpqaw su smagan ka snaw su.
+293	Psraki hiya.	讓他打呵欠吧！	讓他打呵欠吧！	Psraki hiya.	讓他專門種	Ptgaaw ta han!
+294	Psraway ta powsa ka quyu!	讓蛇溜走吧！	讓蛇溜走吧！	Psraway ta powsa ka quyu!	讓我們使蛇不停的跳動!	Psrhi ka quyu!
+295	Psrpun lala nangal na uqun ka seejiq alang nami hiya.	我們部落的人都在做倉庫，因為他們的收成很多。	我們部落的人都在做倉庫，因為他們的收成很多。	Psrpun lala nangal na uqun ka seejiq alang nami hiya.	那個部落的人採收食物量大。	Gaga embbagu kana ka seejiq alang nami, yaasa lala bi nhmaan dha.
+296	Psrsigay su bi ka tama.	不要向父親密告	不要向父親密告	Psrsigay su bi ka tama.	不要讓爸爸受歡	Iya psmagi tama su.
+297	Uqun payi ka idaw masu o psrumu balay.	祖母要吃的小米飯要弄得很稀。	祖母要吃的小米飯要弄得很稀。	Uqun payi ka idaw masu o psrumu balay.	奶奶煮的飯需要大量的粉。	Pslit bi uqun na ka masu bubu rudan.
+298	Psthowlang bi ka seejiq gaga.	那個人非常的自以為是	那個人非常的自以為是	Psthowlang bi ka seejiq gaga.	那個人很喜歡放陷	Smkuxul bi ssayang ka seejiq gaga.
+299	Pstowkan bi musa bbuyu ka snaw Truku.	太魯閣的男士喜歡背著網袋上山打獵	太魯閣的男士喜歡背著網袋上山打獵	Pstowkan bi musa bbuyu ka snaw Truku.	太魯閣族的男人喜歡放陷獵凶。	Smkuxul bi musa bbuyu dgiyaq ka snaw Truku.
+300	Psyupangun mu hyaan ka tuyan mu.	我要託他幫我做葫蘆。	我要託他幫我做葫蘆。	Psyupangun mu hyaan ka tuyan mu.	我要讓他我的大頭。	Pkbkug mu hyaan ka hiya.
+301	Wada ptglungaw sun ka wada ptgsinaw.	因酒而死也稱為「因酒瓶而死」。	因酒而死也稱為「因酒瓶而死」。	Wada ptglungaw sun ka wada ptgsinaw.	"那些生殖者被稱為""ngrungaw""。"	Wada ptgdngu sinaw o pndngu sinaw duri.
+302	Wada ptgnuwin bgihur ka hbaraw bi yami hiya.	我們那裏有很多人被龍捲風捲走。	我們那裏有很多人被龍捲風捲走。	Wada ptgnuwin bgihur ka hbaraw bi yami hiya.	我們那邊的很多樹被風吹走。	Hbaraw bi seejiq nami wada ptgrahuy bgihur paru hiya.
+303	Wada ptgpux tmeegu ka kingal yami hiya.	我們部落有一個人因挑釁行為而被打死。	我們部落有一個人因挑釁行為而被打死。	Wada ptgpux tmeegu ka kingal yami hiya.	我們的一隻被子咬死。	Wada ptgkla ka kingal mnhungul alang nami.
+304	Asi ptgqilug mtakur dowras ka qbsurang na snaw.	他哥哥掉落懸崖，撞到後腦而死。	他哥哥掉落懸崖，撞到後腦而死。	Asi ptgqilug mtakur dowras ka qbsurang na snaw.	他的哥哥跳躍到山頂上。	Wada mtakur dowras ka qbsuran na snaw.
+305	Ptkwiraw ta ka qnwal.	我們把鐵絲捲起來。	我們把鐵絲捲起來。	Ptkwiraw ta ka qnwal.	讓我們用木來做	Pqlitay ta ka xiluy.
+306	Kana hdhuda dgiyaq ga o mkpitu do ida ini ptqudak na.	山上那些雪已經七天了還沒有融化。	山上那些雪已經七天了還沒有融化。	Kana hdhuda dgiyaq ga o mkpitu do ida ini ptqudak na.	那座山上有很多的木,只剩三個沒有結成。	Mgrmrit ka mqnux bsiyaq kana dgiyaq ga o ini psdhgu da.
+307	Ptrsukaw ta han.	讓我們等到陰天。	讓我們等到陰天。	Ptrsukaw ta han.	讓他著眼睛看	Pqaras ta da.
+308	Ptwawa mu hbaraw.	我要讓它生很多	我要讓它生很多	Ptwawa mu hbaraw.	我要使它長很多。	Pstbungan mu.
+309	Ptyusun mu saman ka dxgal ta da.	明天我要把我們的地劃界線。	明天我要把我們的地劃界線。	Ptyusun mu saman ka dxgal ta da.	我們的地明天要種植金。	Empsdakar ku saman ka qmpahan nami.
+310	Pxalun mu qmabu.	我一口吃完。	我一口吃完。	Pxalun mu qmabu.	我要把它放到深裡。	Wada ku mkan kingal uri.
+311	Pyihani klbus gmksa.	從下面開始做起	從下面開始做起	Pyihani klbus gmksa.	用甜去背負高山級的薪地。	Smtnaaw ta babaw.
+312	Spsru bi rudan ka laqi ini qbahang kari.	不聽話的孩子常會被父母打。	不聽話的孩子常會被父母打。	Spsru bi rudan ka laqi ini qbahang kari.	不聽話的孩子會被父母責罵。	Laqi empqbahang o bbuyu bi rudan na ka laqi empqal.
+313	Qblingi ku rmngaw pini, kaway misu.	你欺騙我看看，看我怎對付你！	你欺騙我看看，看我怎對付你！	Qblingi ku rmngaw pini, kaway misu.	你不要聽我講了,那是我的錯。	Rwayan saku binaw, kita na bi lnglungan mu.
+314	Qmhruy kingal dgiyaq ka rnaaw.	叢林都擠靠在那山頭。	叢林都擠靠在那山頭。	Qmhruy kingal dgiyaq ka rnaaw.	河流遍及山頭。	Sgdayaw dgiyaq ka rnaaw.
+315	Qmiya balay uusa ana inu ka laqi rbnaw.	有嬰兒，我會被阻擋去任何地方。	有嬰兒，我會被阻擋去任何地方。	Qmiya balay uusa ana inu ka laqi rbnaw.	嬰兒走路時不知該去哪裡。	Empeebriqax ku musa ana inu ka laqi.
+316	Qmpian su manu ka biyuq sibus nii?	你用什麼工具去搾甘蔗汁？	你用什麼工具去搾甘蔗汁？	Qmpian su manu ka biyuq sibus nii?	你要用什麼這甘的甜?	Mqlbisuk su qngqaya sibus ka isu hug?
+317	Qmrangas mkan ka hiya o ini kla rbuk qnpahan.	他把食物隨便咬碎而不知道那是辛苦得來的。	他把食物隨便咬碎而不知道那是辛苦得來的。	Qmrangas mkan ka hiya o ini kla rbuk qnpahan.	他喜歡吃山胡,但不知道要蓋什麼地址。	Asi na gmbgbug mkan ni ini na kla ka snpnuxan na.
+318	Gaga qmulah bunga kana ka alang hiya.	那村落的人都在採收地瓜。	那村落的人都在採收地瓜。	Gaga qmulah bunga kana ka alang hiya.	那些地方都種植地瓜。	Ga qmburung bunga kana ka seejiq alang gaga.
+319	Sblbil na knan o ungat qnayun na.	他因為沒有人作伴就拉我一起去。	他因為沒有人作伴就拉我一起去。	Sblbil na knan o ungat qnayun na.	他給我一點點的但沒有足夠。	Saw skduriq musa ka yaku o pgeeluk ku na hyaan.
+320	Qnquran namu ka bling nii?	這洞口是你們挖的嗎？	這洞口是你們挖的嗎？	Qnquran namu ka bling nii?	你們是要把坑洞給斷的嗎?	Yamu ka rhuq nii?
+321	Aji na qqbuluq o gnmaani lmamu ka mhada na.	若不要讓它過熟，就把熟的先摘下。	若不要讓它過熟，就把熟的先摘下。	Aji na qqbuluq o gnmaani lmamu ka mhada na.	為了不要長,所以要挑菜園。	Aji kkpuhay peapa han, geagi ka mhada da.
+322	Qqrat mhnang ka srakaw o mtutuy ka rudan da.	"竹床""卡啦""的聲響，表示父母親起床了。"	"竹床""卡啦""的聲響，表示父母親起床了。"	Qqrat mhnang ka srakaw o mtutuy ka rudan da.	青春節的聲音大聲一點,讓老人變得惰。	"""Qqa qqa""msa djima."
+323	Qqtul na qhuni ka pucing nii.	這刀是他砍樹用的。	這刀是他砍樹用的。	Qqtul na qhuni ka pucing nii.	這把刀被木頭住了。	Ptgeetu na qhuni ka slmadac nii.
+324	Mgbsiyaw qtaan paah thiyaq ka blbul.	從遠處看，會把香蕉樹誤看成月桃樹。	從遠處看，會把香蕉樹誤看成月桃樹。	Mgbsiyaw qtaan paah thiyaq ka blbul.	香從酒開始發芽。	Pnhdagan qmita ka blbul o qmnita mhuma.
+325	Ma su jiyax rmijil qnawal, hyaun suhug?	你怎麼一直在弄彎鐵絲，你要做什麼呢？	你怎麼一直在弄彎鐵絲，你要做什麼呢？	Ma su jiyax rmijil qnawal, hyaun suhug?	你怎麼用力線,幹嘛呢?	Ma su saw qmqlingun dxgal, mhuya su?
+326	Rmurul mangal ka hiya.	他一次拿兩個。	他一次拿兩個。	Rmurul mangal ka hiya.	他用子拿。	Prdua bi ka hiya.
+327	Wada rmuyuk bowyak bbuyu ka tama mu.	我爸爸去叢林中埋伏獵山豬。	我爸爸去叢林中埋伏獵山豬。	Wada rmuyuk bowyak bbuyu ka tama mu.	我爸爸去獵山豬。	Wada gmburang bowyak dgiyaq ka tama mu.
+328	Gaga rmxrax buut bowyak ka huling.	狗正在啃山豬的骨頭。	狗正在啃山豬的骨頭。	Gaga rmxrax buut bowyak ka huling.	狗在磨壞山豬骨頭。	Kmqulit buut bowyak ka huling.
+329	Rruhug mu damat ka liwas nii.	這個鍋是我炒菜用的。	這個鍋是我炒菜用的。	Rruhug mu damat ka liwas nii.	這米器是我要用來煮菜的。	Gpuyan mu sama ka ribo nii.
+330	Rtgay ta ka btunux paru.	讓我們讓大石頭滾下去。	讓我們讓大石頭滾下去。	Rtgay ta ka btunux paru.	我們來用大石頭起。	Rhrulay ta ka btunux paru.
+331	Pskurun mu ka sakur.	我用犁耕地。	我用犁耕地。	Pskurun mu ka sakur.	我要把麻線起來。	Gmbgbug mu qmpahan.
+332	Shiya bi mahun ka bgu sangi.	胡瓜湯很好喝。	胡瓜湯很好喝。	Shiya bi mahun ka bgu sangi.	胡瓜湯很好喝。	Malu bi mahun ka bgu sibus.
+333	Mowsa su inu ka sayang hug?	你現在要去那裡呢？	你現在要去那裡呢？	Mowsa su inu ka sayang hug?	你現在要去哪裡呢?	Mowsa su inu sayang?
+334	Sbbali bi sapah smlaan bali.	製造子彈的工廠滿是子彈味。	製造子彈的工廠滿是子彈味。	Sbbali bi sapah smlaan bali.	用子彈做房子非常好	Sbblbul knux ka smluun qbulit.
+335	Sbbeeba knux na ka lukus.	他的衣都是膿瘡味。	他的衣都是膿瘡味。	Sbbeeba knux na ka lukus.	衣服有蜜味。	Sbbgus knux lukus na.
+336	Sbngrux dha qmalang.	用粗大芒草來做圍籬	用粗大芒草來做圍籬	Sbngrux dha qmalang.	他們在圍欄找草。	Gsgasi qwarux smluun.
+337	Sbngux ka damat nshiga da.	昨天的菜餚已臭酸了。	昨天的菜餚已臭酸了。	Sbngux ka damat nshiga da.	昨天菜已經有臭味了。	Sqpulah knux ka damaw shiga da.
+338	Sbsuk o malu bi tssagan.	屋簷是很好的避蔭地方	屋簷是很好的避蔭地方	Sbsuk o malu bi tssagan.	樹很適合過冬天。	Malu bi ssdang ta ka sapah.
+339	Iya sddha miyah.	不要二個二個來。	不要二個二個來。	Iya sddha miyah.	不要隨便來。	Iya pgeemul haya.
+340	Wada sgeaxa payi na.	他因貝殼飾品而到祖母那裡。	他因貝殼飾品而到祖母那裡。	Wada sgeaxa payi na.	他去向祖母求婚。	Wada rmqbulit psaan na payi ka hiya.
+341	Sgigit meysa ku laqi.	孩子很堅持地要拿。	孩子很堅持地要拿。	Sgigit meysa ku laqi.	我被孩子逼走	Tmbhngil bi meamak ka laqi.
+342	Ana mshjil o sgnarat ta mhaal do lhkah da.	雖然重，但用右肩背時就會覺得比較輕。	雖然重，但用右肩背時就會覺得比較輕。	Ana mshjil o sgnarat ta mhaal do lhkah da.	我們雖然殘疾,但我們仍能做事實。	Ana kbruhan o maaqlhay hari hidaw.
+343	Huling meaduk o sgtuqir miying samat.	獵狗是隨著獸徑找野獸的	獵狗是隨著獸徑找野獸的	Huling meaduk o sgtuqir miying samat.	打獵的狗會使野獸扎。	Smduriq qmlahang ka huling o smknux samat.
+344	Baki mu ka skBayan.	已故的Bayan是我的祖父	已故的Bayan是我的祖父	Baki mu ka skBayan.	我祖父是個學長。	Pkbaki mu ka skayan Bayan.
+345	Malu bi ngalan qcinuh ka skasu.	黑心樹拿來做木板很好。	黑心樹拿來做木板很好。	Malu bi ngalan qcinuh ka skasu.	掃很好用來做網線。	Snegit o malu bi salu qcinuh.
+346	Saw skciyux wauwa ka risaw ga o nangi gmsngut hyaan.	那位青年喜歡替小姐梳頭髮是因為對她有意思。	那位青年喜歡替小姐梳頭髮是因為對她有意思。	Saw skciyux wauwa ka risaw ga o nangi gmsngut hyaan.	那個年輕人喜歡女孩子,所以留下來跟他親密相處。	Saw skciyux bi tunux wauwa ka risaw gaga.
+347	Saw bbrih kari na ini skingal.	他說話反覆無常不一致。	他說話反覆無常不一致。	Saw bbrih kari na ini skingal.	他說話不會好意思。	Mnpsaang ka kari na.
+348	Sknxan o skkalat balay sknxal.	味道聞起來是鳳梨味。	味道聞起來是鳳梨味。	Sknxan o skkalat balay sknxal.	舊的風味很容易破壞。	Sbblbul knux na.
+349	Skndudug na wauwa na nanak dmudug mseusa ka wauwa mu.	她把我女兒當他女兒一樣的鼓勵我編織手藝。	她把我女兒當他女兒一樣的鼓勵我編織手藝。	Skndudug na wauwa na nanak dmudug mseusa ka wauwa mu.	我女兒為了她自己的女兒而架,一直在叫。	Sknbkuy ku na qbsuran cinun ka wauwa mu.
+350	Sknmasu tmukuy ka basaw uri.	播種小黍就像小米一樣播種。	播種小黍就像小米一樣播種。	Sknmasu tmukuy ka basaw uri.	子也被小米添加著。	Mgciyus o mdka saw masu ka spuw na.
+351	Saw skprut kari mu ka kuyuh mu.	我太太老是把我的話壓下去。	我太太老是把我的話壓下去。	Saw skprut kari mu ka kuyuh mu.	我太太常說我很愛講話。	Smppringan kari mu ka kuyuh mu.
+352	Ini sbghuri ka payay o ini sleepix uri.	稻米如果沒有被風吹也不會被壓垂下來。	稻米如果沒有被風吹也不會被壓垂下來。	Ini sbghuri ka payay o ini sleepix uri.	如果不讓穀上漲,也不會下跌。	Ini pskaya bgihur ka payay o ini ptkribut da.
+353	Slmukas knux ruwan sapah mu.	他家裏發出壇香味。	他家裏發出壇香味。	Slmukas knux ruwan sapah mu.	我家有狐臭味。	Ssdrayuk knux sapah na.
+354	Smabul dqras ka mkan ta nhapuy.	吃飯時會使面頰搖動。	吃飯時會使面頰搖動。	Smabul dqras ka mkan ta nhapuy.	我們煮的飯外面滿著水。	Pkkaw ka dqras mkan idaw.
+355	Mkla bi smais lukus ka bubu.	媽媽很會縫織衣服。	媽媽很會縫織衣服。	Mkla bi smais lukus ka bubu.	媽媽很會洗衣服。	Mkla bi ssinun lukus ka bubu.
+356	Smdalih tmaan ka laqi.	孩子接近爸爸。	孩子接近爸爸。	Smdalih tmaan ka laqi.	孩子在等著睡。	Mkslagu tama ka laqi.
+357	Smddapil bi ka hbaraw seejiq.	人多會有很多腳印。	人多會有很多腳印。	Smddapil bi ka hbaraw seejiq.	許多人喜歡帶走大皮帶。	Lala bi hquilan qaqay ka seejiq.
+358	Smeayang bi ka rulu mu.	我的車很耗油。	我的車很耗油。	Smeayang bi ka rulu mu.	我的車很緩慢。	Mnegdgut bi ayang ka tdruy mu.
+359	Smseysay bi ka payay da.	稻穀就要結穗了	稻穀就要結穗了	Smseysay bi ka payay da.	菜容易腐爛。	Ptgmu ka payay da.
+360	Spbowt mu smisug smbu ka kacing.	我用丟東西產生的聲音來嚇唬牛。	我用丟東西產生的聲音來嚇唬牛。	Spbowt mu smisug smbu ka kacing.	我用打牛的發出「bowt」聲響。	Pnqpuyan mu smcika kacing.
+361	Smjiyax su bi jiyax.	你很耗費時間。	你很耗費時間。	Smjiyax su bi jiyax.	你常常打	Saw bi qmawa tqian su.
+362	Smkur bi ribul musa qmpah ka risaw gaga.	那年輕人捲起褲管認真地工作	那年輕人捲起褲管認真地工作	Smkur bi ribul musa qmpah ka risaw gaga.	那個年輕人穿很粗的褲子去工作。	Ptntun bi qmpah na ka risaw gaga.
+363	Smlbi bi lukus bubu na ka laqi.	孩子一直拉扯媽媽的衣服。	孩子一直拉扯媽媽的衣服。	Smlbi bi lukus bubu na ka laqi.	小孩子要把媽媽的衣服起來。	Mnegplpis bi lukus bubu ka laqi.
+364	Smsngus niqan wili ka muhing kacing.	牛鼻內有水蛭而發出氣的鼻塞聲。	牛鼻內有水蛭而發出氣的鼻塞聲。	Smsngus niqan wili ka muhing kacing.	牛的鼻子有痕。	Sbngut ka nasus kacing ga o smrus qsiya.
+365	Snegmeyx na ptghuy kari ga phuqil quyu ka hiya.	他在打蛇的同時，嘴巴也說好	他在打蛇的同時，嘴巴也說好	Snegmeyx na ptghuy kari ga phuqil quyu ka hiya.	他用口水說有蛇。	Smsuk quyu ka hiya, msru quyu na uri.
+366	Sngari mgkala snpgan.	算過之後所剩下的。	算過之後所剩下的。	Sngari mgkala snpgan.	按人數增加。	Nngari pnsngari o mnsngari.
+367	Sngrngran ka qmpahan.	田裡被很多大石頭堆積著。	田裡被很多大石頭堆積著。	Sngrngran ka qmpahan.	田地被草覆蓋。	Lala bi kmtuy paru btunux ka qmpahan.
+368	Sngudus kana ka seejiq Arabiya.	阿拉伯人都是大鬍鬚。	阿拉伯人都是大鬍鬚。	Sngudus kana ka seejiq Arabiya.	阿拉伯的人都是大眼睛。	Dmpkbhbih kana ka Arabiya.
+369	Snngian na qmpah.	工作只做一些。	工作只做一些。	Snngian na qmpah.	他工作的時間很短。	Smnki ka qmpah.
+370	Snyasan pupu.	斧頭擘開的	斧頭擘開的	Snyasan pupu.	狗的鼻子。	Sbklit ka pucing.
+371	Spadas na qbsuran mu ka lukus su.	我會託我哥哥帶你的衣服來。	我會託我哥哥帶你的衣服來。	Spadas na qbsuran mu ka lukus su.	我哥哥把你的衣服給他帶回來。	Pdrasan mu ka qbsuran su o hidaw mu da.
+372	Spakung dahaw ka rapit.	樹用套頸陷阱器是用來做補飛鼠的陷阱。	樹用套頸陷阱器是用來做補飛鼠的陷阱。	Spakung dahaw ka rapit.	"飛鼠在打獵時會發出""wa wa wa""的聲音。"	Qlubung smlaan rapit ka qlubung buji.
+373	Pbatu na dxgal ka laqi na.	他透過孩子貪得土地。	他透過孩子貪得土地。	Pbatu na dxgal ka laqi na.	他讓他的孩子在地上長子。	Gnlaqi na ka spngdux na qmpahan.
+374	Mdawi qmpah ka spbrayuk na msru.	他因懶惰工作而被打得很慘而瘀青。	他因懶惰工作而被打得很慘而瘀青。	Mdawi qmpah ka spbrayuk na msru.	他打架工作很穩健。	Wada na sqbahan empqraqih mdka qnpahan ni pkrakaw balay.
+375	Ma su spdgsay txanun, ita nanak dmgsay ka malu tunan.	妳為什麼叫別人幫你理線，自己理線才好織布。	妳為什麼叫別人幫你理線，自己理線才好織布。	Ma su spdgsay txanun, ita nanak dmgsay ka malu tunan.	你怎麼那麼喜歡唱歌,我們自己才要聽又好又好的。	Ma su pnegduuy embbrax ka waray, isu ka mkela tminun.
+376	Speeniq mu lala uqun.	我分配多一份給他吃。	我分配多一份給他吃。	Speeniq mu lala uqun.	我要種很多的食物	Spgwiyan mu ppuqun ka hiya.
+377	Sppatul mkuy ka putus buji gaga.	將箭竿以四十隻為一捆。	將箭竿以四十隻為一捆。	Sppatul mkuy ka putus buji gaga.	那箭的子彈使人手不動。	Struli pqpatul ka buji.
+378	Spqdut mu laqi ka sapah smnguhi ku mrhug.	我叫孩子去把門鎖住，我忘了鎖門。	我叫孩子去把門鎖住，我忘了鎖門。	Spqdut mu laqi ka sapah smnguhi ku mrhug.	我痛風在家中使孩子流鼻血。	Lmbu mu rhngun mluk ka laqi, shngi ku lmbu.
+379	Ga sqapah quwaq na ka dmux idaw.	米飯黏在他的嘴巴上。	米飯黏在他的嘴巴上。	Ga sqapah quwaq na ka dmux idaw.	飯蓋在嘴上。	Asi tqlmuxi quwaq na ka idaw.
+380	Sqjisi smqit ka erut qhuni gaga.	把那要立柱子的木頭切同樣長度。	把那要立柱子的木頭切同樣長度。	Sqjisi smqit ka erut qhuni gaga.	把那根木柱砍倒。	Pkbnilaw kmparu ka qhuni empsliun.
+381	Sqmusug ka blbul.	香蕉的莖幹很粗壯。	香蕉的莖幹很粗壯。	Sqmusug ka blbul.	香生長的花種不一樣。	Qqthur bi ka pusu blebun.
+382	Srbagay ta smmalu.	讓我們作成輪子。	讓我們作成輪子。	Srbagay ta smmalu.	我們來做子。	Ptgyai ta ka tdruy.
+383	Srngjian ka msburaw.	腐爛的東西充斥著蒼蠅。	腐爛的東西充斥著蒼蠅。	Srngjian ka msburaw.	腐爛的東西放在堆裡。	Asi kbanga kana ka pnsburaw.
+384	Srruru knux tabug na ruru.	他因養鴨，而有鴨味。	他因養鴨，而有鴨味。	Srruru knux tabug na ruru.	他吃的有子的味道。	Tmnpsratuk na o sbngux knux na.
+385	Ssapaw mu ka qabang nii.	這被單是我要鋪的。	這被單是我要鋪的。	Ssapaw mu ka qabang nii.	這被子是我要綁的圍。	Tnpnan mu nanak ka qabang nii.
+386	Ssduun mu ka sapah.	我要把房子弄的都是垃圾	我要把房子弄的都是垃圾	Ssduun mu ka sapah.	我把房子蓋好。	Sqraqul ka gnmu mu sapah.
+387	Mntakur tdruy pupuk ki ka ssihar na.	他因發生過車禍，所以走路跛腳	他因發生過車禍，所以走路跛腳	Mntakur tdruy pupuk ki ka ssihar na.	他坐的位置跟車子一起推著。	Wada na sqduduy tdruy ka hiya, ki ka stkuxul mksa.
+388	Sspuy mu yuqu ka qhuni nii.	這木頭是我要塞住甕的工具	這木頭是我要塞住甕的工具	Sspuy mu yuqu ka qhuni nii.	這木頭是我要用來玉米的。	Qhuni nii o qbrangan mu payay.
+389	Ssuay ta hyaan.	讓他帶手鐲	讓他帶手鐲	Ssuay ta hyaan.	我們把他弄成那樣。	Ptgsai ta ka hiya.
+390	Stngdxan ku na lmingis.	他對著我大哭	他對著我大哭	Stngdxan ku na lmingis.	我被他哭打到哭。	Smsngriq ku na lmingis.
+391	Bsiyaq bi ini na rsuhi iyu wada teesigan.	他因為很久沒有擦藥而長膿包。	他因為很久沒有擦藥而長膿包。	Bsiyaq bi ini na rsuhi iyu wada teesigan.	他很久沒有向醫生施打藥。	Gaga mkrbuk ini rukuh iyu ka hiya da.
+392	Ggaga tgbrah ga ka nnaku.	前面那個是我的。	前面那個是我的。	Ggaga tgbrah ga ka nnaku.	我的在打破那壁。	Nirih mu ka gaga.
+393	Tgsdlut bi hyaan ga o kika lupung na.	最黏他的就是他的朋友。	最黏他的就是他的朋友。	Tgsdlut bi hyaan ga o kika lupung na.	他很會找,所以是他的朋友。	Smbbngut bi ka lupung na.
+394	Tgsmtan bi ka qmpahan mu.	我的田長滿紫背草	我的田長滿紫背草	Tgsmtan bi ka qmpahan mu.	我田是山樹種的地。	Mtgmru ka qmpahan mu.
+395	Tgsuan bi ka rudan.	老人容易患皮膚癬。	老人容易患皮膚癬。	Tgsuan bi ka rudan.	老人很容易生氣。	Mnegpusiq bi ka rudan.
+396	Thiyan ta na balay.	他很喜歡和我們在一起	他很喜歡和我們在一起	Thiyan ta na balay.	他對我們非常愛。	Stghuy bi pqqrngaw nami ka hiya.
+397	Tkbaat bi embahang.	很相信謠言。	很相信謠言。	Tkbaat bi embahang.	聽起來很。	Smjayi bi kari.
+398	Tkuyan ka sayang.	今天是播種的季節	今天是播種的季節	Tkuyan ka sayang.	現在是收成期。	Smasaw bi ka sayang.
+399	Tlngaa ta glaqung.	我們來做套野雞的陷阱	我們來做套野雞的陷阱	Tlngaa ta glaqung.	我們來把牠養	Ptlayaw ta ka glaqung.
+400	Tmaqu kana ka hiyi huling gaga.	那隻狗全身都是跳蚤	那隻狗全身都是跳蚤	Tmaqu kana ka hiyi huling gaga.	那些狗都在吃。	Sbturan kana ka huling gaga.
+401	Sai tmbus ka tnkanan masu gaga da!	去把杵過的小米拿去篩吧！	去把杵過的小米拿去篩吧！	Sai tmbus ka tnkanan masu gaga da!	去把米飯給掉!	Sai gmidaw ka masu gaga da.
+402	Nii ku tmdungut mgay lukus pniri lqian.	我在分布給我的孩子。	我在分布給我的孩子。	Nii ku tmdungut mgay lukus pniri lqian.	我正在整理孩子們買來的衣服。	Nii ku psliwang laqi mu.
+403	Tmgeasu kmari dxgal ka bowyak.	山豬翻土成凹槽。	山豬翻土成凹槽。	Tmgeasu kmari dxgal ka bowyak.	山豬專捕山。	Tmbhgay kmbrax ka bowyak.
+404	Pruway tmkrubaw ka seejiq gaga.	那些人是專門研究蜘蛛的專家。	那些人是專門研究蜘蛛的專家。	Pruway tmkrubaw ka seejiq gaga.	那個人專找子。	Dmptspgeayt ka dhiya gaga.
+405	Nii ku tmleesug sbu mu qbhni.	我正在製作竹箭用來射鳥。	我正在製作竹箭用來射鳥。	Nii ku tmleesug sbu mu qbhni.	我正在忙著射鳥。	Nii ku smluun buji djima tmbulit qbhni.
+406	Nii ku tmmudu mtbiyax balay.	我現在忙著做橘子的工作。	我現在忙著做橘子的工作。	Nii ku tmmudu mtbiyax balay.	我正在忙著做。	Nii ku mtbiyax qmpah payay ka sayang.
+407	Tmppucing bi ka snaw Truku.	太魯閣男人很喜歡刀。	太魯閣男人很喜歡刀。	Tmppucing bi ka snaw Truku.	太魯閣族的男人很會找。	Smkuxul bi pucing ka snaw Truku.
+408	Tmtak ta tptak ka rbagan.	夏天我們喜歡搧扇	夏天我們喜歡搧扇	Tmtak ta tptak ka rbagan.	夏天我們專門抓	Rbagan o smkuxun nami mapa.
+409	Tmqcinuh sapah ka pruway bi qpahan na.	做木板是他專門的工作。	做木板是他專門的工作。	Tmqcinuh sapah ka pruway bi qpahan na.	他工作的地很寬,全是房子的牆壁。	Emptqrari qpahun ka qpahun na.
+410	Musa tmrqci daya thuun na ka bubu.	我媽媽到山上專找細樹枝來燒。	我媽媽到山上專找細樹枝來燒。	Musa tmrqci daya thuun na ka bubu.	媽媽到山上找子要。	Wada gmndurang qhuni pstmaan qmpahan ka bubu mu.
+411	Gaga tmsakus ka hiya.	他正忙於砍伐樟樹。	他正忙於砍伐樟樹。	Gaga tmsakus ka hiya.	他在忙於種植。	Ga tmppitung ka hiya.
+412	Mkla bi tmshbul ka dhiya gaga.	他們那些人專門找洗澡用的野瓜	他們那些人專門找洗澡用的野瓜	Mkla bi tmshbul ka dhiya gaga.	他們很會編織彈。	Dmptbusuq smbu ka dhiya gaga.
+413	Tngnguh rmngat ka babuy.	豬都在發出餓的聲音。	豬都在發出餓的聲音。	Tngnguh rmngat ka babuy.	豬在吃豬肉。	Tbbraw bi gmeagi ka babuy.
+414	"Rmngaw ka sasaw samaw psaput kari ""Wana alang Taywang niqan ka tngqruq"" msa."	電視新聞報導說：「只有台灣有白頭翁這樣的鳥類」	電視新聞報導說：「只有台灣有白頭翁這樣的鳥類」	"Rmngaw ka sasaw samaw psaput kari ""Wana alang Taywang niqan ka tngqruq"" msa."	記者在討論當兵的消息時說:「有台灣人有一位軍官。」	"""Hbaraw bi hiyi na ka Taiwan"" msa kari rnngagan Tvran."
+415	Tpak wada dmijil wawa rudux ka rhu.	老鷹拍翅抓小雞。	老鷹拍翅抓小雞。	Tpak wada dmijil wawa rudux ka rhu.	小雞被打時會留下來小雞。	Gmlawa pahing na tmrakak wawa rudux ka purung.
+416	Tppar qmahur dnamux ka laqi.	孩子丟石頭在屋頂上而霹靂啪啦地響。	孩子丟石頭在屋頂上而霹靂啪啦地響。	Tppar qmahur dnamux ka laqi.	孩子在砍竹屋頂。	Tqrit rmutug btunux dnamux ka laqi.
+417	Tpraq gmrung ka sida qhuni.	樹枝折斷發出斷裂的聲音。	樹枝折斷發出斷裂的聲音。	Tpraq gmrung ka sida qhuni.	樹枝折斷時會形成曲的聲音。	Mnegbrus bi hmnang sida qhuni.
+418	Tqqrut kmtu buut kana.	全都發出啃骨聲。	全都發出啃骨聲。	Tqqrut kmtu buut kana.	大家都在刺骨。	Tbbang qmqung kana.
+419	Tqrii sinaw bgiya ka lungaw.	虎頭蜂酒要裝進在瓶子裡	虎頭蜂酒要裝進在瓶子裡	Tqrii sinaw bgiya ka lungaw.	把瓶子用打虎頭蜂的聲音發出。	Psquri rusuq ka sinaw bgiya.
+420	Trapi nhari mha ta da!	趕快戴頭巾，我們要出發了！	趕快戴頭巾，我們要出發了！	Trapi nhari mha ta da!	我們趕快去!	Ptjiyal nhari, empsoosa ta da!
+421	Trbangan ka huling gaga.	那隻狗身上有很多斑點。	那隻狗身上有很多斑點。	Trbangan ka huling gaga.	那隻狗是大尾的。	Lala bi tmpatas ka huling gaga.
+422	Smkuxul bi trbug qsiya rbagan ka kacing balay.	水牛夏天喜歡泡在水裏。	水牛夏天喜歡泡在水裏。	Smkuxul bi trbug qsiya rbagan ka kacing balay.	牛很喜歡在夏天汲取水。	Smkuxul bi rmuhug bsiyaq ka dgiyaq.
+423	Trhua ku ka saman.	明天我要去捉老鷹。	明天我要去捉老鷹。	Trhua ku ka saman.	明天我要去還水。	Mha ku tmqrari smmalu ka saman.
+424	Trngtan waru.	他的脖子長淋巴線瘤。	他的脖子長淋巴線瘤。	Trngtan waru.	被藤弄到。	Kbulit limun ka hwinuk na.
+425	Trrit kana ga sqslan tjiyal ka qowlit.	鐵挾聲音大作表示挾到老鼠而老鼠發出掙扎的哀號聲。	鐵挾聲音大作表示挾到老鼠而老鼠發出掙扎的哀號聲。	Trrit kana ga sqslan tjiyal ka qowlit.	科學家在探討老鼠。	"""Tpi tngi"" msa muuyas ka qowlit ni mlawa tjiyal na ka qowlit."
+426	Tsar sriyu ka dara.	"血噴出來會有""sar""的聲音"	"血噴出來會有""sar""的聲音"	Tsar sriyu ka dara.	血是股流出來的。	"""Sar"" msa hmnang ka dara."
+427	Tsungan bi ka mrulung.	天空有烏雲的話容易下毛毛雨	天空有烏雲的話容易下毛毛雨	Tsungan bi ka mrulung.	情人相思讓人憂心。	Snkgnux ka karat do pthngux bi quyux.
+428	Ttmami na ka laqi mu o ini ekan nhapuy da.	我孩子只吃橘子而不吃飯。	我孩子只吃橘子而不吃飯。	Ttmami na ka laqi mu o ini ekan nhapuy da.	我的孩子吃過已經不吃飯了。	Emptbusuq uqan na uqun ka laqi mu.
+429	Ttpsigak mu o qyutan ku psigak da.	我抓蜈蚣時被蜈蚣咬到了。	我抓蜈蚣時被蜈蚣咬到了。	Ttpsigak mu o qyutan ku psigak da.	我在釣時被捕到。	Tmnduduy ku qmrak o asi qmiyut ka quci.
+430	Ttui nhari!	趕快切！	趕快切！	Ttui nhari!	趕快做!	Asi ksxil!
+431	Ttuyaw saku bi, nii ku meuwit bi.	我非常累，你不要叫醒我喔！	我非常累，你不要叫醒我喔！	Ttuyaw saku bi, nii ku meuwit bi.	我很累,不要睡得太久。	Empsbaang ku bi yaasa iya hugi wa!
+432	Shjilan laqi ka twaan.	子宮是孕育孩子的地方。	子宮是孕育孩子的地方。	Shjilan laqi ka twaan.	孩子們在背。	Sjiyal o pbrilan laqi.
+433	Twihingan ka siyaw pnlaq Qawgan.	加灣的海岸是半月形的	加灣的海岸是半月形的	Twihingan ka siyaw pnlaq Qawgan.	Qawgan所砍的草長出來了裂痕。	Ssmagi ka gsilung Gulf.
+434	Ana tjiyal paru bi ka qsurux gaga o ini qstuq urat gasil ngahi na.	他的釣魚線就算釣到大魚也不會斷掉	他的釣魚線就算釣到大魚也不會斷掉	Ana tjiyal paru bi ka qsurux gaga o ini qstuq urat gasil ngahi na.	那條魚雖然很大,但它的身材不會不夠長。	Ani qsurux paru ka snalu na o ini ptutux.
+435	Psaan ta cicih usik ka damat o musa bi uqun!	菜餚中放一點辣椒很下飯喔！	菜餚中放一點辣椒很下飯喔！	Psaan ta cicih usik ka damat o musa bi uqun!	如果把菜加子,會好吃的!	Pstnxay bi ka damaw gaga!
+436	Twelian muhing ka huling.	那隻狗的鼻子有水蛭	那隻狗的鼻子有水蛭	Twelian muhing ka huling.	狗鼻的聲音很大。	Sblus ka muhing huling gaga.
+437	Yasa saw nii.	就是這樣	就是這樣	Yasa saw nii.	這個才是這樣。	Kiya bi da.
+438	"""Cip"" msa ka quwaq su o bhangan mu."	我有聽到你嘴巴發出「cip」的聲音。	我有聽到你嘴巴發出「cip」的聲音。	"""Cip"" msa ka quwaq su o bhangan mu."	"你嘴巴的""chip""是我聽到的。"	Embahang ku kntcip quwaq su.
+439	Thngayan dahu na ka alang ta.	我們部落的人都知道他很驕傲。	我們部落的人都知道他很驕傲。	Thngayan dahu na ka alang ta.	我們的部落是他後來來的。	Kila mprhuung ka seejiq alang nami.
+440	Gqi waru.	縮著脖子。	縮著脖子。	Gqi waru.	用子編成。	Kbki ka gasil.
+441	Hgliqi hyaan ka galiq.	叫他撕裂布。	叫他撕裂布。	Hgliqi hyaan ka galiq.	把布貼在他身上。	Rbaqaw pagih sa hiya.
+442	Thngay bi ka kulu patas mu da.	我的信箱都爆滿了。	我的信箱都爆滿了。	Thngay bi ka kulu patas mu da.	我的書箱已經很了。	Empbngbing kana ka lubuy mu.
+443	Tluung kykiyig mu ka laqi na.	他的孩子坐在我兩邊。	他的孩子坐在我兩邊。	Tluung kykiyig mu ka laqi na.	他的孩子跟我一樣很親密。	Nii mgqcilus knan ka laqi na.
+444	Niqan paru bi langu tbgan na qsurux ka tama na.	他爸爸養魚的地方池子很大。	他爸爸養魚的地方池子很大。	Niqan paru bi langu tbgan na qsurux ka tama na.	他爸爸有很大的魚池。	Spbngbu balay ga tmrngaw tama na.
+445	Mssduuy nami sksik ka muda dowras.	我們一面抓棕葉蘆樹一面過懸崖。	我們一面抓棕葉蘆樹一面過懸崖。	Mssduuy nami sksik ka muda dowras.	我們在山上相互爭。	Tqlpas nami pada ka ska dowras.
+446	Ngnga lmingis ka laqi rbnaw.	嬰兒們發出哭叫聲。	嬰兒們發出哭叫聲。	Ngnga lmingis ka laqi rbnaw.	嬰兒不停的哭。	Tngnguy lmingis ka laqi.
+447	Pat smbut qaraw djima knan ka bubu mu.	我媽媽用竹鞭打我。	我媽媽用竹鞭打我。	Pat smbut qaraw djima knan ka bubu mu.	我媽媽用刀磨竹子。	Bbei ku na qbqahan djima ka bubu mu.
+448	Pkbnat o paah lutut uri.	肥胖也是因為親族的關係。	肥胖也是因為親族的關係。	Pkbnat o paah lutut uri.	米也是家族的起源。	Qbnuwar do o asi ka ltlutut duri.
+449	Psmraq bi musa qmpahan.	那個人一大早出去田裡	那個人一大早出去田裡	Psmraq bi musa qmpahan.	要趕快到田裡。	Mgrbu bi musa qmpahan ka seejiq gaga.
+450	Jiyun mu qmeepah ka qngqaya dnii.	這個工具是我工作用的。	這個工具是我工作用的。	Jiyun mu qmeepah ka qngqaya dnii.	我將這些工具用來做工作。	Qyqan mu qpahun ka kgiya nii.
+451	Qus qus msa lmingis ka laqi.	"那孩童在""qus qus""的哭。"	"那孩童在""qus qus""的哭。"	Qus qus msa lmingis ka laqi.	孩子哭的很。	"""Qus qus"" msa lmingis ka laqi gaga."
+452	Saw bi ima ka isu hug?	你到底是什麼樣的人呢？	你到底是什麼樣的人呢？	Saw bi ima ka isu hug?	你是誰呢?	Ma su saw mkmanu hug?
+453	Manu sa kiya!	好像是真的一樣！	好像是真的一樣！	Manu sa kiya!	你說什麼!	Ma saw balay!
+454	Smbu btunux ka laqi.	孩子在丟石頭	孩子在丟石頭	Smbu btunux ka laqi.	孩子在打石頭。	Nii psrmilaq btunux ka laqi.
+455	Niqan rrngaw na, kika seuda na knan hini.	他有話要跟我說，所以路過我這裡。	他有話要跟我說，所以路過我這裡。	Niqan rrngaw na, kika seuda na knan hini.	他有話要說,所以就在這裡跟我說。	Niqan kari na ku hyaan o muda ku hini ka hiya.
+456	Tar tar msa ka hnlitan mnarux gupun.	牙痛是一陣一陣痛的感覺	牙痛是一陣一陣痛的感覺	Tar tar msa ka hnlitan mnarux gupun.	牙痛會使人面腫起	Tntunux o tmuci bi mnarux.
+457	Tah sun ka huling o thiyi balay.	"對狗說""tah""牠才會馴服"	"對狗說""tah""牠才會馴服"	Tah sun ka huling o thiyi balay.	當狗被你追時非常小心。	"""Ttah"" sun smluun ka huling."
+458	Tmiyu su manu?	你指的是什麼？	你指的是什麼？	Tmiyu su manu?	你要找什麼?	Manu ka sun su?
+459	Tqur gasil qowlit ka nii.	這套頸式的陷阱線是要用來捕鼠的	這套頸式的陷阱線是要用來捕鼠的	Tqur gasil qowlit ka nii.	這是用刀打的。	Qtpiq qowlit ka qapi nii.
