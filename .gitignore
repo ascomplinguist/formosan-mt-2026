@@ -14,6 +14,7 @@ bitsandbytes/
 !/check_git_status.py
 !/evaluate_file.py
 !/convert_lang_code.py
+!/*finetune.tsv
 !/README.md
 !/.gitignore
 
