@@ -71,10 +71,10 @@ def main():
     INIT_VECS = config.get("init_vecs", "")
     if INIT_LANGS:
         if INIT_VECS:
-            raise RuntimeError(f"{CONFIG_PATH} specifies both 'init_langs' and 'init_vecs'; choose one")
+            raise RuntimeError(f"config.json of {FINETUNE_DIR} specifies both 'init_langs' and 'init_vecs'; choose one")
     else:
         if not INIT_VECS:
-            raise RuntimeError(f"{CONFIG_PATH} specifies neither 'init_langs' or 'init_vecs'; one is required")
+            raise RuntimeError(f"config.json of {FINETUNE_DIR} specifies neither 'init_langs' or 'init_vecs'; one is required")
 
     INIT_NOISE = config.get("init_noise", 0)
     INIT_NOISE_SEED = config.get("init_noise_seed", 42)
@@ -97,8 +97,10 @@ def main():
     ZH_LANG_CODE = config["zh_lang_code"]
 
     val_dfs = []
+    USE_TEST_SET = eval_config.get("use_test_set", False)
+    file_suffix = "test" if USE_TEST_SET else "val"
     for lang in LANGUAGE_NAME_EN:
-        val_df = pd.read_parquet(f"{DATA_DIR}/{lang}_val_v3.parquet")
+        val_df = pd.read_parquet(f"{DATA_DIR}/{lang}_{file_suffix}_v3.parquet")
         val_df["to_zuyu_msg"] = val_df["zh"]
         val_df["to_zh_msg"] = val_df["source"]
         val_dfs.append(val_df)
