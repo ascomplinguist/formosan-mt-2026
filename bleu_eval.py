@@ -453,7 +453,8 @@ def generate_translation_nllb(text, src_lang, tgt_lang, model, tokenizer,
 
 
 class BleuEvalHelper:
-    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None, eval_bootstrap=False, eval_lang=None):
+    def __init__(self, eval_df, tokenizer, score_weights=None, save_dir=None, eval_bootstrap=False,
+                 eval_lang=None, save_file_prefix=""):
         self.eval_df = eval_df.reset_index(drop=True).copy()
         self.tokenizer = tokenizer
         self.score_weights = score_weights if score_weights is not None else {
@@ -464,6 +465,7 @@ class BleuEvalHelper:
         self.current_tracker = None
         self.eval_bootstrap = eval_bootstrap
         self.eval_lang = eval_lang
+        self.save_file_prefix = save_file_prefix or "eval"
 
     def get_init_tracker(self):
         return {token: [0] for token in self.tracked_tokens}
@@ -480,7 +482,7 @@ class BleuEvalHelper:
         i = 1
         while f"eval_{lang_code}{i}.tsv" in os.listdir(self.save_dir):
             i += 1
-        self.eval_df.to_csv(f"{self.save_dir}/eval_{lang_code}{i}.tsv", sep="\t")
+        self.eval_df.to_csv(f"{self.save_dir}/{self.save_file_prefix}_{lang_code}{i}.tsv", sep="\t")
 
     def compute_metrics(self, model=None, state=None, return_detail=False):
         # state could be used to extract step if I want to store intermediate predictions

@@ -126,7 +126,8 @@ def main():
             score_weights={"eval_bleu_zh": 0.4, "eval_chrf_zuyu": 0.6},
             batch_size=16,
             save_dir=CHECKPOINT,
-            eval_bootstrap=True
+            eval_bootstrap=True,
+            save_file_prefix="test" if USE_TEST_SET else "eval"
         )
 
         print(f"allocated: {torch.cuda.memory_allocated() / 2**30:.3f}GB")
@@ -148,7 +149,8 @@ def main():
 
         scores["commit"] = COMMIT_HASH
 
-        with open(f"{CHECKPOINT}/eval_scores_{lang}.json", "w+") as f:
+        file_prefix = "test" if USE_TEST_SET else "eval"
+        with open(f"{CHECKPOINT}/{file_prefix}_scores_{lang}.json", "w+") as f:
             json.dump(scores, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
