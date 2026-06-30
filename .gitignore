@@ -15,6 +15,9 @@ bitsandbytes/
 !/evaluate_file.py
 !/convert_lang_code.py
 !/generate_tsv.py
+!/compute_embedding_distance_matrix.py
+!/embedding_vectors.json
+!/embedding_distances.json
 !/*finetune.tsv
 !/README.md
 !/.gitignore
