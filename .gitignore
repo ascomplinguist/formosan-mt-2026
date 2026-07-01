@@ -33,6 +33,7 @@ bitsandbytes/
 **/checkpoint-*/
 **/final/*
 !**/final/eval*
+!**/final/test*
 
 # Just to be safe, never add safetensors, optimiser states or rng states
 *.safetensors
