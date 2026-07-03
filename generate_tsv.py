@@ -55,9 +55,9 @@ DESCRIPTION_OVERRIDES = {
 
 HEADERS = [
     "base model", "modification", "language", "validation set", "# sentences (val)",
-    "BLEU (to_zh)", "CI lo (B)", "CI hi (B)", "BLEU detail (to_zh)", "chrF2++ (to_zh)",
+    "BLEU (to_zh)", "BLEU detail (to_zh)", "chrF2++ (to_zh)", "CI lo (to_zh)", "CI hi (to_zh)",
     "BLEU (to_zuyu)", "BLEU detail (to_zuyu)", "chrF2++ (to_zuyu)",
-    "CI lo (c)", "CI hi (c)", "combined score",
+    "CI lo (to_zuyu)", "CI hi (to_zuyu)", "combined score",
     "training set", "description validation / test set", "description model (train set)",
 ]
 
@@ -261,15 +261,15 @@ def process_finetune(finetune_dir, dir_name, prefix):
             "validation set":   val_set,
             "# sentences (val)": n_sentences,
             "BLEU (to_zh)":     r2(bleu_zh),
-            "CI lo (B)":        r2(scores["eval_bleu_zh_ci_low"]) if "eval_bleu_zh_ci_low" in scores else "",
-            "CI hi (B)":        r2(scores["eval_bleu_zh_ci_high"]) if "eval_bleu_zh_ci_high" in scores else "",
             "BLEU detail (to_zh)":    scores["eval_bleu_zh_detail"],
             "chrF2++ (to_zh)":        r2(chrf_zh),
+            "CI lo (to_zh)":        r2(scores["eval_chrf_zh_ci_low"]) if "eval_chrf_zh_ci_low" in scores else "",
+            "CI hi (to_zh)":        r2(scores["eval_chrf_zh_ci_high"]) if "eval_chrf_zh_ci_high" in scores else "",
             "BLEU (to_zuyu)":         r2(bleu_zuyu),
             "BLEU detail (to_zuyu)":  scores["eval_bleu_zuyu_detail"],
             "chrF2++ (to_zuyu)":      r2(chrf_zuyu),
-            "CI lo (c)":        r2(scores["eval_chrf_zuyu_ci_low"]) if "eval_chrf_zuyu_ci_low" in scores else "",
-            "CI hi (c)":        r2(scores["eval_chrf_zuyu_ci_high"]) if "eval_chrf_zuyu_ci_high" in scores else "",
+            "CI lo (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_low"]) if "eval_chrf_zuyu_ci_low" in scores else "",
+            "CI hi (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_high"]) if "eval_chrf_zuyu_ci_high" in scores else "",
             "combined score":   combined_score(bleu_zh, chrf_zuyu),
             "training set":     train_set if i == 0 else "",
             "description validation / test set":  VAL_DESCRIPTIONS[vversion],
