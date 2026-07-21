@@ -63,19 +63,20 @@ def load_base_model_madlad(
         # Initialize input embeddings and, separately, the lm_head output embeddings - MADLAD (T5) does not tie
         # them (tie_word_embeddings=False), so both need their new rows initialised independently.
         with torch.no_grad():
-            init_ids = tokenizer.convert_tokens_to_ids(init_langs)
-            print("init_ids:", init_ids)
-            
             input_emb32 = model.get_input_embeddings().weight.detach().cpu().float()
             input_emb_ = model.get_input_embeddings().weight
             output_emb_ = model.get_output_embeddings().weight
-            output_emb_[new_id] = output_emb_[init_ids[0]]  # These are all the same for MADLAD because tags are never produced
+            lang_token_id = tokenizer.convert_tokens_to_ids("<2zh_Hant>")
+            output_emb_[new_id] = output_emb_[lang_token_id]  # These are all the same for MADLAD because tags are never produced
 
             if not init_vecs:
                 if init_noise > 0:
                     noises = make_orthogonal_noises(input_emb32[new_id].shape, init_noise, seed=init_noise_seed)
                 else:
                     noises = torch.zeros_like(input_emb32[new_id])
+
+                init_ids = tokenizer.convert_tokens_to_ids(init_langs)
+                print("init_ids:", init_ids)
 
                 emb_noises = input_emb32[init_ids].mean(dim=0) + noises
                 input_emb_[new_id] = emb_noises.to(device=input_emb_.device, dtype=input_emb_.dtype)
