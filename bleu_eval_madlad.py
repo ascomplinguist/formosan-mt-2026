@@ -67,7 +67,7 @@ def load_base_model_madlad(
             input_emb_ = model.get_input_embeddings().weight
             output_emb_ = model.get_output_embeddings().weight
             lang_token_id = tokenizer.convert_tokens_to_ids("<2zh_Hant>")
-            output_emb_[new_id] = output_emb_[lang_token_id]  # These are all the same for MADLAD because tags are never produced
+            output_emb_[new_id] = output_emb_[lang_token_id].clone()  # These are all the same for MADLAD because tags are never produced
 
             if not init_vecs:
                 if init_noise > 0:
