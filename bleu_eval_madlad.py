@@ -64,9 +64,9 @@ def load_base_model_madlad(
         # them (tie_word_embeddings=False), so both need their new rows initialised independently.
         with torch.no_grad():
             input_emb32 = model.get_input_embeddings().weight.detach().cpu().float()
-            output_emb32 = model.get_output_embeddings().weight.detach().cpu().float()
             input_emb_ = model.get_input_embeddings().weight
             output_emb_ = model.get_output_embeddings().weight
+            output_emb_[new_id] = output_emb_[init_ids[0]]  # These are all the same for MADLAD because tags are never produced
 
             if not init_vecs:
                 if init_noise > 0:
@@ -77,24 +77,20 @@ def load_base_model_madlad(
                 init_ids = tokenizer.convert_tokens_to_ids(init_langs)
                 print("init_ids:", init_ids)
 
-                for emb32, emb_ in zip([input_emb32, output_emb32], [input_emb_, output_emb_]):
-                    emb_noises = emb32[init_ids].mean(dim=0) + noises
-                    emb_[new_id] = emb_noises.to(device=emb_.device, dtype=emb_.dtype)
+                emb_noises = input_emb32[init_ids].mean(dim=0) + noises
+                input_emb_[new_id] = emb_noises.to(device=input_emb_.device, dtype=input_emb_.dtype)
 
                 # save only in training, not in eval
                 if trainable_modules is not None:
                     vector_dict = dict()
-                    vector_dict['vecs_in'] = {lang: input_emb_[tok_id].detach().cpu().clone()
-                                              for lang, tok_id in zip(src_lang_code, new_id)}
-                    vector_dict['vecs_out'] = {lang: output_emb_[tok_id].detach().cpu().clone()
-                                               for lang, tok_id in zip(src_lang_code, new_id)}
+                    vector_dict['vecs'] = {lang: input_emb_[tok_id].detach().cpu().clone()
+                                           for lang, tok_id in zip(src_lang_code, new_id)}
                     vector_dict['meta'] = {"target_l2": init_noise, "seed": init_noise_seed}
                     torch.save(vector_dict, f"{output_prefix}vectors/{save_dir.split('/')[-1]}.pt")
             else:
                 vector_dict = torch.load(init_vecs, map_location="cpu")
                 for lang, tok_id in zip(src_lang_code, new_id):
-                    input_emb_[tok_id] = vector_dict['vecs_in'][lang].to(device=input_emb_.device, dtype=input_emb_.dtype)
-                    output_emb_[tok_id] = vector_dict['vecs_out'][lang].to(device=output_emb_.device, dtype=output_emb_.dtype)
+                    input_emb_[tok_id] = vector_dict['vecs'][lang].to(device=input_emb_.device, dtype=input_emb_.dtype)
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)
