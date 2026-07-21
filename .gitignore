@@ -8,8 +8,11 @@ bitsandbytes/
 
 # Keep selected files
 !/train_nllb.py
+!/train_madlad.py
 !/eval_nllb.py
+!/eval_madlad.py
 !/bleu_eval.py
+!/bleu_eval_madlad.py
 !/lm_head.py
 !/check_git_status.py
 !/evaluate_file.py
@@ -28,6 +31,8 @@ bitsandbytes/
 # Only look at nllb finetunes in work/ (add config.json and trainer_state.json in these dirs)
 !/tracked_work/work/*nllb*/**
 !/tracked_work/joseph/*nllb*/**
+!/tracked_work/work/*madlad*/**
+!/tracked_work/joseph/*madlad*/**
 
 # Ignore intermediate checkpoints, only add eval data inside final checkpoint
 **/checkpoint-*/

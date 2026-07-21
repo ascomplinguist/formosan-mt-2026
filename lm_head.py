@@ -18,6 +18,21 @@ class NLLBEmbeddingGradientCallback(TrainerCallback):
             grad.mul_(self.mask)
 
 
+class MADLADEmbeddingGradientCallback(TrainerCallback):
+    """Masks the input-embedding ("shared") gradient so only the newly added language tags (and
+    zh_Hant) can drift from their init. MADLAD's lm_head is untied from shared (tie_word_embeddings=False)
+    but is deliberately left out of modules_to_save entirely and never trained - the new language tags only
+    ever appear as source-side prefixes, so the decoder never needs to predict them as output tokens."""
+    def __init__(self, vocab_size, dtype, device, trainable_indices):
+        self.mask = torch.zeros((vocab_size, 1), dtype=dtype, device=device)
+        self.mask[trainable_indices] = 1.0
+
+    def on_pre_optimizer_step(self, args, state, control, model=None, **kwargs):
+        grad = model.get_input_embeddings().weight.grad
+        if grad is not None:
+            grad.mul_(self.mask)
+
+
 class SaveCustomLMHeadCallback(TrainerCallback):
     def __init__(self, new_token_ids):
         super().__init__()
