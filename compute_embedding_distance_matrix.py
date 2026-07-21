@@ -3,7 +3,7 @@ import torch
 from safetensors import safe_open
 from convert_lang_code import LANG_CODES
 
-WORK = "/work/jwatty"
+WORK = "tracked_work/joseph"
 VECTORS_FILE = "embedding_vectors.json"
 
 def finetune_dir(code):
