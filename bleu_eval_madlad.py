@@ -91,7 +91,8 @@ def load_base_model_madlad(
             else:
                 vector_dict = torch.load(init_vecs, map_location="cpu")
                 for lang, tok_id in zip(src_lang_code, new_id):
-                    input_emb_[tok_id] = vector_dict['vecs'][f"<2{lang}>"].to(device=input_emb_.device, dtype=input_emb_.dtype)
+                    lang_code = lang[2:-1]  # remove <2 and >
+                    input_emb_[tok_id] = vector_dict['vecs'][lang_code].to(device=input_emb_.device, dtype=input_emb_.dtype)
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)
