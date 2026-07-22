@@ -14,7 +14,7 @@ def main():
     import torch
     import transformers
     import peft
-    import bitsandbytes as bnb
+    #import bitsandbytes as bnb
 
     from tqdm.auto import tqdm
     from peft import PeftModel
@@ -37,7 +37,7 @@ def main():
         f"transformers=={transformers.__version__} "
         f"peft=={peft.__version__} "
         f"numpy=={np.__version__} "
-        f"bitsandbytes=={bnb.__version__}"
+        #f"bitsandbytes=={bnb.__version__}"
     )
 
     print(torch.__version__, "is the correct version" if torch.__version__ == "1.13.1+cu116" else "is not the correct version")
