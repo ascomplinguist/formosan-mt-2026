@@ -18,7 +18,7 @@ def main():
     import transformers
     import peft
     import trl
-    import bitsandbytes as bnb
+    #import bitsandbytes as bnb
 
     from datasets import Dataset, concatenate_datasets
     from tqdm.auto import tqdm
