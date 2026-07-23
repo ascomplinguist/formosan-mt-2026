@@ -18,7 +18,7 @@ def main():
     import transformers
     import peft
     import trl
-    import bitsandbytes as bnb
+    #import bitsandbytes as bnb
 
     from datasets import Dataset, concatenate_datasets
     from tqdm.auto import tqdm
@@ -52,7 +52,7 @@ def main():
         f"peft=={peft.__version__} "
         f"trl=={trl.__version__} "
         f"numpy=={np.__version__} "
-        f"bitsandbytes=={bnb.__version__}"
+        #f"bitsandbytes=={bnb.__version__}"
     )
 
     print(torch.__version__, "is the correct version" if torch.__version__ == "1.13.1+cu116" else "is not the correct version")
