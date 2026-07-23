@@ -480,7 +480,7 @@ class BleuEvalHelper:
     def save_eval_results(self):
         lang_code = self.eval_lang or ""
         i = 1
-        while f"eval_{lang_code}{i}.tsv" in os.listdir(self.save_dir):
+        while f"{self.save_file_prefix}_{lang_code}{i}.tsv" in os.listdir(self.save_dir):
             i += 1
         self.eval_df.to_csv(f"{self.save_dir}/{self.save_file_prefix}_{lang_code}{i}.tsv", sep="\t")
 
