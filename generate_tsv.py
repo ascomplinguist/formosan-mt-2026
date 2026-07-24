@@ -14,6 +14,7 @@ CONTRIBUTORS = {"work": "", "joseph": "j/"}
 
 MODEL_ABBREVIATIONS = {
     "facebook/nllb-200-3.3B": "NLLB-200-3.3B",
+    "google/madlad400-3b-mt": "MADLAD400-3B-MT",
 }
 
 MODULE_DICT = {
@@ -27,6 +28,11 @@ MODULE_DICT = {
 
 # Standard Austronesian-language initialisation set used in all runs
 INIT_LANGS_STD = ["ceb_Latn", "ilo_Latn", "pag_Latn", "tgl_Latn", "war_Latn"]
+INIT_LANGS_STD_MADLAD = ["<2ceb>", "<2ilo>", "<2pag>", "<2fil>", "<2war>"]
+
+# The 'qvougd' trainable_modules label is a fixed name; the actual MADLAD (T5) LoRA targets are hardwired
+# in train_madlad.py and don't decode letter-by-letter through MODULE_DICT
+MADLAD_LORA_MODULES = "q_proj, v_proj, o_proj, wi_0, wi_1, wo"
 
 VAL_DESCRIPTIONS = {
     "v3":   "validation set, from cleaned FormosanBench v3 (normalised punctuation, removed other special characters, removed duplicates)",
@@ -58,6 +64,8 @@ HEADERS = [
     "BLEU (to_zh)", "BLEU detail (to_zh)", "chrF2++ (to_zh)", "CI lo (to_zh)", "CI hi (to_zh)",
     "BLEU (to_zuyu)", "BLEU detail (to_zuyu)", "chrF2++ (to_zuyu)",
     "CI lo (to_zuyu)", "CI hi (to_zuyu)", "combined score",
+    "BLEU (to_zh, test)", "chrF2++ (to_zh, test)", "CI lo (to_zh, test)", "CI hi (to_zh, test)",
+    "BLEU (to_zuyu, test)", "chrF2++ (to_zuyu, test)", "CI lo (to_zuyu, test)", "CI hi (to_zuyu, test)",
     "training set", "description validation / test set", "description model (train set)",
 ]
 
@@ -74,13 +82,16 @@ def data_set_version(data_set_name):
 def modification_from_dir(dir_name, data_set_name, prefix):
     # e.g. "fb_new3_qvoud_ciptw_ami_nllb_v2" -> "qvoud_ciptw_ami_v2"
     s = dir_name.removeprefix(data_set_name + "_")
-    parts = s.split("_nllb")
+    marker = "_madlad" if "_madlad" in s else "_nllb"
+    parts = s.split(marker)
     mod = parts[0] + "".join(parts[1:])
     return prefix + mod
 
 
 def per_lang_code(src_lang_code):
-    # "ami_Latn" -> "ami"
+    # "ami_Latn" -> "ami"; MADLAD tag "<2ami>" -> "ami"
+    if src_lang_code.startswith("<2"):
+        return src_lang_code.removeprefix("<2").removesuffix(">")
     return src_lang_code.split("_")[0]
 
 
@@ -107,17 +118,17 @@ _REF_CACHE = None
 
 def count_sentences(final_dir, lang_en, lang_code):
     global _REF_CACHE
+    import glob
 
-    # Named file (monolingual runs)
-    named = os.path.join(final_dir, f"eval_{lang_code}1.tsv")
-    if os.path.exists(named):
-        with open(named) as f:
+    # Named file (monolingual runs); the numeric suffix is not fixed
+    named = sorted(glob.glob(os.path.join(final_dir, f"eval_{lang_code}[0-9]*.tsv")))
+    if named:
+        with open(named[0]) as f:
             return sum(1 for _ in f) - 1
 
     # Content-based matching for unnamed eval files (multilingual runs)
     if _REF_CACHE is None:
         _REF_CACHE = _load_ref_cache()
-    import glob
     for eval_path in sorted(glob.glob(os.path.join(final_dir, "eval*.tsv"))):
         df = pd.read_csv(eval_path, sep="\t")
         key = (df['source'].iloc[0], df['zh'].iloc[-1], len(df))
@@ -147,7 +158,8 @@ def model_description(config, base_model):
     init_langs = config.get("init_langs")
     init_vecs = config.get("init_vecs", "")
     lang_code = config["lang_code"]
-    max_epochs = config.get("max_epochs", 10)
+    is_madlad = "madlad" in config["model_name"].lower()
+    max_epochs = config.get("max_epochs", 30 if is_madlad else 10)
     trainable_mods = config.get("trainable_modules", "")
     probs = config.get("interleave_probs")
     is_multi = len(src_lang_codes) > 1
@@ -158,9 +170,17 @@ def model_description(config, base_model):
     token_decl = f"{tokens_str} {token_plural} initialised as the mean of"
 
     # Initialisation source
-    init_list = "[" + ", ".join(init_langs if init_langs else INIT_LANGS_STD) + "]"
+    init_langs_std = INIT_LANGS_STD_MADLAD if is_madlad else INIT_LANGS_STD
+    init_list = "[" + ", ".join(init_langs if init_langs else init_langs_std) + "]"
     if init_langs:
         init_str = init_list
+    elif is_madlad:
+        vec_name = os.path.basename(init_vecs)
+        init_str = (
+            f"{init_list} with fixed per-language orthogonal noise of L2=256, scaled so"
+            f" inter-new-token distances have a similar ratio to inter-init-token distances"
+            f" as in NLLB ({vec_name})"
+        )
     else:
         vec_name = os.path.basename(init_vecs)
         if vec_name == "tok-only-train_tri.pt":
@@ -169,8 +189,11 @@ def model_description(config, base_model):
             init_str = f"{init_list} with orthogonal noise of L2=5 ({vec_name})"
 
     # Trainable modules and tokens
-    module_names = [MODULE_DICT[c] for c in trainable_mods if c in MODULE_DICT]
-    modules_str = ", ".join(module_names)
+    if is_madlad:
+        modules_str = f"LoRA on {MADLAD_LORA_MODULES}"
+    else:
+        module_names = [MODULE_DICT[c] for c in trainable_mods if c in MODULE_DICT]
+        modules_str = ", ".join(module_names)
     trainable_tokens = ", ".join(src_lang_codes + [zh_lang_code])
 
     # Data description
@@ -245,6 +268,15 @@ def process_finetune(finetune_dir, dir_name, prefix):
         with open(json_path) as f:
             scores = json.load(f)
 
+        test_json_path = os.path.join(final_dir, f"test_scores_{lang_en}.json")
+        test_scores = {}
+        if os.path.exists(test_json_path):
+            with open(test_json_path) as f:
+                test_scores = json.load(f)
+
+        def t(key):
+            return r2(test_scores[key]) if key in test_scores else ""
+
         vversion = val_version(final_dir, lcode)
         n_sentences = count_sentences(final_dir, lang_en, lcode)
         val_set = f"FB val {vversion} ({lcode})"
@@ -271,6 +303,14 @@ def process_finetune(finetune_dir, dir_name, prefix):
             "CI lo (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_low"]) if "eval_chrf_zuyu_ci_low" in scores else "",
             "CI hi (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_high"]) if "eval_chrf_zuyu_ci_high" in scores else "",
             "combined score":   combined_score(bleu_zh, chrf_zuyu),
+            "BLEU (to_zh, test)":       t("eval_bleu_zh"),
+            "chrF2++ (to_zh, test)":    t("eval_chrf_zh"),
+            "CI lo (to_zh, test)":      t("eval_chrf_zh_ci_low"),
+            "CI hi (to_zh, test)":      t("eval_chrf_zh_ci_high"),
+            "BLEU (to_zuyu, test)":     t("eval_bleu_zuyu"),
+            "chrF2++ (to_zuyu, test)":  t("eval_chrf_zuyu"),
+            "CI lo (to_zuyu, test)":    t("eval_chrf_zuyu_ci_low"),
+            "CI hi (to_zuyu, test)":    t("eval_chrf_zuyu_ci_high"),
             "training set":     train_set if i == 0 else "",
             "description validation / test set":  VAL_DESCRIPTIONS[vversion],
             "description model (train set)":      model_desc if i == 0 else "",
