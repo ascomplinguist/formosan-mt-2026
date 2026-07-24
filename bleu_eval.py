@@ -537,7 +537,7 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                  max_source_length=256, max_target_length=256, batch_size=8, tracked_tokens=None, **kwargs):
         super().__init__(*args, **kwargs)
         if self.eval_lang is None:
-            self.eval_lang = src_lang_code.split("_")[0]
+            self.eval_lang = src_lang_code.removeprefix("<2").removesuffix(">").split("_")[0]
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length
@@ -548,6 +548,9 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         
     def get_src_lang_code(self):
         return self.src_lang_code
+
+    def get_eval_lang(self):
+        return self.eval_lang
 
     def generate_column(self, prompt_col, desc, model):
         # Figure out which direction to translate
@@ -646,7 +649,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
     ):
         super().__init__(*args, **kwargs)
         self.bleu_helpers = bleu_helpers
-        langs = [b.get_src_lang_code().split("_")[0] for b in self.bleu_helpers]
+        langs = [b.get_eval_lang() for b in self.bleu_helpers]
         self.lang_weights = lang_weights or {l: 1/len(langs) for l in langs}
         self.tracked_tok_embs = tracked_tok_embs
         
@@ -663,7 +666,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
             for bleu_helper in self.bleu_helpers:
                 scores = bleu_helper.compute_metrics(self.model, self.state)
                 if len(self.bleu_helpers) > 1:
-                    lang = bleu_helper.get_src_lang_code().split("_")[0]  # remove script label
+                    lang = bleu_helper.get_eval_lang()
                     scores = {f"{k}-{lang}": v for k, v in scores.items()}
                 extra_metrics.update(scores)
                 metrics.update(scores)
