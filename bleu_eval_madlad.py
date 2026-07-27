@@ -196,9 +196,6 @@ class BleuEvalHelperMADLAD(BleuEvalHelper):
         self.tracked_tokens = (tracked_tokens or []) + ['total']
         self.current_tracker = None
 
-    def get_src_lang_code(self):
-        return self.src_lang_code
-
     def generate_column(self, prompt_col, desc, model):
         # Only the target-language tag matters for MADLAD; it gets prepended to the source text
         tgt_lang = self.zh_lang_code if "to_zh" in prompt_col else self.src_lang_code

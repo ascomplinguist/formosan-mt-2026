@@ -467,6 +467,9 @@ class BleuEvalHelper:
         self.eval_lang = eval_lang
         self.save_file_prefix = save_file_prefix or "eval"
 
+    def get_eval_lang(self):
+        return self.eval_lang
+
     def get_init_tracker(self):
         return {token: [0] for token in self.tracked_tokens}
 
@@ -537,7 +540,7 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
                  max_source_length=256, max_target_length=256, batch_size=8, tracked_tokens=None, **kwargs):
         super().__init__(*args, **kwargs)
         if self.eval_lang is None:
-            self.eval_lang = src_lang_code.removeprefix("<2").removesuffix(">").split("_")[0]
+            self.eval_lang = src_lang_code.split("_")[0]
         self.src_lang_code = src_lang_code
         self.zh_lang_code = zh_lang_code
         self.max_source_length = max_source_length
@@ -548,9 +551,6 @@ class BleuEvalHelperNLLB(BleuEvalHelper):
         
     def get_src_lang_code(self):
         return self.src_lang_code
-
-    def get_eval_lang(self):
-        return self.eval_lang
 
     def generate_column(self, prompt_col, desc, model):
         # Figure out which direction to translate
@@ -653,7 +653,7 @@ class MySeq2SeqTrainer(Seq2SeqTrainer):
         self.lang_weights = lang_weights or {l: 1/len(langs) for l in langs}
         self.tracked_tok_embs = tracked_tok_embs
         
-        self.tracked_tok_emb_ids = self.processing_class.convert_tokens_to_ids(self.tracked_tok_embs)
+        self.tracked_tok_emb_ids = self.processing_class.convert_tokens_to_ids(tracked_tok_embs)
         model = kwargs.get("model")
         self.tracked_embs_init = model.get_input_embeddings().weight[self.tracked_tok_emb_ids].detach().cpu().clone()
         self.tracked_embs_last = self.tracked_embs_init.clone()
