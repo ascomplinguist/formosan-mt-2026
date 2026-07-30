@@ -1,0 +1,28 @@
+{
+  "model_name": "google/madlad400-3b-mt",
+  "lang_en": [
+    "Puyuma"
+  ],
+  "lang_code": "pyu",
+  "src_lang_code": [
+    "<2pyu>"
+  ],
+  "zh_lang_code": "<2zh_Hant>",
+  "init_vecs": "tracked_work/work/vectors/ortho_42_madlad.pt",
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "qvougd",
+  "num_new_tokens": 0,
+  "new_token_corpus": "fb3",
+  "token_embed_init": "sub",
+  "subset": -1,
+  "learning_rate": 0.0001,
+  "oversample_zuyu": 1,
+  "subsample_zh": 1,
+  "max_epochs": 30,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ],
+  "commit": "08ca6f2bfaf967a8d9eca87bd97fc027215adfcf"
+}
