@@ -1,0 +1,40 @@
+{
+  "tracked_tokens_to_zh": {
+    "total": [
+      7090
+    ]
+  },
+  "tracked_tokens_to_zuyu": {
+    "total": [
+      8300
+    ]
+  },
+  "eval_bleu_zh": 21.958417363558933,
+  "eval_chrf_zh": 21.711814895991992,
+  "eval_bleu_zuyu": 22.12462605393205,
+  "eval_chrf_zuyu": 43.20789469999909,
+  "eval_score": 34.708103765423026,
+  "eval_bleu_zh_detail": "BLEU = 21.96 56.0/28.9/16.6/10.3 (BP = 0.958 ratio = 0.959 hyp_len = 5696 ref_len = 5939)",
+  "eval_bleu_zuyu_detail": "BLEU = 22.12 57.0/28.7/16.8/10.2 (BP = 0.962 ratio = 0.962 hyp_len = 4067 ref_len = 4226)",
+  "eval_bleu_zh_boot_mean": 21.932983540505468,
+  "eval_bleu_zh_boot_sd": 0.9219773268500452,
+  "eval_bleu_zh_ci_low": 20.24605546392693,
+  "eval_bleu_zh_ci_high": 23.833125764376664,
+  "eval_chrf_zh_boot_mean": 21.703133221906793,
+  "eval_chrf_zh_boot_sd": 0.5960764443310695,
+  "eval_chrf_zh_ci_low": 20.621774864321257,
+  "eval_chrf_zh_ci_high": 22.980629719028943,
+  "eval_bleu_zuyu_boot_mean": 22.109984927618804,
+  "eval_bleu_zuyu_boot_sd": 1.1462875614843804,
+  "eval_bleu_zuyu_ci_low": 19.904195446638322,
+  "eval_bleu_zuyu_ci_high": 24.39553913742223,
+  "eval_chrf_zuyu_boot_mean": 43.22798070617761,
+  "eval_chrf_zuyu_boot_sd": 0.740924339314368,
+  "eval_chrf_zuyu_ci_low": 41.83698542757331,
+  "eval_chrf_zuyu_ci_high": 44.654609573181496,
+  "eval_score_boot_mean": 34.70998183990876,
+  "eval_score_boot_sd": 0.6793055013769236,
+  "eval_score_ci_low": 33.491827082850435,
+  "eval_score_ci_high": 36.11488068475256,
+  "commit": "301970f09f769ca9ebe7c5cde6201dcc0486ad6a"
+}
