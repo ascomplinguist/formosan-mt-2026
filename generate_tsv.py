@@ -10,7 +10,7 @@ import sys
 import pandas as pd
 
 TRACKED_WORK = "tracked_work"
-CONTRIBUTORS = {"work": "", "joseph": "j/"}
+CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/"}
 
 MODEL_ABBREVIATIONS = {
     "facebook/nllb-200-3.3B": "NLLB-200-3.3B",
@@ -64,8 +64,8 @@ HEADERS = [
     "BLEU (to_zh)", "BLEU detail (to_zh)", "chrF2++ (to_zh)", "CI lo (to_zh)", "CI hi (to_zh)",
     "BLEU (to_zuyu)", "BLEU detail (to_zuyu)", "chrF2++ (to_zuyu)",
     "CI lo (to_zuyu)", "CI hi (to_zuyu)", "combined score",
-    "BLEU (to_zh, test)", "chrF2++ (to_zh, test)", "CI lo (to_zh, test)", "CI hi (to_zh, test)",
-    "BLEU (to_zuyu, test)", "chrF2++ (to_zuyu, test)", "CI lo (to_zuyu, test)", "CI hi (to_zuyu, test)",
+    "BLEU (to_zh, test)", "BLEU detail (to_zh, test)", "chrF2++ (to_zh, test)", "CI lo (to_zh, test)", "CI hi (to_zh, test)",
+    "BLEU (to_zuyu, test)", "BLEU detail (to_zuyu, test)", "chrF2++ (to_zuyu, test)", "CI lo (to_zuyu, test)", "CI hi (to_zuyu, test)",
     "training set", "description validation / test set", "description model (train set)",
 ]
 
@@ -225,9 +225,17 @@ def combined_score(bleu_zh, chrf_zuyu):
     return round(0.4 * bleu_zh + 0.6 * chrf_zuyu, 3)
 
 
+def myprint(msg, debug_dir):
+    print(msg, end=" ")
+    if input("detail? [yN]: ") == "y":
+        print(sorted(os.listdir(debug_dir)))
+        input("")
+
+
 def process_finetune(finetune_dir, dir_name, prefix):
     config_path = os.path.join(finetune_dir, "config.json")
     if not os.path.exists(config_path):
+        myprint(f"{finetune_dir} does not contain a config.json; skipping...", finetune_dir)
         return []
 
     with open(config_path) as f:
@@ -235,6 +243,7 @@ def process_finetune(finetune_dir, dir_name, prefix):
 
     final_dir = os.path.join(finetune_dir, "final")
     if not os.path.isdir(final_dir):
+        myprint(f"{finetune_dir} does not contain a final checkpoint; skipping...", finetune_dir)
         return []
 
     data_set_name = config["data_set_name"]
@@ -262,18 +271,24 @@ def process_finetune(finetune_dir, dir_name, prefix):
     for i, (lang_en, src_code) in enumerate(zip(lang_en_list, src_lang_codes)):
         lcode = per_lang_code(src_code)
         json_path = os.path.join(final_dir, f"eval_scores_{lang_en}.json")
-        if not os.path.exists(json_path):
-            continue
-
-        with open(json_path) as f:
-            scores = json.load(f)
+        scores = {}
+        if os.path.exists(json_path):
+            with open(json_path) as f:
+                scores = json.load(f)
+        else:
+            myprint(f"{finetune_dir} is missing eval_scores_{lang_en}.json; skipping {lang_en} eval scores...", final_dir)
 
         test_json_path = os.path.join(final_dir, f"test_scores_{lang_en}.json")
         test_scores = {}
         if os.path.exists(test_json_path):
             with open(test_json_path) as f:
                 test_scores = json.load(f)
+        else:
+            myprint(f"{finetune_dir} is missing test_scores_{lang_en}.json; skipping {lang_en} test scores...", final_dir)
 
+        def e(key):
+            return r2(scores[key]) if key in scores else ""
+        
         def t(key):
             return r2(test_scores[key]) if key in test_scores else ""
 
@@ -281,33 +296,30 @@ def process_finetune(finetune_dir, dir_name, prefix):
         n_sentences = count_sentences(final_dir, lang_en, lcode)
         val_set = f"FB val {vversion} ({lcode})"
 
-        bleu_zh   = scores["eval_bleu_zh"]
-        chrf_zh   = scores["eval_chrf_zh"]
-        bleu_zuyu = scores["eval_bleu_zuyu"]
-        chrf_zuyu = scores["eval_chrf_zuyu"]
-
         row = {
             "base model":       base_model if i == 0 else "",
             "modification":     modification if i == 0 else "",
             "language":         language,
             "validation set":   val_set,
             "# sentences (val)": n_sentences,
-            "BLEU (to_zh)":     r2(bleu_zh),
-            "BLEU detail (to_zh)":    scores["eval_bleu_zh_detail"],
-            "chrF2++ (to_zh)":        r2(chrf_zh),
-            "CI lo (to_zh)":        r2(scores["eval_chrf_zh_ci_low"]) if "eval_chrf_zh_ci_low" in scores else "",
-            "CI hi (to_zh)":        r2(scores["eval_chrf_zh_ci_high"]) if "eval_chrf_zh_ci_high" in scores else "",
-            "BLEU (to_zuyu)":         r2(bleu_zuyu),
-            "BLEU detail (to_zuyu)":  scores["eval_bleu_zuyu_detail"],
-            "chrF2++ (to_zuyu)":      r2(chrf_zuyu),
-            "CI lo (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_low"]) if "eval_chrf_zuyu_ci_low" in scores else "",
-            "CI hi (to_zuyu)":        r2(scores["eval_chrf_zuyu_ci_high"]) if "eval_chrf_zuyu_ci_high" in scores else "",
-            "combined score":   combined_score(bleu_zh, chrf_zuyu),
+            "BLEU (to_zh)":     e("eval_bleu_zh"),
+            "BLEU detail (to_zh)":    scores.get("eval_bleu_zh_detail", ""),
+            "chrF2++ (to_zh)":        e("eval_chrf_zh"),
+            "CI lo (to_zh)":        e("eval_chrf_zh_ci_low"),
+            "CI hi (to_zh)":        e("eval_chrf_zh_ci_high"),
+            "BLEU (to_zuyu)":         e("eval_bleu_zuyu"),
+            "BLEU detail (to_zuyu)":  scores.get("eval_bleu_zuyu_detail", ""),
+            "chrF2++ (to_zuyu)":      e("eval_chrf_zuyu"),
+            "CI lo (to_zuyu)":        e("eval_chrf_zuyu_ci_low"),
+            "CI hi (to_zuyu)":        e("eval_chrf_zuyu_ci_high"),
+            "combined score":   e("eval_score"),
             "BLEU (to_zh, test)":       t("eval_bleu_zh"),
+            "BLEU detail (to_zh, test)": test_scores.get("eval_bleu_zh_detail", ""),
             "chrF2++ (to_zh, test)":    t("eval_chrf_zh"),
             "CI lo (to_zh, test)":      t("eval_chrf_zh_ci_low"),
             "CI hi (to_zh, test)":      t("eval_chrf_zh_ci_high"),
             "BLEU (to_zuyu, test)":     t("eval_bleu_zuyu"),
+            "BLEU detail (to_zuyu, test)": test_scores.get("eval_bleu_zuyu_detail", ""),
             "chrF2++ (to_zuyu, test)":  t("eval_chrf_zuyu"),
             "CI lo (to_zuyu, test)":    t("eval_chrf_zuyu_ci_low"),
             "CI hi (to_zuyu, test)":    t("eval_chrf_zuyu_ci_high"),
@@ -326,11 +338,13 @@ def main():
     for contributor, prefix in CONTRIBUTORS.items():
         contrib_dir = os.path.join(TRACKED_WORK, contributor)
         if not os.path.isdir(contrib_dir):
+            print(f"Contributor {contributor} does not have any tracked data; skipping...")
             continue
 
         for dir_name in sorted(os.listdir(contrib_dir)):
             finetune_dir = os.path.join(contrib_dir, dir_name)
             if not os.path.isdir(finetune_dir):
+                print(f"{finetune_dir} is not a directory (i.e. not a finetune); skipping...")
                 continue
             rows = process_finetune(finetune_dir, dir_name, prefix)
             all_rows.extend(rows)
