@@ -26,7 +26,6 @@ def main():
     from transformers import (
         AutoTokenizer,
         AutoModelForSeq2SeqLM,
-        BitsAndBytesConfig,
         DataCollatorForSeq2Seq,
         Seq2SeqTrainer,
         Seq2SeqTrainingArguments,

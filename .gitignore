@@ -31,8 +31,10 @@ bitsandbytes/
 # Only look at nllb finetunes in work/ (add config.json and trainer_state.json in these dirs)
 !/tracked_work/work/*nllb*/**
 !/tracked_work/joseph/*nllb*/**
+!/tracked_work/deborah/*nllb*/**
 !/tracked_work/work/*madlad*/**
 !/tracked_work/joseph/*madlad*/**
+!/tracked_work/deborah/*madlad*/**
 
 # Ignore intermediate checkpoints, only add eval data inside final checkpoint
 **/checkpoint-*/
