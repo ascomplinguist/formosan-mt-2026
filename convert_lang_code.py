@@ -19,6 +19,25 @@ conv_dict = {
   "pyu": "Puyuma",
 }
 
+conv_zh_dict = {
+    "ami": "阿美語",
+    "bnn": "布農語",
+    "ckv": "噶瑪蘭語",
+    "dru": "魯凱語",
+    "pwn": "排灣語",
+    "ssf": "邵語",
+    "sxr": "拉阿魯哇語",
+    "szy": "撒奇萊雅語",
+    "tao": "雅美語",
+    "tay": "泰雅語",
+    "trv": "太魯閣語",
+    "sqf": "賽德克語", 
+    "tsu": "鄒語",
+    "xnb": "卡那卡那富語",
+    "xsy": "賽夏語",
+    "pyu": "卑南語",
+}
+
 inv_dict = {v: k for k, v in conv_dict.items()}
 
 LANG_CODES = list(conv_dict.keys())

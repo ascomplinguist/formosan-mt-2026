@@ -9,10 +9,13 @@ bitsandbytes/
 # Keep selected files
 !/train_nllb.py
 !/train_madlad.py
+!/train_llama.py
 !/eval_nllb.py
 !/eval_madlad.py
+!/eval_llama.py
 !/bleu_eval.py
 !/bleu_eval_madlad.py
+!/bleu_eval_llama.py
 !/lm_head.py
 !/check_git_status.py
 !/evaluate_file.py
@@ -35,6 +38,9 @@ bitsandbytes/
 !/tracked_work/work/*madlad*/**
 !/tracked_work/joseph/*madlad*/**
 !/tracked_work/deborah/*madlad*/**
+!/tracked_work/work/*llama*/**
+!/tracked_work/joseph/*llama*/**
+!/tracked_work/deborah/*llama*/**
 
 # Ignore intermediate checkpoints, only add eval data inside final checkpoint
 **/checkpoint-*/
