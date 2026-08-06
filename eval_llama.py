@@ -51,12 +51,13 @@ def main():
 
     FINETUNE_DIR = eval_config.get('finetune_dir', None) or LAST_RUN_SAVE_DIR
     CHECKPOINT = f"{FINETUNE_DIR}/{eval_config['checkpoint']}"
-    LANGUAGE_NAME_EN = eval_config["eval_lang_en"]  # languages to evaluate on
-    if isinstance(LANGUAGE_NAME_EN, str):
-        LANGUAGE_NAME_EN = [LANGUAGE_NAME_EN]
 
     with open(f"{FINETUNE_DIR}/config.json", "r") as f:
         config = json.load(f)
+
+    LANGUAGE_NAME_EN = eval_config.get("eval_lang_en", None) or config["lang_en"]  # languages to evaluate on
+    if isinstance(LANGUAGE_NAME_EN, str):
+        LANGUAGE_NAME_EN = [LANGUAGE_NAME_EN]
 
     MODEL_NAME = config["model_name"]
     DATA_DIR = config["data_dir"]
