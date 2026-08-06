@@ -1,0 +1,25 @@
+{
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+  "lang": [
+    "阿美語"
+  ],
+  "lang_en": [
+    "Amis"
+  ],
+  "lang_code": "ami",
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "qvougd",
+  "subset": -1,
+  "learning_rate": 0.0001,
+  "max_epochs": 10,
+  "eval_save_steps": 500,
+  "per_device_train_batch_size": 2,
+  "gradient_accumulation_steps": 4,
+  "eval_batch_size": 8,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ],
+  "commit": "57764ffb6ee397a19855af133cd4e1fafac16ad3"
+}
