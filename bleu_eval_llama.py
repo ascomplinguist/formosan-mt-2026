@@ -176,6 +176,7 @@ class BleuEvalHelperLlama(BleuEvalHelper):
         self.tokenizer.padding_side = "left"
         try:
             with tqdm(total=len(messages), desc=desc, leave=False) as pbar:
+                verbose = True
                 for i in range(0, len(messages), self.batch_size):
                     batch = messages[i:i + self.batch_size]
                     inputs = self.tokenizer.apply_chat_template(
@@ -201,6 +202,10 @@ class BleuEvalHelperLlama(BleuEvalHelper):
                             temperature=None,
                         )
 
+                    if verbose:
+                        print(tokenizer.decode(out[0]))
+                        verbose = False
+                    
                     prompt_len = inputs["input_ids"].shape[1]
                     outputs.extend(
                         self.tokenizer.decode(seq[prompt_len:], skip_special_tokens=True)
