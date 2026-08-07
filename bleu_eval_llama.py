@@ -203,7 +203,7 @@ class BleuEvalHelperLlama(BleuEvalHelper):
                         )
 
                     if verbose:
-                        print(tokenizer.decode(out[0]))
+                        print(self.tokenizer.decode(out[0]))
                         verbose = False
                     
                     prompt_len = inputs["input_ids"].shape[1]
