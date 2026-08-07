@@ -96,6 +96,7 @@ def load_base_model_llama(model_name, adapter_path=None, torch_dtype=torch.bfloa
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
+    # For reproducibility, make sure the chat template always shows the same date
     tokenizer.chat_template = '{%- set date_string = "26 Jul 2024" -%}\n' + tokenizer.chat_template
 
     model = AutoModelForCausalLM.from_pretrained(
