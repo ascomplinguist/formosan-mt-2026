@@ -70,10 +70,14 @@ idna==3.18
     #   httpx
     #   requests
     #   yarl
+jinja2==3.1.6
+    # via -r requirements.in
 lxml==6.1.1
     # via sacrebleu
 markdown-it-py==4.2.0
     # via rich
+markupsafe==3.0.3
+    # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
 multidict==6.7.1
