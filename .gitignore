@@ -27,11 +27,12 @@ bitsandbytes/
 !/*finetune.tsv
 !/README.md
 !/.gitignore
+!/requirements-lock.txt
 
 # Keep train, val, test sets
 !/FormosanBench_new/*.parquet
 
-# Only look at nllb finetunes in work/ (add config.json and trainer_state.json in these dirs)
+# Only look at finetunes in tracked_work/ (add config.json and trainer_state.json in these dirs)
 !/tracked_work/work/*nllb*/**
 !/tracked_work/joseph/*nllb*/**
 !/tracked_work/deborah/*nllb*/**
