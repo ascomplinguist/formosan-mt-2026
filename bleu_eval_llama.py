@@ -96,6 +96,9 @@ def load_base_model_llama(model_name, adapter_path=None, torch_dtype=torch.bfloa
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
+    # For reproducibility, make sure the chat template always shows the same date
+    tokenizer.chat_template = '{%- set date_string = "26 Jul 2024" -%}\n' + tokenizer.chat_template
+
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
         torch_dtype=torch_dtype,
@@ -186,6 +189,7 @@ class BleuEvalHelperLlama(BleuEvalHelper):
                         return_dict=True,
                         return_tensors="pt",
                         padding=True,
+                        date_string="26 Jul 2024",
                     )
                     inputs = {k: v.to(model.device) for k, v in inputs.items()}
 

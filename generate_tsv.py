@@ -15,6 +15,7 @@ CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/"}
 MODEL_ABBREVIATIONS = {
     "facebook/nllb-200-3.3B": "NLLB-200-3.3B",
     "google/madlad400-3b-mt": "MADLAD400-3B-MT",
+    "meta-llama/Llama-3.1-8B-Instruct": "Llama-3.1-8B-Instruct",
 }
 
 MODULE_DICT = {
@@ -24,6 +25,17 @@ MODULE_DICT = {
     "o": "out_proj",
     "u": "fc1",
     "d": "fc2",
+}
+
+# Llama (train_llama.py) decodes the trainable_modules initials with its own mapping
+LLAMA_MODULE_DICT = {
+    "q": "q_proj",
+    "v": "v_proj",
+    "k": "k_proj",
+    "o": "o_proj",
+    "u": "up_proj",
+    "g": "gate_proj",
+    "d": "down_proj",
 }
 
 # Standard Austronesian-language initialisation set used in all runs
@@ -82,7 +94,12 @@ def data_set_version(data_set_name):
 def modification_from_dir(dir_name, data_set_name, prefix):
     # e.g. "fb_new3_qvoud_ciptw_ami_nllb_v2" -> "qvoud_ciptw_ami_v2"
     s = dir_name.removeprefix(data_set_name + "_")
-    marker = "_madlad" if "_madlad" in s else "_nllb"
+    if "_madlad" in s:
+        marker = "_madlad"
+    elif "_llama" in s:
+        marker = "_llama"
+    else:
+        marker = "_nllb"
     parts = s.split(marker)
     mod = parts[0] + "".join(parts[1:])
     return prefix + mod
@@ -120,8 +137,10 @@ def count_sentences(final_dir, lang_en, lang_code):
     global _REF_CACHE
     import glob
 
-    # Named file (monolingual runs); the numeric suffix is not fixed
-    named = sorted(glob.glob(os.path.join(final_dir, f"eval_{lang_code}[0-9]*.tsv")))
+    # Named file (monolingual runs); the numeric suffix is not fixed.
+    # NLLB/MADLAD name dumps by lang code (eval_ami1.tsv), Llama by English name (eval_Amis1.tsv)
+    named = sorted(glob.glob(os.path.join(final_dir, f"eval_{lang_code}[0-9]*.tsv"))
+                   + glob.glob(os.path.join(final_dir, f"eval_{lang_en}[0-9]*.tsv")))
     if named:
         with open(named[0]) as f:
             return sum(1 for _ in f) - 1
@@ -151,18 +170,46 @@ def training_set_name(config, ds_version):
 
 
 def model_description(config, base_model):
-    src_lang_codes = config["src_lang_code"]
-    if isinstance(src_lang_codes, str):
-        src_lang_codes = [src_lang_codes]
-    zh_lang_code = config["zh_lang_code"]
-    init_langs = config.get("init_langs")
-    init_vecs = config.get("init_vecs", "")
     lang_code = config["lang_code"]
     is_madlad = "madlad" in config["model_name"].lower()
+    is_llama = "llama" in config["model_name"].lower()
     max_epochs = config.get("max_epochs", 30 if is_madlad else 10)
     trainable_mods = config.get("trainable_modules", "")
     probs = config.get("interleave_probs")
+
+    if is_llama:
+        # No language-token machinery for Llama; per-language codes come straight from lang_code
+        src_lang_codes = lang_code.split("-")
+    else:
+        src_lang_codes = config["src_lang_code"]
+        if isinstance(src_lang_codes, str):
+            src_lang_codes = [src_lang_codes]
     is_multi = len(src_lang_codes) > 1
+
+    # Data description
+    if is_multi:
+        effective_probs = probs if probs else [1] * len(src_lang_codes)
+        total = sum(effective_probs)
+        pct = [round(100 * p / total) for p in effective_probs]
+        ratio = "/".join(str(p) for p in pct)
+        lang_plus = lang_code.replace("-", "+")
+        per_codes = [per_lang_code(c) for c in src_lang_codes]
+        auxiliary = ", ".join(f"{c} resampled every epoch" for c in per_codes[1:])
+        data_desc = f"interleaved {lang_plus} data ({ratio}, complete {per_codes[0]} training once per epoch, {auxiliary})"
+    else:
+        data_desc = f"{lang_code} data only"
+
+    if is_llama:
+        module_names = [LLAMA_MODULE_DICT[c] for c in trainable_mods if c in LLAMA_MODULE_DICT]
+        modules_str = ", ".join(module_names)
+        return (
+            f"{base_model} with LoRA on {modules_str}, translating via a Mandarin prompt, "
+            f"trained on {data_desc}, trained for {max_epochs} epochs"
+        )
+
+    zh_lang_code = config["zh_lang_code"]
+    init_langs = config.get("init_langs")
+    init_vecs = config.get("init_vecs", "")
 
     # Token declaration
     tokens_str = ", ".join(src_lang_codes)
@@ -195,19 +242,6 @@ def model_description(config, base_model):
         module_names = [MODULE_DICT[c] for c in trainable_mods if c in MODULE_DICT]
         modules_str = ", ".join(module_names)
     trainable_tokens = ", ".join(src_lang_codes + [zh_lang_code])
-
-    # Data description
-    if is_multi:
-        effective_probs = probs if probs else [1] * len(src_lang_codes)
-        total = sum(effective_probs)
-        pct = [round(100 * p / total) for p in effective_probs]
-        ratio = "/".join(str(p) for p in pct)
-        lang_plus = lang_code.replace("-", "+")
-        per_codes = [c.split("_")[0] for c in src_lang_codes]
-        auxiliary = ", ".join(f"{c} resampled every epoch" for c in per_codes[1:])
-        data_desc = f"interleaved {lang_plus} data ({ratio}, complete {per_codes[0]} training once per epoch, {auxiliary})"
-    else:
-        data_desc = f"{lang_code} data only"
 
     return (
         f"{base_model} expanded with {token_decl} {init_str}, "
@@ -250,7 +284,8 @@ def process_finetune(finetune_dir, dir_name, prefix):
     ds_version = data_set_version(data_set_name)
 
     lang_en_list = config["lang_en"]
-    src_lang_codes = config["src_lang_code"]
+    # Llama configs have no src_lang_code (no language tokens); fall back to lang_code
+    src_lang_codes = config.get("src_lang_code", config["lang_code"].split("-"))
     if isinstance(src_lang_codes, str):
         src_lang_codes = [src_lang_codes]
 
