@@ -4,8 +4,8 @@ def main():
 
     # The model is already fully cached locally; skip the network HEAD-request freshness check that
     # from_pretrained otherwise does on every call (each retries 5x with backoff on timeout, wasting time)
-    os.environ.setdefault("HF_HUB_OFFLINE", "1")
-    os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+    #os.environ.setdefault("HF_HUB_OFFLINE", "1")
+    #os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
 
     import sys
     import json
