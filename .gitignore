@@ -33,15 +33,9 @@ bitsandbytes/
 !/FormosanBench_new/*.parquet
 
 # Only look at finetunes in tracked_work/ (add config.json and trainer_state.json in these dirs)
-!/tracked_work/work/*nllb*/**
-!/tracked_work/joseph/*nllb*/**
-!/tracked_work/deborah/*nllb*/**
-!/tracked_work/work/*madlad*/**
-!/tracked_work/joseph/*madlad*/**
-!/tracked_work/deborah/*madlad*/**
-!/tracked_work/work/*llama*/**
-!/tracked_work/joseph/*llama*/**
-!/tracked_work/deborah/*llama*/**
+!/tracked_work/*/*nllb*/**
+!/tracked_work/*/*madlad*/**
+!/tracked_work/*/*llama*/**
 
 # Ignore intermediate checkpoints, only add eval data inside final checkpoint
 **/checkpoint-*/
@@ -55,4 +49,4 @@ bitsandbytes/
 *.pth
 
 # Save special initialisation vectors
-!/tracked_work/work/vectors/*.pt
+!/tracked_work/*/vectors/*.pt
