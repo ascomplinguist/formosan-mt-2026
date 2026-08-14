@@ -1,0 +1,31 @@
+{
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+  "lang": [
+    "卡那卡那富語",
+    "太魯閣語"
+  ],
+  "lang_en": [
+    "Kanakanavu",
+    "Truku"
+  ],
+  "interleave_probs": [
+    9,
+    1
+  ],
+  "lang_code": "xnb-trv",
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "qvougd",
+  "subset": -1,
+  "learning_rate": 0.0001,
+  "max_epochs": 10,
+  "eval_save_steps": 500,
+  "per_device_train_batch_size": 2,
+  "gradient_accumulation_steps": 4,
+  "eval_batch_size": 8,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ],
+  "commit": "538fcc930de4f709324ab6c657904d67ad5820e7"
+}
