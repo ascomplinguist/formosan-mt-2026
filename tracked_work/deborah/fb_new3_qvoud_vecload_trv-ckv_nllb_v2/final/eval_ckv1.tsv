@@ -1,0 +1,810 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	melizaq tina ku qeman tu 'Raw.	我媽媽喜歡吃酒釀。	我媽媽喜歡吃酒釀。	melizaq tina ku qeman tu 'Raw.	我媽媽喜歡吃苦。	melizaq tina ku qeman tu Raq.
+1	bangtu 'tut na lazat 'nay.	那個人的屁很臭。	那個人的屁很臭。	bangtu 'tut na lazat 'nay.	那個人鼻子很臭。	bangtu bangtu na lazat 'nay.
+2	melizaq aiku siqudus tu zau 'zan ay qudus.	我很喜歡穿這件舊的衣服。	我很喜歡穿這件舊的衣服。	melizaq aiku siqudus tu zau 'zan ay qudus.	我很喜歡穿這個舊的衣服。	melizaq iku siqudus tu nibakki ay qudus zau.
+3	nengi saiyuan Rabas na pangzan.	林投樹的根可以做藥。	林投樹的根可以做藥。	nengi saiyuan Rabas na pangzan.	菜的土很好煮。	nipusidi'an tu Rabas na paRin sasangian tu iyu.
+4	baqi ku Raya ti, Rabetin yau ussiq ti tasaw na tangi.	我的孫子很大了，他現在已經十一歲了。	我的孫子很大了，他現在已經十一歲了。	baqi ku Raya ti, Rabetin yau ussiq ti tasaw na tangi.	我爺爺很大了,現在有二十歲。	Raya ti baqi ku, ulima ti tasaw tasaw na tangi.
+5	Ramanges suani ku, tudan ta tu naqunian ta meRayngu.	我弟弟很笨，教他怎麼做還是不會。	我弟弟很笨，教他怎麼做還是不會。	Ramanges suani ku, tudan ta tu naqunian ta meRayngu.	我弟弟很,教他怎麼說不要。	meRapatet suani ku, patud ika naqunian na ni Rayngu.
+6	niana zau? Ramemenet qanan.	這是什麼？吃起來有點苦苦的。	這是什麼？吃起來有點苦苦的。	niana zau? Ramemenet qanan.	這是什麼?要吃得光。	niana zau? qamuRsas qanan.
+7	Rangazi leppaw na qaniyau.	他們家很富有 。	他們家很富有 。	Rangazi leppaw na qaniyau.	他們家很遠。	Rangazi leppaw na qaniyau.
+8	mai ti iku Rapatudan tangi.	我現在沒有當老師了。	我現在沒有當老師了。	mai ti iku Rapatudan tangi.	我現在沒有老師了。	mai ti iku patudan tangi.
+9	Raputuyan ku mepatay ti ay qaqa ku.	我夢到我已死去的哥哥。	我夢到我已死去的哥哥。	Raputuyan ku mepatay ti ay qaqa ku.	我交代的哥哥死了。	taRaw iku tu mepatay ay qaqa ku.
+10	manna Rasan su leppaw zau?	你為什麼買這個房子？	你為什麼買這個房子？	manna Rasan su leppaw zau?	你為什麼買這個房子?	manna meRasa isu tu leppaw zau?
+11	RasuR na niana zau?	這是什麼東西的內臟？	這是什麼東西的內臟？	RasuR na niana zau?	這是什麼內部?	qenianan na niana zau?
+12	nengi qanan Ratepulukan na qabaw, melizaq iku.	牛的毛肚很好吃，我喜歡。	牛的毛肚很好吃，我喜歡。	nengi qanan Ratepulukan na qabaw, melizaq iku.	牛的子很好吃,我喜歡。	nengi qanan bedes na qabaw, melizaq iku.
+13	Rausan na ni abas buqes ku.	Abas拉我的頭髮。	Abas拉我的頭髮。	Rausan na ni abas buqes ku.	Abas幫我頭髮。	meRaus ti abas tu buqes ku.
+14	qasessenan iku siRab, Raybusbus ti iku.	我昨天著涼了，就感冒了。	我昨天著涼了，就感冒了。	qasessenan iku siRab, Raybusbus ti iku.	我昨天冷到,我發甘了。	siRawan ku ti siRab, sawaq ti iku.
+15	RaysaRu imi ta liyab na paRin.	我們在樹下乘涼。	我們在樹下乘涼。	RaysaRu imi ta liyab na paRin.	我們在樹下涼。	ta liyab na paRin imi simangad.
+16	tenes ti tengngi na, qatiw ika Raytengngi.	他欠了很久，去跟他收帳。	他欠了很久，去跟他收帳。	tenes ti tengngi na, qatiw ika Raytengngi.	他的腰很長了,去捉一下。	tenes ti tengi aizipna, paningu ika timaizipana.
+17	azu mepuqaw wasu zau, lazat na Raytunguzan na.	這隻狗好像眼瞎，連自己的主人也要吠。	這隻狗好像眼瞎，連自己的主人也要吠。	azu mepuqaw wasu zau, lazat na Raytunguzan na.	這隻狗很,是牠的獵物。	azu buta wasu zau, qamaRaw pa uRu na.
+18	naRin RiRian paRin zau, qakezut ti dames.	不要把這個木頭鋸斷，會太短。	不要把這個木頭鋸斷，會太短。	naRin RiRian paRin zau, qakezut ti dames.	不要把這棵樹弄倒,會縮短太久。	naRin qatatan paRin zau, qasidut ti.
+19	Risiw pa iku tu suway na bawbi ku.	我要去砍我菜園裡的雜草。	我要去砍我菜園裡的雜草。	Risiw pa iku tu suway na bawbi ku.	我要砍我菜園的草。	Rabat pa iku tu suway ta bawbian ku.
+20	Rizan ku semangi lazan nengi ti saqayan.	我把路開的很寬所以就很好走了。	我把路開的很寬所以就很好走了。	Rizan ku semangi lazan nengi ti saqayan.	我往那裡走的很好。	tabay ika nilapasan ku tu lazan nengi ti saqayan.
+21	Rubassing iku, pelisin, naRin ta masengat	我剛剛才打噴嚏，先不要啟程，是禁忌。	我剛剛才打噴嚏，先不要啟程，是禁忌。	Rubassing iku, pelisin, naRin ta masengat	我很貧窮,請幫忙,不要在外面。	Rututuzan iku, naRin munna pasaqay, qaqanan.
+22	Ruqalepun imi metazuq, hibang pa imi temawaR.	我們剛插好秧，我們明天要休息一天。	我們剛插好秧，我們明天要休息一天。	Ruqalepun imi metazuq, hibang pa imi temawaR.	我們起手,明天我們要休息。	Ruqapaluman niaq, qakausa saqabian pa imi temawaR.
+23	Ruqaseq pama iku ta leppawan.	我剛到家裡。	我剛到家裡。	Ruqaseq pama iku ta leppawan.	我家裡還很涼。	Rutanan iku ta leppawan.
+24	RuqeRas iku timaizipan na.	我剛剛才叫他的。	我剛剛才叫他的。	RuqeRas iku timaizipan na.	我很討厭他。	Rutanan ku pama aizipna.
+25	Rutais pama iku tu qudus su, manna masebit ti muman.	我才剛縫過你的衣服，怎麼又破了。	我才剛縫過你的衣服，怎麼又破了。	Rutais pama iku tu qudus su, manna masebit ti muman.	我還在你的衣服,怎麼又裂開了。	RutunuR iku tu qudus su, manna mabenaR ti.
+26	muwaza adam ta deddanan temambaseR.	很多鳥在天上飛。	很多鳥在天上飛。	muwaza adam ta deddanan temambaseR.	田裡有很多鳥散落。	muwaza temungaw ay adam ta dedanan.
+27	taRaw bedes ku, sabettu ta aliman ku zin na ising.	我肚子很痛， 醫生說我胰臟的地方結石了。	我肚子很痛， 醫生說我胰臟的地方結石了。	taRaw bedes ku, sabettu ta aliman ku zin na ising.	我的肚子很痛,醫生說要到我的腰上。	taRaw bedes ku, sasubat ti zin na ising ku zin na ising.
+28	yau iku ta amutuan pawaRi tu sabaq.	我在水泥地上曬稻穀。	我在水泥地上曬稻穀。	yau iku ta amutuan pawaRi tu sabaq.	我在谷裡曬穀。	mewaRi iku tu sabaq ta amutan ay melanay.
+29	qatani ti tina su semanu timaisuan, mai ta aneman su ni?	你的媽媽跟你說了好幾次，難道你都沒有放在心裡嗎？	你的媽媽跟你說了好幾次，難道你都沒有放在心裡嗎？	qatani ti tina su semanu timaisuan, mai ta aneman su ni?	你媽媽幾次跟你說過話,你沒有想到嗎?	siqaRengi ti tina su semanu timaisuan, mai isu mepusiR tu anem ni?
+30	qawiya ta. ansita, mai pama mawtu ti buya.	我們走。等一下，Buya還沒有來。	我們走。等一下，Buya還沒有來。	qawiya ta. ansita, mai pama mawtu ti buya.	我們趕快去看,Buya還沒有來。	qatiw pa ita. palana ti, mai pama ti buya mawtu.
+31	yau ta atuRan niseppaw ku tu qudus su.	我把你的衣服放在擋土牆上。	我把你的衣服放在擋土牆上。	yau ta atuRan niseppaw ku tu qudus su.	你的衣服我放在屋頂上。	seppaw ku ta tepulan qudus su.
+32	awRi tita pa ita tu nisapunan ku tu duki.	我們來看我收藏的鐘錶。	我們來看我收藏的鐘錶。	awRi tita pa ita tu nisapunan ku tu duki.	我們回去看我補的子。	qatiw pa ita temayta tu niqupitan ku tu sipes.
+33	baRat ika tenayan zau seppaw.	這根竹子要橫著放。	這根竹子要橫著放。	baRat ika tenayan zau seppaw.	把這個竹子開來蓋。	pasawaR ika salu zau.
+34	baReng melizaq ta tad na qabaw semusuR.	獨角仙喜歡鑽在牛糞裡。	獨角仙喜歡鑽在牛糞裡。	baReng melizaq ta tad na qabaw semusuR.	雨很喜歡牛的頭會噴。	melizaq qipenayan ta Rasi na qabaw siRemuq.
+35	mai pama iku temita tu biRi na badas.	我還沒看過楊桃豆的葉子。	我還沒看過楊桃豆的葉子。	mai pama iku temita tu biRi na badas.	我還沒有看過百的葉子。	mai pama iku temayta tu biRi na paytaw.
+36	bangtuan iku tu mangiR su. banaw ka tu zapan su!	你的香港腳臭到讓我受不了。請你洗個腳！	你的香港腳臭到讓我受不了。請你洗個腳！	bangtuan iku tu mangiR su. banaw ka tu zapan su!	我很討厭你大口臭,你的腳要洗!	naRin ti iku tu sasiRat zapan su. banaw ika zapan su!
+37	qemupit bateng ta liman Rayngu basian.	蜘蛛網黏在手上很難洗掉。	蜘蛛網黏在手上很難洗掉。	qemupit bateng ta liman Rayngu basian.	黑人會在手上咬人不會洗。	sukaw qaybasi ay senib na paqenanem ta lima.
+38	muwaza beRasuq na Runanay 'nay.	那位男孩的青春痘很多。	那位男孩的青春痘很多。	muwaza beRasuq na Runanay 'nay.	那個男人的肚子很大。	muwaza qenabinnus na Runanay 'nay.
+39	Ramenenet qanan bedukuk, taqa iku qan.	苦厥吃起來苦苦的，我不吃。	苦厥吃起來苦苦的，我不吃。	Ramenenet qanan bedukuk, taqa iku qan.	吃豆很,我不想吃。	mennet qanan na 'may, taqan ku ti.
+40	tupaq ika bedung na puq qawka meRamaz.	把花生殼剝掉再煮。	把花生殼剝掉再煮。	tupaq ika bedung na puq qawka meRamaz.	把花生皮起來才會發火。	supas ika puq 'nay meRamaz muman.
+41	bedung ika tenayan zau.	把這個竹子剖開。	把這個竹子剖開。	bedung ika tenayan zau.	把這個竹子用火烤直。	siqaR ika tenayan zau.
+42	bekisi su nengi liwayan ku ni?	你的水桶可以借我嗎？	你的水桶可以借我嗎？	bekisi su nengi liwayan ku ni?	你可以洗我的子好嗎?	nengi paliway tu bekisi su ni?
+43	nizu belidas ta naungan 'nay.	那邊的山都是棕樹。	那邊的山都是棕樹。	nizu belidas ta naungan 'nay.	那座山全都是草。	tazian ay naung nizu sakaylay.
+44	Raya benaR na paRin zau.	這個木頭的裂縫很大。	這個木頭的裂縫很大。	Raya benaR na paRin zau.	這個樹的芽很大。	Raya qenawang na paRin zau.
+45	Rubatang betis na, mai tu sikawman.	他的小腿很漂亮，沒話可說。	他的小腿很漂亮，沒話可說。	Rubatang betis na, mai tu sikawman.	他的肚子很大,沒有話可以說。	simqena qenuR na, mai sikawma.
+46	Raya bali, bibiq ti liambu.	風大，蓮霧掉光了。	風大，蓮霧掉光了。	Raya bali, bibiq ti liambu.	風大,燈泡掉光了。	Raya bali, bibiq ti liambu.
+47	semuni biyat bitutuq bedes na.	青蛙叫的時候肚子會鼓起。	青蛙叫的時候肚子會鼓起。	semuni biyat bitutuq bedes na.	他的肚子有很多。	mutiktibu bedes na muRuy.
+48	nizu buRang tazian, mai tu buqan.	這個地方都是石頭，沒有沙子。	這個地方都是石頭，沒有沙子。	nizu buRang tazian, mai tu buqan.	這裡全是白天,沒有雨。	bettun tazian, mai tu kenadal.
+49	bukasan na masebang ay melanay leppaw na.	他的房子被坍方的泥士掩蓋住。	他的房子被坍方的泥士掩蓋住。	bukasan na masebang ay melanay leppaw na.	他的家是要拆掉爆的泥土。	masid na nizu qamet leppaw na.
+50	buqaRes isu kelawkaway niana saquduan su tu sunis su?	你懶得工作你拿什麼東西養你的孩子？	你懶得工作你拿什麼東西養你的孩子？	buqaRes isu kelawkaway niana saquduan su tu sunis su?	你太胖做什麼事你會養你的孩子?	niqepeRan su kelawkaway niana paqan su tu sunis su?
+51	simqena taytan kuwa' zau, wanayka buqsu.	這個木瓜看起來很漂亮，但是不甜。	這個木瓜看起來很漂亮，但是不甜。	simqena taytan kuwa' zau, wanayka buqsu.	這件木瓜很漂亮看,但是有毛。	simqena taytan qawpiR zau, mai tu datebus.
+52	busuq ti iku, qaynep pa iku ti.	我醉了，我要睡覺了。	我醉了，我要睡覺了。	busuq ti iku, qaynep pa iku ti.	我喝醉了,我要睡覺了。	busuq ti iku, qaynep pa iku ti.
+53	sapising butuy na tenayan.	竹節上會長出小枝。	竹節上會長出小枝。	sapising butuy na tenayan.	竹子的根要切。	melubas ta paRtik na tenayan.
+54	dadasan ku ti dadas ni angaw.	我把Angaw的檳榔吃掉了。	我把Angaw的檳榔吃掉了。	dadasan ku ti dadas ni angaw.	Angaw的我已經背好了。	qanan ku ti dadas ni angaw.
+55	qatemu qanan datubah, mai iku melizaq qeman.	黃海參吃起來很硬，我不喜歡吃。	黃海參吃起來很硬，我不喜歡吃。	qatemu qanan datubah, mai iku melizaq qeman.	菜吃起來很硬,我不喜歡吃。	qatemu qanan biabas, mai iku melizaq qeman.
+56	baqi ku meluma ay tu eRed zau.	這是我爺爺種的茅草。	這是我爺爺種的茅草。	baqi ku meluma ay tu eRed zau.	這是我爺爺種的草。	nipaluman na baqi ku pedatay zau.
+57	RaRaya niquduan niaq tu engu.	我們養的鵝都很大隻。	我們養的鵝都很大隻。	RaRaya niquduan niaq tu engu.	我們用大便養的子。	Raya niquduan niaq tu mulu.
+58	muwaza masang epas ta zennan, tangi mepatay na iyu, mai ti.	以前田裡很多田蟹，現在被農藥毒死，就沒了。	以前田裡很多田蟹，現在被農藥毒死，就沒了。	muwaza masang epas ta zennan, tangi mepatay na iyu, mai ti.	以前田裡有很多,現在被藥殺了,就沒有了。	muwaza masang melubas ta zennan, pun ti nipuyan na iyu, mai ti.
+59	datebus esi na epas nengi qanan.	田蟹的肉很甜很好吃。	田蟹的肉很甜很好吃。	datebus esi na epas nengi qanan.	巴肉很甜很好吃。	datebus niuzungan 'si nengi qanan.
+60	tabaku pa iku sa tati, hibang ka ta aimu.	我去外面抽菸，你們休息一下。	我去外面抽菸，你們休息一下。	tabaku pa iku sa tati, hibang ka ta aimu.	我要去外面香,你們在旁邊等。	matiw iku sa tati qaytepi, hibang ka aimu ta.
+61	Rasa pa iku tu sazaqisan tu hikuki paya.	我要買坐飛機的機票。	我要買坐飛機的機票。	Rasa pa iku tu sazaqisan tu hikuki paya.	我要去買要穿的小。	Rasa pa iku tu satangan na kikay.
+62	kinlima ma mawtu ay melabu huwigi.	只有五個人參加會議。	只有五個人參加會議。	kinlima ma mawtu ay melabu huwigi.	第五個來參加是小姐。	ulima ma melabut tu taqsi.
+63	ilibeng tangan na papay, paliququ ika kaput su pa tuqaz.	工作屋的門很低，叫你的朋友低頭彎腰進入。	工作屋的門很低，叫你的朋友低頭彎腰進入。	ilibeng tangan na papay, paliququ ika kaput su pa tuqaz.	工廠門是隱蔽的,叫你朋友搖手來進去。	Riseq ineb na pakelayan, paqaRquz ika kaput su temuqaz.
+64	wantima imu mai pama qeman satutu.	只剩你們還沒有吃中餐。	只剩你們還沒有吃中餐。	wantima imu mai pama qeman satutu.	你們五個還沒有吃中餐。	wantima aimu mai pama qeman satutu.
+65	inpian ku kemutkut melanay zau.	我用圓撬挖這個泥土。	我用圓撬挖這個泥土。	inpian ku kemutkut melanay zau.	這是我挖洞埋的土。	qaRuan ku tu dadas melanay zau.
+66	manna mai ipilan su sanu na tama su?	你為什麼沒有聽你爸爸說的話？	你為什麼沒有聽你爸爸說的話？	manna mai ipilan su sanu na tama su?	你為什麼不聽你爸爸說的話?	manna mai isu mipil tu nisikawman na tama su?
+67	ipilan su ti nisikawma ku, nengi ti anem ku.	我說的話你有聽進去，我就放心了。	我說的話你有聽進去，我就放心了。	ipilan su ti nisikawma ku, nengi ti anem ku.	你聽了我說的話,我的心就放鬆了。	ipilan su nisikawman ku, nengi ti anem ku.
+68	liwaliw aiku qilan na tama ku.	我反而被爸爸罵。	我反而被爸爸罵。	liwaliw aiku qilan na tama ku.	我背著我爸爸的字。	qalalan na iku na tama ku.
+69	leppaw zau kaduman niaq kinnawsa nansasuani.	這個房子是我們兩個兄弟共同持有的。	這個房子是我們兩個兄弟共同持有的。	leppaw zau kaduman niaq kinnawsa nansasuani.	這個房子我們兩個兄弟兼做家。	nipatengaku niaq kinnawsa nansasuani leppaw zau.
+70	melazuk iku, kalingunan ku ti mala qudus ku.	我很急，忘了拿我的衣服。	我很急，忘了拿我的衣服。	melazuk iku, kalingunan ku ti mala qudus ku.	我去上海,我忘了拿我的衣服。	meRaRaw iku, kalingun ti mala qudus ku.
+71	kanisan ku saqawRatan na qaniyau.	我畫線讓他們玩。	我畫線讓他們玩。	kanisan ku saqawRatan na qaniyau.	我很擔憂他們在玩。	pakisasan ku paqan qaniyau semaqsaqay.
+72	kasianem ika nisikawman ku.	記得我所說的話。	記得我所說的話。	kasianem ika nisikawman ku.	請你暗記我說的話。	kamet ika nisikawman ku.
+73	Raputuyan ku tama ku kaudan na iku.	我夢到已故的爸爸向我招手。	我夢到已故的爸爸向我招手。	Raputuyan ku tama ku kaudan na iku.	我叫我爸爸把我的衣服綁在上面。	ta nipalinan ku mepatay ay tama ku pazazasan timaikuan.
+74	nian simpez na ta kaysingan su?	你的碗裡裝的是什麼？	你的碗裡裝的是什麼？	nian simpez na ta kaysingan su?	你碗裡的水是什麼?	niana pizi na kaysing su?
+75	qapaR pa imi tu kedamdamu.	我們要去抓螢火蟲。	我們要去抓螢火蟲。	qapaR pa imi tu kedamdamu.	我們要抓。	qaylibuq pa imi.
+76	taqa sunis 'nay kedisan tu punuz na.	那個小孩不願意讓人擦他的屁股。	那個小孩不願意讓人擦他的屁股。	taqa sunis 'nay kedisan tu punuz na.	那個小孩不想他的股。	mai ngid papeladan tu punuz na sunis 'nay.
+77	Rutuz kelupu na baqi ku.	我爺爺的眉毛很濃密。	我爺爺的眉毛很濃密。	Rutuz kelupu na baqi ku.	我爺爺的背袋很厚。	padames lubung na baqi ku.
+78	wiya ti kemadabu sunis ku.	我的女兒已經嫁出去了。	我的女兒已經嫁出去了。	wiya ti kemadabu sunis ku.	我的孩子已經退休了。	kikung ti waway ku.
+79	kemkem ika qawka melimez.	咬碎之後才吞下去。	咬碎之後才吞下去。	kemkem ika qawka melimez.	嘴要才會沉下去。	qemipit ika qawka limmez.
+80	busuq iku siRab qaRabi, kemulazu iku taRbabi.	我昨晚喝的很醉，我早上宿醉了。	我昨晚喝的很醉，我早上宿醉了。	busuq iku siRab qaRabi, kemulazu iku taRbabi.	我昨天晚上喝醉,早上起床。	busuq iku siRab Rabi, meRaRus ti iku taRbabi.
+81	kemulikuz ti angaw tu tama na matiw sa naung.	Angaw跟著他爸爸去山上。	Angaw跟著他爸爸去山上。	kemulikuz ti angaw tu tama na matiw sa naung.	Angaw跟著他爸爸去山上。	pakekuz ni angaw tama na matiw sa naung.
+82	meRapsi kikay zau, Rayngu ti kemuliseng.	這部機器壞了，不能轉了。	這部機器壞了，不能轉了。	meRapsi kikay zau, Rayngu ti kemuliseng.	這條子很壞,就不能轉下來了。	meRapsi ti kikay zau, Rayngu ti baliw.
+83	tangi bulan missi kenasaw.	這個月份海膽很肥。	這個月份海膽很肥。	tangi bulan missi kenasaw.	今月是中秋節。	bulan zau meRatabi kenasaw.
+84	"""kennit ika!"" zin na bai ku."	奶奶叫我捏她。	奶奶叫我捏她。	"""kennit ika!"" zin na bai ku."	我奶奶說:「切一點!」	pamadames iku tu bai ku.
+85	manna ketunan su nipaluma ku tu tenayan?	你為什麼把我種的竹子砍掉？	你為什麼把我種的竹子砍掉？	manna ketunan su nipaluma ku tu tenayan?	我種的竹子你為什麼砍?	manna Rabitan su nipaluman ku tu tenayan?
+86	paliway iku tu sasupasan su.	你的橡皮擦借我。	你的橡皮擦借我。	paliway iku tu sasupasan su.	你的掃把借我。	supas ika iku tu lubung na dadas su.
+87	kizametan ku mala temibuq ay tenuqusan.	掉下來的銅板我一個一個撿起來。	掉下來的銅板我一個一個撿起來。	kizametan ku mala temibuq ay tenuqusan.	我把掉下來的毛拿起來很緊。	nibuRaw ay lingkung pulizan ku paqenanem.
+88	kulazu lazat taRaw uRu taRbabi masuwat.	宿醉的人早上起床頭很痛。	宿醉的人早上起床頭很痛。	kulazu lazat taRaw uRu taRbabi masuwat.	人到早上才會生病。	busuq ay lazat taRbabi miRriR tu uRu.
+89	kunkun ika tusungan na qudus su, qazizi ti.	妳衣服的袖子捲起來，免得濕了。	妳衣服的袖子捲起來，免得濕了。	kunkun ika tusungan na qudus su, qazizi ti.	你衣服的底部一,免得乾了。	qeteR ika tusungan na qudus su, mangay qiwat.
+90	meluzit zapan na lakezakezay semaqay.	他的腳受傷走路一拐一拐的。	他的腳受傷走路一拐一拐的。	meluzit zapan na lakezakezay semaqay.	孩子走路時腳會受傷。	meluku ti nibulawan zapan na semaqay.
+91	laluy ika baut zau!	秤這些魚！	秤這些魚！	laluy ika baut zau!	把這些魚起來!	pawaRi ika baut zau!
+92	laqawan ku Ribang ku ta qitunan.	我的東西遺漏在車上。	我的東西遺漏在車上。	laqawan ku Ribang ku ta qitunan.	我把我的東西遺忘在車上。	mebalubung Ribang ku ta qitunan.
+93	ta latuqan na paRin 'nay maketun.	那個木頭在腐爛的地方斷掉。	那個木頭在腐爛的地方斷掉。	ta latuqan na paRin 'nay maketun.	那個樹的根裡有刺。	ta medidiyuq ay lazan masebit ti paRin 'nay.
+94	yau ta lauzan na paRin adam 'nay.	那隻鳥在樹的尾端上面。	那隻鳥在樹的尾端上面。	yau ta lauzan na paRin adam 'nay.	那隻鳥在樹下。	ta tuRuz na paRin adam 'nay.
+95	laziw ika iRuR 'nay, maseq ti tu leppaw ku.	經過那條河，我的家就到了。	經過那條河，我的家就到了。	laziw ika iRuR 'nay, maseq ti tu leppaw ku.	你過那條河,我家才到了。	melaziw tu iRuR 'nay, maseq ti leppaw ku.
+96	laziw ka tu iRuR maseq ti.	你過河就到了。	你過河就到了。	laziw ka tu iRuR maseq ti.	穿過河就到了。	melaziw isu tu iRuR maseq ti.
+97	mipil iku ta laziwan banged pa zin na.	我在收音機裡聽說有颱風。	我在收音機裡聽說有颱風。	mipil iku ta laziwan banged pa zin na.	我在旁邊聽話他說要風。	yau iku ta dengatan mipil tu banged.
+98	ngid iku qan tu liambu, qatiw ka Rasa.	我想吃蓮霧，你去買。	我想吃蓮霧，你去買。	ngid iku qan tu liambu, qatiw ka Rasa.	我想吃西瓜,去買。	ngid iku sumati tu lingkung, qatiw ka aisu meRasa.
+99	linan na iku, maynep ti ku.	他催眠我，我就睡著了。	他催眠我，我就睡著了。	linan na iku, maynep ti ku.	他抱著我,我就睡了。	palina aizipna, maynep ti iku.
+100	satangan liyab na bawa' 'nay, linemnem pa ti.	那條船的船底有破洞，快要沉下去了。	那條船的船底有破洞，快要沉下去了。	satangan liyab na bawa' 'nay, linemnem pa ti.	那條船的燈亮了,快沉下去了。	sangtuR na bawa' 'nay, ngid ti melinemnem.
+101	ngid qaRat tu lazat taytan ku luqenaw 'nay.	我看那隻老虎想要咬人。	我看那隻老虎想要咬人。	ngid qaRat tu lazat taytan ku luqenaw 'nay.	我看到那隻黃瓜想叫人。	temayta iku tu paqayRaw 'nay.
+102	lalekez luzem tu kelawkawayan na.	螞蟻分工合作非常團結。	螞蟻分工合作非常團結。	lalekez luzem tu kelawkawayan na.	他工作很辛苦。	semangi ka tu kelawkaway simpusay.
+103	nisamukunan suksuk zau maRapsi ti.	這把鑰匙是被鐵槌敲壞的。	這把鑰匙是被鐵槌敲壞的。	nisamukunan suksuk zau maRapsi ti.	這個子被打過就斷了。	nikukukan na balis kikil zau.
+104	maRebeng ku lazat 'nay.	那個人被我監視著。	那個人被我監視著。	maRebeng ku lazat 'nay.	我把那個人關起來。	palina ku lazat 'nay.
+105	mawRat tu Ramaz sunis zau, maRunat ti na Ramaz lima na.	這個小孩玩火，他的手被火燒傷了。	這個小孩玩火，他的手被火燒傷了。	mawRat tu Ramaz sunis zau, maRunat ti na Ramaz lima na.	這個小孩在玩火,他的手被火燒傷了。	sunis zau mawRat tu Ramaz, meluzit lima na tu Ramaz.
+106	baqsiw ika mabangRut ay niumasan tu babuy.	把發臭的醃豬肉丟掉。	把發臭的醃豬肉丟掉。	baqsiw ika mabangRut ay niumasan tu babuy.	豬的腐肉丟掉。	walin ika bangti ay esi na babuy.
+107	mabaqsiw ti RusRus ta ni?	我們垃圾丟了沒？	我們垃圾丟了沒？	mabaqsiw ti RusRus ta ni?	我們的垃圾被洗掉了嗎?	walinan ti ta RusRus ni?
+108	siRab manna mabud aisu tu kaput su?	你昨天為什麼跟你的朋友打架？	你昨天為什麼跟你的朋友打架？	siRab manna mabud aisu tu kaput su?	你昨天為什麼跟你的朋友打架?	manna matsuqu su tu kaput su siRab?
+109	madasidas ti na kikay melanay 'nay.	那塊地已經被機器整平好了。	那塊地已經被機器整平好了。	madasidas ti na kikay melanay 'nay.	那塊土已經被Kikay好了。	masalin na ti tu kikay melanay 'nay.
+110	makakawit imi qataban salekiaw.	我們豐年祭手牽手跳舞。	我們豐年祭手牽手跳舞。	makakawit imi qataban salekiaw.	我們可以帶著巴一起跳舞。	qatabuan niaq simpaRu salekiaw.
+111	makamet ku ti nisikawman su.	我已記住你說的話。	我已記住你說的話。	makamet ku ti nisikawman su.	我已經記得你說的話了。	nikametan ku ti nisikawman su.
+112	makemkem na wasu tiRan zau.	這個骨頭已被狗咬碎。	這個骨頭已被狗咬碎。	makemkem na wasu tiRan zau.	這塊骨頭被狗咬到。	matutuz na wasu tiRan zau.
+113	makkuku ma imi simqatapung.	我們碰面只是點點頭而已。	我們碰面只是點點頭而已。	makkuku ma imi simqatapung.	我們相遇時只會互相擁抱。	simpaipu imi simpatungayaw.
+114	makudat ti lubung na baut zau.	這條魚的皮剝好了。	這條魚的皮剝好了。	makudat ti lubung na baut zau.	這條魚的皮已經被好了。	nengi ti lubung na baut zau.
+115	malapus ku ti Rais 'nay.	那個繩索我已經解開了。	那個繩索我已經解開了。	malapus ku ti Rais 'nay.	我把那條索解開了。	maRilas ku ti Rais 'nay.
+116	maliway ku ti kelisiw ni angaw.	Angaw的錢我已經借到了。	Angaw的錢我已經借到了。	maliway ku ti kelisiw ni angaw.	我已經借了Angaw的錢。	niliwayan ku ti kelisiw na ni angaw.
+117	malukud na qebayu aizipna.	他被馬踢到。	他被馬踢到。	malukud na qebayu aizipna.	他被Kabawa關起來。	masalin na qenawalu aizipna.
+118	missi aizipna, mamitulun zais na taytan.	他很胖，看起來臉圓圓的。	他很胖，看起來臉圓圓的。	missi aizipna, mamitulun zais na taytan.	他很胖,臉上長斑。	missi aizipna, melulubung taytan zais na.
+119	mammaqan tu biting uRu ku, hibang ti iku.	我熱到頭痛，我就休息了。	我熱到頭痛，我就休息了。	mammaqan tu biting uRu ku, hibang ti iku.	我的頭被咬到,我便宜了。	taRaw uRu ku, hibang ti iku.
+120	yau manmid aizipna tu niqaytamunan na.	他正在把他摘回來的菜做分類。	他正在把他摘回來的菜做分類。	yau manmid aizipna tu niqaytamunan na.	他在他的菜。	yau aizipna semangi tu nialan na tu tamun.
+121	aizipna manmu ay timaikuan misis tu Ribang.	是他幫我提東西的。	是他幫我提東西的。	aizipna manmu ay timaikuan misis tu Ribang.	是他幫我拿東西的。	aizipna pabetutuz ay timaikuan.
+122	wama ti buya mapalana ku.	我只有等到Buya而已。	我只有等到Buya而已。	wama ti buya mapalana ku.	我只找到Buya。	ti buya qawka iku melana.
+123	biRi zau masulun tu zanum masalin pasalazing.	這片葉子跟著河水飄流到海邊。	這片葉子跟著河水飄流到海邊。	biRi zau masulun tu zanum masalin pasalazing.	這個白米用來接海鮮的水。	biRi zau masulun tu iRuR matiw sa lazing.
+124	masammed ni angaw tuRuz ku, taRaw.	我的背被Angaw捶打，很痛。	我的背被Angaw捶打，很痛。	masammed ni angaw tuRuz ku, taRaw.	Angaw我的背,很痛。	nipukun na ni angaw tuRuz ku, taRaw.
+125	masapsap ku ti tu sinbun takan 'nay.	那張桌子我已經用報紙鋪好了。	那張桌子我已經用報紙鋪好了。	masapsap ku ti tu sinbun takan 'nay.	我已經把那張桌子擦乾了。	nipalitan ku ti takan 'nay tu papay.
+126	qawitan na balis qudus ku, masebit ti.	我的衣服被鐵鉤到，就被撕破了。	我的衣服被鐵鉤到，就被撕破了。	qawitan na balis qudus ku, masebit ti.	我的衣服被鐵到,破掉了。	matikas na balis qudus ku, mabenaR ti.
+127	masuRaw ti taytan ku paRin 'nay.	我看到的時候那棵樹已經倒了。	我看到的時候那棵樹已經倒了。	masuRaw ti taytan ku paRin 'nay.	我看見那棵樹倒了。	taytan ku masebit ti paRin 'nay.
+128	manna masuksuk leppaw numi?	你們家為什麼被鎖住了？	你們家為什麼被鎖住了？	manna masuksuk leppaw numi?	你們的家為什麼要關門?	manna mabiseR leppaw numi?
+129	masuquR ni utay ti angaw, siunungan ti angaw.	Angaw被Utay打了一拳，Angaw就流鼻血。	Angaw被Utay打了一拳，Angaw就流鼻血。	masuquR ni utay ti angaw, siunungan ti angaw.	Utay罵Angaw,Angaw很。	nipukun na ni utay ti angaw, meRinang ti unung na.
+130	matangas ti beRas ta.	我們的米減少了。	我們的米減少了。	matangas ti beRas ta.	我們的白米已經割好了。	meRenem ti beRas niaq.
+131	matapus ku ti ta miyanan uzip 'nay.	那個生薑已經沾過鹽巴。	那個生薑已經沾過鹽巴。	matapus ku ti ta miyanan uzip 'nay.	那個巴的巴我已經用手扣住了。	maRisiw ti tu 'may qaypenayan 'nay.
+132	mateng ti isu tu baqi su ni?	妳向爺爺告別了嗎？	妳向爺爺告別了嗎？	mateng ti isu tu baqi su ni?	你已經跟你爺爺道別了嗎?	qatabuan su ti baqi ni?
+133	mai pama mateqas lupas, naRin ta kialan.	桃子還沒成熟，不要摘。	桃子還沒成熟，不要摘。	mai pama mateqas lupas, naRin ta kialan.	桃子還沒有熟,先不要拿。	mai pama mateqas parsiku, naRin qaypanay.
+134	matimmuR ku ti tiRuR 'nay.	我已經把那個雞蛋一口吞了。	我已經把那個雞蛋一口吞了。	matimmuR ku ti tiRuR 'nay.	那個洞我已經堵住了。	qamiteman ku ti tiRqi 'nay.
+135	matingiw peRasku 'nay, temibuq mabedung ti.	那個瓶子被碰到，掉下來，就破了。	那個瓶子被碰到，掉下來，就破了。	matingiw peRasku 'nay, temibuq mabedung ti.	那個瓶子搖動,掉下來就破了。	matingiw peRasku 'nay, bibiq, mabedung ti.
+136	metuRes lazat zau.	這個人耳朵聾了。	這個人耳朵聾了。	metuRes lazat zau.	這個人很。	melidad kayal na lazat zau.
+137	matuluz su ti aki paRasa tu tamun ni?	你有派遣Aki去買菜嗎？	你有派遣Aki去買菜嗎？	matuluz su ti aki paRasa tu tamun ni?	你叫Aki去買菜了嗎?	patungayan su ti aki paRasa tu tamun ni?
+138	matuttus na sunis nipaluma na tina ku tu sidi'.	我媽媽種的辣椒被小孩子拔掉。	我媽媽種的辣椒被小孩子拔掉。	matuttus na sunis nipaluma na tina ku tu sidi'.	我媽媽種的子被孩子拔出來了。	matutuz na sunis nipaluman na tina ku tu sidi'.
+139	mayni qaRunapawan su?	哪一位是你的未婚夫？	哪一位是你的未婚夫？	mayni qaRunapawan su?	你的公務員要去哪裡?	tiana ay lazat su?
+140	mazemun qaniyau, qanamu suqasan ta.	他們有很多人，我們怎麼可能贏他們。	他們有很多人，我們怎麼可能贏他們。	mazemun qaniyau, qanamu suqasan ta.	他們很多,我們要分五個。	mazemun lazat na qaniyau, naqunian niaq paqawRat timaizuan.
+141	me'tung tu lazat kaput ku mepulet ti.	我朋友殺人被關起來了。	我朋友殺人被關起來了。	me'tung tu lazat kaput ku mepulet ti.	我朋友打人就被關起來了。	mepatay kaput ku maRupu ti.
+142	melabu imu meRaRaRiw yau tapsung numi ni?	你們參加賽跑有獎品嗎？	你們參加賽跑有獎品嗎？	melabu imu meRaRaRiw yau tapsung numi ni?	你們有參加跑步的任何一個隊伍嗎?	yau tiRas numi simsuqas ni?
+143	naRin ti isu meRaimazuq, susuzep ti 'daq timaisuan.	妳別再傻，會被別人欺負。	妳別再傻，會被別人欺負。	naRin ti isu meRaimazuq, susuzep ti 'daq timaisuan.	你不要太誇張,別人會對你不好意思。	naRin qamuwaza, qaRebuqat ti tu lazat.
+144	yau meRamaz tina ku tu tamun sapaqanan tu labang.	我媽媽正在煮要給客人吃的菜。	我媽媽正在煮要給客人吃的菜。	yau meRamaz tina ku tu tamun sapaqanan tu labang.	我媽媽正在煮菜要給客人吃。	yau taRmawan tina ku tu sapaqanan na labang.
+145	meRames tu qawpiR nisammayan ku tu 'may.	我煮的飯加了地瓜。	我煮的飯加了地瓜。	meRames tu qawpiR nisammayan ku tu 'may.	他用地瓜煮我煮的飯。	pasusuRan ku tu qawpiR niRamaz ku tu 'may.
+146	manna qaqa su meRamus!	你姐姐嘟著嘴怎麼啦！	你姐姐嘟著嘴怎麼啦！	manna qaqa su meRamus!	你哥哥為什麼要!	qemuRat qaqa su manna!
+147	meRasukaw aizipna, taRta mai tu kaput.	他很兇，所以沒有朋友。	他很兇，所以沒有朋友。	meRasukaw aizipna, taRta mai tu kaput.	他很貧窮,所以沒有朋友。	meRamuti aizipna, taRta mai tu kaput.
+148	meRawsud ay lazat 'nay ni?	那個人沒有子孫嗎？	那個人沒有子孫嗎？	meRawsud ay lazat 'nay ni?	那個人是大子嗎?	mai tu sunis lazat 'nay ni?
+149	meRibabaw patudan tu nengi nisekinan na ay pataqsian.	老師偏袒考試考的好的學生。	老師偏袒考試考的好的學生。	meRibabaw patudan tu nengi nisekinan na ay pataqsian.	老師考試考的成績很好。	meRuzik patudan tu nengi nisekingan ay pataqsian.
+150	meRisun tu lazat sidi' zau.	這個辣椒會嗆人。	這個辣椒會嗆人。	meRisun tu lazat sidi' zau.	這個是用來磨人。	meRuzik qenabed zau.
+151	meRiz meRunaynay ta taynan.	台南的平原很廣。	台南的平原很廣。	meRiz meRunaynay ta taynan.	田裡長的很窄。	tabay pennayan na tiyanan.
+152	meRutengu ti niduddan na qabaw.	被牛打滾的地方變牛浴池了。	被牛打滾的地方變牛浴池了。	meRutengu ti niduddan na qabaw.	牛的子變瘦了。	masebang ti nibetiqan na qabaw.
+153	mebakes izip na qaqa ku.	我哥哥的身體很強壯。	我哥哥的身體很強壯。	mebakes izip na qaqa ku.	我哥哥的身體很。	qeseR izip na qaqa ku.
+154	mebangti ti tamun 'nay, naRin ti qanan.	那個菜臭酸了，不要吃了。	那個菜臭酸了，不要吃了。	mebangti ti tamun 'nay, naRin ti qanan.	那個菜臭酸了,不要吃了。	bangti ti tamun 'nay, naRin ti qanan.
+155	mebawa aizipna tu sunis, aiku pa misis ay tu Ribang 'nay.	他在抱小孩，我來提那個東西。	他在抱小孩，我來提那個東西。	mebawa aizipna tu sunis, aiku pa misis ay tu Ribang 'nay.	他抱著孩子,那個東西我要拿走。	mebawa aizipna tu sunis, aiku pa misis ay tu Ribang 'nay.
+156	mebuRaw iku tu kelaba pasa iRuR.	我把鴨子趕到河邊去。	我把鴨子趕到河邊去。	mebuRaw iku tu kelaba pasa iRuR.	我把子丟到河裡去了。	buRaw iku tu mulu matiw sa iRuR.
+157	yau mebuRaw tu siziz suani ku.	我的弟弟正在趕羊。	我的弟弟正在趕羊。	yau mebuRaw tu siziz suani ku.	我妹妹正在洗。	mebuRa tu sizi suani ku.
+158	naRin mawtu pasazi mebuRibuR.	不要來這裡攪局。	不要來這裡攪局。	naRin mawtu pasazi mebuRibuR.	不要到這裡亂來。	naRin mawtu tazian semusuR.
+159	mebuiq ti mulay 'nay nengi taytan.	那朵花開了非常好看。	那朵花開了非常好看。	mebuiq ti mulay 'nay nengi taytan.	那朵花掉下來很好看。	mekudat simau 'nay nengi taytan.
+160	mebuqaRes iku melusit semaqsaqay.	我很懶的出去玩。	我很懶的出去玩。	mebuqaRes iku melusit semaqsaqay.	我跳躍的出去玩。	meRazes iku matiw semaqsaqay.
+161	medaud pama saqaseqan ta, qalazuk pa ita semaqay.	我們離目的地還很遠，我們要走快一點。	我們離目的地還很遠，我們要走快一點。	medaud pama saqaseqan ta, qalazuk pa ita semaqay.	我們要走的路還很遠,我們快一點走。	daud pama ita semangi tu nisasayan, qasiR pa imi semaqay.
+162	melaqaw nisikawman su.	你說的話有缺失。	你說的話有缺失。	melaqaw nisikawman su.	你說的話超了。	satangan nisikawman su.
+163	melaqaw niala ku tu Ribang.	我拿錯東西了。	我拿錯東西了。	melaqaw niala ku tu Ribang.	我拿的東西漏了。	melisaw iku mala tu Ribang ku.
+164	melatis tu iRuR qawka maseq tu bawbi na.	要涉水過河才能到達他的菜園。	要涉水過河才能到達他的菜園。	melatis tu iRuR qawka maseq tu bawbi na.	穿越河才會到他的菜園。	qatuRiRan ta iRuR qawka mawtu bawbi na.
+165	melatus ti saRiq na baqi ku.	我爺爺的刀磨損了。	我爺爺的刀磨損了。	melatus ti saRiq na baqi ku.	我爺爺的刀長裂了。	melabed ti saRiq na baqi ku.
+166	naRin melaydaw timaikuan, Raya ti iku.	請不要擔心我，我已經長大了。	請不要擔心我，我已經長大了。	naRin melaydaw timaikuan, Raya ti iku.	不要煩我,我大了。	naRin melaydaw timaikuan, Raya ti iku.
+167	melaziw ti tu utatani tasaw qawka maqapaR ti utay.	經過了好幾年Utay才被抓到。	經過了好幾年Utay才被抓到。	melaziw ti tu utatani tasaw qawka maqapaR ti utay.	Utay 過了一個八年才抓到他。	qasawiRan ti niqapaR ti utay.
+168	melilikaw lazan, satawaR ka pasaqay tu qitun.	道路彎來彎去，開車時要小心。	道路彎來彎去，開車時要小心。	melilikaw lazan, satawaR ka pasaqay tu qitun.	路偏斜,開車要小心。	qangisiw lazan, satawaR ka pasaqay tu qitun.
+169	Rayngu melinamaw ta zanuman nisangian ku tu bawa'.	我作的船無法飄浮在水上。	我作的船無法飄浮在水上。	Rayngu melinamaw ta zanuman nisangian ku tu bawa'.	我做的船不能在水裡浮。	Rayngu pasaRuR tu zanum nisangian ku bawa'.
+170	manmu iku melinaw tu kaysing.	我在鞤忙洗碗。	我在鞤忙洗碗。	manmu iku melinaw tu kaysing.	我幫忙倒碗。	meliyabala iku qaybasi tu kaysing.
+171	meliququ sunis 'nay temalumbi ta tuqus na lineng.	那個小孩捲曲著身體躲在牆角處。	那個小孩捲曲著身體躲在牆角處。	meliququ sunis 'nay temalumbi ta tuqus na lineng.	那個小孩躲在牆壁的下面逃跑。	melikaw sunis 'nay temalumbi ta tuqtuqan na lineng.
+172	melizeqzeq ti melanay na zanum, nengi ti qaRuan mala.	水裡的泥土沈澱了，可以舀水了。	水裡的泥土沈澱了，可以舀水了。	melizeqzeq ti melanay na zanum, nengi ti qaRuan mala.	水泥已經水了,可以挖起來了。	melinemnem ti melanay ta zanuman, nengi ti sauzisan.
+173	meluqaluq ti bangRaw ku.	我的牙鬆動了。	我的牙鬆動了。	meluqaluq ti bangRaw ku.	我的牙裂開了。	melulaw ti bangRaw ku.
+174	azu iku semingu tu meluwaq ay.	我好像聞到屍臭味	我好像聞到屍臭味	azu iku semingu tu meluwaq ay.	我好像在摸。	azu iku semingut tu mepatay ay.
+175	menanam iku taRbabi muzis tu tuRpus ay zanum.	我習慣早上洗冷水。	我習慣早上洗冷水。	menanam iku taRbabi muzis tu tuRpus ay zanum.	我習慣早上洗水。	menanam iku qaybasi tu saRabi ay zanum.
+176	menebi aizipna tu Ribang.	他在藏東西。	他在藏東西。	menebi aizipna tu Ribang.	他把東西藏起來。	temalumbi aizipna tu Ribang.
+177	mengasan mawtu aizipna, munna ti iku matiw sa taqsian.	他很慢來，我先去學校了。	他很慢來，我先去學校了。	mengasan mawtu aizipna, munna ti iku matiw sa taqsian.	他先來,我先去學校了。	qangasan aizipna mawtu, kunna ti iku matiw sa taqsian.
+178	melizaq meniyus tama ku.	我的爸爸很喜歡吹口哨。	我的爸爸很喜歡吹口哨。	melizaq meniyus tama ku.	我爸爸很喜歡穿長袖。	melizaq pazik tama ku.
+179	mepatay ti saku zau zin ku kasianem, timangu binnus pama.	我以為這隻貓死了，結果還活著。	我以為這隻貓死了，結果還活著。	mepatay ti saku zau zin ku kasianem, timangu binnus pama.	我以為這隻貓死了,還活著。	qataytuan iku tu saku zau, qawka qenabinnus pama.
+180	mepuniR ti zanum na bekisi su.	你水桶的水滿了。	你水桶的水滿了。	mepuniR ti zanum na bekisi su.	你水桶的水已經滿了。	puniR ti zanum na bekisi su.
+181	matiw iku sa zenna meqapaR tu biyat.	我到田裡抓青蛙。	我到田裡抓青蛙。	matiw iku sa zenna meqapaR tu biyat.	我到田裡去抓白米。	matiw iku sa zenna qayqabay.
+182	Raya senipung ta naungan, mai meqita lazan semaqay.	山上的霧很重，走路時都看不到路。	山上的霧很重，走路時都看不到路。	Raya senipung ta naungan, mai meqita lazan semaqay.	山上的風很大,路走的不見了。	zinneq ta naungan, mai ti meqayta lazan semaqay.
+183	mawtu isu tazian, naRin mesikaz.	你來到這裡，就不要不好意思。	你來到這裡，就不要不好意思。	mawtu isu tazian, naRin mesikaz.	你來這裡,不要不好意思。	mawtu isu pasazi, naRin siqawsikaz.
+184	manna metawa aisu timaikuan?	你為什麼笑我？	你為什麼笑我？	manna metawa aisu timaikuan?	你為什麼對我大笑?	manna qayraqan su iku?
+185	metub aizipna tu tub na peRasku.	他蓋瓶子的蓋子。	他蓋瓶子的蓋子。	metub aizipna tu tub na peRasku.	他在堵瓶蓋。	tubung na peRasku aizipna.
+186	mewakawak iku matiw sa leppaw na.	我空手去她家。	我空手去她家。	mewakawak iku matiw sa leppaw na.	我著手去他家。	sikaya iku matiw sa leppaw na.
+187	mai ta leppawan aizipna, wi mewalin tu RusRus aizipna.	他不在，他去丟垃圾。	他不在，他去丟垃圾。	mai ta leppawan aizipna, wi mewalin tu RusRus aizipna.	他不在家裡,他丟他的垃圾。	mai aizipna, walin na tu RusRus.
+188	pibulan mezamu tazungan.	每個月女人有月事。	每個月女人有月事。	pibulan mezamu tazungan.	女人家有月事。	pitemawaR satiam na tazungan.
+189	mezazzam imi tu lazat na Raqi ta ta lazanan.	我們在路上趕上部落的人。	我們在路上趕上部落的人。	mezazzam imi tu lazat na Raqi ta ta lazanan.	我們在路上罵孩子們。	qemapaR imi tu lazat na damu ta lazanan.
+190	taRbabi semuRap mezukat ti tama ku.	我爸爸早上很早就出去了。	我爸爸早上很早就出去了。	taRbabi semuRap mezukat ti tama ku.	我的爸爸早上一大早就出來了。	kalamaz ti tama ku taRbabi mezukat ti.
+191	missi lazat pilay semaqay.	人胖走路很累。	人胖走路很累。	missi lazat pilay semaqay.	人跌倒時走路很困難。	Rutuz ay lazat pilay semaqay.
+192	mai pama tebaRi mutideng 'nay naRin alan qeman.	那蕃茄還沒紅不要拿來吃。	那蕃茄還沒紅不要拿來吃。	mai pama tebaRi mutideng 'nay naRin alan qeman.	那還沒有開花不要拿來吃。	mai pama mubena tenad 'nay naRin alan qanan.
+193	muzenus nitabu su tu tamun tuRang ika tabu na.	你包的菜流出湯汁了請加裝袋子。	你包的菜流出湯汁了請加裝袋子。	muzenus nitabu su tu tamun tuRang ika tabu na.	你包的菜太重把它蓋起來。	melulawa ti nibataRan su tu tamun putiki ika.
+194	tub na peRasku zau.	這是瓶子的蓋子。	這是瓶子的蓋子。	tub na peRasku zau.	這是瓶子的蓋子。	lubung na peRasku zau.
+195	pasaRiway tu nanleppaw ay sukaw.	讓夫妻離婚不好。	讓夫妻離婚不好。	pasaRiway tu nanleppaw ay sukaw.	家裡的垃圾要拆掉。	sukaw paqataRu ay tu pakungku.
+196	nanzusa aimi qeman tu mulu bisuR ti.	我們每人吃兩個橘子就飽了。	我們每人吃兩個橘子就飽了。	nanzusa aimi qeman tu mulu bisuR ti.	我們兩位吃子就飽了。	uzusa mulu qeman imi meniz ti.
+197	qatiw ka ta naqangan qaypasku.	到棚架上摘絲瓜。	到棚架上摘絲瓜。	qatiw ka ta naqangan qaypasku.	去谷摘花生。	qaysingu ka ta saqadisan.
+198	dasam a nasan sinap ika.	庭院很髒亂去掃一掃。	庭院很髒亂去掃一掃。	dasam a nasan sinap ika.	屋內很去掃一掃。	pispis ta bawbian sinap ika.
+199	nawsiRab iku temana.	我前幾天回來的。	我前幾天回來的。	nawsiRab iku temana.	我一整天做。	siRab ti iku manan.
+200	nengian ku aizipna, melizaq timaikuan.	我對他好，他很喜歡我。	我對他好，他很喜歡我。	nengian ku aizipna, melizaq timaikuan.	我很喜歡他,他也很喜歡我。	nengi iku timaizipana, melizaq aizipna timaikuan.
+201	yau ti ngulisan ti ipay kelawkaway.	Ipay在Ngulis那裡工作。	Ipay在Ngulis那裡工作。	yau ti ngulisan ti ipay kelawkaway.	Ipay已經退休的工作了。	yau ti ingulis kelawkaway ni ipay.
+202	palana ka isu ta nguzusan.	我在峽灣處等你。	我在峽灣處等你。	palana ka isu ta nguzusan.	你在洞裡等。	yau iku ta bakung melana timaisuan.
+203	nengi qanan niRamaz na tina ku tu tamun.	我媽媽煮的菜很好吃。	我媽媽煮的菜很好吃。	nengi qanan niRamaz na tina ku tu tamun.	我媽媽煮的菜很好吃。	nengi qanan nisammay na tina ku tu tamun.
+204	niRapisan ni tiana paRin zau?	這根樹枝是誰折斷的？	這根樹枝是誰折斷的？	niRapisan ni tiana paRin zau?	這是誰的木頭?	tiana meRukez ay tu paRin zau?
+205	mai pama paliway tu niRapsian na tu qaytun ku.	他還沒有賠我壞損我車子的錢。	他還沒有賠我壞損我車子的錢。	mai pama paliway tu niRapsian na tu qaytun ku.	他還沒有換我車子的價錢。	mai pama patadikud na tu kelisiw na qitun ku.
+206	niRaysauRan ni buya siRab baut zau.	這是Buya昨天捕到的飛魚。	這是Buya昨天捕到的飛魚。	niRaysauRan ni buya siRab baut zau.	這是昨天Buya所釣的魚。	niqapaR ti buya siRab baut zau.
+207	niRiRian su paRin zau ni?	這是你鋸的木頭嗎？	這是你鋸的木頭嗎？	niRiRian su paRin zau ni?	這是你的木頭嗎?	nitikas su paRin zau ni?
+208	nibanaw ku zapan na suani ku.	我弟弟的腳是我幫他洗的。	我弟弟的腳是我幫他洗的。	nibanaw ku zapan na suani ku.	我洗過我妹妹的腳。	aiku pabanaw tu zapan na suani ku.
+209	nibuRawan ku wasu 'nay temadikud uman.	被我趕走的那隻狗又回來了。	被我趕走的那隻狗又回來了。	nibuRawan ku wasu 'nay temadikud uman.	那隻又重新開跑的狗是我趕走的。	nibuRaw ku wasu 'nay temanan ti muman.
+210	nidasidas ni tiana melanay zau?	這是誰整平的的地？	這是誰整平的的地？	nidasidas ni tiana melanay zau?	這是誰的地?	nipasaRangan ni tiana melanay zau?
+211	niipitan ku tamun tiana qeman ay?	誰吃掉了我夾好的菜？	誰吃掉了我夾好的菜？	niipitan ku tamun tiana qeman ay?	我的菜誰吃的?	tiana qeman tu nipaRtik ku tu tamun?
+212	nikalingunan ku qawsua yau tazian.	我忘記帶回去的傘原來在這裡。	我忘記帶回去的傘原來在這裡。	nikalingunan ku qawsua yau tazian.	這裡是我遺失的雨衣。	kalingun ti iku patanan siqaR tazian ay.
+213	nikanisan ku saqawRatan zau.	這個玩遊戲的線是我畫的。	這個玩遊戲的線是我畫的。	nikanisan ku saqawRatan zau.	這是我玩得很累的遊戲。	nisatezayan ku qenaRiw na saqawRatan zau.
+214	nikapetan ku ay paRin naRin imetan.	我抓過的木頭不要再摸它。	我抓過的木頭不要再摸它。	nikapetan ku ay paRin naRin imetan.	我的木頭不要緊一點。	niqapaRan ku paRin ti imatan tu paRin 'nay.
+215	nikilasan ni tiana kukuy zau?	這個蛋糕是誰切的？	這個蛋糕是誰切的？	nikilasan ni tiana kukuy zau?	這是誰切的糖果?	tiana meRisiw ay tu kukuy zau?
+216	nikulikuzan ku siRab aizipna sa naung.	我昨天跟過他去山上。	我昨天跟過他去山上。	nikulikuzan ku siRab aizipna sa naung.	我昨天跟他到山上去了。	nikikutan ku aizipna siRab matiw sa naung.
+217	niluwasan ku bedes na baut zau.	這條魚的肚子是我剖開的。	這條魚的肚子是我剖開的。	niluwasan ku bedes na baut zau.	這條魚的肚子是我解開的。	nisikas ku bedes na baut zau.
+218	mai iku sazmaken tu ninangisan na lazat 'nay.	我不相信那個人所發的誓言。	我不相信那個人所發的誓言。	mai iku sazmaken tu ninangisan na lazat 'nay.	我不知道那個人哭什麼。	mai iku sazmaken tu nipalesan na lazat 'nay.
+219	tiana mala ay tu ninebian ku tu kelisiw?	誰把我藏起來的錢拿走了？	誰把我藏起來的錢拿走了？	tiana mala ay tu ninebian ku tu kelisiw?	我藏的錢誰拿走了?	tiana mala tu nilimengan ku tu kelisiw?
+220	nipaRitan ku tu babuy ay Rais nian ti?	我綁豬的繩子那裡去了？	我綁豬的繩子那裡去了？	nipaRitan ku tu babuy ay Rais nian ti?	我綁的豬索哪裡去了?	niRitan ku qelizen na babuy pasani ti?
+221	nipalezan su lazat 'nay manan ti.	你留住的那個人回去了。	你留住的那個人回去了。	nipalezan su lazat 'nay manan ti.	你叫的那個人回去了。	nipuletan su lazat 'nay temanan ti.
+222	nipasaiya na tina ku Ribang zau.	這是我媽媽準備好的東西。	這是我媽媽準備好的東西。	nipasaiya na tina ku Ribang zau.	這是我媽媽送來的東西。	nipasammayan na tina ku Ribang zau.
+223	nipaskan ku ti qeman nengi qanan.	我試吃過很好吃。	我試吃過很好吃。	nipaskan ku ti qeman nengi qanan.	我吃過一次很好吃。	paska iku nengi qanan.
+224	nipaskan ku ti simsanu, wanayka taqa simsanuan aizipna.	我試著跟他說過了，但是他不想跟我說。	我試著跟他說過了，但是他不想跟我說。	nipaskan ku ti simsanu, wanayka taqa simsanuan aizipna.	我跟他說過話,但他就不說。	paskawan ku ti semanu timaizipana, mai ngid semanu timaikuan.
+225	Rayngu ti iku semngaz tu nipatezan su.	你壓的我喘不過氣了。	你壓的我喘不過氣了。	Rayngu ti iku semngaz tu nipatezan su.	我不再懷念你放的。	mesiyun ku nipaRet su.
+226	ta qudusan ku ay adam nipatikan na tina ku.	我衣服上的鳥是媽媽繡的。	我衣服上的鳥是媽媽繡的。	ta qudusan ku ay adam nipatikan na tina ku.	我媽媽打的鳥在我的衣服上。	nitangan na tina ku adam ta qudus ku.
+227	nipatuqedan ku lazat 'nay.	我跟那個人吵過架。	我跟那個人吵過架。	nipatuqedan ku lazat 'nay.	那個人是我安撫的。	matuqed iku tu lazat 'nay.
+228	nipitiRan su sapaR 'nay temibuq muman.	你釘的木板又掉下來了。	你釘的木板又掉下來了。	nipitiRan su sapaR 'nay temibuq muman.	你釘的那個木板又掉下來。	nipitunan su sapaR 'nay mesuRaw muman.
+229	nipizi na tama ku kelisiw 'nay.	那是我爸爸放的錢。	那是我爸爸放的錢。	nipizi na tama ku kelisiw 'nay.	那是我爸爸放的錢。	nisepaw na tama ku kelisiw 'nay.
+230	nipusipusan ku tupu zau busaR ti.	這個麻布被我搓洗得很白了。	這個麻布被我搓洗得很白了。	nipusipusan ku tupu zau busaR ti.	我放的這個貓頭鷹已經白了。	nibasi ku lawa zau busaR ti.
+231	niputen ni tiana paRin zau? medadus ti.	這是誰捆綁的木材？鬆掉了。	這是誰捆綁的木材？鬆掉了。	niputen ni tiana paRin zau? medadus ti.	這是誰壓的木頭?都了。	nibetbet ni tiana paRin zau? buRaw ika.
+232	patuRqan ti ipay tu niqapatay ni umus.	Ipay 在為Umus 進行死後的送亡靈儀式。	Ipay 在為Umus 進行死後的送亡靈儀式。	patuRqan ti ipay tu niqapatay ni umus.	Ipay把Umus殺的屍體遺失了。	pasimutuR ti ipay tu qenabinnus na ni umasan.
+233	niqatazayan ku ta lazanan aizipna.	我在路上遇見過他。	我在路上遇見過他。	niqatazayan ku ta lazanan aizipna.	我在路上遇到他。	matazay ku ti aizipna ta lazanan.
+234	niqawRatan su ay Ribang nimen ika!	你玩過的東西收起來！	你玩過的東西收起來！	niqawRatan su ay Ribang nimen ika!	你玩的東西拿出來!	qipit ika niqayawan su!
+235	muwaza niqaybadas niaq.	我們採了很多楊桃豆。	我們採了很多楊桃豆。	muwaza niqaybadas niaq.	我們的很多。	muwaza niqayalan niaq tu lingkung.
+236	niqaysimau niaq ta naungan zau.	這是我們在山上摘的花。	這是我們在山上摘的花。	niqaysimau niaq ta naungan zau.	我們在這個山上採了很多。	niqampas niaq ta naungan simau zau.
+237	niqilan ku lazat 'nay, mai ti mawtu.	我罵過那個人，再也沒有來了。	我罵過那個人，再也沒有來了。	niqilan ku lazat 'nay, mai ti mawtu.	我跟過那個人,他就沒有來了。	niqilan ku lazat 'nay, mai ti mawtu.
+238	niquRasan na tina ku zau, nipaqangi menimen.	這是我媽媽除的草，整理的很棒。	這是我媽媽除的草，整理的很棒。	niquRasan na tina ku zau, nipaqangi menimen.	這是我媽媽的,很好喝。	nisaksakan na tina ku suway zau, nengi nisapun na.
+239	nisalaw na tama ku baby na naung zau.	這隻山豬是我爸爸打獵獵到的。	這隻山豬是我爸爸打獵獵到的。	nisalaw na tama ku baby na naung zau.	這是我爸爸送的山豬魚。	nibana na tama ku temanuz babuy na naung zau.
+240	nisanaquan ti Rayngu pama isu?	示範過你還不會嗎？	示範過你還不會嗎？	nisanaquan ti Rayngu pama isu?	你已經做過一個不了嗎?	pasaniRan su ti mai pama ni?
+241	nisaqutan ku paRin zau nizi ta naungan.	這是我從山上搬回來的木頭。	這是我從山上搬回來的木頭。	nisaqutan ku paRin zau nizi ta naungan.	這個木頭是我從山上起來的。	niRausan ku nizi ta naungan paRin zau patanan.
+242	nisawkian ku meRisiw suway zau.	這是我用鐮刀砍的草。	這是我用鐮刀砍的草。	nisawkian ku meRisiw suway zau.	這是我一次砍的草。	nikisapan ku tu saRiq suway zau.
+243	mai ti maput unung ku, nengi ti nisengazan ku.	我鼻塞好了，我呼吸變順了。	我鼻塞好了，我呼吸變順了。	mai ti maput unung ku, nengi ti nisengazan ku.	我的鼻子沒有被關起來了,我已經給他洗過了。	matapu ti unung ku, nengi ti iku sumngaz.
+244	niana nisikawman na? mai maipil ku.	他在說什麼？我聽不到。	他在說什麼？我聽不到。	niana nisikawman na? mai maipil ku.	他說什麼?我聽不到。	niana sikawma na? mai qaipil ku.
+245	puli nisipit na kaput ku tu penaniyan ku.	我的大腿被我的朋友擰得瘀青。	我的大腿被我的朋友擰得瘀青。	puli nisipit na kaput ku tu penaniyan ku.	我的腿被我的朋友捏成塊。	maqeRetan na kaput ku penaniyan ku.
+246	nisuanem niaq tu baqi ku kelisiw zau.	這個錢是我們用手段騙我爺爺的。	這個錢是我們用手段騙我爺爺的。	nisuanem niaq tu baqi ku kelisiw zau.	這是我們曾經爺的錢。	niRausan niaq kelisiw zau tu baqi ku.
+247	nisusuz ti qitun su ni?	你的車子移開了嗎？	你的車子移開了嗎？	nisusuz ti qitun su ni?	你的車子已經停了嗎?	matalin ti qitun su ni?
+248	nitemaqan ku siRab suway zau.	這是我昨天燒過的草。	這是我昨天燒過的草。	nitemaqan ku siRab suway zau.	這是我昨天燒的草。	niRunisan ku siRab suway zau.
+249	aiku meRasa tu nitengan ni utay zenna.	Utay 抵押的田地是我買下來的。	Utay 抵押的田地是我買下來的。	aiku meRasa tu nitengan ni utay zenna.	我買了Utay的田。	nipatabu ku ti utay tu zenna.
+250	nitepuqan ku paRin 'nay kisasa.	那棵木頭我砍過作記號。	那棵木頭我砍過作記號。	nitepuqan ku paRin 'nay kisasa.	那是我一拳砍的木頭。	nikitan ku ti paRin 'nay sazakenan.
+251	taRaw nitimakan na uzan.	雨水滴的很痛。	雨水滴的很痛。	taRaw nitimakan na uzan.	下來的雨很痛。	taRaw nitann na uzan.
+252	tiana nitiqtiq zau senalazat ay bettu?	這個石頭人偶是誰雕的？	這個石頭人偶是誰雕的？	tiana nitiqtiq zau senalazat ay bettu?	這塊被起的石頭是誰敲的?	tiana nikitkitan ta bettu ay utuzan zau?
+253	nituluzan na tawki aizipna paqatiw simsanu tu lanas ay.	他是老闆派去商量事情的人。	他是老闆派去商量事情的人。	nituluzan na tawki aizipna paqatiw simsanu tu lanas ay.	他是被老派去商量事情的。	nituluzan na baqi aizipna pakalan tu lanas.
+254	nituttuan na mazemun ay kelisiw zau.	這是大家捐出來的錢。	這是大家捐出來的錢。	nituttuan na mazemun ay kelisiw zau.	這是很多人漏的錢。	nitungaw na mazemun ay kelisiw zau.
+255	niuzisan ku ti zanum zau.	這是我洗過的水。	這是我洗過的水。	niuzisan ku ti zanum zau.	我已經洗過這個水了。	nibanawan ku zanum zau.
+256	niwalinan ku tu qudus, manna alan su muman patanan?	我丟的衣服你怎麼又拿回來？	我丟的衣服你怎麼又拿回來？	niwalinan ku tu qudus, manna alan su muman patanan?	我丟的衣服,你怎麼又拿回來?	nibawanan ku qudus manna patanan su muman?
+257	samumus tu uzusa niyazing, Rubatang tulis na.	石鯛魚有兩條鬚，顏色很好看。	石鯛魚有兩條鬚，顏色很好看。	samumus tu uzusa niyazing, Rubatang tulis na.	他雙眼睛,顏色很亮。	sapuRuaq belawan, nengi taytan lubung na.
+258	nizimutan ku tamun zau.	這是我夾的菜。	這是我夾的菜。	nizimutan ku tamun zau.	這是我的菜。	nipaRtik ku tamun zau.
+259	paRebeng ika ti angaw tu lazat 'nay.	叫Angaw監視那個人。	叫Angaw監視那個人。	paRebeng ika ti angaw tu lazat 'nay.	叫Angaw把那個人掩蓋。	pakala ika ti angaw tu lazat 'nay.
+260	paRemeq ka tu mammaq ay zanum sauzisan ku.	去燒我要洗澡用的熱開水。	去燒我要洗澡用的熱開水。	paRemeq ka tu mammaq ay zanum sauzisan ku.	讓我洗用的水冷一下。	puRamaz ka sauzisan ku tu mammaq ay zanum.
+261	paRitan su zapan ku, naquni aka semaqay?	你把我的腳綁起來，我怎麼走路？	你把我的腳綁起來，我怎麼走路？	paRitan su zapan ku, naquni aka semaqay?	你把我的腳綁起來,我怎麼走?	paRitan su zapan ku, naquni aka semaqay?
+262	paRiyub iku tu satutuan na.	他的中餐我替他準備好了。	他的中餐我替他準備好了。	paRiyub iku tu satutuan na.	我叫他他的菜。	pakalapuan ku ti satutu na.
+263	paRtik ika kelibakib 'nay nengi qanan.	那個山蘇用炒的很好吃。	那個山蘇用炒的很好吃。	paRtik ika kelibakib 'nay nengi qanan.	那個菜一點很好吃。	niRamesan na melimu 'nay nengi qanan.
+264	paRuRunan ku tu tina ku tu sedayu.	我叫我媽媽幫我捲草蓆。	我叫我媽媽幫我捲草蓆。	paRuRunan ku tu tina ku tu sedayu.	我叫我媽媽草。	paRausan ku tu tina ku sedayu.
+265	pabiteR ika benina zau qawka mala.	讓香蕉飽滿之後才拿。	讓香蕉飽滿之後才拿。	pabiteR ika benina zau qawka mala.	把香弄碎才可以拿。	paqamuR ika benina qawka alan.
+266	pabuRibuR ika ti angaw ta qaniyauan.	叫Angaw攪他們的局。	叫Angaw攪他們的局。	pabuRibuR ika ti angaw ta qaniyauan.	叫Angaw把他們分開來。	pakawit ika ti angaw tu qaniyau.
+267	nipaRitan ku tu qelizen, pabukian ku ti tu sunis.	我叫孩子把我綁的繩子鬆綁了。	我叫孩子把我綁的繩子鬆綁了。	nipaRitan ku tu qelizen, pabukian ku ti tu sunis.	我綁的線,我讓孩子打了。	palapusan ku ti tu sunis nipaRit ku tu qelizen.
+268	padames ika semuzuq qawka matangan.	要用力的推才能打開。	要用力的推才能打開。	padames ika semuzuq qawka matangan.	要加力推才會很容易打。	qangisiw ika tuRuz qawka matangi.
+269	Rayngu isu padames semuzuq ni?	你不會用力推嗎？	你不會用力推嗎？	Rayngu isu padames semuzuq ni?	你不會用力推嗎?	Rayngu isu padudut ni?
+270	kilim pa iku tu padiatipan mediatip timaisuan	我請看護來照顧你。	我請看護來照顧你。	kilim pa iku tu padiatipan mediatip timaisuan	我要找醫生照顧你。	paRawan ku ti pasangi ay timaisuan.
+271	pakalan su ti tamus su ni?	你的戒子找到了嗎？	你的戒子找到了嗎？	pakalan su ti tamus su ni?	你的戒指被你找到了嗎?	makalan su lingkung ni?
+272	tiana nengi waway na ay pakawlahan na patudan.	誰品行良好老師會給獎品。	誰品行良好老師會給獎品。	tiana nengi waway na ay pakawlahan na patudan.	誰最好教的樣子。	tiana nengi sinananam patudan mala tu passan.
+273	Raya ti sunis 'nay pakedis pama tu punuz na.	那個小孩己經很大了還要讓人幫他擦屁股。	那個小孩己經很大了還要讓人幫他擦屁股。	Raya ti sunis 'nay pakedis pama tu punuz na.	那個小孩大了還要股。	Raya ti sunis 'nay pasuppaR ika punuz na.
+274	pasani pa isu? qatiw pa iku qalabu tu pakelang na kemikung.	你要去哪裡？我要去參加完婚的慶功宴。	你要去哪裡？我要去參加完婚的慶功宴。	pasani pa isu? qatiw pa iku qalabu tu pakelang na kemikung.	你要去哪裡? 我要去收藏女朋友的遺言。	pasani pa isu? qatiw pa iku satutuzan tu kikung.
+275	pakunkun ika tu qaqa su tusungan su.	叫你姐姐幚你捲袖子。	叫你姐姐幚你捲袖子。	pakunkun ika tu qaqa su tusungan su.	叫你哥哥幫你編線你的指南。	paRtik ika tu qaqa su semub na tusungan su.
+276	tazian ay baut nengi palawisan.	這裡的魚很好釣。	這裡的魚很好釣。	tazian ay baut nengi palawisan.	這裡的魚可以釣。	nengi Raybaut ay baut tazian.
+277	tuqiq pa iku tu punuz na sunis palikeneng ika.	我要在孩子的屁股打針別讓她動。	我要在孩子的屁股打針別讓她動。	tuqiq pa iku tu punuz na sunis palikeneng ika.	我要刺孩子的股讓他放心。	suquz pa iku ta punuz na sunis naRin paqusaqan.
+278	palilinan qawtu ka meniz.	祭祖的時候全部的人都要一起來。	祭祖的時候全部的人都要一起來。	palilinan qawtu ka meniz.	全部都用線過來。	ta qenabetuyan Raqit meniz pa matiw.
+279	palinemneman su bawa' su, naqunian su pa ti Raybaut?	你把你的船弄沉了，那你怎麼去捕魚？	你把你的船弄沉了，那你怎麼去捕魚？	palinemneman su bawa' su, naqunian su pa ti Raybaut?	你把船沉下去,你怎麼做才會捕魚?	suReman su bawa' su, manna qatiw isu melawis?
+280	palingian ku tina ku tu sunis ku.	我叫我的媽媽顧我的孩子。	我叫我的媽媽顧我的孩子。	palingian ku tina ku tu sunis ku.	我叫我媽媽照顧我的孩子。	patingian ku tina ku tu sunis ku.
+281	taqa paliway tu kelisiw timaikuan.	不想借錢給我。	不想借錢給我。	taqa paliway tu kelisiw timaikuan.	不要借我錢。	taqa ngid paliway timaikuan tu kelisiw.
+282	nipaluman ni tiana lihum zau?	這個紅豆是誰種的？	這個紅豆是誰種的？	nipaluman ni tiana lihum zau?	這是誰種的紅豆?	tiana meluma lihum zau?
+283	palunan ku bawa' 'nay pasa waRi.	我把那條船划到外海。	我把那條船划到外海。	palunan ku bawa' 'nay pasa waRi.	我把那條船拖到海邊。	pasawayan ku bawa' 'nay sa lazing.
+284	paluwasan na ti tama ku pineng na.	我爸爸已經動過膽手術。	我爸爸已經動過膽手術。	paluwasan na ti tama ku pineng na.	我爸爸已經把他的牙打開了。	mapaliwan ti tama ku tu qelizen.
+285	sapazengan na paluzit lima na ni angaw.	Angaw故意把自己的手受傷。	Angaw故意把自己的手受傷。	sapazengan na paluzit lima na ni angaw.	Angaw的手被他傷得很慘。	sapazengan ni angaw melabut lima na.
+286	pamissi ika babuy zau qawka baliw.	把這隻豬養肥一點再賣出去。	把這隻豬養肥一點再賣出去。	pamissi ika babuy zau qawka baliw.	把這個豬切開之後才可以賣。	paRinang ika babuy zau qawka baliwan.
+287	samumus ta pangian na qaqa ku.	我哥哥的痣上有毛。	我哥哥的痣上有毛。	samumus ta pangian na qaqa ku.	我哥哥的子裡有。	sabuqes ta qelizen na qaqa ku.
+288	pangkedan ku maynep pama qaniyau.	我去偷看她們還在睡覺。	我去偷看她們還在睡覺。	pangkedan ku maynep pama qaniyau.	我叫他們早一點睡。	matiw iku meRusiR temita tu qaniyau maynep pama.
+289	panimas ika tu sunis zanum na tengu zau.	叫孩子把這個凹洞的去掉。	叫孩子把這個凹洞的去掉。	panimas ika tu sunis zanum na tengu zau.	叫孩子把這個洞的水掉。	tuluz ika tu sunis tengu zau.
+290	panimen ika tu sunis qaddan zau meniz.	叫孩子們把這些椅子全部收拾掉。	叫孩子們把這些椅子全部收拾掉。	panimen ika tu sunis qaddan zau meniz.	叫孩子把這張椅子全部起來。	papuliku ika tu sunis qaddan zau meniz.
+291	panubi pa imi meRaRaRiw.	我們要比賽賽跑。	我們要比賽賽跑。	panubi pa imi meRaRaRiw.	我們要打獵跑步。	simsuqas pa imi meRaRiw.
+292	papazaken ika anem su tu waway na Raqit.	你要順從大家的心。	你要順從大家的心。	papazaken ika anem su tu waway na Raqit.	讓你心裡跟人一樣。	qasanu ka tu anem na mazemun ay.
+293	papibud ika aizipna tu nisikawman na.	叫他頂他說過的話。	叫他頂他說過的話。	papibud ika aizipna tu nisikawman na.	叫他跟你說的話。	pasubud ika aizipna tu nisikawman na.
+294	papissa ika sizi na naung.	用獵槍射山羊。	用獵槍射山羊。	papissa ika sizi na naung.	叫山羊的肉去。	puwisas ika tu sizi.
+295	paqaRatan ku tu mali wasu ku.	我叫我的狗咬球。	我叫我的狗咬球。	paqaRatan ku tu mali wasu ku.	我讓我的狗玩球。	paqaRatan ku tu wasu ku tu mali.
+296	paqaRaw ika sunis 'nay tu baqi na.	叫那個小孩幫他的爺爺抓癢。	叫那個小孩幫他的爺爺抓癢。	paqaRaw ika sunis 'nay tu baqi na.	叫那個孩子叫他的爺爺哭。	padaytan ika sunis 'nay paqiRaw tu baqi na.
+297	paqamaian su tanian Ribang su?	你的東西在哪裡弄丟的？	你的東西在哪裡弄丟的？	paqamaian su tanian Ribang su?	你把東西放在哪裡?	tanianan su mewalin Ribang su?
+298	paqamaian ku kelisiw ku siRab.	我昨天把錢弄丟了。	我昨天把錢弄丟了。	paqamaian ku kelisiw ku siRab.	我昨天把我的錢存起來。	mawalinan ku ti siRab kelisiw na.
+299	paqangi ika seppaw Ribang su, mai pa melalibed.	把你的東西擺放整齊，才不會亂。	把你的東西擺放整齊，才不會亂。	paqangi ika seppaw Ribang su, mai pa melalibed.	把你的東西放好,才不會亂。	paqangi ika semangi Ribang su, mai pa meRamutiR.
+300	paqangi ika temayta nangan su.	仔細看好你的名子。	仔細看好你的名子。	paqangi ika temayta nangan su.	你的要好看。	satawaR ika lingkung su.
+301	paqelabut mimimet mazas tu qawsua semaqsaqay.	出去玩拿著傘會增添麻煩。	出去玩拿著傘會增添麻煩。	paqelabut mimimet mazas tu qawsua semaqsaqay.	穿著背心帶子玩遊戲。	muwaza mala tu qawsua matiw mawRat pamangten.
+302	naRin mazas tu suani su matiw paqelabut.	不要帶你妹妹去很麻煩。	不要帶你妹妹去很麻煩。	naRin mazas tu suani su matiw paqelabut.	不要帶你弟弟去參加派出所。	naRin azasan suani su matiw sukaw.
+303	paqepeR ka tu sunis tu beRas paqan tu sisiw.	讓孩子抓一把米餵小雞。	讓孩子抓一把米餵小雞。	paqepeR ka tu sunis tu beRas paqan tu sisiw.	叫孩子抓一把米給孩子吃。	papaytan ika tu sunis 'si na taquq.
+304	paqepidan ku ti ni tulisan su ta linengan.	我把你畫的圖貼在牆上了。	我把你畫的圖貼在牆上了。	paqepidan ku ti ni tulisan su ta linengan.	我已經把你的畫板貼在牆上了。	nipatantiwan ku ti ta linengan nipaluman su.
+305	paqipit ika ta sudadan, mai pa meqamai.	把它夾在書本上，才不會掉。	把它夾在書本上，才不會掉。	paqipit ika ta sudadan, mai pa meqamai.	把它在書裡,才不會燒掉。	pispis ika ta kitaban, mai pa temibuq.
+306	pasaRuR ika ta babaw ay qanas.	把上面的籃子拿下來。	把上面的籃子拿下來。	pasaRuR ika ta babaw ay qanas.	把上面的竹倒下來。	baba ika ta babaw ay mulu.
+307	pasaiya pa iku tu kelawkawayan ku.	我要準備我的工作。	我要準備我的工作。	pasaiya pa iku tu kelawkawayan ku.	我要把我的工作做完。	palisiya pa iku tu qakelawkawayan ku.
+308	qeRas ika qaniyau pasaqut tu qaddan pasazi.	叫他們把椅子搬到這裡來。	叫他們把椅子搬到這裡來。	qeRas ika qaniyau pasaqut tu qaddan pasazi.	叫他們把椅子往這裡推。	tuluz ika qaniyau qaddan pasazi.
+309	pasazi lazan na matiw sa lazing.	到海邊的路是往這裡。	到海邊的路是往這裡。	pasazi lazan na matiw sa lazing.	他往海邊的路是這條。	pasazi lazan matiw sa lazing.
+310	pasenizan su ti Ribang ta ni?	你把我們的行李放下來了嗎？	你把我們的行李放下來了嗎？	pasenizan su ti Ribang ta ni?	你把我們的行李放了嗎?	seppawan su ti Ribang ta ni?
+311	pasianguzusan na tina ku qaqa ku.	我媽媽叫我姐姐去撿海菜。	我媽媽叫我姐姐去撿海菜。	pasianguzusan na tina ku qaqa ku.	我媽媽叫姐姐去。	tuluzan na tina ku qaqa ku mala tu sianguzus.
+312	pasikiw ika ti abas ti apian.	叫Abas搔 Api的癢。	叫Abas搔 Api的癢。	pasikiw ika ti abas ti apian.	叫Apius叫Abas去做檢查。	pabiseR ika ti abas tu dadas ni api.
+313	sebi ti sunis su, pasisu ika ta!	你孩子餓了，先餵奶一下！	你孩子餓了，先餵奶一下！	sebi ti sunis su, pasisu ika ta!	你的孩子肚子痛了,幫他洗臉一下!	sebi ti sunis su, paqan ika!
+314	pasubaRatan ku ti paRin seppaw.	我已經把木材橫著放。	我已經把木材橫著放。	pasubaRatan ku ti paRin seppaw.	我已經讓木頭開來擺好了。	pasalasan ku ti paRin 'nay.
+315	pasubat pa iku tu niqalisaw ku.	我要為我的錯誤而道歉。	我要為我的錯誤而道歉。	pasubat pa iku tu niqalisaw ku.	我要分開我打的。	ngasan ku tu qalisaw ku.
+316	Rayngu aiku semudad, pasudad pa iku timaizipana.	我不會寫，我請他幫我寫。	我不會寫，我請他幫我寫。	Rayngu aiku semudad, pasudad pa iku timaizipana.	我不會寫,我要讓他寫。	Rayngu iku semudad, panmu iku timaizipana.
+317	tiana pataRaw ay timaisuan?	是誰讓你生病？	是誰讓你生病？	tiana pataRaw ay timaisuan?	是誰讓你生病的?	tiana paRawtiR ay timaisuan?
+318	aiku patabu ay timaizipana.	是我叫他包起來的。	是我叫他包起來的。	aiku patabu ay timaizipana.	是我叫他去包的。	aiku patutuz ay timaizipana.
+319	pataduan ku sunis 'nay meRasa tu qudus na.	我替那個孩子買他的衣服。	我替那個孩子買他的衣服。	pataduan ku sunis 'nay meRasa tu qudus na.	我叫那個孩子回去買衣服。	paRasan ku sunis 'nay tu qudus na.
+320	baut 'nay pataktakan ku tu tama ku.	那條魚我叫爸爸切的。	那條魚我叫爸爸切的。	baut 'nay pataktakan ku tu tama ku.	那條魚是我要給我爸爸打的。	patanitan ku tu tama baut 'nay.
+321	meRapsi qitun ku, patebes iku ti utay tu qitun ku.	我的車子壞了，我請Utay 幫我拉車。	我的車子壞了，我請Utay 幫我拉車。	meRapsi qitun ku, patebes iku ti utay tu qitun ku.	我的車子很壞,我叫Utay把我的車子倒。	meRunad qitun ku, paRawan iku ti utay tu qitun.
+322	metuded ti leppaw su, qeRas ka tu patebuan!	你的房子漏水了，叫補漏的人！	你的房子漏水了，叫補漏的人！	metuded ti leppaw su, qeRas ka tu patebuan!	你的房子漏水了,去請教師!	metted ti leppaw su, patuRuy ika tu patebuan!
+323	taRaw nipatepiqan su.	你的一巴掌打得很痛。	你的一巴掌打得很痛。	taRaw nipatepiqan su.	你打的槍很痛。	taRaw nipukun na lima su.
+324	manna wama aiku patungayawan su?	你為什麼只針對我？	你為什麼只針對我？	manna wama aiku patungayawan su?	你為什麼只讓我面對呢?	manna patuqed su aiku ma?
+325	ussa aizipna patusuzan ku.	我不是向他跪。	我不是向他跪。	ussa aizipna patusuzan ku.	我不是叫他去上學。	ussa iku sukuku timaizipana.
+326	patuzusan ku tu taqsian temungaw tu sunis ku temaqsi.	我送小孩上學要送到學校。	我送小孩上學要送到學校。	patuzusan ku tu taqsian temungaw tu sunis ku temaqsi.	我叫我的孩子到學校去上學。	tungawan ku sunis temaqsi sa taqsian.
+327	nitemaqan ta paRin pauzepan ku ti tu sunis.	我叫小孩把我們燒木材的火給熄了。	我叫小孩把我們燒木材的火給熄了。	nitemaqan ta paRin pauzepan ku ti tu sunis.	被樹燒的木我已經讓孩子吸過了。	paRtikenan ku ti tu sunis Ramaz na paRin ta.
+328	meluma imu tu pawman tazuq ni?	你們有種二期稻苗嗎？	你們有種二期稻苗嗎？	meluma imu tu pawman tazuq ni?	你們有種中等的子嗎?	meluma imu tu sa'si tiRtaR ni?
+329	naRin pazakian wasu 'nay qemaRat.	那隻狗會咬人不要靠近。	那隻狗會咬人不要靠近。	naRin pazakian wasu 'nay qemaRat.	那隻狗不要靠近來玩。	qemuRat wasu 'nay naRin pazaki.
+330	niana sepezan su ta peRaskuan?	你在瓶子裡裝了什麼？	你在瓶子裡裝了什麼？	niana sepezan su ta peRaskuan?	你在瓶子裡裝什麼東西?	niana pizi su ta peRaskuan?
+331	pelisin ta ngayaw na baqi bai mettut.	在老人家面前放屁是很忌諱的事。	在老人家面前放屁是很忌諱的事。	pelisin ta ngayaw na baqi bai mettut.	奶奶面前的子都生氣了。	qaipisan ta ngayaw na leppaw na baqian pusibang.
+332	peliya iku madded tu qitun 'nay.	還好我沒有搭上那班車。	還好我沒有搭上那班車。	peliya iku madded tu qitun 'nay.	我先坐那部車子。	naRin iku pasaqay tu qitun 'nay.
+333	pemupuk iku tu suani ku muRing.	我在安撫我妹妹哭。	我在安撫我妹妹哭。	pemupuk iku tu suani ku muRing.	我抱著弟弟哭。	meRemeq iku tu suani ku muRing.
+334	zuquRan na qitun, meRiqet penaniyan na.	被車子撞到，他大腿斷了。	被車子撞到，他大腿斷了。	zuquRan na qitun, meRiqet penaniyan na.	車子撞到他,他的腿斷了。	maqituq na qitun, maketun ti penaniyan na.
+335	nengi penasaiya na tina ku tu Ribang ku.	我媽媽把我的東西準備的好好的。	我媽媽把我的東西準備的好好的。	nengi penasaiya na tina ku tu Ribang ku.	我媽媽準備我的東西很好。	nipasabaya na tina ku Ribang ku.
+336	"""kebalan sukaw qeman tu esi napennu,"" zin na baqbaqi masang."	以前祖先們說：「噶瑪蘭人不可以吃海龜的肉。」	以前祖先們說：「噶瑪蘭人不可以吃海龜的肉。」	"""kebalan sukaw qeman tu esi napennu,"" zin na baqbaqi masang."	以前爺爺說:「禁止吃飽滿的肉。」	"masang zin na baqi bai,"" sukaw kebalan qeman tu esi na kiyu"", zin na baqi."
+337	temibuq pesidsiday ta qudusan ku bangtu.	臭蟲掉在我衣服上很臭。	臭蟲掉在我衣服上很臭。	temibuq pesidsiday ta qudusan ku bangtu.	掉在我的衣服上很臭。	meRusiR qeluqut ta qudus ku bangtu.
+338	melaydaw pinileppaw su timaisuan.	你的家人非常擔心你。	你的家人非常擔心你。	melaydaw pinileppaw su timaisuan.	你家人在對你擔心。	meliyaq qaniyau na pinileppaw su timaisuan.
+339	niipilan ku pinneng na tumay nengi saiyuan!	我聽說熊膽可以製藥材。	我聽說熊膽可以製藥材。	niipilan ku pinneng na tumay nengi saiyuan!	我聽過的子樹葉很好唱!	ipilan ku qemipit nengi sangian tu iyu.
+340	maqezaq ay pipis na ni?	他的鬢毛是真的嗎？	他的鬢毛是真的嗎？	maqezaq ay pipis na ni?	他的子有被刺到嗎?	maken qenuzus na ni?
+341	pisapatan ku sikawma, sazmaken aimu ni?	我隨便亂說，你們會相信嗎？	我隨便亂說，你們會相信嗎？	pisapatan ku sikawma, sazmaken aimu ni?	我把話放大,你們相信嗎?	pisapat iku sikawma, sazmaken numi ni?
+342	temabal tu lazan pising na paRin, Riqet ika.	樹枝會擋路，折斷它。	樹枝會擋路，折斷它。	temabal tu lazan pising na paRin, Riqet ika.	木材擋路,把它開。	temabal tu lazan buqes na paRin, pakena ika.
+343	pitemawaR iku sinananam salekiaw, qasiR suppaR ti iku.	我每天練習跳舞，我很快就學會了。	我每天練習跳舞，我很快就學會了。	pitemawaR iku sinananam salekiaw, qasiR suppaR ti iku.	我每天練習跳舞,我很快就會會了。	patazan iku salekiaw, qasiR ti iku suppaR.
+344	pizian ku tazian kelisiw ku manna mai ti?	我把我的錢放在這裡怎麼不見了？	我把我的錢放在這裡怎麼不見了？	pizian ku tazian kelisiw ku manna mai ti?	我把我的錢放在這裡怎麼沒有了?	nisepawan ku tazian kelisiw ku manna mai ti temayta?
+345	puasan su ti baut zau ni?	這條魚錢你付帳了沒有？	這條魚錢你付帳了沒有？	puasan su ti baut zau ni?	這條魚你了嗎?	nipuasa su ti kelisiw na baut zau ni?
+346	mai pubila' ti api qeman tu dadas.	Api吃檳榔不加檳榔葉。	Api吃檳榔不加檳榔葉。	mai pubila' ti api qeman tu dadas.	Api不放子吃。	mai pusidi' ti api qeman tu dadas.
+347	mulpun ti isu pudamsu ni?	你繳稅好了沒？	你繳稅好了沒？	mulpun ti isu pudamsu ni?	你了嗎?	nibabulan su ti tu kungkung ni?
+348	pukennawan ku maRtik tu baniw.	我炒香菇有放大蒜。	我炒香菇有放大蒜。	pukennawan ku maRtik tu baniw.	我用子打子。	padidasan ku kemiala tu benina.
+349	pulanas pa iku qawka isu sikawma.	我先引述才換你講話。	我先引述才換你講話。	pulanas pa iku qawka isu sikawma.	我要講個故事你才會說。	pakassa iku munna qawka pasuRaw isu sikawma.
+350	nipulasu ti pissa su ni?	你的槍裝子彈了沒？	你的槍裝子彈了沒？	nipulasu ti pissa su ni?	你的槍已經彈了嗎?	puniRan ti tu lasu pissa su ni?
+351	pulaw nani Rubatang ay qeluqut, naRin qapaRan mawRat.	蝴蝶是漂亮的昆蟲，不要捉來玩。	蝴蝶是漂亮的昆蟲，不要捉來玩。	pulaw nani Rubatang ay qeluqut, naRin qapaRan mawRat.	野貓有毛,不要用力抓著玩。	Rubatang qeluqut, naRin paqawRatan semaqsaqay.
+352	puletan su ti taquq ta ni?	妳有把我們的雞關起來了嗎？	妳有把我們的雞關起來了嗎？	puletan su ti taquq ta ni?	你把我們的雞關上網了嗎?	putan su ti taquq ni?
+353	puniRan ku tu kukuy lubus ku.	我在袋子裡裝滿了糖。	我在袋子裡裝滿了糖。	puniRan ku tu kukuy lubus ku.	我用糖果裝滿我的背袋。	puniR iku tu kukuy ta subuqan.
+354	pupukan ku suani ku muRing, melimek ti.	我安撫在哭的妹妹，就安靜了。	我安撫在哭的妹妹，就安靜了。	pupukan ku suani ku muRing, melimek ti.	我拍我弟弟哭,就不講話了。	pasupayan ku suani ku muRing, melimek ti.
+355	pusamuzan ku 'may ku.	我的飯有放芝麻。	我的飯有放芝麻。	pusamuzan ku 'may ku.	我把我的飯放了。	sasiamsay 'may ku.
+356	pusidi'an ku meRamaz tu tamun.	我煮菜加了辣椒。	我煮菜加了辣椒。	pusidi'an ku meRamaz tu tamun.	我用子煮菜。	pusidi'an ku meRamaz tu tamun.
+357	putihua pa ti ikung ta kinil na bawbi na.	Ikung要在他的菜園周圍放捕獸器。	Ikung要在他的菜園周圍放捕獸器。	putihua pa ti ikung ta kinil na bawbi na.	Ikung 要在他菜園旁邊做帳號。	pawaRiR pa ti ikung tu pasalawan na ta bawbian.
+358	mitus puttadan na, Rayngu madded.	他脫肛，不能坐下。	他脫肛，不能坐下。	mitus puttadan na, Rayngu madded.	他的腳痛,不能坐下來。	melusem aizipna, Rayngu madded.
+359	paqangi ika semapun ya kelisiw, qaRangazi pa ita.	好好的存錢，我們才會富有。	好好的存錢，我們才會富有。	paqangi ika semapun ya kelisiw, qaRangazi pa ita.	把錢集中起來,我們要賺得。	nengi ika semangi tu kelisiw, qanengi pa ita.
+360	qaRaya ika tu kiya semangi qudus ku.	我的衣服要做大一點。	我的衣服要做大一點。	qaRaya ika tu kiya semangi qudus ku.	幫我做短的衣服。	paqaRaya ika semangi qudus ku.
+361	qaRiRian pama paRin zau.	這個木頭還要鋸。	這個木頭還要鋸。	qaRiRian pama paRin zau.	這個木頭還要。	qaRibisan pama paRin zau.
+362	qabanged tangi dedan.	今天天氣會刮颱風。	今天天氣會刮颱風。	qabanged tangi dedan.	今天是風。	qanged tangi deddan.
+363	qabangtu ti baut su, qalazuk ika patanan!	你的魚會臭掉，趕快拿回家去！	你的魚會臭掉，趕快拿回家去！	qabangtu ti baut su, qalazuk ika patanan!	你的魚臭掉了,趕快帶回來!	qanguti ti baut su, qatiw ka patanan!
+364	naRin pawaRian tenayan, qabenaR ti!	竹子不要曬，會裂掉！	竹子不要曬，會裂掉！	naRin pawaRian tenayan, qabenaR ti!	不要曬竹子,會裂掉!	naRin temeqan tenayan, qabedung ti!
+365	mekuzun takan zau qadakenan.	這個桌子會搖晃要墊起來。	這個桌子會搖晃要墊起來。	mekuzun takan zau qadakenan.	這個桌子起來要加。	qatazqazan takan zau qaRas ika.
+366	matiw iku sa zenna tu qadidutan ti iku.	我去田裡沾上泥巴。	我去田裡沾上泥巴。	matiw iku sa zenna tu qadidutan ti iku.	我到田裡被草割走了。	matiw iku sa zenna kemiala tu melanay.
+367	qadiyuq pa ti ya benina, qalazuq ika qeman!	香蕉快爛了，趕快吃掉！	香蕉快爛了，趕快吃掉！	qadiyuq pa ti ya benina, qalazuq ika qeman!	香快枯了,把它推開吃!	qabededeq pa ti benina, qalazuk ka qeman!
+368	bula iku tu Ribang su, qakalingun ti patanan.	把你的東西拿給我，不然回去會忘了。	把你的東西拿給我，不然回去會忘了。	bula iku tu Ribang su, qakalingun ti patanan.	你的東西給我,我忘了回去。	bula iku tu Ribang su, temanan ti qakalingun ti.
+369	qakinil ka na lazan semaqay, mai pa tuRpian na qitun.	要靠馬路邊邊走，才不會被車子碰撞到。	要靠馬路邊邊走，才不會被車子碰撞到。	qakinil ka na lazan semaqay, mai pa tuRpian na qitun.	要靠對面走路,車子才不會塞到。	qangisiw ka semaqay ta lazanan, mai pa tesuq na qitun.
+370	qakunan temungaw Raq zau.	這個酒要先送去。	這個酒要先送去。	qakunan temungaw Raq zau.	這杯酒要送一次。	qanguan ika temungaw Raq zau.
+371	qakutkutan paRin zau temawaR.	這棵樹明天要挖。	這棵樹明天要挖。	qakutkutan paRin zau temawaR.	這個木頭明天會起來。	qakutkut paRin zau temawaR.
+372	qalalibed ti su melingi tu sunis zau.	為照顧這個孩子你會忙得不可開交。	為照顧這個孩子你會忙得不可開交。	qalalibed ti su melingi tu sunis zau.	你照顧這個孩子會很久。	qangawit su pa melingi tu sunis zau.
+373	naRin pisapat semaqay qalisaw ti ta.	不要亂走我們會迷路。	不要亂走我們會迷路。	naRin pisapat semaqay qalisaw ti ta.	不要隨便走路我們會很危險。	naRin pisapat semaqay qatuRaq ti ta.
+374	naRin mazas tu sunis qaliyabala tu kelawkawayan ta.	不要帶孩子會妨礙我們工作。	不要帶孩子會妨礙我們工作。	naRin mazas tu sunis qaliyabala tu kelawkawayan ta.	不要帶孩子忙我們的工作。	naRin azas tu sunis qatuqaz ika ta kelawkawayan.
+375	naRin mezaki tu sabiqbiq ay zanum qalunas ti isu.	不要靠近滾水你會被燙傷。	不要靠近滾水你會被燙傷。	naRin mezaki tu sabiqbiq ay zanum qalunas ti isu.	不要靠近水你會被到。	naRin mezaki tu mebalus ay zanum qaRat ti isu.
+376	naRin mawRat tu Rabis, qaluzit ti su.	不要玩刀子，不然你會受傷。	不要玩刀子，不然你會受傷。	naRin mawRat tu Rabis, qaluzit ti su.	不要玩小刀,你會受傷。	naRin mawRat tu saRiq, qazi ti isu meluzit.
+377	qamitan ku lima ku siRab qaypanay.	我昨天割稻時我的手被齒鐮刀割到。	我昨天割稻時我的手被齒鐮刀割到。	qamitan ku lima ku siRab qaypanay.	我昨天抓草時用手抓。	meRisiw iku siRab tu RuqiR na saRiq lima ku.
+378	qanengian numi nanapaw.	祝福你們婚姻美滿。	祝福你們婚姻美滿。	qanengian numi nanapaw.	你們家裡很好過。	qapazan ka semanga ay.
+379	qaninnan ka tu Ribang zau, qawka tenes mai meRapsi.	要珍惜這個工具，如此才能很久也不會壞掉。	要珍惜這個工具，如此才能很久也不會壞掉。	qaninnan ka tu Ribang zau, qawka tenes mai meRapsi.	要珍惜這個東西,才不會很累。	padames ika senapuwaR zau, qawka tenes mai melabang.
+380	qemuni isu matiw ta qaniyauan?	你去他們那裡做什麼？	你去他們那裡做什麼？	qemuni isu matiw ta qaniyauan?	你到他們那裡去做什麼?	qemuni isu matiw ta qaniyauan?
+381	niqawRat na qanqaqa su niana qaysaan.	你哥哥們是在開玩笑為什麼要嘔氣？	你哥哥們是在開玩笑為什麼要嘔氣？	niqawRat na qanqaqa su niana qaysaan.	你爬的草什麼樣子。	meRaqsiwaq qaqa su manna paqawRat?
+382	qapaRit su qabaw 'nay ni?	你能綁住那隻牛嗎？	你能綁住那隻牛嗎？	qapaRit su qabaw 'nay ni?	你能把那頭牛綁住嗎?	qabiseR su qabaw 'nay ni?
+383	tenes ti meqamai qapakala mani? paqanas ika kemilim, qawman qapakala ti!	掉了很久，能找得到嗎？慢慢找，一定會找到！	掉了很久，能找得到嗎？慢慢找，一定會找到！	tenes ti meqamai qapakala mani? paqanas ika kemilim, qawman qapakala ti!	很久沒找到嗎?快點找,一定會找到。	tenes ti melisaw, qapakala ni? qangasan ka kemilim, qasangian su!
+384	qapatuqazan Ribang zau meniz sa leppaw ni?	這些全部都是將要放進屋裡的東西嗎？	這些全部都是將要放進屋裡的東西嗎？	qapatuqazan Ribang zau meniz sa leppaw ni?	這些東西要全部送到家裡嗎?	saqaRuzisan na leppaw zau ni?
+385	qapazaki su bawa' 'nay ni?	那條船你能靠近嗎？	那條船你能靠近嗎？	qapazaki su bawa' 'nay ni?	那條船你能靠近嗎?	qapadizan su bawa' 'nay ni?
+386	maketun zapan su, qapiRes ti su.	你腳斷了，你就會變跛腳。	你腳斷了，你就會變跛腳。	maketun zapan su, qapiRes ti su.	你的腳被刺到,你就會。	mabedung zapan su, qatabu ti isu.
+387	muwaza niRasan niaq tu qaqanan.	我們買了很多零食。	我們買了很多零食。	muwaza niRasan niaq tu qaqanan.	我們買的食物很多。	muwaza niRasa niaq tu qaqanan.
+388	muwaza qaqananan na baut ta sanuRan.	在河與海的交會處有很多魚可以吃的東西。	在河與海的交會處有很多魚可以吃的東西。	muwaza qaqananan na baut ta sanuRan.	海裡有很多魚可以吃。	ta tenguR na iRuR seRay Rayngu sapaqanan na baut.
+389	qaqenutan waway su, sanuan, mai isu mipil.	你的行為真是使人生氣，說了，你又不聽。	你的行為真是使人生氣，說了，你又不聽。	qaqenutan waway su, sanuan, mai isu mipil.	你的行為很可怕,很人,你不聽。	qaRaynguan waway su, nisikawman ti, Rayngu isu mipil.
+390	qaqupit nipaqupidan su ta linengan ay tepuluk ni?	你貼在牆上的紙能黏得住嗎？	你貼在牆上的紙能黏得住嗎？	qaqupit nipaqupidan su ta linengan ay tepuluk ni?	你貼在牆上的紙能得動嗎?	qatepiq nipaqepidan su ta linengan ay tepuluk ni?
+391	qasiR isu semaqay qaqusinian su meRasa.	你腳程快，你去買不會太久。	你腳程快，你去買不會太久。	qasiR isu semaqay qaqusinian su meRasa.	你走很快你的房會買的。	qasiR aisu semaqay, mai qazaqayan isu matiw meRasa.
+392	azu qiwat isu, qasakubid ti zais su.	如果你瘦了，你的臉就會有皺紋。	如果你瘦了，你的臉就會有皺紋。	azu qiwat isu, qasakubid ti zais su.	如果你瘦了,你的臉會長。	qiwat ti isu, saRiq ti zais su.
+393	muwaza sabaq 'nay qasaqut su paqenanem?	那些稻米很多你一個人能搬得完嗎？	那些稻米很多你一個人能搬得完嗎？	muwaza sabaq 'nay qasaqut su paqenanem?	那麼多米你一個人能拿出來嗎?	muwaza sabaq 'nay qapaqas su paqenanem ni?
+394	qasatawaRan lazan zau taRnita masebang muman.	要注意路說不定還會崩。	要注意路說不定還會崩。	qasatawaRan lazan zau taRnita masebang muman.	這條路要注意我們又再被擋。	satawaR ka tu lazan qasebang ti qauzeppawan.
+395	yau sunis su manmu timaisuan qasimunang ti isu.	有你的孩子幫忙你會輕鬆了。	有你的孩子幫忙你會輕鬆了。	yau sunis su manmu timaisuan qasimunang ti isu.	有你的孩子幫你就很可憐。	yau sunis su manmu qangasan ti isu.
+396	ibabaw iku qasizing ti ta tatuRuz ay lazat.	我太高了會擋到後面的人。	我太高了會擋到後面的人。	ibabaw iku qasizing ti ta tatuRuz ay lazat.	我抬頭看後面的人就被到。	ibabaw iku temabal tu taRuz ay lazat.
+397	qasulun ika qaqa su matiw kelawkaway.	去跟你哥哥一起去工作。	去跟你哥哥一起去工作。	qasulun ika qaqa su matiw kelawkaway.	請你哥哥跟著去工作。	pakaput ika qaqa su matiw kelawkaway.
+398	qatabuan ay Ribang pizi ika taziyan.	要包的東西放在這裡。	要包的東西放在這裡。	qatabuan ay Ribang pizi ika taziyan.	要包好的東西放在這裡。	seppaw tazian sabutaqan ay Ribang.
+399	qatais pama qudus zau ni?	這件衣服還能縫嗎？	這件衣服還能縫嗎？	qatais pama qudus zau ni?	這些衣服還要嗎?	qasuduwan pama qudus zau ni?
+400	azu muman iku sikawma timaisuan, qawRiR ti iku.	如果我再跟你說話，我會瘋掉。	如果我再跟你說話，我會瘋掉。	azu muman iku sikawma timaisuan, qawRiR ti iku.	如果再跟你講的話,我會生氣。	qaqaytungan ku sikawma timaisuan, meRenem ti iku.
+401	qawalinan RusRus zau ni?	這個垃圾是要丟的嗎？	這個垃圾是要丟的嗎？	qawalinan RusRus zau ni?	這個垃圾要丟嗎?	sawalinan RusRus zau ni?
+402	mai qasemin qaddan ta, ala ka muman tu qawalu.	我們的椅子不夠，要再拿八張。	我們的椅子不夠，要再拿八張。	mai qasemin qaddan ta, ala ka muman tu qawalu.	我們的椅子不夠,再拿鐵皮。	mai qasemmin qaddan ta, uzusa pa mala.
+403	qayRuzikan ku kelisiw na tama ku.	我偷我爸爸的錢。	我偷我爸爸的錢。	qayRuzikan ku kelisiw na tama ku.	我偷了我爸爸的錢。	qayRuzikan ku kelisiw na tama ku.
+404	qaybuqan tama ku ta iRuRan.	我的父親在河邊採沙子。	我的父親在河邊採沙子。	qaybuqan tama ku ta iRuRan.	我爸爸在河邊水。	qaybaldi' tama ku ta iRuRan.
+405	melizaq qaybuydang tina ku ta naungan.	我媽媽很喜歡在山上採昭和菜。	我媽媽很喜歡在山上採昭和菜。	melizaq qaybuydang tina ku ta naungan.	我媽媽喜歡在山上採。	melizaq tina ku qaypanay ta naungan.
+406	mazemun lazat manmu qaykasa.	很多人幫忙採綠豆。	很多人幫忙採綠豆。	mazemun lazat manmu qaykasa.	有很多人幫忙開。	mazemun lazat manmu qayqemiduday.
+407	qaykeladut aimi, mawtu tazian semaqsaqay.	我們是樟原人，來這裡遊玩。	我們是樟原人，來這裡遊玩。	qaykeladut aimi, mawtu tazian semaqsaqay.	我們是大草人,來這裡玩。	Runanay aimi, mawtu pasazi semaqsaqay.
+408	tanian imu qaykelakil lalubas?	你們在哪裡採那麼嫩的構樹花？	你們在哪裡採那麼嫩的構樹花？	tanian imu qaykelakil lalubas?	你們在哪裡摘青?	tanian imu qayRaskus ay sakedada' ni?
+409	mateqas ti lupas, qaylupas pa ita.	桃子成熟了，我們來採桃子。	桃子成熟了，我們來採桃子。	mateqas ti lupas, qaylupas pa ita.	桃子熟了,我們去摘桃子。	mateqas ti lupas, qaylupas pa ita.
+410	manna qaymanungan su aizipna?	你為什麼講他的壞話？	你為什麼講他的壞話？	manna qaymanungan su aizipna?	你為什麼要跟他架?	manna qaymanung isu timaizipana?
+411	qaynepan ku qinpan su, mai ti isu tu qaynepan!	我睡你的床，你就沒地方睡覺！	我睡你的床，你就沒地方睡覺！	qaynepan ku qinpan su, mai ti isu tu qaynepan!	我睡你房間,你就不會睡覺了!	paqaynepan ku inpan su, mai ti isu tu qaynepan!
+412	qaynuzu pa ita, melaziw alan qamai ti tu salang.	我們去採椰子，不然會熟透沒有汁。	我們去採椰子，不然會熟透沒有汁。	qaynuzu pa ita, melaziw alan qamai ti tu salang.	我們去採子,經過拿來吃湯了。	qaybubul pa ita, mangay meRapun mai tu salang.
+413	qayqamRi pa ita tu sauzisan.	我們去採無患仔來洗澡用。	我們去採無患仔來洗澡用。	qayqamRi pa ita tu sauzisan.	我們去挖洗用的子。	qaysapun pa ita sauzisan.
+414	qaysami pa ita, tenes ti iku mai qeman.	我們去採苦苣菜，我好久沒吃了。	我們去採苦苣菜，我好久沒吃了。	qaysami pa ita, tenes ti iku mai qeman.	我們去採子,我很久沒吃了。	qaykeluy pa ita, tenes ti iku mai qeman.
+415	saniyuq betuq ku, mai ti tu zanum, qaysengan ti niqudu ku tu baut.	我的魚池有漏洞，沒有水了，我養的魚都曬乾了。	我的魚池有漏洞，沒有水了，我養的魚都曬乾了。	saniyuq betuq ku, mai ti tu zanum, qaysengan ti niqudu ku tu baut.	我的魚有,沒有水了,我養的魚乾了。	tengu ti pakiwman ku, mai ti tu zanum, mayseng ti niquduan ku tu baut.
+416	manmu iku tu bai ku qaysidi'.	我在幫奶奶採辣椒。	我在幫奶奶採辣椒。	manmu iku tu bai ku qaysidi'.	我在幫奶奶子。	manmu iku tu bai ku qaykenasaw.
+417	matiw imi sa naungan qaysimau.	我們到山上去摘花。	我們到山上去摘花。	matiw imi sa naungan qaysimau.	我們到山上去採。	matiw imi sa naung qaylilis.
+418	qaytusuzan tina ku ta ulunan.	我媽媽在田埂上採長梗滿天星。	我媽媽在田埂上採長梗滿天星。	qaytusuzan tina ku ta ulunan.	我媽媽在工廠上做子。	qaysangi tina ku ta zennan.
+419	qalazuk pa ita semaqay qazam ita ta qaniyauan.	我們走快一點會趕上他們。	我們走快一點會趕上他們。	qalazuk pa ita semaqay qazam ita ta qaniyauan.	我們快點走,我們在他們那裡。	qasiR pa ita semaqay qaqawit ta qaniyau.
+420	tenes ti imi mai simtayta, mai ti qazin ku.	我們久沒有見面，我已經認不出來了。	我們久沒有見面，我已經認不出來了。	tenes ti imi mai simtayta, mai ti qazin ku.	我們很久沒有見面,我累了。	tenes ti imi mai simtayta, Raynguan ku ti.
+421	yau ta qazqazan suwani ku mawRat tu buqan.	我的弟弟在岸邊玩沙子。	我的弟弟在岸邊玩沙子。	yau ta qazqazan suwani ku mawRat tu buqan.	我弟弟在花蓮玩牛。	yau ta lazingan suani ku semaqsaqay tu buqanan.
+422	qazuzus ka tu kiya timaikuan!	你可憐我一下嘛！	你可憐我一下嘛！	qazuzus ka tu kiya timaikuan!	請你向我一下!	kizaz ka timaikuan!
+423	qazuzusan sunis zau kinnausa, mai tu tama tina.	這倆個孩子很可憐，沒有爸爸媽媽。	這倆個孩子很可憐，沒有爸爸媽媽。	qazuzusan sunis zau kinnausa, mai tu tama tina.	這個孩子和媽媽一樣,沒有爸爸媽媽。	paqenanem uzusa sunis zau, mai tu tama tina.
+424	melubas ti nipaluman ku tu qebangaRan.	我種的胡瓜長出來。	我種的胡瓜長出來。	melubas ti nipaluman ku tu qebangaRan.	我種的樹長出來了。	melubas nipaluman ku tu qawpiR.
+425	maRung zapan na busaR izip na qedadabuwang, melizaq qeman tu biyat.	白鷺鷥的腳很長，身體全白，很喜歡吃青蛙。	白鷺鷥的腳很長，身體全白，很喜歡吃青蛙。	maRung zapan na busaR izip na qedadabuwang, melizaq qeman tu biyat.	黑的皮膚很長,很喜歡吃白菜。	maRung zapan na biyuq, busaRi izip na, melizaq qeman tu sianguzus.
+426	qelizen zau satikasan ku tu babuy na naung.	這條繩子是我要用來設陷阱蹬山豬的。	這條繩子是我要用來設陷阱蹬山豬的。	qelizen zau satikasan ku tu babuy na naung.	這個子是我要打山豬的。	sapangtuan ku tu babuy na naung Rais zau.
+427	qemRas aizipna tu lazat.	他在叫人。	他在叫人。	qemRas aizipna tu lazat.	他罵人。	melimu aizipna tu lazat.
+428	qemadem isu, saquni taqan na kaput aisu.	你不聽話，你的朋友才會不理你。	你不聽話，你的朋友才會不理你。	qemadem isu, saquni taqan na kaput aisu.	你很,你會被朋友不喜歡。	mai isu mipil tu sikawman, qawka qatazay timaisuan na kaput su.
+429	qemamit tazungan tu qaypenayan.	女孩子在用齒鐮刀割稻子。	女孩子在用齒鐮刀割稻子。	qemamit tazungan tu qaypenayan.	女人去除子。	meRisiw tazungan tu qaypenayan.
+430	melizaq qemapu tina ku qeman.	我媽媽很喜歡用手抓著吃。	我媽媽很喜歡用手抓著吃。	melizaq qemapu tina ku qeman.	我媽媽喜歡編木來吃。	melizaq tina ku kememkem qeman.
+431	simunang imi qemaqapu qeman.	我們沒有顧忌的用手抓飯吃。	我們沒有顧忌的用手抓飯吃。	simunang imi qemaqapu qeman.	我們互相手吃飯。	mai imi mesikaz qeman tu niqanan.
+432	melizaq sunis ku qeman tu qemuRaw.	我的孩子很喜歡吃黑甜菜。	我的孩子很喜歡吃黑甜菜。	melizaq sunis ku qeman tu qemuRaw.	我的孩子喜歡吃苦。	melizaq qeman tu linglung sunis ku.
+433	qemudu bai zau tu bai na.	這個奶奶在養她的孫女。	這個奶奶在養她的孫女。	qemudu bai zau tu bai na.	這個奶奶會她奶奶。	meRibun bai zau tu baqi na.
+434	bangtu ngibiR ku, qemumuR iku tu zanum.	我的嘴很臭，我在用水漱口。	我的嘴很臭，我在用水漱口。	bangtu ngibiR ku, qemumuR iku tu zanum.	我的嘴巴臭,我水。	bangtu ngibiR ku, semusuR iku tu zanum.
+435	qemuni isu taRbabi?	你早上在做什麼？	你早上在做什麼？	qemuni isu taRbabi?	你早上在做什麼?	qemuni isu taRbabi?
+436	qenaRisunan su 'may zau ta zaisan ku.	我這臉上的飯是你噴的。	我這臉上的飯是你噴的。	qenaRisunan su 'may zau ta zaisan ku.	你把這個飯丟在我的臉上。	nipuResan su 'may ta zaisan ku zau.
+437	taytan ku suppaRan ku ti qenaliman na qaqa su zau.	我看就知道了，這是你哥哥的手藝。	我看就知道了，這是你哥哥的手藝。	taytan ku suppaRan ku ti qenaliman na qaqa su zau.	我看到我知道你哥哥在認識。	suppaRan ku ti, nikennanan na qaqa su zau.
+438	kizut paRin zau, mai semin qenamaRung na.	這個木頭很短，長度不夠。	這個木頭很短，長度不夠。	kizut paRin zau, mai semin qenamaRung na.	這棵樹很短,長不大。	kezut paRin zau, mai qasemmin kinnawan na.
+439	qenametmet na kikay beRas zau.	這是用機器碾碎的米。	這是用機器碾碎的米。	qenametmet na kikay beRas zau.	這白米是要被Kikay碎的。	nipespesan na pakilan beRas zau.
+440	qenasaitan ku lawa zau meniz.	這些全部都是我剪過的布料。	這些全部都是我剪過的布料。	qenasaitan ku lawa zau meniz.	這塊布我全部割好。	niqatisan ku meniz lawa zau.
+441	nizu qenasuani aimi sadamuan.	我們整個部落都是親戚。	我們整個部落都是親戚。	nizu qenasuani aimi sadamuan.	我們都是獨自一人的朋友。	nizu damu imi niz niz maRapu.
+442	qenawRatan numi mali nimen ika.	玩過的球收起來放好。	玩過的球收起來放好。	qenawRatan numi mali nimen ika.	你們玩的很錯拿個球給他。	niala ay mali pizi ika.
+443	ussa aimu qenutan na, aiku qenutan na.	他不是氣你們，他是氣我。	他不是氣你們，他是氣我。	ussa aimu qenutan na, aiku qenutan na.	你們沒有他的份,我也會他的。	ussa imu qumnut aizipna, aiku qunutut na.
+444	qipitan ku ta qedqedan sudad ku, bitisan na miRaw.	我把書夾在腋下，他一下就搶走了。	我把書夾在腋下，他一下就搶走了。	qipitan ku ta qedqedan sudad ku, bitisan na miRaw.	我把我的書貼在子裡,被撕開來很痛。	pizi ku ta sawaqan ay sudad, meRuzik ti aizipna.
+445	qisqis ika mumus su!	把你的鬍子刮掉！	把你的鬍子刮掉！	qisqis ika mumus su!	把你的子剪掉!	qipit ika mulu su!
+446	qatiw pa iku sa quRu sasaqay.	我要到磯崎遊玩。	我要到磯崎遊玩。	qatiw pa iku sa quRu sasaqay.	我要到花蓮走路。	qatiw pa iku sa kuygawa mawRat.
+447	qumni isu manan, manna Raynguan ku?	你什麼時候回來的，我怎麼都不知道？	你什麼時候回來的，我怎麼都不知道？	qumni isu manan, manna Raynguan ku?	你什麼時候回來,我怎麼不知道?	qumni isu temanan, manna Raynguan ku?
+448	naRin qumnut tu nisikawman ku, ussa iku meqila timaisuan!	你不要氣我說的話，我不是在罵你！	你不要氣我說的話，我不是在罵你！	naRin qumnut tu nisikawman ku, ussa iku meqila timaisuan!	不要管我說的話,我不是在罵你!	naRin isu qumnut tu nisikawman ku, mai iku patedaq timaisuan!
+449	quni pa isu matiw?	你去幹什麼？	你去幹什麼？	quni pa isu matiw?	你怎麼去?	qemuni isu matiw?
+450	tingaR ika kaput su pa qawtu qeman saRabi.	邀請你朋友晚上來吃晚飯。	邀請你朋友晚上來吃晚飯。	tingaR ika kaput su pa qawtu qeman saRabi.	請你朋友提早來吃晚餐。	tawia ika kaput su saqadanan.
+451	saRausan yateng zau ni?	這些湯圓是要舀起來的嗎？	這些湯圓是要舀起來的嗎？	saRausan yateng zau ni?	這個湯圓要煮嗎?	satapus tu yateng zau ni?
+452	saRazing pa tina ku tu senapuwaR.	我媽媽要煮糯米飯作酵母菌。	我媽媽要煮糯米飯作酵母菌。	saRazing pa tina ku tu senapuwaR.	我媽媽要開子的燈。	Ramaz pa tina ku tu zimmet sasangian tu isi.
+453	Ribang na saReneman na tama ku zau.	這是我爸爸潛水的工具。	這是我爸爸潛水的工具。	Ribang na saReneman na tama ku zau.	這是我爸爸要水的東西。	sapapaneman na tama ku zau.
+454	saRibisan ku patanan paRin zau.	這是我要拖回去的木頭。	這是我要拖回去的木頭。	saRibisan ku patanan paRin zau.	這是我要拖回去的木頭。	sapaRisan ku patanan paRin zau.
+455	saRisiwan ku temawaR bawbi 'nay ni?	那是我明天要砍草的菜園嗎？	那是我明天要砍草的菜園嗎？	saRisiwan ku temawaR bawbi 'nay ni?	那是我明天要砍掉的菜園嗎?	saRisiwan ku temawaR bawbi 'nay ni?
+456	saRumzang iku qeman tu mennet ay tamun.	我吃辣的菜會流汗。	我吃辣的菜會流汗。	saRumzang iku qeman tu mennet ay tamun.	我吃菜覺得酸。	sapangid iku qeman tu nipuReti ay tamun.
+457	sabeRasuq zais na qaqa ku.	我哥哥的臉長了很多青春痘。	我哥哥的臉長了很多青春痘。	sabeRasuq zais na qaqa ku.	我姐姐的臉有斑點。	muwaza ti Ruzang na qaqa ku.
+458	sabenaR kaysing zau, naRin meRasa!	這個碗有裂痕，不要買！	這個碗有裂痕，不要買！	sabenaR kaysing zau, naRin meRasa!	這個碗有水泥,不要買!	sakedung kaysing zau, naRin meRasa!
+459	sabenibun ti tangi ni?	現在有長龍鬚藻了嗎？	現在有長龍鬚藻了嗎？	sabenibun ti tangi ni?	今天已經吐了嗎?	yau ti qemipit tangi ni?
+460	naung zau sabibing, sa naung aimu satawaR ka!	這座山有很多眼鏡蛇，你們上山時要特別注意！	這座山有很多眼鏡蛇，你們上山時要特別注意！	naung zau sabibing, sa naung aimu satawaR ka!	這個山有很多鳥,你們在山上要小心!	sapaqaypa tu panenguan naung zau, temuqaz imu tu naung satawaR ka!
+461	sabidasan na 'daq nisikawman su.	你說的話會讓人取笑。	你說的話會讓人取笑。	sabidasan na 'daq nisikawman su.	你說的話是別人要誇大你的。	suppaR paqaylawikan nisikawman su.
+462	ngid iku tu sabila' ay dadas.	我要有檳榔葉的檳榔。	我要有檳榔葉的檳榔。	ngid iku tu sabila' ay dadas.	我想吃有的。	saRiR pa iku tu sidi'.
+463	sabukasan tu bettu melanay zau.	這是要掩埋石頭的泥土。	這是要掩埋石頭的泥土。	sabukasan tu bettu melanay zau.	這個土是要用石頭起來的。	satukuban tu bettu melanay zau.
+464	sabuqaRes ay kaput ku wama aizipna.	我最懶惰的朋友只有他。	我最懶惰的朋友只有他。	sabuqaRes ay kaput ku wama aizipna.	我的朋友只有他一個人有口臭。	wama aizipna meRawayay kaput ku.
+465	sadintuan ku qaRabi dintu zau.	這是我晚上要用的手電筒。	這是我晚上要用的手電筒。	sadintuan ku qaRabi dintu zau.	這是我要晚上用餐用的飯鍋。	sakedung zau saqadanan ku.
+466	tiana mala tu saditisan ku tenayan?	誰拿走我的竹鞭？	誰拿走我的竹鞭？	tiana mala tu saditisan ku tenayan?	我要切竹子的板誰拿走了?	tiana mala ay tu pespayan ku?
+467	sadukian aizipna semaqay qawka maseq tazian.	他走一個小時才來到這裡。	他走一個小時才來到這裡。	sadukian aizipna semaqay qawka maseq tazian.	他走路有腳跟才會到這裡。	saqetaba semaqay na qawka mawtu pasazi.
+468	saepas zenna zau tazian.	這裡的田有田蟹。	這裡的田有田蟹。	saepas zenna zau tazian.	這裡的田是要耕作的地方。	sakedisan tazian ay zenna.
+469	nibulbul na qaqa ku tu baut saibu na paRin.	哥哥烤的魚很多木材的灰。	哥哥烤的魚很多木材的灰。	nibulbul na qaqa ku tu baut saibu na paRin.	我哥哥煮的魚含在樹下。	muwaza bisuR na paRin nibulbul na qaqa ku tu baut.
+470	saimis pa iku Rasa tu qabaw.	我要去北邊買牛隻。	我要去北邊買牛隻。	saimis pa iku Rasa tu qabaw.	我要去採子買牛。	qatiw pa iku sa teReq Rasa tu qabaw.
+471	ussa nazau ay sikawman saipilan na sunis!	這不是孩子們所要聽的話！	這不是孩子們所要聽的話！	ussa nazau ay sikawman saipilan na sunis!	這種語言不適合小孩聽!	mai tu sasuperib na sunis zau!
+472	sakakutung ti tangi ni?	現在有長鹿角菜了嗎？	現在有長鹿角菜了嗎？	sakakutung ti tangi ni?	今天有穿上衣嗎?	yau ti qemipit tangi ni?
+473	satawaR ka semaqay, sakalat tazian.	走路要小心，這裡有珊瑚礁。	走路要小心，這裡有珊瑚礁。	satawaR ka semaqay, sakalat tazian.	走路要小心,這裡有陷。	satawaR ka semaqay, yau siRaRi tazian.
+474	sakannan zenna zau niizaw na tama ku, paqangi aka kemuway.	這一甲的田是我爸爸留下來的，我會好好的去耕作。	這一甲的田是我爸爸留下來的，我會好好的去耕作。	sakannan zenna zau niizaw na tama ku, paqangi aka kemuway.	這塊田我爸爸耕作有很多草,我要重新重新工作。	nisubul na tama ku zenna zau, nengi pa iku kelawkaway.
+475	"""salaluwa masang naung zau,"" zin na baqi ku."	我的爺爺說：「這座山以前有很多帝雉。」	我的爺爺說：「這座山以前有很多帝雉。」	"""salaluwa masang naung zau,"" zin na baqi ku."	我爺爺說:「這座山以前有很多鳥居。」	""" muwaza masang dadas na naung zau"", zin na baqi ku."
+476	salanem tangi mai qatayta bulan.	今天有雲層看不到月亮。	今天有雲層看不到月亮。	salanem tangi mai qatayta bulan.	今天的月亮沒有看到月光。	saRuR tangi dedan mai ti qatayta bulan.
+477	nengi saleppaw tazian ni?	這裡可以蓋房子嗎？	這裡可以蓋房子嗎？	nengi saleppaw tazian ni?	這裡可以蓋房子嗎?	nengi saleppaw tazian ni?
+478	Rayngu iku samamangsa qeman tu tamun.	我吃菜不會很浪費。	我吃菜不會很浪費。	Rayngu iku samamangsa qeman tu tamun.	我不習慣吃菜。	mai iku meRapuway qeman tu tamun.
+479	yau ta sammayan meRamaz tu tamun tina ku.	我媽媽正在廚房煮菜。	我媽媽正在廚房煮菜。	yau ta sammayan meRamaz tu tamun tina ku.	我媽媽在房煮菜。	yau ta puduyan tina ku meRamaz tu tamun.
+480	saninuRan na zapan ku zanum zau.	這個水是我要泡腳用的。	這個水是我要泡腳用的。	saninuRan na zapan ku zanum zau.	這是我要腳流下來的水。	salinawan ku tu zapan zanum zau.
+481	nengi sapaizan palu' zau.	這個檳榔樹籜當扇子很棒。	這個檳榔樹籜當扇子很棒。	nengi sapaizan palu' zau.	這個竹可以當作木。	nengi semangi tu paiz dadas zau.
+482	naRin qanan baut zau sapakelangan.	這條魚是慶功宴要用的不能吃。	這條魚是慶功宴要用的不能吃。	naRin qanan baut zau sapakelangan.	這條魚要才不要吃。	sapatuRqanan baut zau sukaw qanan.
+483	RiRi pa iku tu tenayan, ala ka tu sapatenan	我要鋸竹子，去拿東西來當作墊板。	我要鋸竹子，去拿東西來當作墊板。	RiRi pa iku tu tenayan, ala ka tu sapatenan	我要用竹子搖,去拿要用用的木板。	qaytepen pa iku, mala tu sapaqadisan.
+484	sapatuqazan su Ribang zau ni?	這是你要放進去的東西嗎？	這是你要放進去的東西嗎？	sapatuqazan su Ribang zau ni?	這是你要放進去的東西嗎?	pateqazan su Ribang zau ni?
+485	sapeRasku semmin ni? sapeRasku semmin ti.	一瓶夠嗎？一瓶就夠了。	一瓶夠嗎？一瓶就夠了。	sapeRasku semmin ni? sapeRasku semmin ti.	瓶子有水嗎?瓶子裡的水已經了。	qasemmin peRasku ni? seppi ti semmin.
+486	sapedeqan qudus zau ni?	這是要擰乾的衣服嗎？	這是要擰乾的衣服嗎？	sapedeqan qudus zau ni?	這些衣服是要的嗎?	salinangan qudus zau ni?
+487	sapingat Raynguan na.	他不知道有鼻屎。	他不知道有鼻屎。	sapingat Raynguan na.	他很會生氣不知道。	Raynguan na tu bangRaw.
+488	sapinileppawan qaniyau mawtu pasazi mawRat.	他們一家人來這裡玩。	他們一家人來這裡玩。	sapinileppawan qaniyau mawtu pasazi mawRat.	他們一家人來這裡玩。	saleppawan qaniyau mawtu tazian semaqsaqay.
+489	sapising ti tu tasu ay paRin 'nay.	那棵樹長新樹枝了。	那棵樹長新樹枝了。	sapising ti tu tasu ay paRin 'nay.	那棵樹長出新芽了。	meRamaz ti tu tasu ay paRin 'nay.
+490	kelisiw zau sapuasan ku tu nikelawkawayan na.	這個錢是我要給他的工錢。	這個錢是我要給他的工錢。	kelisiw zau sapuasan ku tu nikelawkawayan na.	這些錢是我要來補他的工作。	sabulan ku kelisiw zau.
+491	tangi tasaw sapuduq ma niumas ku tu sauR.	今年我只醃了一罈的飛魚。	今年我只醃了一罈的飛魚。	tangi tasaw sapuduq ma niumas ku tu sauR.	我今年只有一個獵物我獲的。	satadima ma niqanan ku tangi tasaw.
+492	ala ika pukun ku sapukunan ku tu mai mipil ay sunis.	去拿我的棍子我要打不聽話的小孩。	去拿我的棍子我要打不聽話的小孩。	ala ika pukun ku sapukunan ku tu mai mipil ay sunis.	拿我的鞭我來擊打孩子聽不到。	ala ka tu pukun ku sapukunan ku tu meqayluwa ay sunis.
+493	sapulaw ta bawbian na tina ku.	我媽媽的菜園有蝴蝶。	我媽媽的菜園有蝴蝶。	sapulaw ta bawbian na tina ku.	我媽媽的菜園有草人。	satapulu bawbi na tina ku.
+494	semangi iku tu saqabuRan.	我在製作菸灰缸。	我在製作菸灰缸。	semangi iku tu saqabuRan.	我在做要蓋的屋頂。	semangi iku tu sidi'.
+495	mai tu qaddan, ala ka tu bettu saqaddanan.	沒有椅子，拿石頭當椅子坐。	沒有椅子，拿石頭當椅子坐。	mai tu qaddan, ala ka tu bettu saqaddanan.	椅子沒有,去拿石頭坐。	mai tu qaddan, paqawtu ka tu bettu satadun.
+496	saqaddanan aisu mai manan, pasani isu?	你一整夜都沒有回來，你去哪裡？	你一整夜都沒有回來，你去哪裡？	saqaddanan aisu mai manan, pasani isu?	你一整天都沒有回去,你在哪裡?	saqadanan isu mai temanan, pasani aisu?
+497	zana tutu siyangatu muzan, tuzus tu tangi saqemadanan ti mai meReti.	從中午就下雨了，到現在一整個下午都沒有停。	從中午就下雨了，到現在一整個下午都沒有停。	zana tutu siyangatu muzan, tuzus tu tangi saqemadanan ti mai meReti.	剛開始下雨,到今天才有六天不停的。	qangdu ti muzan, tangi mai qaReti tu qatabi.
+498	wama saqenaputuy kenasianem na lazat zau.	這個人一心只想報仇。	這個人一心只想報仇。	wama saqenaputuy kenasianem na lazat zau.	這個人心裡只有一個愚蠢的人。	wama niqanem na lazat zau qawka melabu.
+499	tangi lawlaw meniz qaqaytisan na 'nay saqsalan.	現在全世界最怕的就是海嘯。	現在全世界最怕的就是海嘯。	tangi lawlaw meniz qaqaytisan na 'nay saqsalan.	他今天全部參加比賽很可怕。	tangi siqayRatan na lazat qaRu.
+500	saqunian babuy zau mettung?	殺這隻豬要做什麼用的？	殺這隻豬要做什麼用的？	saqunian babuy zau mettung?	這個豬要殺什麼樣子?	paqenanem ta babuy zau sapaqunian na?
+501	sasalil taian naRin pasazui.	那邊有漁網不要往那裡去。	那邊有漁網不要往那裡去。	sasalil taian naRin pasazui.	那裡有魚不要去那裡。	salil taian naRin pasazi matiw.
+502	sasalitan ku tu ipaz tepen zau.	這個莿竹是我要編竹筏的。	這個莿竹是我要編竹筏的。	sasalitan ku tu ipaz tepen zau.	這是我要切竹的。	sapalunan ku tu tepen zau.
+503	sasekingan su tu niana ay sudad zau? sasekingan ku tu Raising ay sudad zau.	這些書是你要考什麼用的？這是我考醫師用的書。	這些書是你要考什麼用的？這是我考醫師用的書。	sasekingan su tu niana ay sudad zau? sasekingan ku tu Raising ay sudad zau.	你在寫什麼書?我在寫高級的。	sanekingan su tu niana sudad zau? sanekidan ku tu ising sudad zau.
+504	sasetaRan ku tu zana ay mala.	我拿的跟他一樣。	我拿的跟他一樣。	sasetaRan ku tu zana ay mala.	我要分開拿出來。	azu nialan ku aizipna.
+505	tanan ka meniz yau sasikawman ku zin na nitama.	爸爸說有話要說要我們全部回去。	爸爸說有話要說要我們全部回去。	tanan ka meniz yau sasikawman ku zin na nitama.	你全部都回來我才講他說的話。	sikawman tama ku pa ita zuma temanan.
+506	sukaw izip na wasu zau, taRta sasinget.	這隻狗身體不好，所以才會長很多壁蝨。	這隻狗身體不好，所以才會長很多壁蝨。	sukaw izip na wasu zau, taRta sasinget.	這隻狗的身體很不好,所以會咬人。	sukaw izip na wasu zau, taRta qamuwaza keladus.
+507	subulin ika qudus zau sasiqudusan ku.	把這件衣服留下來我要穿。	把這件衣服留下來我要穿。	subulin ika qudus zau sasiqudusan ku.	把這件衣服編成一堆我要穿的。	izaw ika qudus zau siqudus pa iku.
+508	muwaza niRamaz na bai ku tu tamun, sassaman niaq.	奶奶煮的菜很多，我們猛吃。	奶奶煮的菜很多，我們猛吃。	muwaza niRamaz na bai ku tu tamun, sassaman niaq.	我奶奶煮了很多菜,我們一起。	muwaza niRamaz na bai ku tu tamun, padames imi qeman.
+509	aizipna sasulusan ku.	他是我要模仿的對象。	他是我要模仿的對象。	aizipna sasulusan ku.	是他我要引誘的。	sapaqanan ku aizipna.
+510	tenes ti imu sinapawan, manna mai pama imu sasunis?	你們結婚很久了，怎麼還沒有生小孩？	你們結婚很久了，怎麼還沒有生小孩？	tenes ti imu sinapawan, manna mai pama imu sasunis?	你們結婚了很久,為什麼還沒有生孩子?	tenes ti imu sinapawan, manna mai pama isu tu sunis?
+511	sataRbabian ku qawpiR zau.	這個地瓜是我早餐要吃的。	這個地瓜是我早餐要吃的。	sataRbabian ku qawpiR zau.	這是我要除草的地瓜。	satanan ku saRabawan qawpiR zau.
+512	satapuan ku tu zanum bettu zau.	這個石頭是我要堵水用的。	這個石頭是我要堵水用的。	satapuan ku tu zanum bettu zau.	這是我要裝水的地方。	satapuan ku tu zanum bettu zau.
+513	satatabu ika bula tu kukuy sunis.	把糖果一包一包的分給孩子。	把糖果一包一包的分給孩子。	satatabu ika bula tu kukuy sunis.	幫孩子包一盒糖果。	sakungkung ika kukuy bula tu sunis.
+514	satatasan ku tangi sapaR zau.	這是我今天要拆的木板。	這是我今天要拆的木板。	satatasan ku tangi sapaR zau.	這是我要今天背的木板。	saRausan ku tangi sapaR zau.
+515	satemaqan tepuluk zau ni?	這些紙是要燒掉的嗎？	這些紙是要燒掉的嗎？	satemaqan tepuluk zau ni?	這個紙要燒嗎?	satamak ay tepuluk zau ni?
+516	satengalan bawbi na qaniyau.	她們的菜園有小油麻菜。	她們的菜園有小油麻菜。	satengalan bawbi na qaniyau.	他們的菜園有圍。	sasiti ta bawbian na qaniyau.
+517	Rayngu satengngi tazian meRasa tu Ribang.	在這裡買東西不能賒帳。	在這裡買東西不能賒帳。	Rayngu satengngi tazian meRasa tu Ribang.	這裡買東西不會放子。	tazian meRasa tu Ribang mai qababalan.
+518	satepiRis iRuR zau.	這條河有很多蚌。	這條河有很多蚌。	satepiRis iRuR zau.	這條河有很多。	muwaza banged iRuR zau.
+519	satibud zenna ku, mai ma nengi qaypenayan ku.	我的田有紅土，我種的稻子不是很好。	我的田有紅土，我種的稻子不是很好。	satibud zenna ku, mai ma nengi qaypenayan ku.	我的田有,我的都不好用。	sabettu zenna ku, mai nengi nipaluman ku tu mulu.
+520	satuRiyasan ku temungaw baut zau.	這條魚是我直接要送的。	這條魚是我直接要送的。	satuRiyasan ku temungaw baut zau.	這是我要直接送的魚。	qatuRiyasan ku pa temungaw baut zau.
+521	satuliq naung tazian, naRin temuqaz tu naung zau.	這裡的山有虎頭蜂，不要爬這座山。	這裡的山有虎頭蜂，不要爬這座山。	satuliq naung tazian, naRin temuqaz tu naung zau.	這裡有很多山,不要爬這座山。	saquRaya tazian ay naung, naRin tuqazan naung zau.
+522	mai iku tu niana satungawan tangi, hibang pa iku.	我今天沒有東西要送，我要休息。	我今天沒有東西要送，我要休息。	mai iku tu niana satungawan tangi, hibang pa iku.	我今天沒有什麼東西,我要休息。	mai iku tu seppaw tangi dedan, hibang pa iku.
+523	sawawakung niqanan na qaqa ku.	我哥哥都吃一大碗的飯。	我哥哥都吃一大碗的飯。	sawawakung niqanan na qaqa ku.	我哥哥吃的東西有刺。	satutu saqanan qaqa ku qeman tu 'may.
+524	ibabaw saziyutan 'nay, mai qaziyut ku.	那個掛鉤很高，我掛不到。	那個掛鉤很高，我掛不到。	ibabaw saziyutan 'nay, mai qaziyut ku.	那個圍很高,我無法圍的。	ibabaw qipenayan 'nay, mai qalapitan ku.
+525	mai sekilan su sikawman na.	你都不回應他說的話。	你都不回應他說的話。	mai sekilan su sikawman na.	你不相信他說的話。	mai isu semanu tu nisikawman na.
+526	semaRis suani ku qayla na tina ku.	我弟弟整天往外跑被我媽媽罵。	我弟弟整天往外跑被我媽媽罵。	semaRis suani ku qayla na tina ku.	我妹妹在媽媽的。	pitemawaR suani ku melusit niqaylalan na tina ku.
+527	semaqut qaniyau tu sabaq ta zennan patanan.	他們把田裡的稻米搬回來。	他們把田裡的稻米搬回來。	semaqut qaniyau tu sabaq ta zennan patanan.	他們在田裡米回去。	nibawa na qaniyau sabaq ta zennan patanan.
+528	semudad aizipna tu nangan na.	他在寫他的名字。	他在寫他的名字。	semudad aizipna tu nangan na.	他把他的名字改為他。	semudad aizipna tu nangan na.
+529	mai semulul tina ku, mai ti iku qatiw.	我媽媽不答應，我就不去了。	我媽媽不答應，我就不去了。	mai semulul tina ku, mai ti iku qatiw.	我媽媽沒有幫忙,我就沒去了。	mai semanu tina ku, taqa iku matiw.
+530	temiqtiq baqi ku tu senaqabaw ay bettu.	我爺爺正在雕石牛像。	我爺爺正在雕石牛像。	temiqtiq baqi ku tu senaqabaw ay bettu.	我爺爺在敲折斷的石頭。	yau kemutkut baqi ku tu bettu ay qabaw.
+531	tanian senizan ta?	我們要在哪裡下？	我們要在哪裡下？	tanian senizan ta?	我們的子在哪裡?	tanian pa ita semaRuR?
+532	sepangan su meRasa tu Ribang.	你亂買了雜七雜八的東西。	你亂買了雜七雜八的東西。	sepangan su meRasa tu Ribang.	你有機會買東西。	pisapat isu meRasa tu Ribang ay Ribang.
+533	mai iku siRuati baba tu suani ku, sessenan ti.	我背妹妹沒有披披肩，她著涼了。	我背妹妹沒有披披肩，她著涼了。	mai iku siRuati baba tu suani ku, sessenan ti.	我沒有抱著我的弟弟,他冷了。	mai tu siqaRan suani ku, sikang ti.
+534	siRakun imi salekiaw.	我們穿裙子跳舞。	我們穿裙子跳舞。	siRakun imi salekiaw.	我們跳舞時互相拉著人。	sikungkung imi salekiaw.
+535	siRisan su baliw mai tu meRasa ay.	你賣很貴沒有人買。	你賣很貴沒有人買。	siRisan su baliw mai tu meRasa ay.	你賣的東西有價錢就沒有買到。	siRiz isu baliw mai tu meRasa ay.
+536	temanuz imi tu siRemuq siazi ta iRuRan mai ti meqayta.	我們追鹿追到河邊就沒看見了。	我們追鹿追到河邊就沒看見了。	temanuz imi tu siRemuq siazi ta iRuRan mai ti meqayta.	我們在河邊追到山看不到。	temanuz imi tu siRemuq matiw ta iRuRan mai ti meqayta.
+537	sibekisi pa ita sasepezan tu zanum.	我們要帶水桶裝水用。	我們要帶水桶裝水用。	sibekisi pa ita sasepezan tu zanum.	我們去提水要裝水用的瓶子。	sisusuR pa imi tu zanum.
+538	mammaq, mai iku ngid sibutuq salekiaw.	很熱，我不想綁綁腿帶跳舞。	很熱，我不想綁綁腿帶跳舞。	mammaq, mai iku ngid sibutuq salekiaw.	很,我不想跳舞。	mammaq, taqa iku pabetbet tu zapan salekiaw.
+539	mai mennet sidi' zau.	這個辣椒不辣。	這個辣椒不辣。	mai mennet sidi' zau.	這個不。	mai qasemmin dadas zau.
+540	siitus pa iku qataban.	豐年祭時我要戴項鍊。	豐年祭時我要戴項鍊。	siitus pa iku qataban.	我要剪木板作竹。	qataban salekiaw siRis pa iku.
+541	sikenanan iku sekawalu kelawkaway.	我夏天打赤膊工作。	我夏天打赤膊工作。	sikenanan iku sekawalu kelawkaway.	我工作一個星期。	mebais iku tu qenabinnus ta zapan.
+542	masang kemutkut iku tu sikitang ta taypakan.	我以前在台北挖過煤礦。	我以前在台北挖過煤礦。	masang kemutkut iku tu sikitang ta taypakan.	以前我在台北挖。	nikutkut iku masang ta taypakan tu sibul.
+543	sikuaku baqi ku temabaku.	爺爺抽菸都用菸斗。	爺爺抽菸都用菸斗。	sikuaku baqi ku temabaku.	我爺爺在抽。	nizu temapus baqi ku tu dadas.
+544	silulus iku sasepezan tu baut.	我有帶塑膠袋要裝魚用的。	我有帶塑膠袋要裝魚用的。	silulus iku sasepezan tu baut.	我在魚要裝螺絲。	yau sasili ku sabulan tu baut.
+545	simqena simau zau.	這朵花很美。	這朵花很美。	simqena simau zau.	這個花很漂亮。	simqena simau zau.
+546	ta lazanan aimi simqatapun.	我們在路上碰面在一起。	我們在路上碰面在一起。	ta lazanan aimi simqatapun.	我們在路上互相擁抱。	simpatungayaw aimi ta lazanan.
+547	busuq ti qaniau simtepuq ti.	他們喝醉了互相砍。	他們喝醉了互相砍。	busuq ti qaniau simtepuq ti.	他們都喝醉了互相打巴。	busuq ti qaniyau simsuqas.
+548	simunas niseppaw na tu Ribang nengi anem temita.	他擺放的東西井然有序看起來心裡就舒服。	他擺放的東西井然有序看起來心裡就舒服。	simunas niseppaw na tu Ribang nengi anem temita.	他放的東西很順利看起來很好。	nipasazi na semangi ay Ribang nengi taytan sumzang ti anem na.
+549	sinut nani azu ti mata na lazat tuRabi.	燈就如人夜間時的眼睛。	燈就如人夜間時的眼睛。	sinut nani azu ti mata na lazat tuRabi.	晚上人的眼睛很像是了。	mataRabi ti tu zais na 'daq.
+550	siqamit ka matiw qaypanay.	去割稻時要帶鐮刀。	去割稻時要帶鐮刀。	siqamit ka matiw qaypanay.	去採子要帶子。	qaypanay ka mazas tu Rabis.
+551	siqanas iku qaytened.	我帶著小竹籃去採野菜。	我帶著小竹籃去採野菜。	siqanas iku qaytened.	我去採。	sisamukun iku matiw qaytepuyan.
+552	muwaza niRamaz su tu tamun, siqatis ti.	妳煮的菜太多，有剩餘了。	妳煮的菜太多，有剩餘了。	muwaza niRamaz su tu tamun, siqatis ti.	你煮的菜太多,就斷了。	muwaza niRamaz su tu tamun, saqabian ti.
+553	siqqay muwaza lamangan, siqqay zin ta punangan ma.	蛇有很多種類，我們只是總稱為蛇。	蛇有很多種類，我們只是總稱為蛇。	siqqay muwaza lamangan, siqqay zin ta punangan ma.	冬天有很多,只有在樹林裡才會有。	muwaza nisaRisan na siqay, qawka aimi semanu satezay.
+554	tuRpus bali, qamuwaza ika siqudus.	風很涼，衣服多穿一點。	風很涼，衣服多穿一點。	tuRpus bali, qamuwaza ika siqudus.	風很涼,衣服多穿一點。	tuRpus bali, qamuwaza ika siqudus.
+555	sisangsuy tama ku masang kemuway.	我爸爸從前穿簑衣耕田。	我爸爸從前穿簑衣耕田。	sisangsuy tama ku masang kemuway.	我爸爸以前在作工時穿了背心。	masang siqabu tama ku kelawkaway tu zenna.
+556	sitengngi iku taian, mesikaz iku matiw.	我那裡有帳，我不好意思去。	我那裡有帳，我不好意思去。	sitengngi iku taian, mesikaz iku matiw.	我在那裡很冷,我往外面去。	yau tingian ku taian, mesikaz iku matiw.
+557	kelawkaway ta tati, Raya sezang, siwngawan ti.	在外面工作，太陽太大，就中暑了。	在外面工作，太陽太大，就中暑了。	kelawkaway ta tati, Raya sezang, siwngawan ti.	外面的工作,太陽很亮,天氣很熱。	yau ta tati kelawkaway, Raya dames sezang, qamammaq ti.
+558	manna suRawan su nipaluma ku tu paRin?	你為什麼把我種的樹弄倒？	你為什麼把我種的樹弄倒？	manna suRawan su nipaluma ku tu paRin?	我種的樹你為什麼要砍?	manna pasuRaw su nipaluman ku tu paRin?
+559	suRawan na banged leppaw 'nay.	那個房子被颱風吹倒。	那個房子被颱風吹倒。	suRawan na banged leppaw 'nay.	那個房子被風摧毀。	matesuR na banged leppaw 'nay.
+560	suRut pa tu kelisiw sapasipenan qataban.	要募捐豐年祭請客的錢。	要募捐豐年祭請客的錢。	suRut pa tu kelisiw sapasipenan qataban.	要捐錢要當作祭品用的。	qalazuk ka tu kelisiw na niRaRangan.
+561	subuan ku ti benina 'nay.	我把那個香蕉拿去悶了。	我把那個香蕉拿去悶了。	subuan ku ti benina 'nay.	我把香倒了。	paRtikenan ku ti benina 'nay.
+562	Rabat ka tu suway saqanan na qabaw.	去割草餵牛吃。	去割草餵牛吃。	Rabat ka tu suway saqanan na qabaw.	去割草牛要吃的。	qayRas ka tu suway qeman tu qabaw.
+563	suzitang kaput ku mesuRaw matekuk uRu na tu bettu.	我朋友跌倒往後跌，頭敲到石頭。	我朋友跌倒往後跌，頭敲到石頭。	suzitang kaput ku mesuRaw matekuk uRu na tu bettu.	我朋友因為摔機而跌倒,頭撞到石頭。	temibuq kaput ku, tuktuk tu bettu uRu na.
+564	tabay zenna na baqi ku.	我爺爺的田很廣。	我爺爺的田很廣。	tabay zenna na baqi ku.	我爺爺的田很寬。	meRiz zenna na baqi ku.
+565	kalinguan ku qudus ku, tadiqudan ku mala.	我忘了我的衣服，我回頭去拿。	我忘了我的衣服，我回頭去拿。	kalinguan ku qudus ku, tadiqudan ku mala.	我忘了我的衣服,我重新拿起來。	kalingun ti iku tu qudus ku, temadikud iku mala.
+566	taktakan su ti ta piyazan ay baut.	盤子裡的魚你切了。	盤子裡的魚你切了。	taktakan su ti ta piyazan ay baut.	放在槽裡的魚你已經好了。	sataktak su ti baut ta kaysingan.
+567	niRasa ni tiana talay zau?	這是誰買的大臉盆？	這是誰買的大臉盆？	niRasa ni tiana talay zau?	這是誰買的?	tiana meRasa tu bangRes zau?
+568	tanem na qaniyau ta naungan.	他們的墓地在山上。	他們的墓地在山上。	tanem na qaniyau ta naungan.	他們的墓地在山上。	ta naungan tanem na qaniyau.
+569	matiw sa tanem tama ku.	我爸爸去墓地。	我爸爸去墓地。	matiw sa tanem tama ku.	我爸爸去墓地。	matiw sa tanem tama ku.
+570	tanianan su sepaw Ribang ku?	你把我的東西放在哪裡？	你把我的東西放在哪裡？	tanianan su sepaw Ribang ku?	你把我的東西放在哪裡?	pizian su tanian Ribang ku?
+571	paqawitan ku ta tansuan qudus su.	我把你的衣服吊在衣櫥裡。	我把你的衣服吊在衣櫥裡。	paqawitan ku ta tansuan qudus su.	我把你的衣服綁在吊子上。	paqawitan ku ta kapudan qudus su.
+572	tangi tasaw muwaza nidaytanan ku tu kelisiw.	今年我賺了很多錢。	今年我賺了很多錢。	tangi tasaw muwaza nidaytanan ku tu kelisiw.	我今年賺了很多錢。	muwaza niqawRi ku tu kelisiw tangi tasaw.
+573	muzan, naRin sa tati mawRat.	下雨，不要去外面玩。	下雨，不要去外面玩。	muzan, naRin sa tati mawRat.	下雨,不要出門玩。	muzan, naRin matiw sa tati semaqsaqay.
+574	tawikan ku, melimek.	我跟他打招呼，都不講話。	我跟他打招呼，都不講話。	tawikan ku, melimek.	我打招呼,都不講話。	nikau ku aizipna, mai sikawma.
+575	taytan su tama ku melaziw tangi taRbabi ni?	你今天早上有看到我爸爸經過嗎？	你今天早上有看到我爸爸經過嗎？	taytan su tama ku melaziw tangi taRbabi ni?	你有看到我爸爸今天早上經過嗎?	taytan su tama ku tangi tasaw masang ni?
+576	mai taytan su naRin pisapat sikawma.	你沒有看到不要隨便亂說。	你沒有看到不要隨便亂說。	mai taytan su naRin pisapat sikawma.	你看不到不要隨便亂講話。	mai matayta isu naRin pisapat sikawma.
+577	temaqsi ta taqsian zau nizu tazungan.	在這間學校就讀的都是女生。	在這間學校就讀的都是女生。	temaqsi ta taqsian zau nizu tazungan.	這些女人都在這學校讀書。	tazungan pama temud ay ta taqsian zau.
+578	tiana tebbeq tu babuy na naung zau?	這隻山豬是誰刺的？	這隻山豬是誰刺的？	tiana tebbeq tu babuy na naung zau?	誰殺到這個山豬?	nitimpan ni tiana babuy na naung zau?
+579	tedem ti, qalazuk ka temanan!	天暗了，快點回去！	天暗了，快點回去！	tedem ti, qalazuk ka temanan!	天黑了,快點回去!	tedem ti, qalazuk ka temanan!
+580	mulesit ti niRupuan su ay telaquq.	你關起來的雞逃出去了。	你關起來的雞逃出去了。	mulesit ti niRupuan su ay telaquq.	你關的雞逃掉了。	niRupuan su tu taquq meRaRiw ti.
+581	aiku temaRa tu Raq paqan tu labang.	是我斟酒給客人喝的。	是我斟酒給客人喝的。	aiku temaRa tu Raq paqan tu labang.	我酒給客人喝。	aiku pumaRa tu labang ay.
+582	temaRqan tu sabaq tama ku.	我爸爸在碾米。	我爸爸在碾米。	temaRqan tu sabaq tama ku.	我爸爸在穀。	qaypanay tama ku tu sabaq.
+583	temaktak qaqa ku tu baut.	我姐姐在切魚。	我姐姐在切魚。	temaktak qaqa ku tu baut.	我哥哥在魚。	kemilas qaqa ku tu baut.
+584	temakunu siRab sunis 'nay ta inpanan ku.	那個小孩昨天在我床上尿床。	那個小孩昨天在我床上尿床。	temakunu siRab sunis 'nay ta inpanan ku.	那個小孩昨天在我家隔壁住。	sunis 'nay siRab temunuR ta yata ku.
+585	tanian isu temalunbi manna mai qapakala?	妳躲到哪裡，為什麼找不到？	妳躲到哪裡，為什麼找不到？	tanian isu temalunbi manna mai qapakala?	你在哪裡躲到為什麼找不到?	temalumbi isu tanian, manna mai mapakala?
+586	temanbaseR ti benuway ku.	我的風箏飛起來了。	我的風箏飛起來了。	temanbaseR ti benuway ku.	我的子脫皮了。	mebaba ti banged ku.
+587	manna simmang isu tu 'may qeman, mai temamun.	你怎麼只吃飯，沒有吃菜。	你怎麼只吃飯，沒有吃菜。	manna simmang isu tu 'may qeman, mai temamun.	你為什麼飯,不夠吃。	manna qeman su 'may, mai tu tamun.
+588	Rayngu aiku temangan tu suksuk zau.	我不會開這把鎖。	我不會開這把鎖。	Rayngu aiku temangan tu suksuk zau.	我不會打這個子。	Rayngu iku melapus tu salil zau.
+589	suppaR temangkizaya tama ku.	我的爸爸很會說阿美語。	我的爸爸很會說阿美語。	suppaR temangkizaya tama ku.	我爸爸很會唱歌。	suppaR semanu tu sikawman na ni tama ku.
+590	tematas aizipna tu sapaR na lineng.	他在拆牆的木板。	他在拆牆的木板。	tematas aizipna tu sapaR na lineng.	他在砍牆壁的木頭。	mepasid aizipna tu sapaR na lineng.
+591	mai iku tu lawad temawaR, kikung pa suani ku.	我明天沒有空，我弟弟要結婚。	我明天沒有空，我弟弟要結婚。	mai iku tu lawad temawaR, kikung pa suani ku.	我明天沒有空時,要跟我弟弟打。	mai iku tu lawad temawaR, kikung pa suani ku.
+592	temawasi aizipna tu qudus na.	他在刷他的衣服。	他在刷他的衣服。	temawasi aizipna tu qudus na.	他在洗他的衣服。	mepasing aizipna tu qudus na.
+593	mai pama iku temayta tu napawan su.	我還沒有見過妳的先生。	我還沒有見過妳的先生。	mai pama iku temayta tu napawan su.	我還沒有看你的老婆。	mai pama iku temayta tu Runanay ay seRay.
+594	manna temeqez isu tazian?	你為什麼在這裡停下來？	你為什麼在這裡停下來？	manna temeqez isu tazian?	你為什麼停在這裡?	manna temqez isu tazian?
+595	temiyam tina ku ta damuan.	我媽媽在部落開店。	我媽媽在部落開店。	temiyam tina ku ta damuan.	我媽媽在部落採。	ta damuan tina ku pasingki.
+596	temuRes imu, mai qaala qaynepan ku.	你們太吵，我無法入眠。	你們太吵，我無法入眠。	temuRes imu, mai qaala qaynepan ku.	你們著我,我無法入眠。	meRamutiR imu, mai mala qaynepan ku.
+597	temud bai ku tu sikawman na kebalan.	我奶奶教我噶瑪蘭語。	我奶奶教我噶瑪蘭語。	temud bai ku tu sikawman na kebalan.	我奶奶教噶瑪蘭人說話。	patudan na bai ku tu sikawman na kebalan.
+598	naRin temuluz timaikuan.	不要派遺我。	不要派遺我。	naRin temuluz timaikuan.	不要跟我架。	naRin patungayanan timaikuan.
+599	qumni isu temuqaz, manna Raynguan ku?	你什麼時候進來的，我怎麼不知道？	你什麼時候進來的，我怎麼不知道？	qumni isu temuqaz, manna Raynguan ku?	你什麼時候進來,我怎麼不知道?	qumni isu temuqaz, manna Raynguan ku?
+600	Raynguan ku keladud mai tu tenad.	我不知道蚯蚓沒有腸子。	我不知道蚯蚓沒有腸子。	Raynguan ku keladud mai tu tenad.	我不知道有沒有青菜的。	Raynguan ku mai tu qasengat dadas.
+601	sasuway ti nipaluman ku tu tened paquRas ika tu sunis.	我種的菜很多雜草了，叫孩子去除草。	我種的菜很多雜草了，叫孩子去除草。	sasuway ti nipaluman ku tu tened paquRas ika tu sunis.	我種的菜枯乾了叫孩子去割它。	muwaza ti nipaluman ku tu tamun, pasaksak ika tu sunis.
+602	tennuR ika qabaw 'nay ta paRinan.	把那頭牛栓在樹上。	把那頭牛栓在樹上。	tennuR ika qabaw 'nay ta paRinan.	把那頭牛插入樹裡。	temuleku ka tu qabaw 'nay ta paRinan.
+603	masengat iku, tepiqan ku takan, manan ti iku.	我站起來，桌子一拍，我就回去了。	我站起來，桌子一拍，我就回去了。	masengat iku, tepiqan ku takan, manan ti iku.	我起床,我把桌子開,我就回去了。	miRi iku, tikkukan ku takan, temanan ti iku.
+604	mai tu tiRRan qedita.	章魚沒有骨頭。	章魚沒有骨頭。	mai tu tiRRan qedita.	沒有骨頭很可怕。	mai tu tiRan sauR.
+605	titan ku nayau waway su, taRRaw anem ku.	我看你那個樣子，我心裡很痛。	我看你那個樣子，我心裡很痛。	titan ku nayau waway su, taRRaw anem ku.	我看到你這樣,我心裡非常痛苦。	taytan ku waway su, taRaw anem ku.
+606	puzanuman tangan na tiziq qemapaR.	用水灌蟋蟀洞來捉。	用水灌蟋蟀洞來捉。	puzanuman tangan na tiziq qemapaR.	的洞要加水來抓。	puRas ika tu zanum tangan na qemapaR.
+607	tuRabi dedan zau qemidat bulan.	今天晚上月亮很亮。	今天晚上月亮很亮。	tuRabi dedan zau qemidat bulan.	這個夜晚月亮很亮。	qemidat tangi Rabi bulan.
+608	mai qasemin niRamaz su salang tuRang ika tu zanum.	妳煮的湯不夠要加點水。	妳煮的湯不夠要加點水。	mai qasemin niRamaz su salang tuRang ika tu zanum.	你煮的湯不夠加水。	mai qasemmin puman su tu niRamaz ay salang.
+609	tuRes ika lazat 'nay, qauman qaynaR.	你吵那個人，一定醒過來。	你吵那個人，一定醒過來。	tuRes ika lazat 'nay, qauman qaynaR.	逼著那個人,他會吞。	nitutuzan su lazat 'nay, qawman meRenem ti.
+610	tuResan sunis zau, muRing ti.	這小孩被吵到，才哭的。	這小孩被吵到，才哭的。	tuResan sunis zau, muRing ti.	這個小孩被到,就哭了。	maRaus sunis zau, qawka muRing.
+611	tmuRuy pa uman taRaw su.	你的病情會惡化。	你的病情會惡化。	tmuRuy pa uman taRaw su.	你的病又要復發。	qataRu ti taRaw su.
+612	tuRuzan ti sunis zau, bawa ika paqaynep.	這個小孩很睏了，抱去睡覺。	這個小孩很睏了，抱去睡覺。	tuRuzan ti sunis zau, bawa ika paqaynep.	這個小孩背起來了,抱著他睡。	melabut ti sunis zau, paqaynep ika.
+613	tiana mala ay tu tub na peRasku zau?	誰把這個瓶子的蓋子拿走？	誰把這個瓶子的蓋子拿走？	tiana mala ay tu tub na peRasku zau?	這瓶子的蓋子是誰拿走的?	tiana mala tu lubung na peRasku zau?
+614	tulisan su tu tengen ay, tuRabi mai meqayta.	你用黑色的畫線，晚上看不到。	你用黑色的畫線，晚上看不到。	tulisan su tu tengen ay, tuRabi mai meqayta.	你用黑色的畫,晚上看不到。	sepul ika temulis, mai ti qatayta tuRabi.
+615	Rabetin duki yau ulima tunek tangi.	現在是10點5分。	現在是10點5分。	Rabetin duki yau ulima tunek tangi.	今天的子有五顆。	uzusa unem qaunem tangi.
+616	tungaw pa iku tu 'may na tama ku.	我要送我爸爸的便當。	我要送我爸爸的便當。	tungaw pa iku tu 'may na tama ku.	我要去送我爸爸的飯。	tungaw pa iku tu 'may na tama ku.
+617	Rasa pa iku tu tungus ku leppaw.	我要買屬於自己的房子。	我要買屬於自己的房子。	Rasa pa iku tu tungus ku leppaw.	我要買我的家用品。	Rasa pa iku tu saRasan ku leppaw.
+618	tunun na pusia zau.	這是頭目的柺杖。	這是頭目的柺杖。	tunun na pusia zau.	這是小姐的頭髮。	sapaytan tu uRu zau.
+619	muzan ta tati tuqaz ka sa leppaw.	外面下雨請到屋內來。	外面下雨請到屋內來。	muzan ta tati tuqaz ka sa leppaw.	外面下雨請進屋內。	muzan ta tati qawtu ka sa leppaw.
+620	mai pama mulepun leppaw zau, naRin tuqazan.	這個房子還沒有蓋好，不要進去。	這個房子還沒有蓋好，不要進去。	mai pama mulepun leppaw zau, naRin tuqazan.	這個房子還沒有滿,不要進去。	mai pama nipateng leppaw zau, naRin tuqazan.
+621	manna tuqiqan su aizipna?	你為什麼要刺他？	你為什麼要刺他？	manna tuqiqan su aizipna?	你為什麼罵他?	manna patusuzan su aizipna?
+622	tusuRan su ti tu qelizen lazum ku ni?	我的針你穿好線了嗎？	我的針你穿好線了嗎？	tusuRan su ti tu qelizen lazum ku ni?	我的針你穿過線了嗎?	qasiRan su ti pini na iku ni?
+623	tutumis balis zau meniz.	這些鐵都是尖尖的。	這些鐵都是尖尖的。	tutumis balis zau meniz.	這根鐵條一直著。	nizu matumis balis zau.
+624	unay ma Ribang su ni?	你只有那些東西嗎？	你只有那些東西嗎？	unay ma Ribang su ni?	你的東西還是可以拿走嗎?	wama 'nay Ribang su ni?
+625	upitubetin laluyan babuy na naung zau, paqenaneman ku muzung.	這隻山豬七十公斤，我獨自一個人扛。	這隻山豬七十公斤，我獨自一個人扛。	upitubetin laluyan babuy na naung zau, paqenaneman ku muzung.	這山豬的巢裡有很多,我要讓它沉浸在裡面。	babuy na naung zau uzusabetin laluyan, paqenanem iku muzung temunuz.
+626	manna usepatan su ma bula tu kubu kaput su.	你怎麼只拿四頂帽子給你的朋友。	你怎麼只拿四頂帽子給你的朋友。	manna usepatan su ma bula tu kubu kaput su.	你為什麼把帽子給朋友七次。	manna ussiquR ma aisu bula tu kaput na kaput su.
+627	usiwabetin asa na baut zau salaluy, mesaiz.	這魚一公斤九十元，很便宜。	這魚一公斤九十元，很便宜。	usiwabetin asa na baut zau salaluy, mesaiz.	這條魚的價錢要折一整塊來賣,很貴。	sabangsis baut zau ulima betin bali, mesedes.
+628	utani ti duki tangi?	現在是幾點？	現在是幾點？	utani ti duki tangi?	現在的子幾隻了?	qumni tangi?
+629	utuzan leppaw zau mabenaR ti lineng.	這個家被震的牆裂了。	這個家被震的牆裂了。	utuzan leppaw zau mabenaR ti lineng.	這個房子被雨淋到牆壁破了。	mabenaR ti nizekenan lineng na leppaw zau.
+630	uzepan ku ti niRaizuan numi.	我把妳們烤的火給熄了。	我把妳們烤的火給熄了。	uzepan ku ti niRaizuan numi.	你們綁的子我已經收好了。	paRtikan ku ti nibulbunan na mulu.
+631	melizaq aizipna qeman tu waRang.	他很喜歡吃螃蟹。	他很喜歡吃螃蟹。	melizaq aizipna qeman tu waRang.	他喜歡吃黃豆。	melizaq aizipna qeman tu dadas.
+632	niz ti maqan tamun, wantima zau qatis niaq.	菜都吃完了，我們所剩的只有這些。	菜都吃完了，我們所剩的只有這些。	niz ti maqan tamun, wantima zau qatis niaq.	菜全部都枯了,這隻只剩我們。	mulepun ti tamun, zau ma nizi na imi.
+633	zana tama ku ay bawa' zau.	這是我爸爸的船。	這是我爸爸的船。	zana tama ku ay bawa' zau.	這是我爸爸的船。	bawa' na tama ku zau.
+634	ibabaw inupal 'nay, zaqis ika mala.	那顆柿子很高，爬上去拿。	那顆柿子很高，爬上去拿。	ibabaw inupal 'nay, zaqis ika mala.	那個子很高,拿起來快一點。	ibabaw qipenayan 'nay, tuqaz ka mala.
+635	paliway iku tu zaqisan su!	你的梯子借我！	你的梯子借我！	paliway iku tu zaqisan su!	你的椅子借我!	paliway iku tu dadas su!
+636	zata ay qakelawkawayan zau, naRin kemilim ta qaniyauan.	這是我們的工作，不要找他們。	這是我們的工作，不要找他們。	zata ay qakelawkawayan zau, naRin kemilim ta qaniyauan.	這是我們的工作,不要在找他。	aimi ay kelawkawayan zau, naRin kemilim tu qaniyau.
+637	paqaynepan ku ta ziyunan suani ku.	我把弟弟放在搖籃裡睡。	我把弟弟放在搖籃裡睡。	paqaynepan ku ta ziyunan suani ku.	我讓我弟弟在樹裡睡。	pukiyan ku suani ku maynep.
+638	ziyunan ku suani ku maynep ti.	我幫弟弟搖搖籃他就睡了	我幫弟弟搖搖籃他就睡了	ziyunan ku suani ku maynep ti.	我著我弟弟睡覺了。	tutuzan ku suani ku maynep ti.
+639	Rabi ti qawka ita matiw sa leppaw na.	我們傍晚才去他家。	我們傍晚才去他家。	Rabi ti qawka ita matiw sa leppaw na.	夜晚了我們才到他家。	tuRabi pa imi matiw sa leppaw na.
+640	Raputuy iku siRab qaRabi maynep.	我昨晚睡覺作夢了。	我昨晚睡覺作夢了。	Raputuy iku siRab qaRabi maynep.	我昨天晚上睡覺用枕頭睡。	meRazang ti iku siRab Rabi maynep.
+641	paliway iku tu Rasibu, mai qasemmin kelisiw ku.	借我一佰元，我的錢不夠。	借我一佰元，我的錢不夠。	paliway iku tu Rasibu, mai qasemmin kelisiw ku.	我借了帳票,我的錢不夠。	paliway iku tu kelawkawayan, mai qasemin kelisiw ku.
+642	mezaqis tu qitun sa kalingku, utani asa na? mezaqis tu qitun sa kalingku Rasibu yau ulimabetin asa na.	坐車到花蓮，多少錢？ 坐車到花蓮需要一佰伍拾元。	坐車到花蓮，多少錢？ 坐車到花蓮需要一佰伍拾元。	mezaqis tu qitun sa kalingku, utani asa na? mezaqis tu qitun sa kalingku Rasibu yau ulimabetin asa na.	他去花蓮買車,價錢多少?他去花蓮買車有五十萬元。	qasaqay ta qitun matiw sa kalingku, utani asa na? saqeteRbu kelisiw qaqaya ta qitunan.
+643	qaypesan wasu zau, pisapat Raytunguz.	這隻狗很討厭，隨便亂叫。	這隻狗很討厭，隨便亂叫。	qaypesan wasu zau, pisapat Raytunguz.	這隻狗是要養的,會隨便獵人。	mipes wasu zau, pisapat muRat.
+644	muwaza ti lisaw su.	你錯的很多。	你錯的很多。	muwaza ti lisaw su.	你的年齡多了。	muwaza melisaw su.
+645	RumeR pa iku tu benauR satutuan.	我要醃黃瓜當中餐吃。	我要醃黃瓜當中餐吃。	RumeR pa iku tu benauR satutuan.	我要菜給客人吃。	paRtik pa iku tu qawpiR qeman.
+646	baqsiw ika aisu RusRus zau.	你把這個垃圾丟掉。	你把這個垃圾丟掉。	baqsiw ika aisu RusRus zau.	你把這些垃圾丟掉。	walin ika RusRus zau.
+647	atuR zau aiku semangi ay.	這個擋土牆是我做的。	這個擋土牆是我做的。	atuR zau aiku semangi ay.	這個木柱是我做的。	nisangian ku qenabinnus zau.
+648	utulu niquduan ku tu babuy.	我養三隻豬。	我養三隻豬。	utulu niquduan ku tu babuy.	我養了三隻豬。	tolu iku tu babuy temapa.
+649	naRin baluduq tazian, qaRetut ti sunis ku.	不要在這裡大聲喊叫，我的孩子會嚇到。	不要在這裡大聲喊叫，我的孩子會嚇到。	naRin baluduq tazian, qaRetut ti sunis ku.	不要在這裡放浪,我孩子會很怕。	naRin muRaya tazian, qaqaytayan ti sunis ku.
+650	bangsis niRamazan su tu tamun.	你煮的菜很香。	你煮的菜很香。	bangsis niRamazan su tu tamun.	你煮的菜發出聲。	bangsis niRamaz su tu tamun.
+651	tabay leppaw zau, baneng aka tu utulu lanengan leppaw zau.	這個房子很大，我要把這個房子隔成三間。	這個房子很大，我要把這個房子隔成三間。	tabay leppaw zau, baneng aka tu utulu lanengan leppaw zau.	這個房子很寬,我要隔三個土地。	tabay leppaw zau, pabaneng pa iku tu kintulu leppaw zau.
+652	belulu zau senubulin na baqi ku.	這個背簍是我的爺爺留下來的。	這個背簍是我的爺爺留下來的。	belulu zau senubulin na baqi ku.	這個西瓜是爺爺要的。	nisubul na baqi ku lulen zau.
+653	mala iku tu Raya ay bedayang meRamaz tu tamun.	我拿了很大的炒菜鍋來煮菜。	我拿了很大的炒菜鍋來煮菜。	mala iku tu Raya ay bedayang meRamaz tu tamun.	我拿大菜煮菜用的。	mala iku tu Raya ay puyan saRamazan.
+654	biqbiq ika qudus su satiRemuq.	你的衣服很多灰塵把它抖一下。	你的衣服很多灰塵把它抖一下。	biqbiq ika qudus su satiRemuq.	你的衣服要起來很厚。	muwaza adiq na qudus su pasuppaR ika ta.
+655	buwiq ti mulay na paRin zau.	這棵樹的花開了。	這棵樹的花開了。	buwiq ti mulay na paRin zau.	這棵樹的花開了。	mekudat ti mulay na paRin zau.
+656	bukas ika tu suway ninebi su tu melimu.	你藏起來的山羌用草蓋起來。	你藏起來的山羌用草蓋起來。	bukas ika tu suway ninebi su tu melimu.	把你藏起來的山用草開來。	supaw ika tu suway nilimut su.
+657	madded qaniyau kinnawsa ta dadapiyak ay bettu.	他們倆個坐在扁平的石頭上。	他們倆個坐在扁平的石頭上。	madded qaniyau kinnawsa ta dadapiyak ay bettu.	他們倆位坐在靠近的石頭上面。	yau qaniyau kinnawsa madded ta luzit ay bettu.
+658	pasa imis tama ku semaqay.	我爸爸往北方走。	我爸爸往北方走。	pasa imis tama ku semaqay.	我爸爸走的很微笑。	matiw sa imu tama ku.
+659	muwaza kelawkawayan temawaR, kalamaz ka hibang tangi Rabi.	明天有很多工作要做，今晚早一點休息。	明天有很多工作要做，今晚早一點休息。	muwaza kelawkawayan temawaR, kalamaz ka hibang tangi Rabi.	明天工作很多,今晚早點休息。	muwaza qakelawkawayan temawaR, tangi Rabi kalamaz ka hibang.
+660	kapi ku tazungan zau.	這個女人是我的小老婆。	這個女人是我的小老婆。	kapi ku tazungan zau.	這個女人是我的情人。	tazungan ku tazungan zau.
+661	mai iku kalingun tu sikawman na baqi bai.	我沒有忘記爺爺奶奶說的話。	我沒有忘記爺爺奶奶說的話。	mai iku kalingun tu sikawman na baqi bai.	我不會忘記爺爺奶奶說的話。	mai iku kalingun tu nisikawman na baqi ku.
+662	semaRuR tu qitun, naRin kalingun tu Ribang.	下車時，不要忘了行李。	下車時，不要忘了行李。	semaRuR tu qitun, naRin kalingun tu Ribang.	車子倒了,不要忘記東西。	muzung tu qitun, naRin kalingunan Ribang su.
+663	mayni kedabu su? zau saqaqa ay kedabu ku.	你的媳婦是哪位？這是我最大的媳婦。	你的媳婦是哪位？這是我最大的媳婦。	mayni kedabu su? zau saqaqa ay kedabu ku.	你的子很重嗎?這隻是我的子。	tiana qenawad su? qaRayan ku qenawad zau.
+664	kelisa ma aiku mipit mai ti tamun 'nay.	我才夾一次那盤菜就沒有了。	我才夾一次那盤菜就沒有了。	kelisa ma aiku mipit mai ti tamun 'nay.	我一點點的便沒有那個菜了。	umanan iku pemusipus tu tamun 'nay mai ti.
+665	kiskis ika buqes su maRung dames.	你的頭髮太長了把頭髮理掉。	你的頭髮太長了把頭髮理掉。	kiskis ika buqes su maRung dames.	你的頭髮剪掉了太長了。	maRung dames buqes su sinap ika.
+666	kizaya napawan na ni aki.	Aki的太太是阿美族人。	Aki的太太是阿美族人。	kizaya napawan na ni aki.	Aki的老婆很可憐。	aki ay tazungan ni atu.
+667	sasangian ku tu itus laten zau.	這個珠子是我要作項鍊的。	這個珠子是我要作項鍊的。	sasangian ku tu itus laten zau.	這是我要作Itus的窗戶。	sapalunan ku laten zau.
+668	laydaw iku tu sunis ku.	我擔心我的孩子。	我擔心我的孩子。	laydaw iku tu sunis ku.	我在照顧我的孩子。	mayseng iku tu sunis ku.
+669	pasani lazan zau?	這條路往哪裡去？	這條路往哪裡去？	pasani lazan zau?	這條路往哪裡?	pasani pasaqay tu lazan zau?
+670	ilebeng tangan zau leku ka temuqaz.	這個門很矮要低頭彎腰進去。	這個門很矮要低頭彎腰進去。	ilebeng tangan zau leku ka temuqaz.	這個洞很隱蔽要進去。	kezut ineb zau sipes ika temuqaz.
+671	zani tiana ay leppaw zau?	這是誰的家？	這是誰的家？	zani tiana ay leppaw zau?	這是誰的房子?	zani tiana leppaw zau?
+672	naRin tuqazan leppaw 'nay, bangtu.	不要進去那間房子，很臭。	不要進去那間房子，很臭。	naRin tuqazan leppaw 'nay, bangtu.	那個房子不要進去,很臭。	naRin tuqazan leppaw 'nay, bangtu.
+673	yau mammaq ay zanum sauzisan ni?	有熱水可以洗澡嗎？	有熱水可以洗澡嗎？	yau mammaq ay zanum sauzisan ni?	有冷水可以洗嗎?	yau mammaq ay zanum nengi uzisan ni?
+674	mataktak ku ti tiRan 'nay.	我已經把個骨頭切好了。	我已經把個骨頭切好了。	mataktak ku ti tiRan 'nay.	那個骨頭我已經割好了。	mataRan ku ti ti tiRRan 'nay.
+675	matuttu ku ti kelisiw su.	你的錢我已捐出去了。	你的錢我已捐出去了。	matuttu ku ti kelisiw su.	你的錢我已經還給你了。	nipatabuan ku ti kelisiw su.
+676	naRin kasianem tu masang ay lanas.	不要想以前的事情。	不要想以前的事情。	naRin kasianem tu masang ay lanas.	不要懷念以前的事。	naRin menanam tu masang ay lanas.
+677	mai pama iku satezay. manan ti aizipna.	我還沒有唱歌，他就回去了。	我還沒有唱歌，他就回去了。	mai pama iku satezay. manan ti aizipna.	我還沒有唱歌過,他已經回去了。	mai pama iku satezay, temanan ti aizipna.
+678	Rubatang mata su.	你的眼睛很漂亮。	你的眼睛很漂亮。	Rubatang mata su.	你的眼睛很亮。	Rubatang mata su.
+679	matteng iku tu kaput ku, tanan pa iku ti.	我跟我的朋友告別，我要回去了。	我跟我的朋友告別，我要回去了。	matteng iku tu kaput ku, tanan pa iku ti.	我在看我的朋友,我回去。	qatabuan ku kaput ku, tanan pa iku ti.
+680	manna meRinang lima su? siwa na Rabis, meRinang ti.	你的手怎麼在流血？ 被刀子割到，就流血了。	你的手怎麼在流血？ 被刀子割到，就流血了。	manna meRinang lima su? siwa na Rabis, meRinang ti.	你的手為什麼流血?被刀切到,就流血了。	manna meRinang lima su? maketiq tu saRiq, meRinang ti.
+681	tiana qabaw medudd ta tazuqan ta.	誰的牛在我們的秧苗裡打滾。	誰的牛在我們的秧苗裡打滾。	tiana qabaw medudd ta tazuqan ta.	誰把牛在我們的裡。	tiana ay qabaw meRibed ta bawbian.
+682	metuttuz sunis ku timaikuan tu kelisiw.	我的孩子一直跟我索取錢。	我的孩子一直跟我索取錢。	metuttuz sunis ku timaikuan tu kelisiw.	我的孩子用力給我錢。	pamelalan sunis ku timaikuan tu kelisiw.
+683	mulepun aisu kelawkaway tazian, panmu ika aizipna.	你這裡的工作做完後，再去幫他。	你這裡的工作做完後，再去幫他。	mulepun aisu kelawkaway tazian, panmu ika aizipna.	你在這裡工作很忙,幫他做。	pun ti isu tazian ay kelawkawayan, qawka isu manmu timaizipana.
+684	mulepun ti kelawkawayan zau, nengi ti anem ku.	這個工作完成之後，我也就放心了。	這個工作完成之後，我也就放心了。	mulepun ti kelawkawayan zau, nengi ti anem ku.	這份工作做完之後,我心裡放鬆了。	pun ti kelawkawayan zau, nengi ti anem ku qaya.
+685	muylia na qinpan ku zau.	這是我房間門的布簾。	這是我房間門的布簾。	muylia na qinpan ku zau.	這是我房間的圍。	saped na ineb na qinpan ku zau.
+686	nanguy pa iku ta lazingan.	我要在海邊游泳。	我要在海邊游泳。	nanguy pa iku ta lazingan.	我要去海邊魚。	zum pa iku ta lazingan.
+687	hibangan matiw imi nansasuani sa naung paRama tu qabaw.	假日我們兄弟倆去山上牧牛。	假日我們兄弟倆去山上牧牛。	hibangan matiw imi nansasuani sa naung paRama tu qabaw.	我們兩個兄弟起床去山上放牛。	ta bawbian aimi kinnawsa matiw sa naung paRama tu qabaw.
+688	sangi pa tama ku tu naqang na pasku.	我爸爸要搭絲瓜的棚架。	我爸爸要搭絲瓜的棚架。	sangi pa tama ku tu naqang na pasku.	我爸爸要做過年祭的禮品。	sasangi pa tu salu tama ku.
+689	naquni qawka isu sazmaken?	怎樣你才會相信？	怎樣你才會相信？	naquni qawka isu sazmaken?	你怎麼樣才相信?	manna sazmaken isu?
+690	tuqaz ka! naRin miRi ta nasanan.	請進！不要在庭院站著。	請進！不要在庭院站著。	tuqaz ka! naRin miRi ta nasanan.	進來!不要站在中庭。	tuqaz ka! naRin miRi ta nasanan.
+691	ngid iku qan tu benina, yau ni?	我想要吃香蕉，有嗎？	我想要吃香蕉，有嗎？	ngid iku qan tu benina, yau ni?	我想吃香,有嗎?	ngid iku qan tu benina, yau ni?
+692	maRung ningu na lazat taRbabi, tutu kizut.	早上人的影子很長，中午時很短。	早上人的影子很長，中午時很短。	maRung ningu na lazat taRbabi, tutu kizut.	人的命中早上很久了,又快到了。	maRung teday na lazat taRbabi, kezut sataRbabi.
+693	nimetmet na tina ku beRas zau.	這是我媽媽碾碎的米。	這是我媽媽碾碎的米。	nimetmet na tina ku beRas zau.	這是我媽媽的白米。	nimin na tina ku beRas zau.
+694	nizu Runanay ta teReq na leppaw 'nay, mesikaz iku semusuR.	那個屋子內都是男人，我不好意思進去。	那個屋子內都是男人，我不好意思進去。	nizu Runanay ta teReq na leppaw 'nay, mesikaz iku semusuR.	那個房子裡面都是男孩,我一個人倒下。	Runanay ta leppaw 'nay, mesikaz iku temuqaz.
+695	nibaliw na tina su qudus zau.	這是你媽媽賣的衣服。	這是你媽媽賣的衣服。	nibaliw na tina su qudus zau.	這是你媽媽賣的衣服。	nibaliwan na tina su qudus zau.
+696	nibedung su tu peRasku sinap ika.	你弄破的瓶子掃一下。	你弄破的瓶子掃一下。	nibedung su tu peRasku sinap ika.	你蓋的瓶子去掃一掃。	sinap ika mabenaRan su peRasku.
+697	niana kiliman su?	你在找什麼？	你在找什麼？	niana kiliman su?	你在找什麼?	niana kemilim su?
+698	niana zin su? mai maipil ku, uman ka sikawma si!	你說什麼？ 我聽不到，請再說一次！	你說什麼？ 我聽不到，請再說一次！	niana zin su? mai maipil ku, uman ka sikawma si!	你說什麼?我聽不到,再講一下吧!	niana nisikawman su? mai qaipil ku, uman ika semanu!
+699	ninunu niaq palepun semangi tu sanku zau.	這個漁蔞燈是我們連接著作才完成的。	這個漁蔞燈是我們連接著作才完成的。	ninunu niaq palepun semangi tu sanku zau.	這是我們完成一次的工作來製作水管。	sapatuRuq niaq semangi ay tu sudad zau.
+700	nitanuz ku babuy na naung zau.	這是我追的山豬。	這是我追的山豬。	nitanuz ku babuy na naung zau.	我追過這個山豬。	nibaduan ku babuy na naung zau.
+701	nitemaq na tama ku suway zau.	這是我爸爸燒的草。	這是我爸爸燒的草。	nitemaq na tama ku suway zau.	這是我爸爸燒的草。	nipuRamazan na tama ku suway zau.
+702	ninebi ku kelisiw zau.	這是我存起來的錢。	這是我存起來的錢。	ninebi ku kelisiw zau.	這是我藏的錢。	nipatenawan ku kelisiw zau.
+703	nipakala su Ribang zau ni? en, nipakala ku Ribang zau.	這是你找到的東西嗎？是的，這是我找到的東西。	這是你找到的東西嗎？是的，這是我找到的東西。	nipakala su Ribang zau ni? en, nipakala ku Ribang zau.	你找到這個東西嗎?是的,我找到這件東西。	nipakala su Ribang zau ni? en, nipakala ku ribang zau.
+704	niuzis ni baqi zanum zau ni?	這是爺爺洗過的水嗎。	這是爺爺洗過的水嗎。	niuzis ni baqi zanum zau ni?	這是爺爺洗過的水嗎?	nibanawan na baqi ku zanum zau ni?
+705	nunuan numi qaylekuzun, qumni qayau tasu lubas na?	你們連接著去撿落葵，什麼時候才會長新芽？	你們連接著去撿落葵，什麼時候才會長新芽？	nunuan numi qaylekuzun, qumni qayau tasu lubas na?	你們去採哪裡的子,又什麼時候新出來呢?	simpanay imu matiw sa'si, qumni sasunis?
+706	tingzen ibabaw ya nuzu 'nay.	那棵椰子樹又直又高。	那棵椰子樹又直又高。	tingzen ibabaw ya nuzu 'nay.	那條子很高。	medudutiz ti uway 'nay.
+707	sepalituq ay lima su papusipus ika tu bai ku, suppaR bai ku.	你扭到的手叫我奶奶搓揉，我奶奶會治療。	你扭到的手叫我奶奶搓揉，我奶奶會治療。	sepalituq ay lima su papusipus ika tu bai ku, suppaR bai ku.	你的手弄叫我奶奶去擦,我奶奶會。	qipit ika tu bai ku nipawlit su ay lima, suppaR pa semangi na bai ku.
+708	patayta ika ti angaw sudad zau suppaRan na ti.	讓Angaw看這張紙條他就知道了。	讓Angaw看這張紙條他就知道了。	patayta ika ti angaw sudad zau suppaRan na ti.	叫Angaw看這本書他就會知道。	paita ika ti angaw tu tepuluk zau suppaRan na ti.
+709	paseking ika qaniyau tu Raya ay taqsian.	讓他們去考大學。	讓他們去考大學。	paseking ika qaniyau tu Raya ay taqsian.	叫他們把學校變大的。	paqatiw ika qaniyau pasingatu.
+710	pasuRiR pa iku tu zanum pasa zenna ku.	我把水流到我的水田裡。	我把水流到我的水田裡。	pasuRiR pa iku tu zanum pasa zenna ku.	我要放水到我的田裡。	pasaRawan ku zanum sa zenna ku.
+711	melizaq patuluz tu lazat ti angaw.	Angaw很喜歡派遣人。	Angaw很喜歡派遣人。	melizaq patuluz tu lazat ti angaw.	Angaw很喜歡指責人。	melizaq pakudatan ti angaw.
+712	niana pasangian su ti abasan? pasangian ku ti abas tu qudus na kebalan.	你在Abas那裡訂做什麼？ 我請Abas做我的噶瑪蘭衣服。	你在Abas那裡訂做什麼？ 我請Abas做我的噶瑪蘭衣服。	niana pasangian su ti abasan? pasangian ku ti abas tu qudus na kebalan.	你叫Abas做什麼?我叫Abas做噶瑪蘭的衣服。	qemuni isu ta abasan? pasangian ku ti abas tu qudus ku na kebalan.
+713	pasinanam ika wasu su mala tu mali.	讓你的狗練習撿球。	讓你的狗練習撿球。	pasinanam ika wasu su mala tu mali.	讓你的狗習慣拿球。	pasinanam ika wasu su pemani tu mali.
+714	patuqaz ika kaput su paqadded.	叫你的朋友進來坐。	叫你的朋友進來坐。	patuqaz ika kaput su paqadded.	叫你朋友進來坐。	pasusu ika kaput su pa madded.
+715	mai pama iku qeman sataRbabi.	我還沒有吃早餐。	我還沒有吃早餐。	mai pama iku qeman sataRbabi.	我早餐還沒有吃。	mai pama iku qeman tu sataRbabi.
+716	pangked ika qemuni qaniyau.	去偷看她們在做什麼。	去偷看她們在做什麼。	pangked ika qemuni qaniyau.	請他們分開來做。	qalazuk ka temayta tu naquni na qaniyau.
+717	sangi pa iku tu pasenawa.	我要做稻草人。	我要做稻草人。	sangi pa iku tu pasenawa.	我要做子。	sangi pa iku tu pasenawan.
+718	Rayngu iku palalan tu sikawman.	我不會誇大其詞。	我不會誇大其詞。	Rayngu iku palalan tu sikawman.	我不會讓他難過的說話。	Rayngu ku palabaw tu sikawman.
+719	palana iku tazian.	在這裡等我。	在這裡等我。	palana iku tazian.	我在這裡等。	palana iku tazian.
+720	pabula pa iku tu miyan ti angawan.	我要向Angaw借鹽巴。	我要向Angaw借鹽巴。	pabula pa iku tu miyan ti angawan.	我要幫Angaw借。	paliway pa iku ti angaw tu dadas.
+721	qatiw ka ta qenabalang pabula tu miyan!	去隔壁鄰居借點鹽巴！	去隔壁鄰居借點鹽巴！	qatiw ka ta qenabalang pabula tu miyan!	去花蓮報喜祭!	qatiw ka pabula tu dadas na ningtu kani!
+722	padudu lima na sunis 'nay ngid tu kukuy.	那個小孩伸手要糖果。	那個小孩伸手要糖果。	padudu lima na sunis 'nay ngid tu kukuy.	那個小孩要蛋糕的手。	melimek sunis 'nay tu kukuy.
+723	pakawlah ika melabu salekiaw ay sunsunis.	要發獎品給有參加跳舞的孩子們。	要發獎品給有參加跳舞的孩子們。	pakawlah ika melabu salekiaw ay sunsunis.	叫孩子跳舞表演樂舞。	pasingit ika tu sunis temaqsi salekiaw.
+724	yau pappay ku ta naungan.	我在山上有工寮。	我在山上有工寮。	yau pappay ku ta naungan.	我在山上有獵人。	yau papay ku ta naungan.
+725	sukawsaya su si, naRin pawRat matiw kelawkaway.	如果你身體不舒服，不要勉強去工作。	如果你身體不舒服，不要勉強去工作。	sukawsaya su si, naRin pawRat matiw kelawkaway.	如果你有心,就不要強迫去工作。	sukaw izip su, naRin pawRat matiw kelawkaway.
+726	pasubaRat ika paRin su seppaw.	你要將你的木材打橫著放。	你要將你的木材打橫著放。	pasubaRat ika paRin su seppaw.	把你的木材放寬一點來蓋屋頂。	paRaus ika pasabaR ay tu paRin su.
+727	pabiseR ika ti angaw tu leppaw.	叫Angaw把房子閂起來。	叫Angaw把房子閂起來。	pabiseR ika ti angaw tu leppaw.	叫Angaw把房子隔起來。	papangked ika ti angaw tu leppaw.
+728	pakalamaz ika pa qatiw sa taqsian sunis.	讓孩子提早到學校去。	讓孩子提早到學校去。	pakalamaz ika pa qatiw sa taqsian sunis.	叫孩子提早到學校去。	paqangi ika pazazang sunis matiw sa taqsian.
+729	pakaput ika bai su sidadak!	陪你奶奶聊天！	陪你奶奶聊天！	pakaput ika bai su sidadak!	請你奶奶跟我們一起坐!	pakadud ika bai su sidadak!
+730	panunu ika sunis palaut tu baqi na, mangay Raynguan ta mesuRaw.	叫孩子常去探望看他爺爺，免得跌倒了都不知道。	叫孩子常去探望看他爺爺，免得跌倒了都不知道。	panunu ika sunis palaut tu baqi na, mangay Raynguan ta mesuRaw.	叫孩子用鐵扶助他的爺爺,不然我們會倒。	papangked ika sunis ta paRawan tu baqi na, mangay mesuRaw Raynguan na ti.
+731	taytan ku aizipna taRbabi pasa lazing semaqay.	我早上看到他往海邊的方向走。	我早上看到他往海邊的方向走。	taytan ku aizipna taRbabi pasa lazing semaqay.	我早上看到他走向海邊。	taytan ku aizipna temawaR pasa lazing semaqay.
+732	zana ay penaRuwin sunis na, pasisuan na ti na tina na tu sisu na.	她餵母奶給她生出來的孩子。	她餵母奶給她生出來的孩子。	zana ay penaRuwin sunis na, pasisuan na ti na tina na tu sisu na.	他的孩子是最狂的人,他媽媽已經叫你吃他的奶了。	meRibun na tu bai na nipaqanan ay sunis.
+733	sikawman ta sunis zau pibud.	這個小孩講話會頂嘴。	這個小孩講話會頂嘴。	sikawman ta sunis zau pibud.	這個小孩很會講話。	melimek sunis zau sikawma.
+734	manna pisapat aisu mala tu Ribang ku?	你為什麼隨便亂拿我的東西？	你為什麼隨便亂拿我的東西？	manna pisapat aisu mala tu Ribang ku?	你為什麼隨便拿我的東西?	manna pisapat aisu mala tu Ribang ku?
+735	puRuR zau Rubatang, melizaq aiku tazian mawRat.	這個草原很漂亮，我很喜歡在這裡玩耍。	這個草原很漂亮，我很喜歡在這裡玩耍。	puRuR zau Rubatang, melizaq aiku tazian mawRat.	這個樹很漂亮,我很喜歡在這裡玩。	simqena penaiR zau, melizaq aiku tazian semaqsaqay.
+736	matiw sa bawbi baqi ku punanum tu tened.	我爺爺到菜園幫青菜澆水。	我爺爺到菜園幫青菜澆水。	matiw sa bawbi baqi ku punanum tu tened.	我爺爺到菜園青菜。	muzan pa baqi ku ta bawbian tu tened.
+737	naRin pisapat baqsiw tu qabed na tebaku.	不要亂丟菸盒。	不要亂丟菸盒。	naRin pisapat baqsiw tu qabed na tebaku.	不要隨便丟煙斗的蓋子。	naRin pisapat baqsiw tu kubu.
+738	qalaydaw ti tina su, qalazuk ka temanan!	你媽媽會擔心，你早點回去吧！	你媽媽會擔心，你早點回去吧！	qalaydaw ti tina su, qalazuk ka temanan!	你媽媽生氣了,快點回去!	qalabutan ti tina su, kalamaz ka temanan!
+739	qalimek pa ita tazian temaqsi.	我們要安靜地在這裡讀書。	我們要安靜地在這裡讀書。	qalimek pa ita tazian temaqsi.	我們在這裡要學會不講話。	qakalingul pa ita tazian temaqsi.
+740	paqanas isu kelawkaway, qumni qalepun isu?	你慢慢的做，什麼時候你才能完成？	你慢慢的做，什麼時候你才能完成？	paqanas isu kelawkaway, qumni qalepun isu?	你去上班時,你什麼時候工作?	qangasan su semangi, qumni qawka isu kemulikuz?
+741	mawtu iku kemilim tu qaqa su, yau ta leppawan ni?	我來找你的姊姊，她在家嗎？	我來找你的姊姊，她在家嗎？	mawtu iku kemilim tu qaqa su, yau ta leppawan ni?	我來找你哥哥,他在家裡嗎?	qatiw iku kilim tu qaqa su, yau ta leppawan ni?
+742	qasazan pa ita semaqay mezaki ma.	我們從橋上走比較近。	我們從橋上走比較近。	qasazan pa ita semaqay mezaki ma.	我們走路要快一點。	mezaki pa ita semaqay ta sazan.
+743	qasiRis pa ti asa na dingki.	電價將要變貴了。	電價將要變貴了。	qasiRis pa ti asa na dingki.	音筒的價錢快跌了。	qaRiz pa ti asa na tenuq.
+744	sulus aka qaniyau salekiaw, qasuppaR ti iku.	我只要模仿她們跳舞，我就會了。	我只要模仿她們跳舞，我就會了。	sulus aka qaniyau salekiaw, qasuppaR ti iku.	我去叫他們來跳舞,我就會知道。	qasulul pa iku tu qaniyau salekiaw, suppaR ti ku.
+745	muwaza qat na qeluqung ku.	我的喉嚨很多痰。	我的喉嚨很多痰。	muwaza qat na qeluqung ku.	我的喉有很多毛。	muwaza qeluqung ku.
+746	qatulu ti ita simtayta, Rayngu pama iku tu nangan su.	我們見了三次面，我還不知道你叫什麼名字。	我們見了三次面，我還不知道你叫什麼名字。	qatulu ti ita simtayta, Rayngu pama iku tu nangan su.	我們見面了三次,我還不聽你叫。	qapatet ti imi simtayta, Raynguan ku pama numi.
+747	tiatiana qatingaRan ta sinapawan?	我們結婚要邀請哪些人？	我們結婚要邀請哪些人？	tiatiana qatingaRan ta sinapawan?	誰在家裡打?	sinapawan pa ita tiana patingaRan?
+748	missi ti iku, mai ti qatusung kun ku.	我胖了，我的褲子穿不下了。	我胖了，我的褲子穿不下了。	missi ti iku, mai ti qatusung kun ku.	我胖了,褲子不穿了。	missi ti iku, mai qasusuR kun ku.
+749	nazau nikasianeman ku qaya.	我也是這樣想的。	我也是這樣想的。	nazau nikasianeman ku qaya.	我也曾懷念過這種人。	nazau nikasianeman ku qaya.
+750	qatiw pa imu seni? qatiw pa iku qaya.	妳們要去哪裡？ 我也要去。	妳們要去哪裡？ 我也要去。	qatiw pa imu seni? qatiw pa iku qaya.	你們要去看風景?我也要去。	pasani pa imu? qatiw pa iku qaya.
+751	naRin ti pamaymanan qaysa ti muman.	不要再逗弄他又嘔氣了。	不要再逗弄他又嘔氣了。	naRin ti pamaymanan qaysa ti muman.	不要再加錢會還不夠。	naRin ti qaymanus aizipna qasuzeppa ti.
+752	mai pama nengi qeluqung ku, Rayngu pama satezay.	我的喉嚨還沒好，還不能唱歌。	我的喉嚨還沒好，還不能唱歌。	mai pama nengi qeluqung ku, Rayngu pama satezay.	我的喉還沒好,還不能唱歌。	Rayngu pama qeluqung ku, Rayngu pama satezay.
+753	qenut pa ti aizipna, naRin ti muman sikawma.	他快生氣了，不要再講了。	他快生氣了，不要再講了。	qenut pa ti aizipna, naRin ti muman sikawma.	他快生氣了,別再講話了。	qaqenut pa ti aizipna, naRin ti sikawma.
+754	ququq ika Raq su.	把你的酒乾了。	把你的酒乾了。	ququq ika Raq su.	把你的酒倒出來。	paqayseng ika Raq su.
+755	Rubatang saku zau, ala ka patanan qemudu.	這隻貓很漂亮，我要把它帶回去養。	這隻貓很漂亮，我要把它帶回去養。	Rubatang saku zau, ala ka patanan qemudu.	這隻貓很漂亮,去拿回來養。	simqena saku zau, ala pa iku temanan.
+756	naRin muwazan qeman tu sann.	牡蠣不要吃太多。	牡蠣不要吃太多。	naRin muwazan qeman tu sann.	吃湯不要太飽。	Rangazi ka tu mai qeman tu muwaza.
+757	sapun pa isu tu naquni ay Ribang? sapun pa iku tu naququni ay zepu.	你要收集什麼樣的東西？ 我要收集各式各樣的鞋子。	你要收集什麼樣的東西？ 我要收集各式各樣的鞋子。	sapun pa isu tu naquni ay Ribang? sapun pa iku tu naququni ay zepu.	你要去什麼樣的東西? 我要去什麼樣的鞋子。	naqunian pa isu semapun? sawaki pa iku tu sawaki ay zepu.
+758	Rasa pa iku tu saputti beRas.	我去買一袋白米。	我去買一袋白米。	Rasa pa iku tu saputti beRas.	我要買一包米。	Rasa iku tu satabu beRas.
+759	saqinRus leppaw qawka qeRezkez.	房子有橫樑才會很堅固。	房子有橫樑才會很堅固。	saqinRus leppaw qawka qeRezkez.	家有泥巴才會活的。	sapangtuan leppaw qawka qaseR.
+760	saRis ta tati, tuqaz ka sa leppaw!	外面有很多蚊子，請到屋內來！	外面有很多蚊子，請到屋內來！	saRis ta tati, tuqaz ka sa leppaw!	外面有子,進來家裡!	muwaza Ris ta tati, tuqaz ka sa leppaw!
+761	zaki leppaw ku, saqay pa iku manan.	我的家很近，我用走的回去。	我的家很近，我用走的回去。	zaki leppaw ku, saqay pa iku manan.	我的家很近,我要走路回去。	mezaki leppaw ku, saqazasan ku temanan.
+762	saqat qeluqung su qalazuk ka paising.	你喉嚨有痰快點去看病。	你喉嚨有痰快點去看病。	saqat qeluqung su qalazuk ka paising.	你的喉有傷快去看醫生。	saRiR luqung su qalazuk ka matiw paising.
+763	Rengiyas penanian seRay betis ku, panmu iku sammed.	我的大腿和小腿痠痛，幫我捶打一下。	我的大腿和小腿痠痛，幫我捶打一下。	Rengiyas penanian seRay betis ku, panmu iku sammed.	我的頭髮長一點,幫我。	taRaw penaniyan ku tu qenuzan, panmu iku misis.
+764	sa'med tina ku sapatuRqan.	我媽媽在製作舉行亡魂祭要用的米漿。	我媽媽在製作舉行亡魂祭要用的米漿。	sa'med tina ku sapatuRqan.	我媽媽在。	semangi tina ku tu sabaq sasunis.
+765	qumni nisangian sazan zau?	這座橋是什麼時候建造的？	這座橋是什麼時候建造的？	qumni nisangian sazan zau?	這個橋是什麼時候做的?	qumni nisangi tu sazan zau?
+766	sangi pa isu tu niana?	你要做什麼東西？	你要做什麼東西？	sangi pa isu tu niana?	你要做什麼?	sasangi pa isu tu niana?
+767	sapennay nipaluma ku tu mulu, naRin mezaki!	我種的橘子有蜜蜂，不要靠近！	我種的橘子有蜜蜂，不要靠近！	sapennay nipaluma ku tu mulu, naRin mezaki!	我種的子有很多,不要靠近。	sapenay nipaluman ku tu mulu, naRin mezaki!
+768	satungus ma niRasa ku tu tuami.	我只買自己一份的麵。	我只買自己一份的麵。	satungus ma niRasa ku tu tuami.	我只買一點就夠了。	wantima iku meRasa tu nizu lanas.
+769	baut zau satutuan ku qeman.	這條魚是我中餐要吃的。	這條魚是我中餐要吃的。	baut zau satutuan ku qeman.	這條魚是我要煮的。	satutuan ku baut zau qeman.
+770	saumanan nitenunan zau, naRin tingiwan.	這是要重新織的，不要碰觸。	這是要重新織的，不要碰觸。	saumanan nitenunan zau, naRin tingiwan.	這是要編的,不要搖。	satunuan zau, naRin tingiwan.
+771	naRin samangsa tu zanum.	不要浪費水。	不要浪費水。	naRin samangsa tu zanum.	不要浪費水。	naRin pisapat tu zanum.
+772	sassam ika qeman qaqanan zau, qasukaw ti.	這個零食儘量吃，免得壞了。	這個零食儘量吃，免得壞了。	sassam ika qeman qaqanan zau, qasukaw ti.	這個零食吃起來要,不然會倒掉。	paska ika qeman 'may zau, mangay meRapsi ti.
+773	pataz muzan sebang ti ya lazan.	常常下雨馬路就坍了。	常常下雨馬路就坍了。	pataz muzan sebang ti ya lazan.	一直下雨路就被了。	pataz muzan mezizi ti lazan.
+774	mai iku mazas tu zanum, sedaw ti iku.	我沒帶水，我渴了。	我沒帶水，我渴了。	mai iku mazas tu zanum, sedaw ti iku.	我沒有帶水,我乾了。	mai iku mazas tu zanum, sedaw ti iku.
+775	mezaqis saku 'nay ta paRinan taqa seniz.	那隻貓爬到樹上不下來。	那隻貓爬到樹上不下來。	mezaqis saku 'nay ta paRinan taqa seniz.	那隻貓在樹上爬不下來。	qauqis tu paRin saku 'nay mai melusit.
+776	mazemun imi masulun sianguzus.	我們很多人一起去撿海菜。	我們很多人一起去撿海菜。	mazemun imi masulun sianguzus.	我們很多人同年齡相遇。	mazemun aimi masulun matiw meRenem tu kenasaw.
+777	mai ti tu siti saRamazan tu tamun.	沒有油可以煮菜了。	沒有油可以煮菜了。	mai ti tu siti saRamazan tu tamun.	沒有油煮菜了。	mai ti tu siti nengi ti meRamaz tu tamun.
+778	sinangan tazungan zau tazian.	這個女人在這裡很有名。	這個女人在這裡很有名。	sinangan tazungan zau tazian.	這個女人在這裡有月光。	meRabateng tazungan zau tazian.
+779	nisangian tu paRin sizu zau.	這個飯杓是木頭作的。	這個飯杓是木頭作的。	nisangian tu paRin sizu zau.	這是做木頭的。	nisangian tu paRin qiditan zau.
+780	muRing suani ku, sikiw ika metawa ti!	我妹妹哭，搔癢逗她就笑了！	我妹妹哭，搔癢逗她就笑了！	muRing suani ku, sikiw ika metawa ti!	我弟弟哭,叫他去!	muRing suani ku, tawaqan su ti!
+781	lezun ti, pazukat ka ti tu siqaR.	冬天了，要拿棉被出來了。	冬天了，要拿棉被出來了。	lezun ti, pazukat ka ti tu siqaR.	下雨了,把棉被拿出來。	bali ti, ala ika tu siqaR qeRasunan.
+782	siRis tazian ay Ribang.	這裡的東西很貴。	這裡的東西很貴。	siRis tazian ay Ribang.	這裡的東西很窄。	siRasiR Ribang tazian.
+783	situngus suani ku tu kukuy.	我弟弟有一份糖果。	我弟弟有一份糖果。	situngus suani ku tu kukuy.	我弟弟被糖果毒到。	yau kukuy na suani ku.
+784	yau subedi ya metiyu.	女祭司正在占卜。	女祭司正在占卜。	yau subedi ya metiyu.	子有。	yau paRibun paseniw.
+785	ala ka tu suluydu sasepezan tu tened.	去拿塑膠袋來裝青菜。	去拿塑膠袋來裝青菜。	ala ka tu suluydu sasepezan tu tened.	去拿子裝菜用的。	ala ka tu sulubu sapuRan tu tened.
+786	taRqan pa iku tu sabaq.	我要碾稻米。	我要碾稻米。	taRqan pa iku tu sabaq.	我要穀。	qaypanay pa iku tu sabaq.
+787	nisangi na tama ku tabi zau.	這是我爸爸製作的犁。	這是我爸爸製作的犁。	nisangi na tama ku tabi zau.	這是我爸爸做的。	nisangi na tama ku dadas zau.
+788	tabu ika kukuy zau, saqanan ku ta lazanan.	把這個糖果包起來，我在路上要吃的。	把這個糖果包起來，我在路上要吃的。	tabu ika kukuy zau, saqanan ku ta lazanan.	把這個糖果包起來,我要在路上吃。	tabu ika kukuy zau, saqanan ku ta lazanan.
+789	masebit qudus na baqi su, tais ika!	你爺爺的衣服破了，缝一缝！	你爺爺的衣服破了，缝一缝！	masebit qudus na baqi su, tais ika!	你爺爺的衣服被撕裂了,把它掉!	mabedung qudus na baqi su, tadus ika!
+790	tapu ika zanum 'nay.	把那個水堵住。	把那個水堵住。	tapu ika zanum 'nay.	把水堵住。	put ika zanum 'nay.
+791	meRasa tu tasu ay qitun tama ku.	我爸爸買新車。	我爸爸買新車。	meRasa tu tasu ay qitun tama ku.	我爸爸買了新車。	meRasa tu tasu ay qitun tama ku.
+792	yau tazian bilu ku.	我的鉛筆在這裡。	我的鉛筆在這裡。	yau tazian bilu ku.	我的白米在這裡。	tazian peniliun ku.
+793	tebes ika Rais 'nay pa tingzen.	把那條繩索拉直。	把那條繩索拉直。	tebes ika Rais 'nay pa tingzen.	把那條索拉直一點。	pasidut ika Rais 'nay.
+794	temaq pa iku tu tepuluk ta tati.	我要到外面燒紙張。	我要到外面燒紙張。	temaq pa iku tu tepuluk ta tati.	我要在外面烤紙。	qatiw pa iku sa tati temubed tu tepuluk.
+795	temuttu ti imu tu kelisiw na qataban ni?	豐年祭的錢你們捐了嗎？	豐年祭的錢你們捐了嗎？	temuttu ti imu tu kelisiw na qataban ni?	你們已經把他要賺的錢還出來了嗎?	nipuResan numi ti kelisiw na qataban ni?
+796	mai tu kelisiw, teng ika zenna zau.	沒有錢，把這裡的田地抵押。	沒有錢，把這裡的田地抵押。	mai tu kelisiw, teng ika zenna zau.	沒有錢,把這塊田翻下來。	mai tu kelisiw, pataqtu ika tazian ay zenna.
+797	ngid ti kikung lazat zau, qemidat tenguRed na.	這個人快結婚了，額頭很亮。	這個人快結婚了，額頭很亮。	ngid ti kikung lazat zau, qemidat tenguRed na.	這個人要結婚了,他的頭很瘦。	qatabuan pa ti lazat zau, qemidat uRu na.
+798	sasinanaman ku semudad tepuluk zau.	這個紙是我要練習寫字的。	這個紙是我要練習寫字的。	sasinanaman ku semudad tepuluk zau.	這是我要練習寫的字。	sapaRenam ku semudad tepuluk zau.
+799	tepuq ika kisasa paRin zau.	將這棵木頭砍傷做記號。	將這棵木頭砍傷做記號。	tepuq ika kisasa paRin zau.	把這個木頭一跳一跳的很快。	qipit ika paRin zau satekanan.
+800	tiana ay sunis muRing ta lazanan?	誰的孩子在路上哭？	誰的孩子在路上哭？	tiana ay sunis muRing ta lazanan?	誰的孩子在路上哭?	zani tiana ay sunis ta lazanan muRing?
+801	mazas ya tuwanay tu uzusa peRasku tu Raq matiw sa leppaw na.	媒人帶二瓶酒去她家說媒。	媒人帶二瓶酒去她家說媒。	mazas ya tuwanay tu uzusa peRasku tu Raq matiw sa leppaw na.	他帶著兩瓶酒到他家裡。	satutu ay Raq nizas na kelawkaway matiw sa leppaw na semanu.
+802	mazemun ta tukay ay lazat sa damu semaqsaqay.	很多都市的人都來部落玩。	很多都市的人都來部落玩。	mazemun ta tukay ay lazat sa damu semaqsaqay.	在花蓮有很多人在部落玩。	mazemun lazat na tawki mawtu sa damu semaqsaqay.
+803	naRin tuttusan nipaluma ku tu paRin.	不要把我種的樹拔起來。	不要把我種的樹拔起來。	naRin tuttusan nipaluma ku tu paRin.	我種的樹不要去動它。	naRin Rabat tu nipaluman ku tu paRin.
+804	put unung ku mai paqasingut.	我鼻塞聞不出味道。	我鼻塞聞不出味道。	put unung ku mai paqasingut.	我的鼻子被關了才不會流鼻。	mai ti iku sumngat tu bangRaw ku.
+805	uwalu ti tasaw ku qawka iku temaqsi, aisu i?	我八歲才上學，你呢？	我八歲才上學，你呢？	uwalu ti tasaw ku qawka iku temaqsi, aisu i?	我今年八歲才會上學,你嗎?	utulu aiku pama matiw temaqsi, aisu i?
+806	ziyun na suani ku zau.	這是我弟弟的搖籃	這是我弟弟的搖籃	ziyun na suani ku zau.	這是我弟弟的。	nizuyusan na suani ku zau.
+807	ziyun ika suani su muRing ti.	你弟弟哭了去幫他搖搖籃。	你弟弟哭了去幫他搖搖籃。	ziyun ika suani su muRing ti.	你弟弟哭了。	muRing ika suani su muRing ti.
+808	mammaq ta teReq na leppaw, zukat pa ita sa nasan pakungku saRuma.	房子裡很熱， 我們出來庭院聊天比較涼。	房子裡很熱， 我們出來庭院聊天比較涼。	mammaq ta teReq na leppaw, zukat pa ita sa nasan pakungku saRuma.	家裡很熱,我們到屋外去田。	mammaq leppaw, mezukat imi ta nasanan sikawma.
