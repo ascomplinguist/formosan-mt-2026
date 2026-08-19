@@ -10,7 +10,7 @@ import sys
 import pandas as pd
 
 TRACKED_WORK = "tracked_work"
-CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/"}
+CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/", "omorim": "o/", "kevin": "k/"}
 
 MODEL_ABBREVIATIONS = {
     "facebook/nllb-200-3.3B": "NLLB-200-3.3B",
@@ -266,6 +266,24 @@ def myprint(msg, debug_dir):
         input("")
 
 
+def run_is_standard(config):
+    """Filter out smoke tests and older experiments: only the standard setups make the TSV.
+
+    NLLB: qvoud modules, 30 epochs, ortho_42.pt init.
+    MADLAD: qvougd modules, 30 epochs, ortho_42_madlad.pt init.
+    Llama: qvougd modules, 10 epochs (no token init).
+    """
+    model = config["model_name"].lower()
+    mods = config.get("trainable_modules", "")
+    epochs = config.get("max_epochs")
+    init_name = os.path.basename(config.get("init_vecs") or "")
+    if "madlad" in model:
+        return mods == "qvougd" and epochs == 30 and init_name == "ortho_42_madlad.pt"
+    if "llama" in model:
+        return mods == "qvougd" and epochs == 10
+    return mods == "qvoud" and epochs == 30 and init_name == "ortho_42.pt"
+
+
 def process_finetune(finetune_dir, dir_name, prefix):
     config_path = os.path.join(finetune_dir, "config.json")
     if not os.path.exists(config_path):
@@ -274,6 +292,16 @@ def process_finetune(finetune_dir, dir_name, prefix):
 
     with open(config_path) as f:
         config = json.load(f)
+
+    if not run_is_standard(config):
+        myprint(
+            f"{finetune_dir} is not a standard run"
+            f" (modules={config.get('trainable_modules', '')!r},"
+            f" epochs={config.get('max_epochs')},"
+            f" init={os.path.basename(config.get('init_vecs') or '') or config.get('init_langs')}); skipping...",
+            finetune_dir,
+        )
+        return []
 
     final_dir = os.path.join(finetune_dir, "final")
     if not os.path.isdir(final_dir):
