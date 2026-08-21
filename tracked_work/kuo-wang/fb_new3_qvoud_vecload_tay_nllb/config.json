@@ -1,0 +1,24 @@
+{
+  "model_name": "facebook/nllb-200-3.3B",
+  "lang_en": [
+    "Atayal"
+  ],
+  "lang_code": "tay",
+  "src_lang_code": [
+    "tay_Latn"
+  ],
+  "zh_lang_code": "zho_Hant",
+  "init_vecs": "tracked_work/work/vectors/ortho_42.pt",
+  "data_dir": "FormosanBench_new",
+  "data_set_name": "fb_new3",
+  "trainable_modules": "qvoud",
+  "subset": -1,
+  "eval_save_steps": 1000000.0,
+  "learning_rate": 0.0001,
+  "max_epochs": 3,
+  "meta": [
+    "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
+    "lang_code is only used for save_dir and can be concatenated"
+  ],
+  "commit": "fb8a7624790305f6fd6ade180f7ca499a309f843"
+}
