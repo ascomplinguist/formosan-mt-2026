@@ -1,0 +1,601 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	hiza Sin kano'en kaehoy boway kin 'a'awpong?	那是什麼樹果子這麼茂密？	那是什麼樹果子這麼茂密？	hiza Sin kano'en kaehoy boway kin 'a'awpong?	那個子是什麼樹的果實這麼粗?	hiza kano' boway kin 'akoey?
+1	korkoring 'a'ibabaw ila ma' kayzaeh ila maSpalaw.	孩子都長大了就可以辦回娘家了。	孩子都長大了就可以辦回娘家了。	korkoring 'a'ibabaw ila ma' kayzaeh ila maSpalaw.	孩子長大了也可以回娘家。	korkoring tatngor ila ma' kayzaeh ila pakrowaSeken.
+2	yami kil 'in wa:on a 'aehae' taew'an 'a'iyalatar tabin Sera:.	我們和wa:on一家人聊天到天亮。	我們和wa:on一家人聊天到天亮。	yami kil 'in wa:on a 'aehae' taew'an 'a'iyalatar tabin Sera:.	我們從wa:on家一家到天亮。	yami ki wa:on 'aehae' taew'an ma'ano' nanaw tabin Sera:.
+3	ma'an ka tatawae' ha:aw 'abo' 'inaSkan.	我把鋤頭放在裡面。	我把鋤頭放在裡面。	ma'an ka tatawae' ha:aw 'abo' 'inaSkan.	我的頭放在灰裡。	ma'an tatawae' 'aSkanen ray 'i:zo'.
+4	Sa'ila lasez ka 'ae'aewpiran!	去除地瓜園的草！	去除地瓜園的草！	Sa'ila lasez ka 'ae'aewpiran!	去讓風吹進去!	Sa'ila hebel ka 'aewpir ray pinatiyayan!
+5	'aewngahipan 'akoey ka tatakay.	蜈蚣很多隻腳。	蜈蚣很多隻腳。	'aewngahipan 'akoey ka tatakay.	米林有很多老人。	ka:ang 'akoey ka 'ae'ay.
+6	hini tali' kin 'aez'ez si'aelen.	這個苦瓜吃起來真苦。	這個苦瓜吃起來真苦。	hini tali' kin 'aez'ez si'aelen.	這個苦瓜吃起來很辛苦。	hini tali' si'aelen 'aez'ez.
+7	yako 'akaskesen 'alipotpotoy ka poway.	我被冷到裹著棉被。	我被冷到裹著棉被。	yako 'akaskesen 'alipotpotoy ka poway.	我冷到把棉被纏繞起來。	yako kaskesen 'ima sempeng ka poway.
+8	So'o 'al'alak nanaw.	你還是很年輕。	你還是很年輕。	So'o 'al'alak nanaw.	你一直是年輕人。	So'o 'i'ini'al'alak naehan.
+9	'izi' 'alSay ila! Sa'ila talek ila ka pazay!	不要整經了！去做飯吧！	不要整經了！去做飯吧！	'izi' 'alSay ila! Sa'ila talek ila ka pazay!	不要浪費了!去煮飯了!	'izi' ila i to'to'! Sa'ila paskayzaeh ka pazay!
+10	So'o Sa'ila paskayzaeh 'alebe: ka kawnatata:a'an!	你去把雞舍圍好！	你去把雞舍圍好！	So'o Sa'ila paskayzaeh 'alebe: ka kawnatata:a'an!	你去做剪刀架!	So'o Sa'ila 'inayzing ka tata:a'!
+11	hini 'oes'oeso'an bazae'en 'aliman.	這山上感覺很靜。	這山上感覺很靜。	hini 'oes'oeso'an bazae'en 'aliman.	這片山感覺很安靜。	hini koko:ol sasay bazae'en.
+12	'inmana'a 'alimasawa'an biSbiS a ta:an.	我的眼珠很痛。	我的眼珠很痛。	'inmana'a 'alimasawa'an biSbiS a ta:an.	我的腳底很痛。	ma'an rolae' biSbiS a tomalan.
+13	haeba:an ka mae'iyaeh mamowa' ka 'alipa'.	很多人種植杉木。	很多人種植杉木。	haeba:an ka mae'iyaeh mamowa' ka 'alipa'.	很多人種植杉木。	'akoey ka Sinrahoe' sem'el ka 'alipa'.
+14	niSo' 'alkoysiya'en, 'insa'an siya 'am homangih ila.	你那樣說他，等一下他會哭。	你那樣說他，等一下他會哭。	niSo' 'alkoysiya'en, 'insa'an siya 'am homangih ila.	你不要那樣對她,等一下她就會哭了。	niSo' nakhini payaka:i' hisiya, 'insa'an siya 'am homangih.
+15	hini korkoring 'aloe'oehan, 'iyakina rika: ila.	這孩子熱熱的，要發燒了。	這孩子熱熱的，要發燒了。	hini korkoring 'aloe'oehan, 'iyakina rika: ila.	這個孩子喝醉,想要發燒了。	hini korkoring rikrika: ila, 'am rika: ila.
+16	siya 'apisin noka 'a'leb ka hima'.	她被門夾到手。	她被門夾到手。	siya 'apisin noka 'a'leb ka hima'.	他用手套住了門。	siya noka 'a'leb hopil ka hima'.
+17	noka tata:a' 'apiyan 'aewhay sazeken a ta:an.	濃稠的雞大便很臭。	濃稠的雞大便很臭。	noka tata:a' 'apiyan 'aewhay sazeken a ta:an.	雞的肚子不好聞得很。	'ima rikrika: tinae'aes sazeken a tomal.
+18	mae'iyaeh tatini' ila babiSbiS ka 'apo'.	人老了都痛這臀部兩側。	人老了都痛這臀部兩側。	mae'iyaeh tatini' ila babiSbiS ka 'apo'.	人老了肺會痛。	tatini' biSbiSin ka hini 'apaeh.
+19	'areweng kayzaeh SiSokae'niw.	杜英可以拿來種香菇。	杜英可以拿來種香菇。	'areweng kayzaeh SiSokae'niw.	鹿場可以種植青。	bana: kayzaeh Sokae'niwen.
+20	'atip ka'apisin ka tinon.	布夾是要夾織好的布的。	布夾是要夾織好的布的。	'atip ka'apisin ka tinon.	要織的。	boloS nom pak'es'es ka tinon kayba:en.
+21	hiza mae'iyaeh 'awmomza' ka sin'elan.	這個人長得不完美。	這個人長得不完美。	hiza mae'iyaeh 'awmomza' ka sin'elan.	那個人長得牙。	hini mae'iyaeh sin'elan 'okik kayzaeh.
+22	baki' tatini' ila 'ay'ayaehan.	爺爺老了體弱多病。	爺爺老了體弱多病。	baki' tatini' ila 'ay'ayaehan.	爺爺老了生病了。	baki' tatini' ila 'aewhay ka basang.
+23	korkoring 'ima 'aytiway ray kap'aytiwayan.	小孩在盪鞦韆。	小孩在盪鞦韆。	korkoring 'ima 'aytiway ray kap'aytiwayan.	小孩在吊台上搖擺。	korkoring mam somihoe:.
+24	'ayzing kaS'abo' ka Sinpanan.	牲畜進入圍籬。	牲畜進入圍籬。	'ayzing kaS'abo' ka Sinpanan.	圍是收羊的地方。	'ayam kaS'abo' ray 'inayzing.
+25	hini 'a:im boway 'ampowa' kin 'ehep? kerpe: ka ra:i' minboway 'ehep.	這個李子怎麼長得那麼茂密？因為土壤肥沃，所以果實很多。	這個李子怎麼長得那麼茂密？因為土壤肥沃，所以果實很多。	hini 'a:im boway 'ampowa' kin 'ehep? kerpe: ka ra:i' minboway 'ehep.	這個李子果怎麼那麼長?肥讓它長很多李子。	hini 'a:im 'ampowa' kin ma:bae'soeh sin'elan? ito noka kerpe: ka ra:i', kayzaeh 'akoey ka boway.
+26	hiza ka rape: mis'eh 'i'iyawa' panra:an ngizo' a So'o.	地上濕濕的要慢慢走，不然你會跌倒。	地上濕濕的要慢慢走，不然你會跌倒。	hiza ka rape: mis'eh 'i'iyawa' panra:an ngizo' a So'o.	那個地板好像是你的下方。	'almayba:il ka 'ima minSaylo' ray ra:i', So'o 'am ngizo'.
+27	hini 'aelaw bo:ok ila kin 'iSlal'i:.	這條魚壞了這麼腥。	這條魚壞了這麼腥。	hini 'aelaw bo:ok ila kin 'iSlal'i:.	這條魚很臭,很活。	hini 'aelaw 'aewhay ila tomobis'i: a tomal.
+28	So'o 'ipilaz ila 'okay ranaw kin 'iSraki' 'aewhay kasazeken.	你是多久沒洗澡汗臭味這麼臭。	你是多久沒洗澡汗臭味這麼臭。	So'o 'ipilaz ila 'okay ranaw kin 'iSraki' 'aewhay kasazeken.	你過暑了洗不這麼久不好聞。	So'o koza' kin 'okay ranaw ka rarang miSngangahe:.
+29	So'o 'ihoero: lobih koSa:o' o!	你記得回來吃晚飯喔！	你記得回來吃晚飯喔！	So'o 'ihoero: lobih koSa:o' o!	你想回去吃晚餐!	So'o hoero: ila lobih tikinSa:o' o!
+30	'inakhiza'an mae'iyaeh So'o 'izi' pa'onhael.	那樣的人你不要和他在一起。	那樣的人你不要和他在一起。	'inakhiza'an mae'iyaeh So'o 'izi' pa'onhael.	這樣的人你不要遇見。	'isa:a' mae'iyaeh So'o 'izi' i pakSiyap hi siya.
+31	niSo' 'inalkoysiya' ay?	你已經跟他如此說過嗎？	你已經跟他如此說過嗎？	niSo' 'inalkoysiya' ay?	你一直在買嗎?	So'o 'ina mayaka:i' hisiya?
+32	walo' 'inmana'a ka 'inbasezan.	東河是我的出生地。	東河是我的出生地。	walo' 'inmana'a ka 'inbasezan.	糖果是我的根子。	walo' ma'an kakrowaSekan.
+33	hoehoe' noka katin ma'an karae'oe:en 'inilo' ila.	我把要喝的牛奶攪拌好了。	我把要喝的牛奶攪拌好了。	hoehoe' noka katin ma'an karae'oe:en 'inilo' ila.	我拿牛奶的酒好甜。	ma'an katin ka pinohaehoe' noka katin hoehoe'en tinabo: ila.
+34	'oya' Siyae' 'iniman.	母親為我高興。	母親為我高興。	'oya' Siyae' 'iniman.	媽媽很高興給我。	'oya' Siyae' 'iniman.
+35	'izi' hilos ka 'iniya'zaw!	不要吸到冷空氣。	不要吸到冷空氣。	'izi' hilos ka 'iniya'zaw!	不要抹茶!	'izi' he'eS ka 'ima maskes kapayhae:ae'.
+36	ma'an 'inkahoelan kaybaybaw.	我的娘家是高家。	我的娘家是高家。	ma'an 'inkahoelan kaybaybaw.	我的妹妹是高家的人。	ma'an minkoringan 'ima kaybaybaw taew'an.
+37	kateSnenan 'inleb ila.	門關了。	門關了。	kateSnenan 'inleb ila.	門已經關了。	'a'leb Si'eleb ila.
+38	'inmana'a kaehoy 'izi' pamari' ka mae'iyaeh.	我的木材不要讓別人拿走。	我的木材不要讓別人拿走。	'inmana'a kaehoy 'izi' pamari' ka mae'iyaeh.	我的樹不要讓人拿了。	ma'an kaehoy 'izi' pamari' ka mae'iyaeh.
+39	hini 'inmita'a 'oemaeh.	這塊地是我們的。	這塊地是我們的。	hini 'inmita'a 'oemaeh.	這是我們的土地。	hini 'oemaeh 'inmita'a.
+40	siya ngizo' hima' 'okay 'inpoetoeh.	他跌倒手沒有斷。	他跌倒手沒有斷。	siya ngizo' hima' 'okay 'inpoetoeh.	他的手跌倒沒有斷。	siya ngizo' 'okay 'in'oetoeh ka hima'.
+41	ma'an sino:oz hapoy 'okay 'intoehoey.	他燒的火沒有冒煙。	他燒的火沒有冒煙。	ma'an sino:oz hapoy 'okay 'intoehoey.	我添加的火沒有燒焦。	nisiya hapoy Sil'ae:ez 'okay toba'.
+42	'isaso: ray lolongan 'akoey ay ka ka:ang?	那裏的溪裡有很多螃蟹嗎？	那裏的溪裡有很多螃蟹嗎？	'isaso: ray lolongan 'akoey ay ka ka:ang?	我小溪裡有很多?	hiza ray lolongan 'akoey ay ka 'ae'aewzaeh?
+43	hiza minkoringan kin 'iyabolalas.	那個女孩很白。	那個女孩很白。	hiza minkoringan kin 'iyabolalas.	那個女人很白。	hiza kabina:o' 'ima bolalasan.
+44	'iya'azem ka rape: 'iyahaloeh!	小心地板濕滑！	小心地板濕滑！	'iya'azem ka rape: 'iyahaloeh!	小心地板滑!	'iya'azem haloehan ka rape:!
+45	moyo 'iyahihimi' 'aewhay ay?	妳們安靜點不行嗎？	妳們安靜點不行嗎？	moyo 'iyahihimi' 'aewhay ay?	你們安靜不好嗎?	moyo 'a'e:eS ay ay?
+46	siya manga'nga' 'omtot ray 'ima haeba:an o 'iyasiblaeh ila ka kinmae'iyaehan noka kin kaSikar.	他因沒注意到在大家面前放屁，害羞而臉紅。	他因沒注意到在大家面前放屁，害羞而臉紅。	siya manga'nga' 'omtot ray 'ima haeba:an o 'iyasiblaeh ila ka kinmae'iyaehan noka kin kaSikar.	他忘了在家中放,而臉也被花紋一塊。	siya pakza:zih ka ta'oeloeh 'okay kita'i ray kam haeba:an, maynga'nga' siblaehan ka kinmae'iyaehan.
+47	'ita' 'izik pangangowip.	我們不要互相忘記。	我們不要互相忘記。	'ita' 'izik pangangowip.	我們不要架。	'ita' 'izi' ngowip ka 'aroma'.
+48	'izi' naka 'o'owa' 'aewhay kita'en!	不要像嬰兒一樣不好看。	不要像嬰兒一樣不好看。	'izi' naka 'o'owa' 'aewhay kita'en!	不要像嬰兒不好看!	'izi' naka korkoring kita'en 'aewhay kita'en.
+49	la 'oya' So: baso' ila ray 'oem'oemaehan ka hinbetel kasbol ma' 'a'intoehtoehoy.	媽媽他們如果在山林裡燒草時就會有很濃的煙。	媽媽他們如果在山林裡燒草時就會有很濃的煙。	la 'oya' So: baso' ila ray 'oem'oemaehan ka hinbetel kasbol ma' 'a'intoehtoehoy.	媽媽如果把草到田裡就會成煙也會燒成柴。	'oya' lasiya So: ray bangol Sahoe'en ka hinbetel ma' 'ibabaw ka kasbol.
+50	noka tababon 'oesizo: sopaloy.	鵝的蛋很大。	鵝的蛋很大。	noka tababon 'oesizo: sopaloy.	的蛋很大。	'in noka towanay a 'oesizo: sopaloy.
+51	kakhayza'an tatini' paskayzaeh ka takil noka 'oeway.	以前長輩用藤做背籃。	以前長輩用藤做背籃。	kakhayza'an tatini' paskayzaeh ka takil noka 'oeway.	以前老人家用竹做竹背。	kakhayza'an tatini' paskayzaeh ka ra:hip.
+52	hini bizo' Sahoe'en kasbol 'omal'ih sazeken.	這個煤炭燒起來煙很嗆。	這個煤炭燒起來煙很嗆。	hini bizo' Sahoe'en kasbol 'omal'ih sazeken.	這顆核燒起來氣味很重。	hini bae:aeh Sinahoe' mosang a tomalan.
+53	'anhi' 'okik 'as'asay tinalek ma' 'omal'ih.	竹筍沒熟煮出來也會嗆。	竹筍沒熟煮出來也會嗆。	'anhi' 'okik 'as'asay tinalek ma' 'omal'ih.	竹不熟煮也變酸。	'anhi' 'inokay 'as'asay pilkasnawen ma' 'am temne'.
+54	'oya' 'okik 'ina 'omangang 'iyakin.	媽媽從來不罵我。	媽媽從來不罵我。	'oya' 'okik 'ina 'omangang 'iyakin.	媽媽不曾罵過我。	'oya' 'okik 'ina 'omangang 'iyakin.
+55	am 'omomaS ka 'ayam hiwhiwa'en paklihplihan 'alikaeh 'as'asay	醃漬肉類切薄片很快熟。	醃漬肉類切薄片很快熟。	am 'omomaS ka 'ayam hiwhiwa'en paklihplihan 'alikaeh 'as'asay	宰豬肉要打成半角熟。	'inomaS pinamowa' kinopiyak 'alikaeh 'as'asay.
+56	nisiya basang hororay kaloba:i'in hae'tiS 'oraeh!	他的身體瘦弱被風一吹，就打噴嚏！	他的身體瘦弱被風一吹，就打噴嚏！	nisiya basang hororay kaloba:i'in hae'tiS 'oraeh!	他的身體軟太過了,擦起來很快!	siya 'ima hopay ka basang So: haba:i'in ma' heba:i'!
+57	'oyong 'inmana'a minatini'.	'oyong是我哥哥。	'oyong是我哥哥。	'oyong 'inmana'a minatini'.	'oyong是我哥哥。	'oyong minatini' ma'an.
+58	kakhayza'an kaybaybaw ki Sa:wan tatini' kakoring 'aewhay ka ka:i' 'isahini korkoring 'am makaksi'ael ma' SaSiyoS ila	以前高家跟潘家祖先打架互相詛咒，現在孩子要結為親家就要相互和解。	以前高家跟潘家祖先打架互相詛咒，現在孩子要結為親家就要相互和解。	kakhayza'an kaybaybaw ki Sa:wan tatini' kakoring 'aewhay ka ka:i' 'isahini korkoring 'am makaksi'ael ma' SaSiyoS ila	以前高家和沙庄老人家打架因為不合言今天的孩子們都會互相殺死而和解了。	kakhayza'an Say koSa'en ki Sa:wan tatini' kakoring 'aewhay, haysani korkoring 'am maSpalaw 'am pakSaSowaS.
+59	nisiya 'inaSkan kina:at 'ampowa' SaSolotSolot nay?	你放的書怎麼參差不齊呢？	你放的書怎麼參差不齊呢？	nisiya 'inaSkan kina:at 'ampowa' SaSolotSolot nay?	他放的書為什麼被解開了呢?	niSo' 'inaSkan kina:at 'ampowa' haSa' ila?
+60	ray koko:ol Sahaehae'oe:, homom kita'en naka wasal.	從山上往下俯看，雲看起來像海。	從山上往下俯看，雲看起來像海。	ray koko:ol Sahaehae'oe:, homom kita'en naka wasal.	從山上往下看,雲看起來像海。	ray koko:ol Sahae'oe:, homom kita'en naka wasal.
+61	Sakaro' kaehoy kayzaeh ay pamowa'en ka kaSokae'niw?	烏心石樹可以種香菇嗎？	烏心石樹可以種香菇嗎？	Sakaro' kaehoy kayzaeh ay pamowa'en ka kaSokae'niw?	大木樹可以種植香嗎?	ba:Si' kayzaeh ay pamowa'en ka kae'niw?
+62	baboyoe' So: Sali' ila ka hanSan 'isa:a' kayzaeh ila kakowihin.	薑如果葉子枯黃了就可以挖了。	薑如果葉子枯黃了就可以挖了。	baboyoe' So: Sali' ila ka hanSan 'isa:a' kayzaeh ila kakowihin.	若是魚了就可以挖獵了。	'ata' So: hayza' ila ka biyae' ma' kayzaeh ila kowawen.
+63	korkoring man homoehoe' San'apis hi 'oya'.	小孩吃奶時咬到媽媽。	小孩吃奶時咬到媽媽。	korkoring man homoehoe' San'apis hi 'oya'.	小孩在奶被媽媽。	korkoring somi'ael ka hoehoe' komosa: hi 'oya'.
+64	watan Sananaw ka 'aelaw 'angangen ni 'oya'.	watan猛吃魚不配飯被媽媽罵。	watan猛吃魚不配飯被媽媽罵。	watan Sananaw ka 'aelaw 'angangen ni 'oya'.	watan偷魚被媽媽罵。	watan somi'ael ka 'aelaw 'okay paksi'ael malbobotoe' ni 'oya'.
+65	yako 'aewhay ka hin'az'azem Sanhaelen nanaw ka pazay.	我心情不好飯只吃一次。	我心情不好飯只吃一次。	yako 'aewhay ka hin'az'azem Sanhaelen nanaw ka pazay.	我不好意思只吃飯而已。	yako 'okik kayzaeh ka hin'az'azem somi'ael nanaw.
+66	siya Sanmotot ki hiza mae'iyaeh.	他和那個親嘴。	他和那個親嘴。	siya Sanmotot ki hiza mae'iyaeh.	他和那個人互相咬。	siya ki hiza 'ima pawngas.
+67	Sapel noka Sa:al! 'izi' pakhara:i'!	用蓆子舖著！不要弄髒了！	用蓆子舖著！不要弄髒了！	Sapel noka Sa:al! 'izi' pakhara:i'!	用子鋪!不要讓它脫落!	hebel noka hahiwa'! 'izi' pawka' ila!
+68	hini mae'iyaeh Say'ino'?	這個人哪裡來的？	這個人哪裡來的？	hini mae'iyaeh Say'ino'?	這個人來自哪裡?	hini mae'iyaeh 'ina rayno' mowa:i'?
+69	kilapa: haeba:an ka Saypapa:aS.	五峰有很多泰雅族人。	五峰有很多泰雅族人。	kilapa: haeba:an ka Saypapa:aS.	五峰有很多泰雅族人。	kilapa: haeba:an ka Saypapa:aS.
+70	ma'an kinmae'iyaehan pinoti' Sekla'en naehan niSo'.	我的臉遮住還被你認得。	我的臉遮住還被你認得。	ma'an kinmae'iyaehan pinoti' Sekla'en naehan niSo'.	你再測一下我的臉部。	ma'an kinmae'iyaehan Sihoero:on niSo'.
+71	Serahray naehan, 'aewhay hopay.	躺一下，不然會累。	躺一下，不然會累。	Serahray naehan, 'aewhay hopay.	先躺下,不然很累。	halapaw sowiti', 'aewhay makoysiya'.
+72	'ae'aew 'izi' bate:! ni yaba' Si'alkoysiya'.	'ae'aew被爸爸說：不要偷懶！	'ae'aew被爸爸說：不要偷懶！	'ae'aew 'izi' bate:! ni yaba' Si'alkoysiya'.	'ae'aew不要!爸爸把他推來推去。	'ae'aew ni yaba' Sa', 'izi' romakep o!
+73	ma'an boway pinama' Si'onhaehae:ae' 'oka' ila.	我載的水果一直掉一直掉沒有了。	我載的水果一直掉一直掉沒有了。	ma'an boway pinama' Si'onhaehae:ae' 'oka' ila.	我背的水果掉下來就沒有了。	ma'an pinobae:aeh boway minminhae:ae' 'oka' ila.
+74	hiza bato' Si'opi: ka'omaSen por'oe' kayzaeh a tomalan.	那個石頭拿來壓醃菜非常好。	那個石頭拿來壓醃菜非常好。	hiza bato' Si'opi: ka'omaSen por'oe' kayzaeh a tomalan.	把那個石頭壓要青菜很好吃。	hiza bato' 'opi:in ka por'oe' kayzaeh a tomalan.
+75	yako mangowip ka linaSo' SiSater ni 'oya'.	我忘記帶便當媽媽幫我送來。	我忘記帶便當媽媽幫我送來。	yako mangowip ka linaSo' SiSater ni 'oya'.	我忘了便當,媽媽幫我送。	yako mangowip maraS ka linaSo' Sitoron ni 'oya'.
+76	ma'an korkoring Sibilen kala 'oya'.	我的小孩留在我媽媽那。	我的小孩留在我媽媽那。	ma'an korkoring Sibilen kala 'oya'.	我的孩子被媽媽留著。	korkoring ma'an Si'onhael hi 'oya' ma'an.
+77	hini malat 'okik soma:om Sihazab ka waliSan 'am 'okay pasay.	這個山刀不利拿來刺山豬可能刺不動。	這個山刀不利拿來刺山豬可能刺不動。	hini malat 'okik soma:om Sihazab ka waliSan 'am 'okay pasay.	這個山刀不磨到山豬不會死。	hini malat 'aewhay Sipanpangih ka waliSan kayzaeh Somowa'en.
+78	haysani 'ita' Sihola' ila ka 'oemaeh 'isa:a' 'oka' ila i bowaw.	現在我們被給予土地就不再遷移了。	現在我們被給予土地就不再遷移了。	haysani 'ita' Sihola' ila ka 'oemaeh 'isa:a' 'oka' ila i bowaw.	現在我們把土地收割了,就沒有耕作了。	'isahini yami bine:ay ka 'oemaeh kayzaeh ila 'okay Sohowih.
+79	hini 'oem'oemaeh SikSikin bobowaeh ila.	這塊土地砍過草後整齊沒有雜草。	這塊土地砍過草後整齊沒有雜草。	hini 'oem'oemaeh SikSikin bobowaeh ila.	這塊土地被砍後開花了。	hini 'oemaeh kin'ameten 'oka' ka hinbetel.
+80	'iyasiwi' ka ra:an, 'oki ra:ami kano' SikaS'oetoeh ila?	看不見路，不知道踩斷了什麼？	看不見路，不知道踩斷了什麼？	'iyasiwi' ka ra:an, 'oki ra:ami kano' SikaS'oetoeh ila?	道路黑,不知道什麼在斷路?	'okay Sa'hoero: ka ra:an, kiraeh kano' hin'a'apoeh?
+81	towanay ni 'oya' SikoSa' ba:in, siya bi'i: ila.	嫂嫂被媽媽說很懶惰，他就生氣了。	嫂嫂被媽媽說很懶惰，他就生氣了。	towanay ni 'oya' SikoSa' ba:in, siya bi'i: ila.	媽媽的被風吹,她生氣了。	'ata' komoSa'en Si'a'aba: a tomal, siya bi'i: ila.
+82	'azis ma'an niSo' SikonrarakiS ila.	我的界線被你往上推了。	我的界線被你往上推了。	'azis ma'an niSo' SikonrarakiS ila.	刺我已經讓你踩過了。	ma'an ka'Siyap So'o paSraya' ila.
+83	ni yaba' 'ae'az botoe'en Sikonsilaeh ray binlengan.	爸爸把翅膀綁起來lalayar在牆的細縫中。	爸爸把翅膀綁起來lalayar在牆的細縫中。	ni yaba' 'ae'az botoe'en Sikonsilaeh ray binlengan.	爸爸將綁在牆上。	yaba' 'ae'az toetoeh lalalayar ray binlengan waSaSakan.
+84	niSo' Silamlam ka korkoring hiya' ila malaehang?	你亂跑孩子由誰來照顧？	你亂跑孩子由誰來照顧？	niSo' Silamlam ka korkoring hiya' ila malaehang?	你看守的孩子誰在照顧?	niSo' korkoring lamlam-lam hiya' mam malahang?
+85	rima' ray kasi'aelan somi'ael 'izi' hahway ka Silipa'.	去餐廳吃飯不要穿拖鞋。	去餐廳吃飯不要穿拖鞋。	rima' ray kasi'aelan somi'ael 'izi' hahway ka Silipa'.	去餐廳吃飯不要穿子。	rima' ray kasi'aelan 'izi' hahway.
+86	siya Sin'ilaw ka korkoring.	他沒打中小孩。	他沒打中小孩。	siya Sin'ilaw ka korkoring.	他沒收到小孩。	siya 'okay Sebet ka korkoring.
+87	taywan 'akoey ka 'inokik hingha' ka SinSinrahoe'.	台灣有很多不同族群。	台灣有很多不同族群。	taywan 'akoey ka 'inokik hingha' ka SinSinrahoe'.	taywan有很多不一樣的姓氏。	ray taywawn 'akoey ka kak'al'alak.
+88	Sina' kayzaeh patatimae'en.	昭和草可以當做菜。	昭和草可以當做菜。	Sina' kayzaeh patatimae'en.	子可以做菜。	'aloehoeh kayzaeh Sitimae'.
+89	siya Sinarara' ma'an honaehnge:.	我已經喜歡他很久了。	我已經喜歡他很久了。	siya Sinarara' ma'an honaehnge:.	他被我看守很久。	yako minowa' hisiya honaehnge: ila.
+90	hini kalihokan noka kina:at ni para:in Sinawi'an.	這封信的缺角是para:in撕破的。	這封信的缺角是para:in撕破的。	hini kalihokan noka kina:at ni para:in Sinawi'an.	這個角落是para:in撕破的書。	hini kina:at hinoko' ni para:in Sinawi'.
+91	niSo' hini taew'an Sineme: ay?	你的房子是集資來的錢蓋的嗎？	你的房子是集資來的錢蓋的嗎？	niSo' hini taew'an Sineme: ay?	你這個房子有層嗎?	niSo' taew'an noka kataboe'an pinatawaw ay?
+92	ho'ol tinalek 'as'asay koSa'en Sinpaehpae: ila.	糯米煮熟之後就叫糯米飯。	糯米煮熟之後就叫糯米飯。	ho'ol tinalek 'as'asay koSa'en Sinpaehpae: ila.	米煮熟後叫做米。	ho'ol 'as'asay taleken o Sa:oy ila pazay.
+93	ma'an korkoring Sipa'owaz 'oka' nanaw.	我的孩子去開運一直都沒有好。	我的孩子去開運一直都沒有好。	ma'an korkoring Sipa'owaz 'oka' nanaw.	我的孩子一直無緣無故被父母遺留。	ma'an korkoring rima' patae'aes 'okik kayzaeh nanaw.
+94	yako kayni' paSkira:a' 'ini 'ataw, ma'an SipaSkira:a' 'ini bo:ong.	我不要蓋給'ataw，我把他蓋給bo:ong。	我不要蓋給'ataw，我把他蓋給bo:ong。	yako kayni' paSkira:a' 'ini 'ataw, ma'an SipaSkira:a' 'ini bo:ong.	我不要印給'ataw,我幫bo:ong做柱子。	yako kayni' Sitor hi 'ataw, ma'an Sitor Sibo:ong.
+95	kerpe: ila Sipanra:an hopay.	胖起來了走起路來很累。	胖起來了走起路來很累。	kerpe: ila Sipanra:an hopay.	胖了走起路很辛苦。	kerpe: ila manra:an ma' helbe:.
+96	So: 'aring 'o'owa' 'okik kayzaeh nanaw 'isa:a' Siparhaep.	如果從小就一直生病就去占卜。	如果從小就一直生病就去占卜。	So: 'aring 'o'owa' 'okik kayzaeh nanaw 'isa:a' Siparhaep.	若孩子不舒服就算為孤兒。	So: 'ima korkoring kin'ayaehan ila rima' ila pa'owaz.
+97	kakhayza'an minkoringan So: hinra:iy ila Siparpe: ila ka Sinrahoe' noka kamamara:an ila.	以前女人如果嫁人了就會黏貼上先生的姓氏。	以前女人如果嫁人了就會黏貼上先生的姓氏。	kakhayza'an minkoringan So: hinra:iy ila Siparpe: ila ka Sinrahoe' noka kamamara:an ila.	以前的女人如果出嫁了,就被男友算為妻。	kakhayza'an minkoringan So: hinra:iy ila ma' payziza'en noka kamanra:an a Sinrahoe'.
+98	'am 'amiSan ila, ma'an Sirotroton ka kaehoy kaSahoe'en.	冬天快到了，我一直幫忙集中要燒的木頭。	冬天快到了，我一直幫忙集中要燒的木頭。	'am 'amiSan ila, ma'an Sirotroton ka kaehoy kaSahoe'en.	冬天要來了,我要集中要燒的木頭。	'amiSan 'am potngor ila, ya:o Siroton ka kaehoy kaSahoe'en.
+99	rineme: wa:ay Sisihoe: ray kayba:en kayzaeh kita'en.	染過的線繡在衣服上很好看。	染過的線繡在衣服上很好看。	rineme: wa:ay Sisihoe: ray kayba:en kayzaeh kita'en.	染色線在衣服上很好看。	reme: ka sa'i' ray kayba:en kayzaeh kita'en.
+100	in noka hilaSan a 'ae'az 'oeboeh Sisilaeh ray binlengan.	雉雞的翅膀羽毛插在牆上。	雉雞的翅膀羽毛插在牆上。	in noka hilaSan a 'ae'az 'oeboeh Sisilaeh ray binlengan.	日子裡的往牆上伸進來。	'an noka tata:a' a 'ae'az tobo' ray binlengan.
+101	ma'an pazay Sitabo: ila ka tata:a'.	飯我拿去餵雞了。	飯我拿去餵雞了。	ma'an pazay Sitabo: ila ka tata:a'.	我把飯跟雞一起了。	pazay ma'an Sitabo: ka tata:a'.
+102	ma'an kaehoy SitakSipene' ma:is a tomalan.	我拿木頭當做枕頭非常硬。	我拿木頭當做枕頭非常硬。	ma'an kaehoy SitakSipene' ma:is a tomalan.	我把樹切來很硬。	ma'an kaehoy SipatikoS ka hahngae' kakreng a tomal.
+103	niSo' kano' Sitibae:iw?	你在賣什麼？	你在賣什麼？	niSo' kano' Sitibae:iw?	你為什麼買東西?	niSo' kano' katatoroe'en?
+104	'oya' rara:ol ila, 'am rima' Sohaha:i' naehan.	媽媽打瞌睡了，要去睡一會兒。	媽媽打瞌睡了，要去睡一會兒。	'oya' rara:ol ila, 'am rima' Sohaha:i' naehan.	媽媽走了,要先去上床。	'oya' maSroko' ila, 'am rima' pae'rem naehan.
+105	Sokira:a' ray 'azis ka kinmaehen ka 'alipa'.	在要砍的杉本做記號。	在要砍的杉本做記號。	Sokira:a' ray 'azis ka kinmaehen ka 'alipa'.	找在草的割成杉木。	paskayzaeh ka 'atomo' kataStaSen.
+106	hiza korkoring komita' noka mae'iyaeh Sisi'ael Som'en ka haSab.	那隻小孩看到人吃東西直吞口水。	那隻小孩看到人吃東西直吞口水。	hiza korkoring komita' noka mae'iyaeh Sisi'ael Som'en ka haSab.	那個小孩被人看到吃東西嘴巴都下了。	hiza korkoring komita' ka mae'iyaeh somi'ael mimoson.
+107	siya mam SomoySoyap ka ngiyaw.	他正在撫摸貓咪。	他正在撫摸貓咪。	siya mam SomoySoyap ka ngiyaw.	他正在養貓。	siya mam lomapis ka ngiyaw.
+108	'inaro: Sopoti'in ralom 'okay wa:i' ila.	水管阻塞了水沒來了。	水管阻塞了水沒來了。	'inaro: Sopoti'in ralom 'okay wa:i' ila.	水管阻塞水就停了。	'inaro: Somopoti' ila 'oka' ila ka ralom.
+109	baSi' Sorangi'in ni kalih.	baSi' 給 kalih 做義子。	baSi' 給 kalih 做義子。	baSi' Sorangi'in ni kalih.	kalih幫baSi'收女兒。	kalih Sisa'en ni baSi'.
+110	pak'akoey si'ael ka banay, basang kayzaeh.	多吃萵苣對身體很好。	多吃萵苣對身體很好。	pak'akoey si'ael ka banay, basang kayzaeh.	吃很多水,身體會健康。	'akoey si'ael ka timo' kayzaeh ka basang.
+111	hini kapa:tol kin kayzaeh bazae'en.	這首歌真好聽。	這首歌真好聽。	hini kapa:tol kin kayzaeh bazae'en.	這個歌很好聽。	hini pa:tol kayzaeh bazae'en.
+112	hini bineleng noka sibolo' pinaskayzaeh.	這圍牆是磚瓦做的。	這圍牆是磚瓦做的。	hini bineleng noka sibolo' pinaskayzaeh.	這個雕刻用子做的。	hini 'inayzing noka wa:ay pinaskayzaeh.
+113	'insiya'a katiSkina:atan 'ima bolalasan.	他的書包是白色的。	他的書包是白色的。	'insiya'a katiSkina:atan 'ima bolalasan.	他的書盒是白色的。	nisiya kaSakayba:enan 'ima bolalasan.
+114	ya:o mari' ka kin bolalasan.	我拿白色的。	我拿白色的。	ya:o mari' ka kin bolalasan.	我拿白色的。	yako mari' ka 'ima bolalasan.
+115	haSon kano' mam homngas?	那邊是什麼東西在叫？	那邊是什麼東西在叫？	haSon kano' mam homngas?	那邊是什麼在叫?	hiza kano' mam somngaw?
+116	haboeh wahoer koSa'en 'atomo'.	大窩的下面是三角湖。	大窩的下面是三角湖。	haboeh wahoer koSa'en 'atomo'.	稱那個雲。	ha:aw ray 'ataS babaw koSa'en tatilhaehael.
+117	'izi' paka:as ka haeShaeS.	不要讓眼鏡蛇咬到。	不要讓眼鏡蛇咬到。	'izi' paka:as ka haeShaeS.	不要被老鼠到。	'izi' paka:as ka kapayhima'.
+118	hini hahako' 'an minatini' ma'an a.	這個布巾是我哥哥的。	這個布巾是我哥哥的。	hini hahako' 'an minatini' ma'an a.	這支紙是我的哥哥拿來的。	hini kapSiloe' 'inmana'a minatini'.
+119	ray sinsangan 'akoey ka 'ima 'okik hingha' hahazab.	在醫院很多不一樣的針。	在醫院很多不一樣的針。	ray sinsangan 'akoey ka 'ima 'okik hingha' hahazab.	房有很多不一樣的破。	ray sinsangan 'akoey 'okik hingha' ka ti'a'.
+120	'izi' hahli: ka talka:.	不要搖桌子。	不要搖桌子。	'izi' hahli: ka talka:.	不要斜張桌子。	'izi' lalengeS ka talka:.
+121	So: So'o kayni', ma'an hahopil ila o!	你如果不要，我就帶入口袋囉！	你如果不要，我就帶入口袋囉！	So: So'o kayni', ma'an hahopil ila o!	如果你不讓你,我要填尿!	So'o So: 'okik kayzaeh, ma'an kapotolen ila o!
+122	niSo' hahoway hayno' ila?	你的鞋子到哪裡去了？	你的鞋子到哪裡去了？	niSo' hahoway hayno' ila?	你的鞋子哪裡去了?	niSo' hahway hayno' ila?
+123	hiza sabsaboeh hako' 'iniman!	那些全部包起來給我！	那些全部包起來給我！	hiza sabsaboeh hako' 'iniman!	那個倒數給我!	hiza homako' saboeh pabolok 'iniman!
+124	baki' komoSa', hako' So: homngas 'isa:a' 'am 'omoral ila.	祖父說：如果山羌鳴叫就會下雨了。	祖父說：如果山羌鳴叫就會下雨了。	baki' komoSa', hako' So: homngas 'isa:a' 'am 'omoral ila.	爺爺說:如果雨一停,就會下雨了。	baki' mayka:i', So: tomobong ila 'am 'omoral ila.
+125	ma'an tatpo' halayen ray kaehoy babaw.	我把帽子掛在樹上。	我把帽子掛在樹上。	ma'an tatpo' halayen ray kaehoy babaw.	我的帽子掛在樹上。	ma'an tatpo' tiway ray kaehoy babaw.
+126	hini 'oemaeh halhalisan saboeh.	這塊土地長滿山香蕉。	這塊土地長滿山香蕉。	hini 'oemaeh halhalisan saboeh.	這塊土地全都是平原。	hini 'oemaeh 'akoey ka tawmo'.
+127	noka pongaeh a hanSan Se'eten noka SibSiba:i'.	花的枝幹被蟲吃了。	花的枝幹被蟲吃了。	noka pongaeh a hanSan Se'eten noka SibSiba:i'.	山被花蟲咬下來。	hansaeh noka pongaeh Sipasi'ael ila.
+128	yako rengreng hawhawka' ka rayhil.	我的錢常常一直不見。	我的錢常常一直不見。	yako rengreng hawhawka' ka rayhil.	我常常失去錢。	ma'an rayhil rengreng 'okik kita'.
+129	hayawan kamamalahang ka karkarang.	夏家負責照顧卡蘭。	夏家負責照顧卡蘭。	hayawan kamamalahang ka karkarang.	hayawan是專門照顧小白。	Sayna'amiSan 'ima makamkamay hi kaman.
+130	niSo' pinamowa' pongaeh hayayo' ila noka hahila:.	你種的花被太陽晒的枯萎了。	你種的花被太陽晒的枯萎了。	niSo' pinamowa' pongaeh hayayo' ila noka hahila:.	你種的花被太陽枯了。	niSo' pinamowa' pongaeh hahila:en ma'sih ila.
+131	niSo' 'oya' ki yaba' haysiya ay?	你的父母還健在嗎？	你的父母還健在嗎？	niSo' 'oya' ki yaba' haysiya ay?	你的母親和爸爸有嗎?	niSo' 'aeh'aehael haysiya ay naehan?
+132	yako kayni' somi'ael ka hewek.	我不要吃豆子。	我不要吃豆子。	yako kayni' somi'ael ka hewek.	我不想吃豆子。	yako kayni' somi'ael ka hewek.
+133	hini ra:an hi'owaS a tomalan, balbalay panra:an.	這條路很窄，慢慢的走。	這條路很窄，慢慢的走。	hini ra:an hi'owaS a tomalan, balbalay panra:an.	這條路很窄,慢慢滑行。	hini ra:an 'ol'olae'an, balbalay panpanra:an.
+134	So'o 'ampowa' himi'an nanaw?	你為什麼總是不講話呢？	你為什麼總是不講話呢？	So'o 'ampowa' himi'an nanaw?	你為什麼一直靜默?	So'o 'ampowa' 'okay paehrahrang nanaw?
+135	'izi' panpanra:an, So'o 'am hin'aw'aw.	不要走來走去，你會迷路。	不要走來走去，你會迷路。	'izi' panpanra:an, So'o 'am hin'aw'aw.	不要走路,你會亂跑。	'izi' kalkalkan, So'o 'am maSbalo'.
+136	'ata' honga'nga' ka hin'az'azem makakSiyae' ki saboeh.	阿姨忘了憂愁和大家一起玩樂。	阿姨忘了憂愁和大家一起玩樂。	'ata' honga'nga' ka hin'az'azem makakSiyae' ki saboeh.	想起去就和大家玩。	'ata' mangowip ka kin hopay 'ima makakSiyae' kil mae'iyaeh.
+137	niSo' pinatawaw hin'ohay ila.	你所做的事情都是反的。	你所做的事情都是反的。	niSo' pinatawaw hin'ohay ila.	你做好的工資還沒了。	niSo' pinatawaw maybih nanaw.
+138	bibi: 'osa:en noka bato' ka ta'oeloeh hinSaylo' maykonkonay ila.	鴨子被石頭丟到頭，轉一圈後滾在地上了。	鴨子被石頭丟到頭，轉一圈後滾在地上了。	bibi: 'osa:en noka bato' ka ta'oeloeh hinSaylo' maykonkonay ila.	被石頭丟過頭一直下來了。	Sina'iS noka bato' Siboeloe' ka ta'oeloeh, hinbabih 'isa:a' minkonay siya ila ray ra:i'.
+139	hini 'ampowa' kin 'akoey ka kaehoy hinalay?	這裡為什麼掛這麼多木頭？	這裡為什麼掛這麼多木頭？	hini 'ampowa' kin 'akoey ka kaehoy hinalay?	這裡怎麼很多樹在上?	hini 'ampowa' Sipanra:ae' kin kaehoy?
+140	nisiya pazay hinamez ka ho'ol.	他的飯有混合糯米。	他的飯有混合糯米。	nisiya pazay hinamez ka ho'ol.	他把飯裝成米。	nisiya pazay hayza' ka 'inomaS por'oe'.
+141	siya hiniyapae'zo' mae'iyaeh.	他是有膽量的人。	他是有膽量的人。	siya hiniyapae'zo' mae'iyaeh.	他愛騙人。	siya kama'iyatabin nanaw.
+142	ka hapis soloehen hinkawton ila.	飛鼠燒後就捲曲身體了。	飛鼠燒後就捲曲身體了。	ka hapis soloehen hinkawton ila.	飛鼠被到打結了。	hapis Sil'ae'tobhae' ila 'isa:a' minwakil ka basang.
+143	siya mae'rem hinkirkiri:.	他睡覺側身睡。	他睡覺側身睡。	siya mae'rem hinkirkiri:.	他睡著眼。	siya mae'rem maSkira:i'.
+144	ma'an babaki' biSbiS kita'en hayza' ka hipoeh.	我的大拇指很痛看起來有被刺入的針狀物。	我的大拇指很痛看起來有被刺入的針狀物。	ma'an babaki' biSbiS kita'en hayza' ka hipoeh.	我的子痛,看起來有乳房。	ma'an babakiS biSbiSin naka tateleng kita'en.
+145	hini korkoring 'ina hitay ila ay?	這個孩子服過兵役了嗎？	這個孩子服過兵役了嗎？	hini korkoring 'ina hitay ila ay?	這個孩子已經死了嗎?	hini korkoring 'ina servi' ila ay?
+146	ho'mol ka walo' kayzaeh 'okay 'aez'ez ka ngabas.	含著糖才不會嘴巴苦澀。	含著糖才不會嘴巴苦澀。	ho'mol ka walo' kayzaeh 'okay 'aez'ez ka ngabas.	含糖才不會酸痛。	homilom ka walo' kayzaeh 'okik tangoe'.
+147	'aehoe' komita' Sisi'ael noka mae'iyaeh homaSab ila.	小狗看到人在吃東西就流口水。	小狗看到人在吃東西就流口水。	'aehoe' komita' Sisi'ael noka mae'iyaeh homaSab ila.	小狗看到人吃了就一直叫。	'aehoe' Sisi'ael mowa:i' ila miyaromiS ka mae'iyaeh.
+148	siya somi'ael ka pazay homamez ka walo'.	他吃飯混著糖吃。	他吃飯混著糖吃。	siya somi'ael ka pazay homamez ka walo'.	他吃飯含糖。	siya somi'ael potimo' ka walo'.
+149	yako 'am rima' homangal ka kaehoy.	我要去扛木材。	我要去扛木材。	yako 'am rima' homangal ka kaehoy.	我要去木頭。	yako 'am rima' lomeket ka kaehoy.
+150	yako mowa:i' ray kakiSka:atan homawaeh ila ka hinohaes.	我來學校之後就打開窗戶。	我來學校之後就打開窗戶。	yako mowa:i' ray kakiSka:atan homawaeh ila ka hinohaes.	我來學校後窗戶開了。	yako mowa:i' ray kakiSka:atan 'isa:a' hawaeh ka hinohaes.
+151	siya homazab noka ti'a' 'iyakin.	他用針刺我。	他用針刺我。	siya homazab noka ti'a' 'iyakin.	他用針擦我。	siya hompis 'iyakin noka tatawae'.
+152	yako 'am hombel ka por'oe' kapa:tatimae'en.	我要拔青菜來當作菜。	我要拔青菜來當作菜。	yako 'am hombel ka por'oe' kapa:tatimae'en.	我要把青菜堆積來做菜。	yako 'am tomil ka por'oe' kapowa'en ka tatimae'.
+153	hini 'aehae' mae'iyaeh 'ina homibo'.	這個人曾經搶婚。	這個人曾經搶婚。	hini 'aehae' mae'iyaeh 'ina homibo'.	這個人曾經流過汗。	hini mae'iyaeh 'ina raypoS ka mae'iyaeh.
+154	yako homilos ka 'iniya'zaw halehez ila.	我吸到冷空氣咳嗽了。	我吸到冷空氣咳嗽了。	yako homilos ka 'iniya'zaw halehez ila.	我摸到冷了。	yako homaseng ka 'ima 'iya'zaw ka hahola' haha:ok ila.
+155	kalih mam homoehoeh ka raromaeh.	kalih正在拉竹子。	kalih正在拉竹子。	kalih mam homoehoeh ka raromaeh.	kalih正在拉竹子。	kalih mam homoehoeh ka raromaeh.
+156	Sanae' kama honaray ba:la' tomaew'an.	水獺專門在河邊築巢。	水獺專門在河邊築巢。	Sanae' kama honaray ba:la' tomaew'an.	豐年祭主要在河邊舉行。	kaSbaSoS kama tomnon ray ba:la'.
+157	'oya', So'o 'am hontini' mina.	媽媽，你會長壽的。	媽媽，你會長壽的。	'oya', So'o 'am hontini' mina.	媽媽,你要少一點。	'oya', So'o 'am honaehnge:.
+158	tiwaS kayni' hopi'i'in.	tiwaS 不肯紋臉頰。	tiwaS 不肯紋臉頰。	tiwaS kayni' hopi'i'in.	不要遮臉。	tiwaS kayni' pataSen ka pi'i'.
+159	ma'an masa' 'ampowa' kin lomowang ka hosi'?	我的眼睛為什麼一直流眼淚？	我的眼睛為什麼一直流眼淚？	ma'an masa' 'ampowa' kin lomowang ka hosi'?	我的眼睛為什麼這麼腫?	ma'an masa' 'ampowa' romarangih nanaw?
+160	hini talka: 'oka' ka ka'alSo:olan 'aewhay.	這個桌子沒有抽屜不好。	這個桌子沒有抽屜不好。	hini talka: 'oka' ka ka'alSo:olan 'aewhay.	這個桌子沒有抽,不好。	hini talka: 'inokay kaSo:olan 'aewhay.
+161	hiza taray ka'ilo'an ka tatabo:.	那個盆子是要攪拌飼料的地方。	那個盆子是要攪拌飼料的地方。	hiza taray ka'ilo'an ka tatabo:.	那個盆子是要烤的。	hiza taray kapasi'aelen ka kasi'aelen.
+162	lalo', ta'ila takita' ka'inalingo'an.	lalo'，我們去看電影。	lalo'，我們去看電影。	lalo', ta'ila takita' ka'inalingo'an.	lalo'來去看電影。	lalo', 'ita' rima' komita' ka 'inalingo'.
+163	hiza powawan 'aSkan ray kaSapowawanan.	把碗放到碗櫥。	把碗放到碗櫥。	hiza powawan 'aSkan ray kaSapowawanan.	把那碗放在房的前面。	hini powawan ha:aw ray kaSapelen 'i:zo'.
+164	hini kina:at Sa'ila 'aSkan ray kaSateran ka kina:at.	這封信拿去放在郵筒。	這封信拿去放在郵筒。	hini kina:at Sa'ila 'aSkan ray kaSateran ka kina:at.	這份文件去放到掛在桌子的位置上。	hini kina:at Sa'ila poSaken ray katiSko'anan.
+165	kaSbae'ba' sem'el ray koko:olan naba:an minpongaeh ila.	金毛杜鵑生長在山坡，春天了就開花。	金毛杜鵑生長在山坡，春天了就開花。	kaSbae'ba' sem'el ray koko:olan naba:an minpongaeh ila.	草長在山谷後就噴出來了。	katboS sem'el ray 'oes'oeso'an, naba:an ila minbolboli'.
+166	So'o So: minSa'la' ila, tiwaSaw ma'an kaSekla'en.	你若先到了，做記號讓我知道。	你若先到了，做記號讓我知道。	So'o So: minSa'la' ila, tiwaSaw ma'an kaSekla'en.	如果你先走,我將後面講一下。	So'o So: minSa'la' tibae:aeh, tambai' pakra:am 'iyakin.
+167	kaSikiko:ol 'ima kowakowaSan.	錦蛇是線條明顯的。	錦蛇是線條明顯的。	kaSikiko:ol 'ima kowakowaSan.	尾椎是深雪的地。	'a'abaS ka linaSo' tigamiS.
+168	'alikaeh ka zine:ez kaSowaboSon.	開快車會被罰款。	開快車會被罰款。	'alikaeh ka zine:ez kaSowaboSon.	換車子要帶禮品。	'am minkakamoeh kapapama'en ka Sohae:ae'.
+169	kowaw a ta:in So: kababaw 'ima homayap 'am 'oma:zaw.	老鷹如果沿著高處飛就會有好天氣。	老鷹如果沿著高處飛就會有好天氣。	kowaw a ta:in So: kababaw 'ima homayap 'am 'oma:zaw.	老鷹若是飛的很高就會好晴。	kowaw So: 'ima homayap ray 'ibabaw kahalayan 'am hayza' ka kawaS.
+170	'izi' nakhiza ma'an So'o kabakbaken o!	不要那樣，你會被我打喔！	不要那樣，你會被我打喔！	'izi' nakhiza ma'an So'o kabakbaken o!	不要那樣做,你會被我打!	'izi' nakhini, So'o ma'an kaSebeten o!
+171	hiza kabina:o' kin ra:am tomnon.	那位小姐很會織布。	那位小姐很會織布。	hiza kabina:o' kin ra:am tomnon.	那位小姐很會織布。	hiza kabina:o' ra:am tomnon ka kayba:en.
+172	hini tawtaw kabolaken haysiya 'okay bolaki.	這些花生還是沒有剝殼。	這些花生還是沒有剝殼。	hini tawtaw kabolaken haysiya 'okay bolaki.	這個花生開後還沒有散開。	hini tawtaw 'i'ini' i 'intari:i'.
+173	So'o 'omawpo' ka minayti' kahakaSen noka minatini'.	你抱小的會被大的忌妒。	你抱小的會被大的忌妒。	So'o 'omawpo' ka minayti' kahakaSen noka minatini'.	你抱弟弟會被哥哥不願意。	niSo' 'ol'olae'an kaSaraken noka tatini'.
+174	hini hahiwa' kahirhirin.	這個鋸子要挫的。	這個鋸子要挫的。	hini hahiwa' kahirhirin.	這子很扭曲。	hini Sina:iS kakonkonibih.
+175	hini ni 'oya' rengreng kahiwa'an ka tata:a'.	這裡是媽媽常常殺雞的地方。	這裡是媽媽常常殺雞的地方。	hini ni 'oya' rengreng kahiwa'an ka tata:a'.	這是媽媽常常雞的地方。	hini ni 'oya' rengreng kapatokakan ka tata:a'.
+176	Sa'ila rakep so'hae' ka tata:a' 'insa'an kahiwa'en.	去捉一隻雞待會要殺的。	去捉一隻雞待會要殺的。	Sa'ila rakep so'hae' ka tata:a' 'insa'an kahiwa'en.	去抓一隻雞待會割掉。	rima' mari' 'aehae' tata:a' 'insa'an kakita'en.
+177	ni koko' kakak'ayaeh ma' poe'oe' nanaw.	祖母的老毛病也只有關節不適。	祖母的老毛病也只有關節不適。	ni koko' kakak'ayaeh ma' poe'oe' nanaw.	奶奶的病也是只有膝蓋。	ni koko' kakoroyan ma' 'oka' ka poepoe'oe:.
+178	lamsong 'akoey ka kakibizo'an, 'ana walo' o ray'in ma' hayza' saboeh.	南庄有很多煤礦坑，不管是東河或是蓬萊都有。	南庄有很多煤礦坑，不管是東河或是蓬萊都有。	lamsong 'akoey ka kakibizo'an, 'ana walo' o ray'in ma' hayza' saboeh.	南庄很多甘,無論是東河或是萊都有。	lamsong 'akoey ka koBiS, 'ana walo' 'a ray'i: ma' hayza'.
+179	kakhayza'an tatini' noka kaklang 'omowaz ka kak'ayaeh.	從前老人家用石菖浦醫治病痛。	從前老人家用石菖浦醫治病痛。	kakhayza'an tatini' noka kaklang 'omowaz ka kak'ayaeh.	以前老人家用紅祈求救濟。	kakhayza'an tatini' noka 'a:im baso' ka 'oemaeh.
+180	lasiya mam haha:ih kakonibih ka kapatawawen.	他們在爭辯而把工作推來推去。	他們在爭辯而把工作推來推去。	lasiya mam haha:ih kakonibih ka kapatawawen.	他們在爭取扭轉工作。	lasiya kakoring maymaybih 'am matawaw.
+181	So: tatini' ila basang ma' kakorotan ila.	老了就會彎腰駝背。	老了就會彎腰駝背。	So: tatini' ila basang ma' kakorotan ila.	如果身體老了就會不小心生病。	tatini' ila ma' kowakitin ila ka hikor.
+182	yako 'ina kaleSpat ila rima' walo'.	我已經走東河四趟了。	我已經走東河四趟了。	yako 'ina kaleSpat ila rima' walo'.	我過八歲了去東河。	yako minaybi:il ila walo'.
+183	paza' kaliSin noka korkoring ka kinmae'iyaehan.	paza'被孩子抓傷臉。	paza'被孩子抓傷臉。	paza' kaliSin noka korkoring ka kinmae'iyaehan.	paza'被小孩抓臉。	ni paza' noka korkoring kolaboehen Si'iSan ka kinmae'iyaehan.
+184	So'o 'ina kalpilaz ila rima' rareme:an?	你曾經去過幾次向天湖了？	你曾經去過幾次向天湖了？	So'o 'ina kalpilaz ila rima' rareme:an?	你已經過年了去向天湖?	So'o 'ina minpilaz ila rima' rareme:an?
+185	ma'an taew'an ray rareme:an kamaSal sowiti'.	我的家在向天湖的下面一點。	我的家在向天湖的下面一點。	ma'an taew'an ray rareme:an kamaSal sowiti'.	我的家在向天湖正面有一點。	ma'an taew'an langi: rareme:an hiza ha:aw babaw.
+186	hini 'aehae' kamakakabaeh ka mae'iyaeh, 'izi' i paka:i' ka nisiya pinanabih.	這一個人是專門欺騙的，不要相信他說的。	這一個人是專門欺騙的，不要相信他說的。	hini 'aehae' kamakakabaeh ka mae'iyaeh, 'izi' i paka:i' ka nisiya pinanabih.	這個人是騙人,不要相信他的說話。	hiza 'aehae' mae'iyaeh kamabaehngap, 'izi' paka:i' ka nisiya pinanabih.
+187	kamakibizo' patawawen hopay a tomalan.	專門採煤炭的工作非常辛苦。	專門採煤炭的工作非常辛苦。	kamakibizo' patawawen hopay a tomalan.	做酒器的人很辛苦。	kamabaehkoy 'am matawaw kin hopay.
+188	So: hiya' mae'iyaeh koSa'en, kamalamlamlam, mina 'aewhay bazae'en.	如果有誰被說成「不安於室的人」是不好路聽的話。	如果有誰被說成「不安於室的人」是不好路聽的話。	So: hiya' mae'iyaeh koSa'en, kamalamlamlam, mina 'aewhay bazae'en.	如果有人說,在亂跑,是因為聽見了不好。	"So: hiya' SikoSa'en ""'ima 'okay honasamez"" mina 'aewhay kapanabih."
+189	yako somi'ael ka wa:ay kamamaSkan sowiti' ka tawyo:.	我吃麵總會放一點醬油。	我吃麵總會放一點醬油。	yako somi'ael ka wa:ay kamamaSkan sowiti' ka tawyo:.	我吃完麵一點湯。	yako somi'ael ka wa:ay rengreng 'omotimo' sowiti'.
+190	So: 'am kipazay ila, yaba' kamamaySiri: ka pinatiyayan.	在稻子將要成熟時，爸爸專門巡視稻田。	在稻子將要成熟時，爸爸專門巡視稻田。	So: 'am kipazay ila, yaba' kamamaySiri: ka pinatiyayan.	割的時候,爸爸會把田地拆除。	So: 'am 'ibabaw ka bibi: mina, yaba' kamatomnal nom sir'ar ka pinamowa'.
+191	paSta'ay tataysi' kamapama' ka sinaton.	巴斯達隘祭典由絲家負責背笙旗。	巴斯達隘祭典由絲家負責背笙旗。	paSta'ay tataysi' kamapama' ka sinaton.	巴斯達是親父為司子。	kapaSta'ayan noka SaySiyat kamawa:is ka wasah.
+192	hiza 'aehae' kamapotatay ka mae'iyaeh, 'izi' bae:iw riza.	那一個人會強迫推銷，不要在那裡買。	那一個人會強迫推銷，不要在那裡買。	hiza 'aehae' kamapotatay ka mae'iyaeh, 'izi' bae:iw riza.	那個人會死人,不要去買東西。	hiza 'aehae' mae'iyaeh 'am pak'apis ka katatimae'an, 'izi' tibae:iS riza.
+193	hini kalhib hayza' ka walwalo', ni yaba' kamari'an ka walwalo'.	這個山洞有蜂蜜，是爸爸拿蜂蜜的地方。	這個山洞有蜂蜜，是爸爸拿蜂蜜的地方。	hini kalhib hayza' ka walwalo', ni yaba' kamari'an ka walwalo'.	這個山洞有蜂蜜,爸爸要抓蜂蜜的。	hini kalhib hayza' ka walwalo', ni yaba' ka walo'.
+194	ka'tim kamarowaSek ray Sinpanan.	跳蚤棲息在所養的動物上。	跳蚤棲息在所養的動物上。	ka'tim kamarowaSek ray Sinpanan.	青是養長的地方。	hapis ray pinamowa' no 'ayam babaw.
+195	siya kamasempeng ka 'a'inola' noka malnoSaySiyat.	他是賽夏語比賽裁判。	他是賽夏語比賽裁判。	siya kamasempeng ka 'a'inola' noka malnoSaySiyat.	他是專門測量賽夏族人的水平。	siya 'ima competing kaS'alayan noka SaySiyat.
+196	paza' hato kanman ray taew'an.	paza'在我家。	paza'在我家。	paza' hato kanman ray taew'an.	paza'把帳給我放在家裡。	paza' ray taew'an ma'an.
+197	'insa'an 'oya' 'am rima' kansiya ray taew'an liyawliyaw.	今天媽媽要去他家聊天。	今天媽媽要去他家聊天。	'insa'an 'oya' 'am rima' kansiya ray taew'an liyawliyaw.	等一下媽媽要去他家看守。	kaysa'an 'oya' 'am rima' nisiya ray taew'an ma'a'apaeh.
+198	So'o maraS ay ka kap'ali'a'oral?	你有帶雨具嗎？	你有帶雨具嗎？	So'o maraS ay ka kap'ali'a'oral?	你有帶雨衣嗎?	So'o maraS ay ka kapayramoran?
+199	ma'an So'o kapa'inSaylo'en o!	我要把你旋轉喔！	我要把你旋轉喔！	ma'an So'o kapa'inSaylo'en o!	我要讓你頭!	ma'an So'o kapaysinte: o!
+200	niSo' hini ka binotoe' kapakisa'oe'en ay?	你這些要打成死結嗎？	你這些要打成死結嗎？	niSo' hini ka binotoe' kapakisa'oe'en ay?	你這個綁的要弄脫嗎?	niSo' hini kakita'en ay?
+201	hini sisiyap siniya' noka kapasiya'an.	這小雞是孵蛋機孵出的。	這小雞是孵蛋機孵出的。	hini sisiyap siniya' noka kapasiya'an.	這條子是臭味的植物。	hini tata:a' noka kapasowihan ka 'oesizo:.
+202	kata'owan 'oka' ila kapawkongas.	廁所沒有衛生紙了。	廁所沒有衛生紙了。	kata'owan 'oka' ila kapawkongas.	廁所沒有了。	kata'owan 'oka' ila ka katiSkina:atan.
+203	hini 'inmana'a kapay'ae'ay.	這是我的腳飾。	這是我的腳飾。	hini 'inmana'a kapay'ae'ay.	這是我的筆袋。	hini kapaysi'ael ma'an.
+204	Sa'ila mari' ka kapayhikor ma'an ka tatobok ka 'aewngahipan.	去拿拐杖我要打蜈蚣。	去拿拐杖我要打蜈蚣。	Sa'ila mari' ka kapayhikor ma'an ka tatobok ka 'aewngahipan.	去拿我的拐杖來打草。	Sa'ila mari' ka katoerhoer ma'an ka hinbetel.
+205	ma'an minkayba:enan kapaywa:aken ila o!	我的舊衣服要丟掉囉！	我的舊衣服要丟掉囉！	ma'an minkayba:enan kapaywa:aken ila o!	我要把衣服弄掉!	ma'an minkayba:en ka 'ima boeloe' o!
+206	noka kapihik hanSan bori: kayzaeh si'aelen nak sithaw sin'elan.	酢醬草的球莖可以吃，長得像蘿蔔。	酢醬草的球莖可以吃，長得像蘿蔔。	noka kapihik hanSan bori: kayzaeh si'aelen nak sithaw sin'elan.	草的肉好吃像是煮熟的食物。	'an noka 'oeway a siso: kayzaeh si'aelen, sin'elan nak baboyoe'.
+207	hini kapnazip ka 'aelaw.	這是用來釣魚的。	這是用來釣魚的。	hini kapnazip ka 'aelaw.	這是要把魚咬掉的。	hini nom man'aelaw ka 'aelaw.
+208	'izi' ngowip 'am bae:iw ka kapontatango: o!	不要忘了買蚊香喔！	不要忘了買蚊香喔！	'izi' ngowip 'am bae:iw ka kapontatango: o!	不要忘記買香!	'izi' ngowip bae:iw ka kae'niw!
+209	ma'an kapranawan kin mowahil.	我的洗澡間很大。	我的洗澡間很大。	ma'an kapranawan kin mowahil.	我的浴室這麼寬。	ma'an kapranawan sopaloy.
+210	'isahini karkaramo' 'oka' ila ka minahael.	現在血姓已沒有後代了。	現在血姓已沒有後代了。	'isahini karkaramo' 'oka' ila ka minahael.	現在的偉人已經沒有了。	haysani ka kakhayza'an ila haSa' ila ka Sinrahoe'.
+211	ray halapaw kayba:en kasipsipin saboeh.	床上的衣服全部都要摺。	床上的衣服全部都要摺。	ray halapaw kayba:en kasipsipin saboeh.	床上的衣服全部都是子。	ray halapaw kayba:en paksilaeh saboeh.
+212	SaySiyat 'izi' ngowip mita' kaspengan.	賽夏人不要忘記我們的文化。	賽夏人不要忘記我們的文化。	SaySiyat 'izi' ngowip mita' kaspengan.	賽夏族人不要忘記我們的習俗。	SaySiyat 'izi' ngowip ka kaspengan mita'.
+213	noka SaySiyat 'akoey ka 'ima nonak kaspengan.	賽夏族有很多獨特的習俗。	賽夏族有很多獨特的習俗。	noka SaySiyat 'akoey ka 'ima nonak kaspengan.	賽夏族有很多自己的習俗。	SaySiyat hayza' 'akoey ka hinaka:i'an kaspengan.
+214	komita' noka katba: a biyae', ra:amen Sa' piza' ba:yoS.	看颱風草的葉子就可以知道有幾個颱風。	看颱風草的葉子就可以知道有幾個颱風。	komita' noka katba: a biyae', ra:amen Sa' piza' ba:yoS.	看風的葉子,可能有菌。	kitkita' noka 'atomo' biyae' ma' 'am ra:am ila koza' ka ba:yoS.
+215	'oya rima' ila ray kati'ayaman bae:iw ka bo'oel nom pilisnaw.	媽媽去豬肉攤買骨頭煮湯。	媽媽去豬肉攤買骨頭煮湯。	'oya rima' ila ray kati'ayaman bae:iw ka bo'oel nom pilisnaw.	媽媽去浴室洗用肉。	'oya' rima' bae:iw ka 'ayam ray katotonan tomalek ka boe'oel kasnaw.
+216	noka tatini' sobol taboe'en ray katiStamako'an.	老人家把煙燻裝入煙袋。	老人家把煙燻裝入煙袋。	noka tatini' sobol taboe'en ray katiStamako'an.	祖先們把草裝入竹袋裡。	tatini' poSak ka taboe' 'inaSkan ray katiSpoSi:.
+217	totowih katiSzazalasan.	小甕要裝油用的。	小甕要裝油用的。	totowih katiSzazalasan.	魚是飼料。	towih ka'omo:en ka 'abora'.
+218	hini 'ima Sil'i: a ta:an 'aewhay katintinin.	這個太重了不好秤。	這個太重了不好秤。	hini 'ima Sil'i: a ta:an 'aewhay katintinin.	這個太重了不好測量。	hini Sil'i: a tomal 'aewhay tintinin.
+219	hini hewek katipihizen wa:ila tatilhaehael!	這些豆子要去蒂來幫忙！	這些豆子要去蒂來幫忙！	hini hewek katipihizen wa:ila tatilhaehael!	這個豆子要削皮的來幫忙!	hini hewek ka'Sa'en ray ti:i' tatilhaehael!
+220	hayza' mae'iyaeh kawa'en nga'nga'an ka ta'oeloeh.	有人被下詛咒頭腦不清楚。	有人被下詛咒頭腦不清楚。	hayza' mae'iyaeh kawa'en nga'nga'an ka ta'oeloeh.	有人剛才咬過頭髮。	hayza' mae'iyaeh Si'angang 'okik ra:ami ka ta'oeloeh.
+221	hini rokol kawkinSa:o' mita'.	這個芋頭是我們的晚餐。	這個芋頭是我們的晚餐。	hini rokol kawkinSa:o' mita'.	這個頭是我們的晚餐。	hini rokol mita' kawkinSa:o'.
+222	So'o kayzaeh ay? ya:o kayzaeh, So'o ma' kayzaeh ay?	你好嗎？我很好，你也很好嗎？	你好嗎？我很好，你也很好嗎？	So'o kayzaeh ay? ya:o kayzaeh, So'o ma' kayzaeh ay?	你好嗎?我好,你也好嗎?	So'o kayzaeh ay? yako kayzaeh, So'o ma' kayzaeh ay?
+223	siya ra:am ki'oeway, 'ana hayno' ma' 'oSa'en.	你很會採黃藤，不管哪裡都會去。	你很會採黃藤，不管哪裡都會去。	siya ra:am ki'oeway, 'ana hayno' ma' 'oSa'en.	他很會採黃藤,無論哪裡都去。	So'o ra:am ki'oeway, 'ana hayno' ma' ma' payla'.
+224	So'o hayno' kiSka:at?	你在哪裡唸書？	你在哪裡唸書？	So'o hayno' kiSka:at?	你在哪裡讀書?	So'o rayno' kiSka:at?
+225	kakhayza'an 'ita' mae'iyaeh hayza' ka kiko:.	以前我們人類有尾巴。	以前我們人類有尾巴。	kakhayza'an 'ita' mae'iyaeh hayza' ka kiko:.	以前我們每個人都有頭髮。	kakhayza'an 'ita' mae'iyaeh hayza' ka kiko:.
+226	wa:or 'ima Somipot ka kaehoy ma'an kil'aeten.	纏著樹的藤蔓被我砍斷。	纏著樹的藤蔓被我砍斷。	wa:or 'ima Somipot ka kaehoy ma'an kil'aeten.	幫我柴的wa:or被砍掉。	'ima rempe: ka kaehoy wa:ar ma'an kinpoetoehen.
+227	hiza hoeroe' kinas'oehaezan noka 'ae:em.	那個洞穴是穿山甲的出處。	那個洞穴是穿山甲的出處。	hiza hoeroe' kinas'oehaezan noka 'ae:em.	那個子是被穿山甲弄黑的。	hiza kalhib nom kaSako:ayan ka Sina'iS.
+228	mae'iyaeh So: mowa:i' paSa:eng ray kinbaki'an.	如果有人來請他坐客廳。	如果有人來請他坐客廳。	mae'iyaeh So: mowa:i' paSa:eng ray kinbaki'an.	人來參加宗教儀式要坐在客廳。	So: hiya' mowa:i' paSaybateng hi siya.
+229	panga' kinhael ma' malbel ila.	枝椏砍一次就倒下了。	枝椏砍一次就倒下了。	panga' kinhael ma' malbel ila.	樹生病就倒了。	panga' ti'oetoehen Saehae' ila.
+230	'ita' tanga'nga' ka kinhopayan!	我們忘卻辛苦的日子！	我們忘卻辛苦的日子！	'ita' tanga'nga' ka kinhopayan!	我們來看花生!	yami mangowip ka 'ima hopay ka hahila:!
+231	'insa'an 'ita' tasi'ael ka kinonkonon.	今天我們來吃湯圓。	今天我們來吃湯圓。	'insa'an 'ita' tasi'ael ka kinonkonon.	等一下我們吃湯圓。	kaysa'an 'ita' saboeh ka kinonkononan.
+232	wa:i'ila kinrangi' ila, yami 'am minobih ka rangi' 'ita' tatil'at.	來歸還義子身分了，我們要還義子切除關係。	來歸還義子身分了，我們要還義子切除關係。	wa:i'ila kinrangi' ila, yami 'am minobih ka rangi' 'ita' tatil'at.	來這裡放夜飯了,我們要回娘家去打。	wa:ila takoroton ila, yami 'am maywa:i' ila.
+233	kasnaw ray koloban 'inaSkan.	湯在鍋子裡頭。	湯在鍋子裡頭。	kasnaw ray koloban 'inaSkan.	湯放在鍋子裡。	kasnaw ha:aw ray koloban.
+234	So'o komakabaeh 'iyakin.	你欺騙我。	你欺騙我。	So'o komakabaeh 'iyakin.	你騙我。	So'o komakabaeh ka 'iyakin.
+235	yako 'am kome:eb hi 'ataw ka bekeS, So'o 'am kome:eb ay?	我要剪'ataw頭髮，你要剪嗎？	我要剪'ataw頭髮，你要剪嗎？	yako 'am kome:eb hi 'ataw ka bekeS, So'o 'am kome:eb ay?	我要幫 'ataw剪頭髮,你會剪嗎?	yako 'am kome:eb hi 'ataw, So'o komome:eb ay?
+236	siya kin ra:am komita'er.	他很會雕刻。	他很會雕刻。	siya kin ra:am komita'er.	他很會看話。	siya ra:am ka kipawaz.
+237	komontae' ka 'aewpir, 'am hayza' ka bahael!	生吃地瓜會有蛔蟲！	生吃地瓜會有蛔蟲！	komontae' ka 'aewpir, 'am hayza' ka bahael!	配地瓜,會有蜂蜜!	somi'ael ka 'aewpir hayza' ka SibSiba:i'!
+238	siya 'aewhay, rima' komoring ka Say babih.	他不好，跑去打從別的地方來的人。	他不好，跑去打從別的地方來的人。	siya 'aewhay, rima' komoring ka Say babih.	他不好,去打敗泰雅族人。	siya 'aewhay, rima' takosa:e' ka mae'iyaeh mowa:i'.
+239	So'o ay komosipae: rini pakhara:i' ka rape:?	是你嗎在這裡做讓地板髒兮兮？	是你嗎在這裡做讓地板髒兮兮？	So'o ay komosipae: rini pakhara:i' ka rape:?	你在這著地板嗎?	So'o ay rini 'omapolaeh ka rape:?
+240	siya minae'rem ila ra:am naehan komotih ka mae'iyaeh.	他睡著了還會捏人。	他睡著了還會捏人。	siya minae'rem ila ra:am naehan komotih ka mae'iyaeh.	他睡著了還會人。	siya mae'rem haysiya ma' kaehos ila ka mae'iyaeh.
+241	hiza 'aehoe' 'am komotkot ka boe'oel.	那隻狗要啃骨頭。	那隻狗要啃骨頭。	hiza 'aehoe' 'am komotkot ka boe'oel.	那隻狗要骨頭。	hiza 'aehoe' 'am bizo' ka boe'oel.
+242	minkoringan 'aehae' 'ilaS monhael mowa:i' komramo'.	女人一個一次來月經。	女人一個一次來月經。	minkoringan 'aehae' 'ilaS monhael mowa:i' komramo'.	女生一月後來一起來染乳。	minkoringan 'aehae' nanaw mowa:i' ka kak'oe'oelan.
+243	yaba' Sa', 'am maraS 'iniya'om 'am rima' 'omalep Sa', konaeh 'izi' 'oSa'!	爸爸說要帶我們去打獵，最好不要去！	爸爸說要帶我們去打獵，最好不要去！	yaba' Sa', 'am maraS 'iniya'om 'am rima' 'omalep Sa', konaeh 'izi' 'oSa'!	爸爸說:要帶便當給我們,我要去打獵說:不要去!	yaba' komoSa' 'am patiwain 'ita' rima' 'omalep, kayzaeh 'izi' 'oSa'!
+244	hini konon nom paSankateng ka patonay.	這個鐵鎚是要拿來釘鐵釘的。	這個鐵鎚是要拿來釘鐵釘的。	hini konon nom paSankateng ka patonay.	這個鐵釘是用來打鐵。	hini patonay kapak'a'apis ka pino'oe'.
+245	'izi' kosipae: rini 'aewhay hara:i'.	不要在這裡做不然會髒兮兮。	不要在這裡做不然會髒兮兮。	'izi' kosipae: rini 'aewhay hara:i'.	不要在這裡到不好受傷。	'izi' 'ita' rini 'aewhay 'am homaseng.
+246	maylaS kowakowaSan kita'en.	蜥蝪一條一條花花的。	蜥蝪一條一條花花的。	maylaS kowakowaSan kita'en.	子看起來黃色。	batiw ka pongaeh pinamowa'.
+247	matapaeh ralom pinatiStatoroe' mayhaha' ila, lalolowang ila.	水缸漏的水滿了，到處溢出了。	水缸漏的水滿了，到處溢出了。	matapaeh ralom pinatiStatoroe' mayhaha' ila, lalolowang ila.	水管被水流淋到幾點就漏掉了。	te:ne' 'ima tonaboe' ka ralom mayha'ha' ila.
+248	lamsong noka SaySiyat koSa'en pinSa'o:ol.	南庄賽夏人叫做「pinSa'o:l」。	南庄賽夏人叫做「pinSa'o:l」。	lamsong noka SaySiyat koSa'en pinSa'o:ol.	南庄賽夏族人稱它為PinoSa'ool。	"ray lamsong SaySiyat koSa'en ""pinSa'o:ol""."
+249	ray tatimae'an langi: 'akoey pinamowa' ka tawmo'.	在菜園旁邊種了很多芭蕉樹。	在菜園旁邊種了很多芭蕉樹。	ray tatimae'an langi: 'akoey pinamowa' ka tawmo'.	菜園旁邊有很多種植香。	ray katatimae'an langi: pinamowa' 'akoey ka baSi'.
+250	mari' ka 'ima lihih ka raromaeh.	拿直的竹子。	拿直的竹子。	mari' ka 'ima lihih ka raromaeh.	拿扭轉的竹子。	mari' ka 'ima linde: ka raromaeh.
+251	biyae' noka 'oeso' 'ima lilipaesiran.	芒草葉是狹長型的。	芒草葉是狹長型的。	biyae' noka 'oeso' 'ima lilipaesiran.	葉子是青的葉子。	'an noka 'iri: a biyae' koSa'en hingha'.
+252	SaySiyat 'okik liyabo'.	賽夏族不富有。	賽夏族不富有。	SaySiyat 'okik liyabo'.	賽夏族人沒有豐富。	SaySiyat 'okik kamatibae:oeh.
+253	yako 'am lobih ila.	我要回去了。	我要回去了。	yako 'am lobih ila.	我要回去了。	yako 'am lobih ila.
+254	'oya' patoroe' ka losoko' ray talka: ka pa'iri:i' kapahiyo'.	媽媽以蠟燭油滴在桌上使蠟燭可以直立燃燒。	媽媽以蠟燭油滴在桌上使蠟燭可以直立燃燒。	'oya' patoroe' ka losoko' ray talka: ka pa'iri:i' kapahiyo'.	媽媽叫我指示在桌上放風。	'oya' toroy ka 'aSo' ray talka: babaw kayzaeh Sipazay ka 'iri:
+255	'ita' 'aehae' taew'an 'izi' ma'oe'oe'!	我們一家人不要吵架！	我們一家人不要吵架！	'ita' 'aehae' taew'an 'izi' ma'oe'oe'!	我們一家人不要爭!	'ita' 'aehae' taew'an 'izi' pa'oe'oe'!
+256	'oka' ka ralom hini pinatiyay ma'sih ila.	沒有水這個田乾涸了。	沒有水這個田乾涸了。	'oka' ka ralom hini pinatiyay ma'sih ila.	沒有水這田裡乾了。	'oka' ka ralom hini pinatiyay ma'sih ila.
+257	ray kapaSta'ayan, 'akoey ka mae'iyaeh maS'i'iri' ray langlangi:.	在巴斯達隘祭典期間，很多人會在祭場四周就地小憩休息。	在巴斯達隘祭典期間，很多人會在祭場四周就地小憩休息。	ray kapaSta'ayan, 'akoey ka mae'iyaeh maS'i'iri' ray langlangi:.	在巴斯達祭期,很多人在花園裡圍。	ray kapaSta'ayan 'akoey ka mae'iyaeh ra:waS ray 'ima panda'ay rima' maSangay.
+258	maSangay ila ta'ila tatako: ka mali'	休息了，我們來去踢皮球。	休息了，我們來去踢皮球。	maSangay ila ta'ila tatako: ka mali'	休息了我們來球。	maSangay ila, 'ita' ta'ila tako: ka mali'.
+259	ray kaehoy babaw 'akoey ka kabkabaehae: 'ima maSba:an.	有很多小鳥停歇在樹上。	有很多小鳥停歇在樹上。	ray kaehoy babaw 'akoey ka kabkabaehae: 'ima maSba:an.	樹上很多鳥在迷路。	'akoey ka kabkabaehae: 'ima hon'a:iS ray kaehoy babaw.
+260	yako 'am maSibih naehan.	我還要去睡回籠覺。	我還要去睡回籠覺。	yako 'am maSibih naehan.	我等一下要回家。	yako 'am rima' maSra:i' i kapae'rem.
+261	yako 'am maSkalkalaeh naehan, 'am 'okay pae'rem ray halapaw naehan.	我先要小睡片刻，還不要先睡在床上。	我先要小睡片刻，還不要先睡在床上。	yako 'am maSkalkalaeh naehan, 'am 'okay pae'rem ray halapaw naehan.	我會先走到床上,再不睡在床上。	yako 'am maShaha:i' naehan, 'okay maShaha:i' ray halapaw.
+262	tata:a' Sinipanan mabono' masmasay ila.	雞得了瘟疫一直死。	雞得了瘟疫一直死。	tata:a' Sinipanan mabono' masmasay ila.	雞被到瘋了很驚嚇。	tata:a' ma:pono' kitoboso' masay ila.
+263	hiza mae'mae'iyaeh 'in hiya' a, kapowa'en Siboeloe' rini.	這個人偶是誰的，為什麼丟在這裡？	這個人偶是誰的，為什麼丟在這裡？	hiza mae'mae'iyaeh 'in hiya' a, kapowa'en Siboeloe' rini.	那個人是誰的,做了什麼他在這裡丟。	hini mae'iyaeh kano' a 'ampowa' Siboeloe' rini?
+264	hiza binlengan ponlakay hayza' ila 'ima maetang.	那個牆壁裂有個破洞。	那個牆壁裂有個破洞。	hiza binlengan ponlakay hayza' ila 'ima maetang.	那個牆破洞有斷裂的。	hiza binlengan minlakay hayza' ka kalpoeh.
+265	'oya' mal'oehaez 'in kakhayza'an a hinra:iy hiniba:en kayba:en.	媽媽拿出以前她結婚穿過的衣服。	媽媽拿出以前她結婚穿過的衣服。	'oya' mal'oehaez 'in kakhayza'an a hinra:iy hiniba:en kayba:en.	媽媽將以前的衣服換成外套。	'oya' tomiklih ka kakhayza'an nisiya kinahoelan hiniba:.
+266	kahiya' yako ki ta:in rima' malibo' ka hapis.	昨天我和ta:in去搜補飛鼠。	昨天我和ta:in去搜補飛鼠。	kahiya' yako ki ta:in rima' malibo' ka hapis.	昨天我和ta:in去採飛鼠。	kahiya' yako ki ta:in rima' komi:im ka hapis.
+267	hiza 'aehae' mae'iyaeh malnomoto:, yako haSa' bazae'.	那個人說客家話，我聽不懂。	那個人說客家話，我聽不懂。	hiza 'aehae' mae'iyaeh malnomoto:, yako haSa' bazae'.	那個人互相說客家話,我沒有聽。	hiza mae'iyaeh malnomoto:, ya:o 'okay tinhoero:i.
+268	niSo' rayhil 'okay paskayzaehi 'am maSkan 'insa'an mamari' noka mae'iyaeh.	你的錢不放好等一下會被拿走。	你的錢不放好等一下會被拿走。	niSo' rayhil 'okay paskayzaehi 'am maSkan 'insa'an mamari' noka mae'iyaeh.	你的錢不用整理會消失,等一下被別人拿走。	niSo' rayhil 'okay 'aSkan naehan, 'insa'an ka mari'in.
+269	hiza mae'iyaeh 'aewhay ka 'inoSa' haysiya mamasa'an.	那個人死不瞑目。	那個人死不瞑目。	hiza mae'iyaeh 'aewhay ka 'inoSa' haysiya mamasa'an.	那個人不好意思,現在都眼睛大大的。	hiza mae'iyaeh masay 'okay 'in'i:'iS.
+270	So'o maskes ay?	你冷嗎？	你冷嗎？	So'o maskes ay?	你冷嗎?	So'o maskes ay?
+271	hiza mae'iyaeh 'ina ngizo' maspik ka pi'i'.	那個人跌倒臉頰上有凹陷。	那個人跌倒臉頰上有凹陷。	hiza mae'iyaeh 'ina ngizo' maspik ka pi'i'.	那個人跌倒過的臉色下來。	hiza mae'iyaeh ngizo' hayza' ka 'i'is ray kinmae'iyaehan.
+272	yako matemezeng 'am manakiS.	我很勉強的走上來。	我很勉強的走上來。	yako matemezeng 'am manakiS.	我心急要爬上樹。	yako kin kiSka:at mowa:i' taniSa:o'.
+273	So'o kahiya' 'am lobih matnanga', yako 'oka' ila ka ba:iS nom lobih.	昨天你偷跑回家，害得我沒有伴回去。	昨天你偷跑回家，害得我沒有伴回去。	So'o kahiya' 'am lobih matnanga', yako 'oka' ila ka ba:iS nom lobih.	你昨天要回家放假,我沒有空包給你回家的。	kahiya' So'o mantaraS lobih ray taew'an, 'isa:a' yako 'okay tanlomo:.
+274	mama' mam maySiri: ka pinamowa' pazay ray pinatiyay.	伯父正在巡視田裡種的稻子。	伯父正在巡視田裡種的稻子。	mama' mam maySiri: ka pinamowa' pazay ray pinatiyay.	叔叔正在把種的飯田在地上。	mama' mam tomotawaw ka koSa' pinamowa'.
+275	mayhael So: ya:o 'ibabaw ila 'am rima' ki yaba' 'omalep.	等我長大以後我要跟爸爸去打獵。	等我長大以後我要跟爸爸去打獵。	mayhael So: ya:o 'ibabaw ila 'am rima' ki yaba' 'omalep.	明年我如果長大了要去跟爸爸打獵。	So: yako tatngor ila ma'an ki yaba' rima' 'omalep.
+276	maylaS kama somi'ael ka tatango'.	蜥蜴是專門吃蚊蟲的。	蜥蜴是專門吃蚊蟲的。	maylaS kama somi'ael ka tatango'.	子專門吃蚊子。	wili' kamae:ae' ka SibSiba:i'.
+277	ma'an taew'an 'am maypoSal ka tinaew'an.	我的房子要蓋二層。	我的房子要蓋二層。	ma'an taew'an 'am maypoSal ka tinaew'an.	我的房子要翻修一棟。	ma'an taew'an kapatnonaken ka sinakeb.
+278	yako 'ina mayrangi' ila, hiza 'ima mayngaso' ila pazay.	我盛過了，那個是剩下的飯。	我盛過了，那個是剩下的飯。	yako 'ina mayrangi' ila, hiza 'ima mayngaso' ila pazay.	我已經滿足了,那個已經煮完飯了。	ma'an siniyap ila, hiza 'inaro' pazay.
+279	yako minhaeha:o' ka tinawbon.	我想吃糯米糕又吃不到。	我想吃糯米糕又吃不到。	yako minhaeha:o' ka tinawbon.	我吃過米糕。	yako 'iya'inSa'la' somi'ael ka tinawbon ma' 'oka' nanaw.
+280	minhaeha:o' mari' ka mae'iyaeh mina.	空等會取人性命。	空等會取人性命。	minhaeha:o' mari' ka mae'iyaeh mina.	跌倒的人拿去!	'ima pa'izaeh 'am manra:an ka mae'iyaeh.
+281	maskes a tomalan Sa'ila Sapel noka minkayba:enan no 'aehoe'.	太冷了去拿舊衣服給小狗舖。	太冷了去拿舊衣服給小狗舖。	maskes a tomalan Sa'ila Sapel noka minkayba:enan no 'aehoe'.	太冷了去幫狗衣服。	'iya'zaw a ta:an Si'al'oehaez ka minkayba:en SipaSkolhoh ka 'aehoe'.
+282	para:in, kin minremreme'!	para:in，這麼早！	para:in，這麼早！	para:in, kin minremreme'!	para:in,你這麼早!	para:in, kin minremreme'!
+283	hayno' mam Somahoe' ka hinbetel kin mintoehtoehoey.	哪裡在燒草，這麼多濃煙。	哪裡在燒草，這麼多濃煙。	hayno' mam Somahoe' ka hinbetel kin mintoehtoehoey.	哪裡正在燒這麼多枯的草。	hayno' mam Somahoe' ka hinbetel, kin 'akoey ka kasbol.
+284	siya moetae' noka pae'zo'.	他吐到膽汁都出來了。	他吐到膽汁都出來了。	siya moetae' noka pae'zo'.	他用膽膽。	siya moti:'e:eS ka 'aewra'i: mowa:i' ila.
+285	taheS romae'oe: ka pinobae:aeh moetmoetae' ila.	taheS喝過酒後一直吐。	taheS喝過酒後一直吐。	taheS romae'oe: ka pinobae:aeh moetmoetae' ila.	taheS喝酒一直吐。	taheS rominae'oe: ila ka pinobae:aeh ma:tobhae'.
+286	moyo 'am rima' rayno'?	你們要去哪裡？	你們要去哪裡？	moyo 'am rima' rayno'?	你們要去哪裡?	moyo 'am rima' rayno'?
+287	yaba' 'am rima' nazip ka 'aelaw.	爸爸要去釣魚。	爸爸要去釣魚。	yaba' 'am rima' nazip ka 'aelaw.	爸爸要去捕魚。	yaba' 'am rima' man'aelaw.
+288	yako biSbiS ka nepen.	我牙齒痛。	我牙齒痛。	yako biSbiS ka nepen.	我牙痛。	ma'an nepen biSbiS.
+289	kangeselan kas'oehaez ka ngesel.	鼻子流鼻涕。	鼻子流鼻涕。	kangeselan kas'oehaez ka ngesel.	鼻子是外表的細胞。	ngangeselan ka kangeselan.
+290	hiza hosong 'ampowa' ngokngokngok?	那個猴子為什麼一直叫？	那個猴子為什麼一直叫？	hiza hosong 'ampowa' ngokngokngok?	那隻子為什麼一直叫?	hiza hosong 'ampowa' tomotata:a'?
+291	siya mayaka:i' ngota:.	他講話不標準。	他講話不標準。	siya mayaka:i' ngota:.	他講話不斷。	siya payaka:i'in 'okik hingha'.
+292	niSo' 'aehoe' tomobong 'iyakin.	你的狗對我吠。	你的狗對我吠。	niSo' 'aehoe' tomobong 'iyakin.	你的狗打我。	niSo' 'aehoe' homobong 'iyakin.
+293	niSo' ray kangeselan hayza' ka nikibi'.	你的鼻頭上長青春痘。	你的鼻頭上長青春痘。	niSo' ray kangeselan hayza' ka nikibi'.	你鼻子裡有陰。	niSo' kangeselan som'el ka por'oe'.
+294	hini kayba:en niya'om saboeh Sina'iS.	這些衣服都是我們縫製的。	這些衣服都是我們縫製的。	hini kayba:en niya'om saboeh Sina'iS.	這件衣服我們全都穿線。	hini kayba:en yami saboeh sinisaw.
+295	tata:a' paS'oesizo: ila.	雞生蛋了。	雞生蛋了。	tata:a' paS'oesizo: ila.	雞被蛋了。	tata:a' homangih ila ka 'oesizo:.
+296	siya hopay ila 'ima matawaw, paSangay ila!	他工作很累了，讓他休息吧！	他工作很累了，讓他休息吧！	siya hopay ila 'ima matawaw, paSangay ila!	他已經放假工作了,休息吧!	siya kin hopay kapatawawen paSangay ila!
+297	'am Somorangi' mari' ray kasbez ralom 'isa:a' hinkosiza: ray kapayhahila:an paSanti'azemen.	要收義子用拿泉水，面向東方做貼草儀式。	要收義子用拿泉水，面向東方做貼草儀式。	'am Somorangi' mari' ray kasbez ralom 'isa:a' hinkosiza: ray kapayhahila:an paSanti'azemen.	要收養子拿到泉水裡面插入東西讓它成為神仙。	'am maSpalaw noka kasbez hin'alay ray kapayhahila:an nom ma:'aza'.
+298	ma'an hima' kina:asan noka 'aewngahipan mowa:i' paSi'il ray ka'iyayan.	我的手被蜈蚣咬過腋下的淋巴腺就發炎。	我的手被蜈蚣咬過腋下的淋巴腺就發炎。	ma'an hima' kina:asan noka 'aewngahipan mowa:i' paSi'il ray ka'iyayan.	我被花到的手碰觸到針盆。	ma'an hima' kowihin noka 'ae'aewzaeh paSi'il ila ka 'i'is ma:riyae'.
+299	noka Siba:i' kaehma' paSpanga' o 'inaro'.	蛇的舌頭分叉又很長。	蛇的舌頭分叉又很長。	noka Siba:i' kaehma' paSpanga' o 'inaro'.	蛇的舌頭長又長。	noka Siba:i' ka kaehma' minminlong 'ima rarahoe'.
+300	rape: So: minbo:bo: paSre're'en kayzaeh 'okay 'inbo:bo:	地面鬆軟把它壓緊才不會鬆鬆的。	地面鬆軟把它壓緊才不會鬆鬆的。	rape: So: minbo:bo: paSre're'en kayzaeh 'okay 'inbo:bo:	地板如果倒下了放緊才不會倒塌。	rape: Somloeh 'esengen kayzaeh 'okay soma:om.
+301	yako rima' pahebel ka nepen biSbiS a tomalan.	我去拔牙非常痛。	我去拔牙非常痛。	yako rima' pahebel ka nepen biSbiS a tomalan.	我去拔牙非常痛。	yako rima' bizo' ka nepen biSbiS a tomal.
+302	paho'mol ka walo' korkoring 'am 'okay hangih ila.	讓孩子含著糖就不會哭了。	讓孩子含著糖就不會哭了。	paho'mol ka walo' korkoring 'am 'okay hangih ila.	糖和小孩在一起就會不哭了。	pahoehoeh ka walo' no korkoring kayzaeh 'okay hangih ila.
+303	'ataw ki 'obay ma'oe'oe' nasiya roSa' pak'a'ilabe', kita' hiya' papa'aehae'.	'ataw和'obay吵架，他們叫二人對質看誰騙人。	'ataw和'obay吵架，他們叫二人對質看誰騙人。	'ataw ki 'obay ma'oe'oe' nasiya roSa' pak'a'ilabe', kita' hiya' papa'aehae'.	'ataw和'obay爭他們倆讓一起走,看誰互相摔得殺。	'ataw ki 'obay makakSikar, lasiya roSa' pa'a'apis hi hiya'.
+304	So'o rini somoloeh ka hapis, pak'iSkakowa:omen 'insa'an mae'iyaeh 'am tontonton mowa:i'.	你在這裡燒飛鼠，有燒毛的味道等一下人會一直來一直來。	你在這裡燒飛鼠，有燒毛的味道等一下人會一直來一直來。	So'o rini somoloeh ka hapis, pak'iSkakowa:omen 'insa'an mae'iyaeh 'am tontonton mowa:i'.	你在這裡砍飛鼠,讓它脫落後再等一下會有人撞來。	So'o rini Sanhae:ae' ka hapis, 'iSnganhae:ae' 'insa'an mae'iyaeh 'am mowa:i'.
+305	niSo' hinalay pak'ibabaw sowiti'.	你掛的再高一點。	你掛的再高一點。	niSo' hinalay pak'ibabaw sowiti'.	你把鞋子抬高一點。	niSo' pinahiriri: sowiti'.
+306	kakato:an papayrini 'izi' pak'inaro'.	要剪的地方到這裡就好不要太長。	要剪的地方到這裡就好不要太長。	kakato:an papayrini 'izi' pak'inaro'.	車子停在這裡不要讓它很長。	ka'azipin rini kayzaeh 'okik 'inaro'.
+307	ma'an siningo: pak'iya'zawen ila, kayzaeh ila si'aelen.	我把稀飯弄涼了，可以吃了。	我把稀飯弄涼了，可以吃了。	ma'an siningo: pak'iya'zawen ila, kayzaeh ila si'aelen.	我煮的東西讓它變涼了,可以吃了。	ma'an siningo: pakbaSaw ila kayzaeh si'aelen ila.
+308	nisiya 'oesizo: pakSaehae'en mintari: ila.	他把雞蛋摔下來爛掉了。	他把雞蛋摔下來爛掉了。	nisiya 'oesizo: pakSaehae'en mintari: ila.	他的蛋掉下來破了。	nisiya 'oesizo: Saehae'en minpoetoeh ila.
+309	'aehae' taew'an 'aehael mina pakaykayzaehan.	一家人兄弟姐妹要和睦相處。	一家人兄弟姐妹要和睦相處。	'aehae' taew'an 'aehael mina pakaykayzaehan.	一家兄弟姊妹是共同建家的。	'aehae' taew'an 'am maSpalaw pakaykayzaehan.
+310	So: pakbaSaw ila kapatawawen wa:i' ila panpanra:an.	如果工作緩和了再來走走。	如果工作緩和了再來走走。	So: pakbaSaw ila kapatawawen wa:i' ila panpanra:an.	如果工作完了,就要走路了。	So: kapatawawen ila ma' payrizaw ila.
+311	ya:o 'am walae' ka sini'ael, 'am pakbali' ka basang.	我要吃少一點減肥。	我要吃少一點減肥。	ya:o 'am walae' ka sini'ael, 'am pakbali' ka basang.	我要減掉吃的東西,讓身體痛。	yako 'am San'akoey sowiti' ka si'ael.
+312	hini pinataSan 'izi' pakhawka'.	這個紋面不要讓它消失。	這個紋面不要讓它消失。	hini pinataSan 'izi' pakhawka'.	這個紋身不要讓它不一樣。	hini pinataSan 'izi' i pakhayza'.
+313	'oya' niSo' 'ampowa' pakhopayen?	你為什麼讓媽媽這那麼辛苦？	你為什麼讓媽媽這那麼辛苦？	'oya' niSo' 'ampowa' pakhopayen?	你的媽媽為什麼那麼煩?	So'o 'ampowa' pakingaso' hi 'oya'?
+314	korkoring mina pakkayzaeh kalahang.	孩子要好好的照顧。	孩子要好好的照顧。	korkoring mina pakkayzaeh kalahang.	小孩應該照顧好。	korkoring kayzaeh kakalahangen.
+315	siya hayza' ka howaw paklobih 'iyakin.	他有事讓我先回家。	他有事讓我先回家。	siya hayza' ka howaw paklobih 'iyakin.	他有事請我回家。	siya hayza' ka howaw 'iyakin paklobih naehan.
+316	yako pakowih hi 'obay ka hinoko'.	我請'obay幫我挖水溝。	我請'obay幫我挖水溝。	yako pakowih hi 'obay ka hinoko'.	我叫'obay挖水溝。	yako pahoehoeh hi 'obay ka hinoko'.
+317	noka palom boway kabih pezngesan kabih bolalasan, 'okik kasi'aelen.	山龍眼的果實一邊紫一邊白，不是吃的東西。	山龍眼的果實一邊紫一邊白，不是吃的東西。	noka palom boway kabih pezngesan kabih bolalasan, 'okik kasi'aelen.	棕的果實旁邊紫色旁邊白色,不能吃。	noka tateleng a boway pezngesan o hapis 'oki kasi'aelen.
+318	panibih ka poway pinahila:!	把晒的被子翻面。	把晒的被子翻面。	panibih ka poway pinahila:!	把曬著的棉被翻回去!	konbiyor ka pinahila: hahako'.
+319	'ita' SaySiyat 'ima 'ititi'an ka mae'iyaeh, 'izi' papahobaz ka 'aroma' Sinraehoe'.	賽夏族只有少數人，不要讓別族群的人超越。	賽夏族只有少數人，不要讓別族群的人超越。	'ita' SaySiyat 'ima 'ititi'an ka mae'iyaeh, 'izi' papahobaz ka 'aroma' Sinraehoe'.	我們賽夏族的人很少,不要讓別人超過。	SaySiyat 'ititi'an nanaw, 'izi' pakSakBotoe' noka 'aroma'.
+320	yako papahowih ila ka kapapama'an.	我來不及搭車。	我來不及搭車。	yako papahowih ila ka kapapama'an.	我把車子轉了。	yako mowa:i' 'okay tanaka:i' patae'aes ka kapapama'an.
+321	'ima rikrika: kasnaw papaypoSal ka pinotoy kayzaeh 'okik rikrika: a tomalan.	熱湯包上兩層袋子就不那麼燙。	熱湯包上兩層袋子就不那麼燙。	'ima rikrika: kasnaw papaypoSal ka pinotoy kayzaeh 'okik rikrika: a tomalan.	熱的湯放在盆子下才不會太熱。	kapak'as'asay sinakap ray kaway 'isa:a' kayzaeh 'okik sasoke:.
+322	papli: So: Sintete: tontonton mowa:i' homaseng.	細腰胡蜂如果被觸動就會整群來叮螯。	細腰胡蜂如果被觸動就會整群來叮螯。	papli: So: Sintete: tontonton mowa:i' homaseng.	草如果磨碎來會長毛。	kaktiyaw So: ponloso:en ma' 'omas'oemaeh ila.
+323	lasiya 'am makaksi'ael ila hayza' ka 'ima sobae:oeh howaw 'am SaSiyoS paponibih ila ka binbinae:iw.	他們要結婚了，有大事需和解，就先把媳婦送回娘家。	他們要結婚了，有大事需和解，就先把媳婦送回娘家。	lasiya 'am makaksi'ael ila hayza' ka 'ima sobae:oeh howaw 'am SaSiyoS paponibih ila ka binbinae:iw.	他們要一起吃飯了有很多人,有人要和解讓他們回去買東西。	lasiya 'am hinra:iy ila, hayza' ka howaw kakonraromiSan, 'isa:a' paSpalaw ila hi minkoringan.
+324	moyo 'izi' papoti' ka ra:an!	你們不要擋路！	你們不要擋路！	moyo 'izi' papoti' ka ra:an!	你們不要擋路!	moyo 'izi' hona'a:ih!
+325	So'o pasa'owaz nisiya ka pinayaka:i'?	你將他的話當真？	你將他的話當真？	So'o pasa'owaz nisiya ka pinayaka:i'?	你想念他的話嗎?	So'o tiSkobih nisiya ka pinanabih?
+326	ray kaehoy pingi' pasbol ka SibSiba:i' takrae:iwani.	在樹下燻蚊蟲讓牠走。	在樹下燻蚊蟲讓牠走。	ray kaehoy pingi' pasbol ka SibSiba:i' takrae:iwani.	樹上的蟲很大。	ray kaehoy babaw Somobis'i: ka kakmo:ok pakra:waS.
+327	yako minSa'la' pasenge: hi koko' ka kae'niw, So: tikinSa:o' kataleken.	我請奶奶先泡香菇，等準備晚餐時要煮的。	我請奶奶先泡香菇，等準備晚餐時要煮的。	yako minSa'la' pasenge: hi koko' ka kae'niw, So: tikinSa:o' kataleken.	我先給奶奶泡,後來煮晚飯。	yako pa'inSa'la' hi koko' tomaboeh, 'insa'an katikinSa:o'.
+328	'insa'an rima' ray 'oes'oeso'an 'a'inola' 'omalep paspeng ila 'inimon!	等一下要去山上狩獵比賽靠你們了！	等一下要去山上狩獵比賽靠你們了！	'insa'an rima' ray 'oes'oeso'an 'a'inola' 'omalep paspeng ila 'inimon!	等一下去山上賽跑打獵就給你們!	'insa'an 'am rima' ray 'oes'oeso'an 'alep makSa'!
+329	yami hani 'ina pat'izaeh hi mama' ma'an.	我們最近才辦完我叔叔的後事。	我們最近才辦完我叔叔的後事。	yami hani 'ina pat'izaeh hi mama' ma'an.	我們已經把手給我叔叔擺在地上。	yami 'isani homaSpor'oe: ka ma'an mama'.
+330	'izi' patinhoero: hisiya!	不要讓他聽到！	不要讓他聽到！	'izi' patinhoero: hisiya!	不要讓他想起!	'izi' paehrahrang hisiya!
+331	hini 'oe'oeng hayza' naehan ka ra:i', patloboe' naehan!	這些青蔥還有土，再泡水一下！	這些青蔥還有土，再泡水一下！	hini 'oe'oeng hayza' naehan ka ra:i', patloboe' naehan!	這片土地還有泥土,請填一下!	hini 'a:or hayza' naehan ka ra:i', sowiti' naehan!
+332	yako 'insa'an 'am pawkowi' ila 'iniSo'.	我等一下再替你驅除蛀牙。	我等一下再替你驅除蛀牙。	yako 'insa'an 'am pawkowi' ila 'iniSo'.	我等一下要把手給你。	yako 'insa'an ta:nepen ka nepen niSo'.
+333	ya:o ngizo' Sipanpeznges ka hima' 'am rima' pawrahem.	我跌倒被跌瘀青的手要去去瘀青。	我跌倒被跌瘀青的手要去去瘀青。	ya:o ngizo' Sipanpeznges ka hima' 'am rima' pawrahem.	我跌倒手起水泡準備要去洗臉。	yako ngizo' Sipanhae:ae' ka hima' 'am rima' Sihangra: ka hahiwa'.
+334	payrangi' ka pazay 'iniman!	幫我盛飯！	幫我盛飯！	payrangi' ka pazay 'iniman!	請我把飯放泡!	be:ay ka pazay 'iniman!
+335	ni 'oya' tinalek pazay kin kayzaeh si'aelen.	媽媽煮的飯真好吃。	媽媽煮的飯真好吃。	ni 'oya' tinalek pazay kin kayzaeh si'aelen.	媽媽煮的飯很好吃。	ni 'oya' tinalek pazay kayzaeh si'aelen.
+336	ta:in 'am pakaS'abo' hi wa:on, hini howaw kayzaeh ila pinaehrarangan.	ta:in要娶wa:on，這件事已經談妥好了。	ta:in要娶wa:on，這件事已經談妥好了。	ta:in 'am pakaS'abo' hi wa:on, hini howaw kayzaeh ila pinaehrarangan.	ta:in要讓 wa:on進去,這個事情可以做成規約了。	ta:in 'am hinra:iy hi wa:on, hini howaw pinayaka:i' ila.
+337	ma'an 'ataw pinayaka:i' ila, koSa' wa:ila sasbong ki 'ita'.	我已經跟'ataw說過了，叫他來跟我們碰頭。	我已經跟'ataw說過了，叫他來跟我們碰頭。	ma'an 'ataw pinayaka:i' ila, koSa' wa:ila sasbong ki 'ita'.	我已經告訴'ataw了,叫我們來接手。	ma'an 'ataw pinanabih ila, pawa:i'ani hi lasiya kakita'.
+338	yako 'omamet pinaypoSalan ka pazay.	我吃完兩碗的飯。	我吃完兩碗的飯。	yako 'omamet pinaypoSalan ka pazay.	我吃過二米。	yako somi'ael roSa' powawan pazay.
+339	noka hahae:op homae:op ka pinaytata'an.	用米籩篩除米糠。	用米籩篩除米糠。	noka hahae:op homae:op ka pinaytata'an.	子用來吹玉米。	noka zazi:iz ka 'aSo' zi:izin.
+340	tatpo' pinhalay ray kaehoy babaw.	帽子掛在樹上。	帽子掛在樹上。	tatpo' pinhalay ray kaehoy babaw.	帽子掛在樹上。	tatpo' 'ima hway ray kaehoy babaw.
+341	hiza 'anhi' pinilSa:ay ila ma'an.	那些竹筍我已經川燙好了。	那些竹筍我已經川燙好了。	hiza 'anhi' pinilSa:ay ila ma'an.	那個竹我拿去付了。	hiza 'anhi' ma'an linoehoe: ila.
+342	'isahini tinal'oemaeh pinkosaw.	今年未舉行巴斯達隘。	今年未舉行巴斯達隘。	'isahini tinal'oemaeh pinkosaw.	現在的年份收草了。	hini 'aehae' tinal'oemaeh 'okay paSta'ay.
+343	haysani pinobae:aeh wa'isan.	現在的酒很貴。	現在的酒很貴。	haysani pinobae:aeh wa'isan.	現在的酒很強大。	'isahini pinobae:aeh wa'isan a tomalan.
+344	moyo 'am potoy ka pinotpotoy ay?	你們要包棕子嗎？	你們要包棕子嗎？	moyo 'am potoy ka pinotpotoy ay?	你們要綁釘子嗎?	moyo 'am komapos ay ka kamamaS'alayan?
+345	pazay pahila:en 'ae:'ae:iw, 'isa:a' pisaka: ila.	稻子曬乾後，就可以入倉了。	稻子曬乾後，就可以入倉了。	pazay pahila:en 'ae:'ae:iw, 'isa:a' pisaka: ila.	飯曬太陽了,再放了。	pazay kapa:kenen ma' kayzaeh ila 'aSkanen ray soko:.
+346	minatini' rima' ray lolongan pit'aelaw.	哥哥去溪邊捉魚。	哥哥去溪邊捉魚。	minatini' rima' ray lolongan pit'aelaw.	哥哥去小溪釣魚。	minatini' rima' ba:la' 'omalep ka 'aelaw.
+347	So'o 'ampowa' po'aSan, 'ayaeh ila?	你怎麼臉色蒼白，生病嗎？	你怎麼臉色蒼白，生病嗎？	So'o 'ampowa' po'aSan, 'ayaeh ila?	你怎麼肚子,有病嗎?	So'o 'ampowa' bizo'bizo'an ka kinmae'iyaehan, 'ay'ayaeh ay?
+348	yaba' po'ih ila.	爸爸禿頭了。	爸爸禿頭了。	yaba' po'ih ila.	爸爸了。	yaba' homataS ila ka ta'oeloeh.
+349	pas'el ka korkoring, homo'mol ka ralom poSpoS ka 'azem.	幫孩子祈福順利成長要口含著水噴灑天靈蓋。	幫孩子祈福順利成長要口含著水噴灑天靈蓋。	pas'el ka korkoring, homo'mol ka ralom poSpoS ka 'azem.	幫孩子助孕,水來胃。	paspeng ka korkoring 'iniSlal'i: kapamowa'en paSporong ka babaw.
+350	tinawbon paparang ray bae:aeh babaw 'am ponpo'po'.	糯米糕用火烤會膨漲。	糯米糕用火烤會膨漲。	tinawbon paparang ray bae:aeh babaw 'am ponpo'po'.	米糕要上空泡的。	tinawbon noka hapoy tomalek 'am momobos.
+351	kasnaw mini'sih ila! porpa: naehan ka ralom!	湯快要燒乾了！再加點水！	湯快要燒乾了！再加點水！	kasnaw mini'sih ila! porpa: naehan ka ralom!	湯乾了!再加水!	kasnaw 'am Sil'ae:'ae:iw ila! palamo: naehan ka ralom!
+352	hiza ralom ma'an ranawen ila.	那水被我洗過澡了。	那水被我洗過澡了。	hiza ralom ma'an ranawen ila.	那個水我已經洗過了。	hiza ralom ma'an rinanawan ila mina 'azem ila.
+353	mari' ka raroko' 'iniman.	幫我拿斗笠。	幫我拿斗笠。	mari' ka raroko' 'iniman.	拿竹給我。	mari' ka poway 'iniman.
+354	lasiya tikot ka kinoring hoSa:il riha:aw kala mama'.	他們怕被毆打紛紛躲到叔叔家那裡。	他們怕被毆打紛紛躲到叔叔家那裡。	lasiya tikot ka kinoring hoSa:il riha:aw kala mama'.	他們怕被外婆殺會躲在叔叔的旁邊。	lasiya tikot ni towanay Takikonibih ray taew'an hi mama'.
+355	yako hihimi'an rini minaSa:eng mam bazae' nimon ka pinayaka:i'.	我靜靜的在這裡坐著聽你們說話。	我靜靜的在這裡坐著聽你們說話。	yako hihimi'an rini minaSa:eng mam bazae' nimon ka pinayaka:i'.	我在這裡坐著沉默聽了你們的話。	yako 'ima honasamez rini maSikar bazae' numi 'am mayaka:i'.
+356	kahiya' yako maSa:eng rini, siya maSa:eng riza mam bi'i:.	昨天我坐這裡，他坐那裡在生氣。	昨天我坐這裡，他坐那裡在生氣。	kahiya' yako maSa:eng rini, siya maSa:eng riza mam bi'i:.	昨天我在這裡坐,他坐在那裡生氣。	kahiya' yako Sa:eng rini, siya Sa:eng riza mam bi'i:.
+357	'oya' rima' romakep ka tata:a'.	媽媽去抓雞。	媽媽去抓雞。	'oya' rima' romakep ka tata:a'.	媽媽去抓雞。	'oya' rima' romakep ka tata:a'.
+358	'oya' romek ka tawmo' no korkoring.	媽媽幫孩子把香蕉悶熟。	媽媽幫孩子把香蕉悶熟。	'oya' romek ka tawmo' no korkoring.	媽媽在香給小孩。	'oya' tomil'awan ka tawmo' no korkoring.
+359	ya:o 'am romoe'roe' ka ralom 'aewhay biSbiS ka nepen.	我要去漱口因為牙齒痛。	我要去漱口因為牙齒痛。	ya:o 'am romoe'roe' ka ralom 'aewhay biSbiS ka nepen.	我要喝水不然會牙痛。	yako 'am rima' tomaboeh koSa'en noka nepen.
+360	kakhayza'an mahiyo' ka samiyan.	以前點媒油。	以前點媒油。	kakhayza'an mahiyo' ka samiyan.	以前的茶碗是黃色。	kakhayza'an soma:om.
+361	hiza latar hayza' ka sae:pae', ma'an sapoehen.	那外面有垃圾，是我掃起來的。	那外面有垃圾，是我掃起來的。	hiza latar hayza' ka sae:pae', ma'an sapoehen.	那邊有房,我要掃。	hiza ray latar hayza' ka minsae:pae', ma'an sinipsip.
+362	yami noka sasoway somi'ael ka pazay.	我們用筷子吃飯。	我們用筷子吃飯。	yami noka sasoway somi'ael ka pazay.	我們用子吃飯。	yami noka hahowar somi'ael ka pazay.
+363	'ima 'a'oto' ralom 'aSkanen naehan ma' saszaw ila.	混濁的水放一會兒就會清澈了。	混濁的水放一會兒就會清澈了。	'ima 'a'oto' ralom 'aSkanen naehan ma' saszaw ila.	剩下的水放到這裡就乾了。	'ima poSi: ralom 'insa'an 'am kayzaeh ila.
+364	minkoringan homlal botoe' ka sawzoeh ray kinotimo'an.	女生跳舞會在小腿綁腳飾。	女生跳舞會在小腿綁腳飾。	minkoringan homlal botoe' ka sawzoeh ray kinotimo'an.	女生跳舞綁毛在小腿上。	minkoringan ra:wak ra:am 'ima papoti' ray ka:ay.
+365	niSo' korkoring sem'el ila ay ka nepen?	你的小孩長牙齒了嗎？	你的小孩長牙齒了嗎？	niSo' korkoring sem'el ila ay ka nepen?	你的小孩長牙了嗎?	niSo' korkoring hayza' ila ay ka nepen?
+366	hae:wan manra:an 'okay pahiyo' si'wi'an a tomal, Sipazeng ka pahiyo' si'wi'an ila.	晚上走路沒有照明很暗，照明滅掉暗暗的了。	晚上走路沒有照明很暗，照明滅掉暗暗的了。	hae:wan manra:an 'okay pahiyo' si'wi'an a tomal, Sipazeng ka pahiyo' si'wi'an ila.	夜晚走路沒有開燈很黑,被燈就暗了。	hae:wan manra:an 'okay hapoy kin 'i'iyaeh, hapoy Si'oetoe' ila.
+367	ni koko' sina'oe' ka tinon 'izi' pawka' ila.	奶奶送的編織不要遺失了。	奶奶送的編織不要遺失了。	ni koko' sina'oe' ka tinon 'izi' pawka' ila.	奶奶把織布的不要忘了。	ni koko' bino:ay tinon kayba:en 'izi' pawka'.
+368	halapaw so'i'an! So'o Sahoero: ay?	房間暗暗的，你看得見嗎？	房間暗暗的，你看得見嗎？	halapaw so'i'an! So'o Sahoero: ay?	床很暗!你看見了嗎?	kin 'i'im'i:an ray pino'azaeh, So'o komita' ay?
+369	yako somini'ael ila 'isa:a' mowa:i' ila.	我吃過後才來的。	我吃過後才來的。	yako somini'ael ila 'isa:a' mowa:i' ila.	我吃過飯後才來的。	yako somi'ael ila 'isa:a' mowa:i'.
+370	yako somisaw noka 'ima lihlihpihan Siporok.	我只用薄薄的毯子蓋被。	我只用薄薄的毯子蓋被。	yako somisaw noka 'ima lihlihpihan Siporok.	我被小黑帶著。	yako noka hapis a kapot nanaw ka ho'ol.
+371	yako ki yaba' 'am somoloeh ka 'ayam.	我跟爸爸要烤肉。	我跟爸爸要烤肉。	yako ki yaba' 'am somoloeh ka 'ayam.	我和爸爸要豬肉。	ya:o ki yaba' 'am tomalek ka bori:.
+372	bo:ay sowiti' 'iniman ka zinowas.	給我一些紙。	給我一些紙。	bo:ay sowiti' 'iniman ka zinowas.	幫我一點紙。	be:ay so'hael ka zinowas.
+373	ta'ila taSikSik ka 'oem'oemaeh!	我們來去砍草！	我們來去砍草！	ta'ila taSikSik ka 'oem'oemaeh!	來去砍地瓜!	'ita' ta'ila tektek ka hinbetel!
+374	'iya'azem ka hiza mae'iyaeh 'ima taSimalat.	小心那個拿山刀的人。	小心那個拿山刀的人。	'iya'azem ka hiza mae'iyaeh 'ima taSimalat.	小心那個人在燒火。	'iya'azem hiza 'ima mari' ka malat.
+375	'aring kakhayza'an tabin haysani 'okik 'ina rima' taypae'.	我從以前到現在不曾去過台北。	我從以前到現在不曾去過台北。	'aring kakhayza'an tabin haysani 'okik 'ina rima' taypae'.	在曾有荒野的地方現在沒有人去耕作。	yako 'aring kayzaeh haysani 'okik 'ina rima' taypae'.
+376	ma'an takahini'in ka:ayin ka 'ae'ay So'o 'am malbel mina.	我這樣勾你的腳就會跌倒的。	我這樣勾你的腳就會跌倒的。	ma'an takahini'in ka:ayin ka 'ae'ay So'o 'am malbel mina.	我的腳受傷了,你會倒掉的。	ma'an nakhini kaSiki:iSin niSo' 'am ngizo'.
+377	'izi' 'osa: ka bato' 'am takngae:aeh ka mae'iyaeh.	不可以丟石頭會丟到頭一個包。	不可以丟石頭會丟到頭一個包。	'izi' 'osa: ka bato' 'am takngae:aeh ka mae'iyaeh.	不要丟石頭會打傷人。	'izi' 'aSkan ka bato' pakSaehae' ray ta'oeloeh.
+378	yako 'am takomalat.	我要磨番刀。	我要磨番刀。	yako 'am takomalat.	我要打玉米。	ya:o 'am homames ka malat.
+379	yako taloso: ka hiza 'ima Sil'i: ka kaehoy.	我扛得動那個很重的樹。	我扛得動那個很重的樹。	yako taloso: ka hiza 'ima Sil'i: ka kaehoy.	我拉那根的木頭。	yako kaSobis'i: ka hiza 'ima Sil'i: kaehoy.
+380	wa:ila talsakel 'iyakin!	來跟上我！	來跟上我！	wa:ila talsakel 'iyakin!	來跟著我!	wa:ila rolrol 'iyakin!
+381	ma'an bekeS 'inaro' ila, talwalae' sowiti'.	我的頭髮變長了，剪短一點。	我的頭髮變長了，剪短一點。	ma'an bekeS 'inaro' ila, talwalae' sowiti'.	我的頭髮長了,再拔一下。	ma'an bekeS 'inaro' ila, ke:eb sowiti'.
+382	'ita' saboeh tarae'oe: ila!	我們來一起喝酒吧！	我們來一起喝酒吧！	'ita' saboeh tarae'oe: ila!	大家一起喝酒吧!	ta'ila ta raerae'oe: ila ray pinobae:aeh!
+383	wa:i'ila tasi'ael ka pazay!	來吃飯！	來吃飯！	wa:i'ila tasi'ael ka pazay!	來吃飯!	wa:i' ila somi'ael ka pazay!
+384	Sa'ila mari' ka tatabo: tabo: ka tata:a'!	去拿飼料餵雞！	去拿飼料餵雞！	Sa'ila mari' ka tatabo: tabo: ka tata:a'!	去拿雞!	Sa'ila mari' ka 'am Santao: ka tata:a'!
+385	tataraw mowa:i' Somowaw, 'am'amoeh rae:iwani!	胡蜂蜂追來了，趕快跑！	胡蜂蜂追來了，趕快跑！	tataraw mowa:i' Somowaw, 'am'amoeh rae:iwani!	老工來趕,快點送你!	tiSibo: ila, 'am'amoeh rae:iw!
+386	'izi' tatikot ka korkoring mina.	不要嚇小孩子。	不要嚇小孩子。	'izi' tatikot ka korkoring mina.	不要嚇到小孩!	'izi' papaSoS ka korkoring.
+387	"yako tatroehen nisiya Sa', ""'izi' ila 'oSa'!"""	她斥回我說：「不要去！」	她斥回我說：「不要去！」	"yako tatroehen nisiya Sa', ""'izi' ila 'oSa'!"""	我被他推說:「不要去!」	"siya Sobih 'iyakin Sa', ""'izi' 'oSa'!"""
+388	towanay mam temektek ka tata:a' kakoSa:o'en.	嫂嫂在剁晚餐用的雞肉。	嫂嫂在剁晚餐用的雞肉。	towanay mam temektek ka tata:a' kakoSa:o'en.	在砍雞要做晚餐。	'ata' tomalek ka tata:a' kawkinSa:o'.
+389	ya:o niSo' tiSaSapangen kapowa'en?	你一直故意奚落我做什麼？	你一直故意奚落我做什麼？	ya:o niSo' tiSaSapangen kapowa'en?	你讓我破做什麼?	So'o tomiSaSapang 'iyakin powa'?
+390	wa:i'ila rini tiSabong naehan!	來這裡躲雨一下！	來這裡躲雨一下！	wa:i'ila rini tiSabong naehan!	先來這裡吃午餐!	wa:ila honrowaS naehan ka 'a'oral!
+391	yako tikot hi baki' kayni' Si'wa:i'.	我怕爺爺不肯來。	我怕爺爺不肯來。	yako tikot hi baki' kayni' Si'wa:i'.	我怕爺爺不許來。	yako tikot ni baki' kayni' mowa:i'.
+392	tinalek kayzaeh ila, Sa'ila tilirong ila!	菜煮好了，可以上菜了！	菜煮好了，可以上菜了！	tinalek kayzaeh ila, Sa'ila tilirong ila!	煮好了,去點太陽了!	tatimae' tinalek ila, kayzaeh ila pazay!
+393	ni 'ae'aew tinalek 'aewhay si'aelen.	'ae'aew煮的不好吃。	'ae'aew煮的不好吃。	ni 'ae'aew tinalek 'aewhay si'aelen.	'ae'aew煮的不好吃。	ni 'ae'aew tinalek 'aewhay si'aelen.
+394	hini tinarakeS 'aewpir 'aewhay si'aelen.	這個被蛀蟲蛀過的地瓜不好吃。	這個被蛀蟲蛀過的地瓜不好吃。	hini tinarakeS 'aewpir 'aewhay si'aelen.	這棵樹的地瓜不好吃。	hini noka 'aewpir tarakeSen 'aewhay si'aelen.
+395	SaySiyat 'ana hiya' ma' tinawsas'i:.	賽夏族任何人都有外號。	賽夏族任何人都有外號。	SaySiyat 'ana hiya' ma' tinawsas'i:.	賽夏族就是誰都會大便。	SaySiyat 'ana hiya' hayza' ka kariS.
+396	'izi' tingo:o' 'am somi'ael ka pazay.	不要托著下巴吃飯。	不要托著下巴吃飯。	'izi' tingo:o' 'am somi'ael ka pazay.	不要敲鍋要吃飯。	'izi' konsilaeh ka pazay somi'ael.
+397	So: ba:yoS ila tirakiS ka ralom.	若颱風來時水會高漲。	若颱風來時水會高漲。	So: ba:yoS ila tirakiS ka ralom.	如果風了水就會漲起來。	So: ba:yoS mowa:i' ila ralom 'am bomong.
+398	toba' kayzaeh Sokae'niwin, wa'isan sem'el.	黃杞可以種段木香菇，很會長香菇。	黃杞可以種段木香菇，很會長香菇。	toba' kayzaeh Sokae'niwin, wa'isan sem'el.	毒蜂可以種來阻礙,樹長出來。	'a:or kayzaeh Sotopenen ka kae'niw, ra:am som'el ka kae'niw.
+399	'aehoe' komita' ka waliSan tomobong ila.	狗看見山豬就吠叫了。	狗看見山豬就吠叫了。	'aehoe' komita' ka waliSan tomobong ila.	狗看到山豬就打鳴。	'aehoe' komita' ka waliSan homngas ila.
+400	yako kayni' ila romae'oe:, 'aewhay tomroeh ila!	我不要喝了，已經喝不下了！	我不要喝了，已經喝不下了！	yako kayni' ila romae'oe:, 'aewhay tomroeh ila!	我不要喝酒了,不好!放口水!	yako kayni' rae'oe: ila, 'okay wa:i' ila!
+401	yako ngizo' Sipanlakay ka toniya'.	我跌倒跌破膝蓋軟骨。	我跌倒跌破膝蓋軟骨。	yako ngizo' Sipanlakay ka toniya'.	我跌傷了頸椎腫。	yako ngizo' Sipanpeznges ka boe'oel.
+402	topalaw ka mae'iyaeh mina 'aewhay!	對人幸災樂禍不好！	對人幸災樂禍不好！	topalaw ka mae'iyaeh mina 'aewhay!	照顧人不好!	'aewhay ka mae'iyaeh pakpaka'aloehoeh!
+403	waSwaSak SikSik ka niSo' 'oemaeh kayzaeh 'oki hola:osan.	隨便砍一砍你地上的草，不讓它雜草叢生。	隨便砍一砍你地上的草，不讓它雜草叢生。	waSwaSak SikSik ka niSo' 'oemaeh kayzaeh 'oki hola:osan.	躲避的土地不會乾。	'a'ehe: sowiti' ka hinbetel niSo', kayni' SipSiba:i'.
+404	nisiya ha:aw hiniba: waSwaSak nanaw rima' ila.	他衣服穿得很隨便就出門了。	他衣服穿得很隨便就出門了。	nisiya ha:aw hiniba: waSwaSak nanaw rima' ila.	他穿衣服一直離開就走了。	nisiya kayba:en babaw sowiti' ila 'isa:a' rae:iw ila.
+405	Sam'iyaeh walae'en lampez koza' ila?	二十減去十是多少？	二十減去十是多少？	Sam'iyaeh walae'en lampez koza' ila?	人減十個有多少?	roSa' SaSa'ila ray lampez koza' ila?
+406	hini Si'Si' 'ima mayha'ha' 'ampowa' ila wawalae', hayno' ila?	這個米原來是滿的為什麼減少了，哪裡去了？	這個米原來是滿的為什麼減少了，哪裡去了？	hini Si'Si' 'ima mayha'ha' 'ampowa' ila wawalae', hayno' ila?	這個米是一樣的怎麼減掉了,有哪裡去了?	hini Si'Si' 'ina mayngaso' 'ampowa' walae' ila, hayno' ila?
+407	ma'an korkoring 'okay honasamez! yangkowa'.	我的孩子不太安分！有什麼關係。	我的孩子不太安分！有什麼關係。	ma'an korkoring 'okay honasamez! yangkowa'.	我的孩子沒有安靜!喊叫不停。	ma'an korkoring 'okik pakSe:! kano' ila howaw.
+408	niSo' hahola' zinimoson ila yako kayni' ila!	你把冰棒舔過了，我不要了！	你把冰棒舔過了，我不要了！	niSo' hahola' zinimoson ila yako kayni' ila!	你把冰放了我不要了!	niSo' kapa:zahin hinirhir ila, yako kayni' ila!
+409	So'o hayza' ay ka zinowas?	你有紙嗎？	你有紙嗎？	So'o hayza' ay ka zinowas?	你有紙嗎?	So'o hayza' ay ka zinowas?
+410	'ampowa' So'o homangih?	你為什麼哭？	你為什麼哭？	'ampowa' So'o homangih?	你為什麼哭?	niSo' kano' Sihangih?
+411	siya 'a'ehe:en ma'an somi'ael pinaypoSalan ka pazay.	我強求他吃了兩碗飯。	我強求他吃了兩碗飯。	siya 'a'ehe:en ma'an somi'ael pinaypoSalan ka pazay.	他我吃了二飯的飯。	yako tomilhaehael hisiya somi'ael ila roSa' powawan ka pazay.
+412	yami rim'aen 'am kipazay, 'isahini 'a:zawen 'am kayzaeh ila.	我們明天要割稻，現在天晴了就好了。	我們明天要割稻，現在天晴了就好了。	yami rim'aen 'am kipazay, 'isahini 'a:zawen 'am kayzaeh ila.	我們明天要割,現在的寒氣就好了。	yami rim'aen 'am kipazay, haysani haba:an ila ma' kayzaeh ila.
+413	yami rima' komi:im ka 'a:'aewbay ka papotoy ka pinotpotoy.	我們去找竹殼要包棕子。	我們去找竹殼要包棕子。	yami rima' komi:im ka 'a:'aewbay ka papotoy ka pinotpotoy.	我們去找黃葉樹的葉子。	yami rima' komi:im ka 'anhi' nom pakSikoy ka langbang.
+414	'ae:ae' kayzaeh pamowa'en ka pongaeh.	蛇木適合摘種花朵。	蛇木適合摘種花朵。	'ae:ae' kayzaeh pamowa'en ka pongaeh.	樹皮可以種花。	'alipa: kayzaeh pamowa'en ka pongaeh.
+415	sinsangan mayaka:i' salawa' ka 'ayam, 'aewhay 'iyapa'i: ka 'ae:o'.	醫生說少吃肉，不然心臟會被肥油包住。	醫生說少吃肉，不然心臟會被肥油包住。	sinsangan mayaka:i' salawa' ka 'ayam, 'aewhay 'iyapa'i: ka 'ae:o'.	傳統肉祭所說的比較少,不然叫其做油菜。	noka sinsangan komoSa' pakbaba:ok ka 'ayam, kayzaeh hato' kaSobis'i:in noka Sima:.
+416	hiza sa'i' 'arol noka ralom!	大便用水沖！	大便用水沖！	hiza sa'i' 'arol noka ralom!	那個水管用水!	sa'i' noka ralom!
+417	hini kala' 'aSkan ray ra:i' ka'aSkanan ka tatimae'.	這個要放菜的提籃放在地上。	這個要放菜的提籃放在地上。	hini kala' 'aSkan ray ra:i' ka'aSkanan ka tatimae'.	這把子放在地上要裝菜的。	hini kapotatabin ka tatimae' 'aSkan ray ra:i'.
+418	So'o sizaeh ila ay 'am 'alingo'? yako 'am 'omalingo'.	你照好鏡子了嗎？我要照鏡子。	你照好鏡子了嗎？我要照鏡子。	So'o sizaeh ila ay 'am 'alingo'? yako 'am 'omalingo'.	你已經做好了鏡子嗎?我要做鏡子。	So'o kayzaeh ila ay ka'alingo'? ma'an ka'alingo'.
+419	ka'alingo' 'inaSkan ray binlengan babaw nonak 'alingo'.	鏡子放在牆上自己照。	鏡子放在牆上自己照。	ka'alingo' 'inaSkan ray binlengan babaw nonak 'alingo'.	鏡子放在牆上自己拿鏡子。	ka'alingo' 'inaSkan ray binlengan miyangay nonak.
+420	'alingo' ka kinmae'iyaehan 'ampowa' ngiyawngiyawan?	照那張臉，怎麼會臉花花的？	照那張臉，怎麼會臉花花的？	'alingo' ka kinmae'iyaehan 'ampowa' ngiyawngiyawan?	鏡子上的臉為什麼的?	'alingo' ka hiza kinmae'iyaehan, 'ampowa' bizo'bizo'an?
+421	'araS ka ra:ma'! hila:an 'am 'omoral mina.	帶雨傘！下午會下雨的。	帶雨傘！下午會下雨的。	'araS ka ra:ma'! hila:an 'am 'omoral mina.	帶雨傘!下午要下雨耶!	'araS ka ra:ama'! hila:an 'am 'omoral.
+422	kahiya' baki' 'okay 'angang ka korkoring.	爺爺昨天沒有罵小孩。	爺爺昨天沒有罵小孩。	kahiya' baki' 'okay 'angang ka korkoring.	昨天爺爺沒有罵小孩。	baki' kahiya' 'okay 'omangang ka korkoring.
+423	'ataw mari' ka hawaw Sombet ka 'ayloSay.	'ataw拿細竹枝打蜻蜓。	'ataw拿細竹枝打蜻蜓。	'ataw mari' ka hawaw Sombet ka 'ayloSay.	'ataw拿竹打鐵絲。	'ataw mari' ka hawaw o poSak ka baboyoe'.
+424	haba:an 'akoey ka 'ayloSay.	夏天很多蜻蜓。	夏天很多蜻蜓。	haba:an 'akoey ka 'ayloSay.	夏天很多花。	haba:an 'akoey ka ra:hip.
+425	'ayna:a' 'iyakin naehan!	先等我一下！	先等我一下！	'ayna:a' 'iyakin naehan!	等一下我!	'ayna:a' naehan 'iyakin!
+426	hayza' 'aehae' tatini' komoSa' wasal 'am tirakiS ka 'oemaeh ila, 'am'amoeh Sa'ila paskayzaeh ka palono'.	有一個老人跟他說：海水將要漲潮淹到部落土地，趕快去製造船隻。	有一個老人跟他說：海水將要漲潮淹到部落土地，趕快去製造船隻。	hayza' 'aehae' tatini' komoSa' wasal 'am tirakiS ka 'oemaeh ila, 'am'amoeh Sa'ila paskayzaeh ka palono'.	有一個老人家說海要橫越大地了,趕快去造船。	hayza' 'aehae' tatini' mayaka:i' hisiya koSa', 'aelaw 'am ba:la' 'omaro: ka 'oemaeh, 'am'amoeh Sa'ila paskayzaeh ka palono'.
+427	ray babaw hayza' to:o' ka 'ay'ayloSay mam homayap.	有三隻豆娘在上面飛。	有三隻豆娘在上面飛。	ray babaw hayza' to:o' ka 'ay'ayloSay mam homayap.	上方有三個子在飛。	to:o' ka 'ae'aewzaeh 'ima homayap ray babaw.
+428	'izi' 'e:eS ka 'ima 'i'iyaeh!	不要殺生！	不要殺生！	'izi' 'e:eS ka 'ima 'i'iyaeh!	不要殘忍活著的!	'izi' tobok ka mae'iyaeh!
+429	'in'alay rini papayziza 'aSkan ka kabat.	從這裡到那裡放椅子。	從這裡到那裡放椅子。	'in'alay rini papayziza 'aSkan ka kabat.	從這裡到旁邊放椅子。	hinkosiza: ka kabat 'inaSkan.
+430	hini 'ima ngangilaehan kayba:en kayzaeh kita'en.	這件紅色的衣服很好看。	這件紅色的衣服很好看。	hini 'ima ngangilaehan kayba:en kayzaeh kita'en.	這件紅色的衣服很好看。	hini 'ima ngangilaehan ka kayba:en kayzaeh kita'en.
+431	hae:wan 'iya'zaw ila, Sa'ila hiba: ka kayba:en!	夜晚變涼了，去穿件衣服！	夜晚變涼了，去穿件衣服！	hae:wan 'iya'zaw ila, Sa'ila hiba: ka kayba:en!	夜晚很冷,去穿衣服!	hae:wan maskes ila, Sa'ila hiba: ka kayba:en!
+432	ma'an kapranaw ralom 'iya'zaw ila ay?	我的洗澡水涼了沒有？	我的洗澡水涼了沒有？	ma'an kapranaw ralom 'iya'zaw ila ay?	我的浴室水冷了嗎?	ma'an kapranaw 'iya'zaw ila ay?
+433	hini 'aewpir 'ima 'it'iti'an nanaw, ma'an kamari'in saboeh.	這些地瓜只有一點點而已，我要全拿走。	這些地瓜只有一點點而已，我要全拿走。	hini 'aewpir 'ima 'it'iti'an nanaw, ma'an kamari'in saboeh.	這地瓜只有一點點,全部都是我的甘。	hini 'aewpir 'ititi'an nanaw ma'an kas'oehaez ila.
+434	ma'an 'okik hini kamari'in.	我不是要拿這個。	我不是要拿這個。	ma'an 'okik hini kamari'in.	我不會吃這個頭。	ya:o 'am 'okay mari' hini.
+435	'okik hini bo:ong, yako kayni' hinra:iy.	不是這個bo:ong我不要嫁。	不是這個bo:ong我不要嫁。	'okik hini bo:ong, yako kayni' hinra:iy.	不是這個Bo:ong,我不要嫁人。	'okik hini bo:ong yako kayni' hinra:iy.
+436	So'o 'ampowa' kin 'omaS'aSay ka rayhil!	你怎麼這麼浪費錢！	你怎麼這麼浪費錢！	So'o 'ampowa' kin 'omaS'aSay ka rayhil!	你怎麼這麼浪費錢!	So'o 'ampowa' kin tomowaw ka rayhil!
+437	yako ray koko:ol 'omoe'oe: ka mae'iyaeh, wa:ila tatilhaehael konkon ka waliSan.	我在山頭叫人，來幫忙抬山豬。	我在山頭叫人，來幫忙抬山豬。	yako ray koko:ol 'omoe'oe: ka mae'iyaeh, wa:ila tatilhaehael konkon ka waliSan.	我在山上叫人來幫我豬。	yako ray 'oes'oeso'an Somopa: ka mae'iyaeh, ta'ila tatilhaehael Somobowaw ka waliSan.
+438	ya:o 'oti:imin noka katimtim 'iyahinangih.	我的眼睫毛進到眼睛很想哭。	我的眼睫毛進到眼睛很想哭。	ya:o 'oti:imin noka katimtim 'iyahinangih.	我被小雞得很想哭。	ma'an rolae' ponpontobo' ila 'iyahinangih na.
+439	'oya' tomalek ka tatimae' maSkan ka 'oe'oeng.	媽媽煮菜會放青蔥。	媽媽煮菜會放青蔥。	'oya' tomalek ka tatimae' maSkan ka 'oe'oeng.	媽媽煮菜放子。	'oya' tomalek ka tatimae' rempe' ka 'a:or.
+440	kakhayza'an 'am paskayzaeh ka binlengan 'omilo' ka minpazayan ki ra:i'.	以前要做牆用稻草攪拌泥土。	以前要做牆用稻草攪拌泥土。	kakhayza'an 'am paskayzaeh ka binlengan 'omilo' ka minpazayan ki ra:i'.	以前要做牆會用土割平。	kakhayza'an nom paskayzaeh ka binlengan noka 'iri: Somis'i: ka ra:i'.
+441	'oya' 'omo:ol ka kasi'aelen 'ini yaba'.	媽媽留食物給爸爸。	媽媽留食物給爸爸。	'oya' 'omo:ol ka kasi'aelen 'ini yaba'.	媽媽留食物給爸爸。	'oya' 'omilo' ka kasi'aelen 'ini yaba'.
+442	So'o bazae'en baba:inan Sa' pa'owaz hi koko'.	你若感到懶懶的去請祖母化解。	你若感到懶懶的去請祖母化解。	So'o bazae'en baba:inan Sa' pa'owaz hi koko'.	你聽到風音去叫婆婆祈福。	So: So'o So: 'ima ma:is Sa'ila paSorangi' hi koko'.
+443	yaba' rima' ray 'oes'oeso'an 'omalep.	爸爸到山上去打獵。	爸爸到山上去打獵。	yaba' rima' ray 'oes'oeso'an 'omalep.	爸爸去山上打獵。	yaba' rima' ray 'oes'oeso'an 'omalep.
+444	siya kamakiSka:at ay? 'oka', siya 'okik kamakiSka:at. siya kamatortoroe'.	他是學生嗎？不，他不是學生，他是老師。	他是學生嗎？不，他不是學生，他是老師。	siya kamakiSka:at ay? 'oka', siya 'okik kamakiSka:at. siya kamatortoroe'.	他是學生嗎?沒有,他不讀書。他是專門教書。	siya kamakiSka:at ay? 'okik, siya 'oki kamakiSka:at, siya kamatortoroe'.
+445	ma'an 'ae'ay 'opi:in noka kabat.	我的腳被椅子壓。	我的腳被椅子壓。	ma'an 'ae'ay 'opi:in noka kabat.	我的腳被椅子壓住。	yako kopirit ka 'ae'ay noka kabat.
+446	ray 'ozong 'akoey ka 'abo', kowih boeloe'ani!	在爐灶裡有很多灰燼，挖掉丟掉！	在爐灶裡有很多灰燼，挖掉丟掉！	ray 'ozong 'akoey ka 'abo', kowih boeloe'ani!	子裡有很多灰,挖起來丟掉吧!	ray ka'ilSo:an 'akoey ka 'ae'aewzaeh, kowih siboeloe'!
+447	yaba' haw ila ray 'oem'oemaeh 'i'ini'i lobih.	爸爸在旱田還沒有回來。	爸爸在旱田還沒有回來。	yaba' haw ila ray 'oem'oemaeh 'i'ini'i lobih.	爸爸去了田裡還沒回。	yaba' ray kamaSray 'i'ini' i 'aewhay.
+448	yako mowa:i' kakamoeh 'ora' rima' ray pino'azaeh mal'oehaez ka pinobae:aeh 'iniman.	他來趕快拿出酒給我。	他來趕快拿出酒給我。	yako mowa:i' kakamoeh 'ora' rima' ray pino'azaeh mal'oehaez ka pinobae:aeh 'iniman.	我一來就趕快去房間拿酒給我。	siya wa:i' 'am'amoeh mari' ka pinobae:aeh 'iniman.
+449	niSo' kabat Sa:engen ila ma'an!	你的椅子被我坐了！	你的椅子被我坐了！	niSo' kabat Sa:engen ila ma'an!	你的椅子被我坐了!	niSo' kabat ma'an SiSa:eng ila!
+450	hini 'oemaeh 'inmita'a saboeh pakayzaeh kalahang.	這塊土地全部都是我們的好好照顧。	這塊土地全部都是我們的好好照顧。	hini 'oemaeh 'inmita'a saboeh pakayzaeh kalahang.	這塊土地全都是我們的好處。	hini 'oemaeh saboeh mita' kin kayzaeh kakalahangen.
+451	Sa'ila sapih ka 'ima bolalasan ka kayba:en!	去把衣服換成白色的！	去把衣服換成白色的！	Sa'ila sapih ka 'ima bolalasan ka kayba:en!	去換白色的衣服!	Sa'ila hini kayba:en sapihin ka 'iniyabolalas!
+452	'izi' ila sapoeh! kaysa'an sinapoeh ila!	不要掃了！剛剛掃過了！	不要掃了！剛剛掃過了！	'izi' ila sapoeh! kaysa'an sinapoeh ila!	不要掃!今天已經掃了!	'izi' ti:iS ila! kaysa'an ti:iS ila!
+453	'oya' Sa'iS ka kayba:en 'iniman!	媽媽幫我縫衣服！	媽媽幫我縫衣服！	'oya' Sa'iS ka kayba:en 'iniman!	媽媽幫我縫衣服!	'inmana'a kayba:en Sihayi ni 'oya'!
+454	niSo' Sae'te: ila ay binae:iw?	你買齊全了嗎？	你買齊全了嗎？	niSo' Sae'te: ila ay binae:iw?	你賣了嗎?	So'o bae:iw ay mayngaso' ila?
+455	siya biSbiS ka kaSlar, 'aewhay Soma'en ka kasi'aelen.	他因為喉嚨痛，不能吞嚥東西。	他因為喉嚨痛，不能吞嚥東西。	siya biSbiS ka kaSlar, 'aewhay Soma'en ka kasi'aelen.	他的喉痛,不能食。	siya biSbiSin ka kaSlar, 'okay sile' ka kano'.
+456	hosong panae'en 'alhapaeh ka panga' ray 'ima 'ibabaw kaehoy Saehae'	猴子被射中拉斷樹枝從大樹上摔下來。	猴子被射中拉斷樹枝從大樹上摔下來。	hosong panae'en 'alhapaeh ka panga' ray 'ima 'ibabaw kaehoy Saehae'	子被飛鼠追上高樹下掉下來。	hahiwa' Sohoero:en market ka panga' 'ima Saehae' ray 'ima sopaloy kaehoy.
+457	niSo' rayhil Sinibae:aeh kanhiya'?	你的錢向誰借的？	你的錢向誰借的？	niSo' rayhil Sinibae:aeh kanhiya'?	你把錢借給哪一個?	niSo' rayhil Sibae:aeh kanhiya'?
+458	haba:an rikrika: haba:i'in, lasiya Siyae' a tomal.	夏天很熱風吹來，他們非常高興。	夏天很熱風吹來，他們非常高興。	haba:an rikrika: haba:i'in, lasiya Siyae' a tomal.	夏天很熱,他們非常高興。	haba:an rikrika: ba:i' biSbiS, lasiya kin Siyae'.
+459	ni 'ataw sinpe:an 'iyawa'isin.	'ataw的手臂很有力量。	'ataw的手臂很有力量。	ni 'ataw sinpe:an 'iyawa'isin.	'ataw的口味很。	ni 'ataw a tomal wa'isan.
+460	siya noka kinitoya' masa' Sikita' si'wi' si'wi'.	他餓得眼前一明一暗	他餓得眼前一明一暗	siya noka kinitoya' masa' Sikita' si'wi' si'wi'.	他看著被車子撞到了一眼。	siya kitoyae'en tomasae:aes.
+461	yako Sire:e: ka kayba:en.	我只穿一件衣服而已。	我只穿一件衣服而已。	yako Sire:e: ka kayba:en.	我衣服。	ma'an hiniba: 'aehae' ka kayba:en nanaw.
+462	hini 'oemaeh 'am'amoeh SikSik ila 'izi' pakhola:osan a tomal.	這土地趕快砍草了，不要使它雜草叢生。	這土地趕快砍草了，不要使它雜草叢生。	hini 'oemaeh 'am'amoeh SikSik ila 'izi' pakhola:osan a tomal.	這塊土地快枯了不要讓它太熱了。	hini 'oemaeh 'am'amoeh ila i tiSkaw, 'izi' pakholawsan.
+463	ray 'oes'oeso'an hayza' haseb ka 'ima 'elngihan Siri'.	山上有五隻黑色羊。	山上有五隻黑色羊。	ray 'oes'oeso'an hayza' haseb ka 'ima 'elngihan Siri'.	在山上有種黑羊。	ray koko:ol hayza' hinlomo' 'ael'oeso'an.
+464	'izi' Sowaw ka 'aehoe'!	不要追狗！	不要追狗！	'izi' Sowaw ka 'aehoe'!	不要跟狗!	'izi' Somowaw ka 'aehoe'!
+465	yako soma'oe' hi 'oya' ka kapSiloe'.	我送媽媽一條項鍊。	我送媽媽一條項鍊。	yako soma'oe' hi 'oya' ka kapSiloe'.	我送媽媽項。	yako Sokor 'oya' 'aehae' ka Siloe'.
+466	soksok ka kateSnenan, 'izi' pahawaeh ka mae'iyaeh.	把門鎖好，不要被人打開了。	把門鎖好，不要被人打開了。	soksok ka kateSnenan, 'izi' pahawaeh ka mae'iyaeh.	關門,不要讓人開路。	'aSkan ka kateSnenan kayzaeh, 'izi' pahuwawen noka mae'iyaeh.
+467	hayza' Sopat ka ba:yoS 'am mowa:i'.	有四個颱風要來。	有四個颱風要來。	hayza' Sopat ka ba:yoS 'am mowa:i'.	有四個風要來。	hayza' Sopat ka ba:yoS 'am mowa:i'.
+468	hini 'oemaeh batbato'an 'oka' ka 'ima mowahil.	這塊地到處都是石頭沒有寬敞的地方。	這塊地到處都是石頭沒有寬敞的地方。	hini 'oemaeh batbato'an 'oka' ka 'ima mowahil.	這塊土地是石壁無豐富。	hini 'oemaeh hahi:il ka bato' 'oka' ka kin ngalpae'.
+469	hiza baki' Say'ino' 'ampowa' 'okik Sekla'i?	那位老人家哪裡人，怎麼不太認識？	那位老人家哪裡人，怎麼不太認識？	hiza baki' Say'ino' 'ampowa' 'okik Sekla'i?	那個爺爺說怎麼沒有認識?	hiza tatini' hayno' ila, 'ampowa' 'okik Sekla'en?
+470	hiza 'aehae' mam ba:aw ray hinbetel.	那隻狗正在草堆裡玩。	那隻狗正在草堆裡玩。	hiza 'aehae' mam ba:aw ray hinbetel.	那個人在草地上玩。	hiza 'aehoe' mam makakSiyae' ray hinbetel.
+471	siya Sompan 'akoey ka ba:oz.	他養了很的鴿子。	他養了很的鴿子。	siya Sompan 'akoey ka ba:oz.	他養很多。	siya 'akoey Sinpan ka hosong.
+472	siya kin marke: 'izi' be:ay hisiya.	他這麼自私，不要給他。	他這麼自私，不要給他。	siya kin marke: 'izi' be:ay hisiya.	他這麼吝不要給他。	siya kin minsowi' a tomal, 'izi' be:ay hisiya.
+473	hiza kakrangi'an binoeloe' noka mae'iyaeh.	那東西是別人不要的。	那東西是別人不要的。	hiza kakrangi'an binoeloe' noka mae'iyaeh.	那個健康的地方是被人丟頭。	hiza 'am 'ima kayni' noka mae'iyaeh.
+474	hini 'an noka kano' a biyae'?	這是什麼的葉子？	這是什麼的葉子？	hini 'an noka kano' a biyae'?	這是什麼葉子?	hini 'an noka kano' biyae'?
+475	kakhayza'an bi'i: 'oka' ka 'iyo' karae'oe:en.	以前甲狀腺腫大沒有藥吃。	以前甲狀腺腫大沒有藥吃。	kakhayza'an bi'i: 'oka' ka 'iyo' karae'oe:en.	以前沒有氣味的藥。	kakhayza'an 'iyapangihen kataboe'en 'oka' ka 'iyo'.
+476	rikrika: bo:bo: 'iyakin.	很熱幫我搧一搧。	很熱幫我搧一搧。	rikrika: bo:bo: 'iyakin.	熱得淋倒我。	rikrika: tomikowis 'iyakin.
+477	'izi' pakhahili' ka pinaskayzaeh, niSo' sinakeb hahili' ila.	不要做的歪歪的，你的屋頂歪歪了。	不要做的歪歪的，你的屋頂歪歪了。	'izi' pakhahili' ka pinaskayzaeh, niSo' sinakeb hahili' ila.	不要讓做好的歪一邊,你蓋過的歪一邊了。	'izi' paskayzaeh kalikoehan, niSo' sinakeban haloehan ila.
+478	'izi' hakaS ka mae'iyaeh!	不要忌妒別人！	不要忌妒別人！	'izi' hakaS ka mae'iyaeh!	不要人!	'izi' i hahakaS ka mae'iyaeh!
+479	'izi' hazab ka mae'iyaeh o!	不要刺到人喔！	不要刺到人喔！	'izi' hazab ka mae'iyaeh o!	不要打人!	'izi' patko:ok ka mae'iyaeh o!
+480	hae:op ka ka'sa' noka tata'.	搧除小米糠。	搧除小米糠。	hae:op ka ka'sa' noka tata'.	用小米填上的液。	'oeson hebel ka tata' a tomal.
+481	Sa'ila hazih ka hiza 'oeboeh!	去拔那些羽毛！	去拔那些羽毛！	Sa'ila hazih ka hiza 'oeboeh!	去拔那個!	Sa'ila hebel ka hiza 'ae:az!
+482	haba:an rikrika: a tomalan.	夏天非常熱。	夏天非常熱。	haba:an rikrika: a tomalan.	夏天很熱。	haba:an rikrika: a tomalan.
+483	hini 'aehae' taew'an hahi:il ka minkoringan.	這一家大多數是女生。	這一家大多數是女生。	hini 'aehae' taew'an hahi:il ka minkoringan.	這一家都是女人的。	hini 'aehae' taew'an hahi:il ka minkoringan.
+484	niSo' tatpo' halay ray binlengan.	你的帽子掛在牆上。	你的帽子掛在牆上。	niSo' tatpo' halay ray binlengan.	你的帽子掛在牆上。	niSo' tatpo' 'inaSkan ray binlengan.
+485	hayno' 'aehae' korkoring 'inSo'o'a?	哪個小孩是你的？	哪個小孩是你的？	hayno' 'aehae' korkoring 'inSo'o'a?	有哪一個孩子是你的?	kano' korkoring 'inSo'o'?
+486	hini Sina:iS ha:boso' ila 'aewhay Siboetoe' ila.	這條繩子已經風化了不能再綁了。	這條繩子已經風化了不能再綁了。	hini Sina:iS ha:boso' ila 'aewhay Siboetoe' ila.	這條腐蝕了,不能丟掉了。	hini Sina:iS ma:ba:i' ila haSa' ila i hopon.
+487	niSo' hikor hayza' ka maro'.	你的背上有顆痣。	你的背上有顆痣。	niSo' hikor hayza' ka maro'.	你的背後有很多。	niSo' hikor hayza' ka pozok.
+488	yako Sombet ka 'aehoe' noka hima'.	我用手打狗。	我用手打狗。	yako Sombet ka 'aehoe' noka hima'.	我用手打過狗。	ya:o noka hima' Sikoring ka 'aehoe'.
+489	noka SaySiyat kamamanra:an hinora'iSan ki ngo:o'.	賽夏族的男人有額紋和下巴紋。	賽夏族的男人有額紋和下巴紋。	noka SaySiyat kamamanra:an hinora'iSan ki ngo:o'.	賽夏族的男子比烏族人大。	noka SaySiyat kamamanra:an hayza' ka rae'iS ki ngo:o'.
+490	noka SaySiyat minkoringan hinorae'iSan, kamamanra:an hinorae'iS ki hinongo:o'an.	賽夏族的女子紋額頭，男子紋額頭和下巴。	賽夏族的女子紋額頭，男子紋額頭和下巴。	noka SaySiyat minkoringan hinorae'iSan, kamamanra:an hinorae'iS ki hinongo:o'an.	賽夏族的女人尿布,男生尿在嘴裡。	noka SaySiyat minkoringan pinataS, kamamanra:an pinataS ka rae'iS ki ngo:.
+491	ta:in homabaeh ka kayba:en nonak.	ta:in自己扣衣服。	ta:in自己扣衣服。	ta:in homabaeh ka kayba:en nonak.	ta:in自己剪衣服。	ta:in nonak komaysi'iS ka kayba:en.
+492	yako Sanhoero: ka bato' ray pazay.	我吃到飯裡的石頭。	我吃到飯裡的石頭。	yako Sanhoero: ka bato' ray pazay.	我在米中丟石頭。	yako SanSa:o' ka bato' ray pazay.
+493	'izi' hoehoeh ka Sakap.	不要拉爬藤類的嫩芽。	不要拉爬藤類的嫩芽。	'izi' hoehoeh ka Sakap.	不要拉帽子。	'izi' hebel ka 'alinhoba'.
+494	'am'amoeh Sa'ila hoboe'!	快去小便！	快去小便！	'am'amoeh Sa'ila hoboe'!	快點去裝袋!	'am'amoeh Sa'ila ka'oSa'!
+495	taro' 'oemaw hinta'oeloeh SayboSi: mae'iyaeh hoka:ra'en.	taro' 'oemaw砍了六個頭被刺胸紋。	taro' 'oemaw砍了六個頭被刺胸紋。	taro' 'oemaw hinta'oeloeh SayboSi: mae'iyaeh hoka:ra'en.	taro'被頭撞到丟下人走路看起來很像。	taro' 'oemaw hatpoeh ka ta'oeloeh Sipanpangih.
+496	'oya' homiwa' ka tata:a' kapasi'ael hi 'oya' nisiya.	媽媽殺雞要給她的媽媽吃。	媽媽殺雞要給她的媽媽吃。	'oya' homiwa' ka tata:a' kapasi'ael hi 'oya' nisiya.	媽媽雞要給他媽媽吃。	'oya' homhomiwa' ka tata:a' 'am mobe:ay ka 'oya' nisiya.
+497	izi' sazek ka 'iniSlalba' 'amkay ho'oe' ila.	沒有聞到腐臭味就不會想反胃了。	沒有聞到腐臭味就不會想反胃了。	izi' sazek ka 'iniSlalba' 'amkay ho'oe' ila.	不要聞到腐臭的東西,不會化了。	'okay sazeken ka 'iniSlalba' ma' 'amkay ma'azem ila ka tiyal.
+498	hini patonay kakaw ila.	這根鐵釘彎曲了。	這根鐵釘彎曲了。	hini patonay kakaw ila.	這個鐵已經不斷利了。	hini patonay kakaw ila.
+499	kalahae' kamamalahang ka mae'iyaeh.	kalahae' 是看護。	kalahae' 是看護。	kalahae' kamamalahang ka mae'iyaeh.	老鼠會人。	kalahae' kamamanra:an.
+500	ya:o rikrika: be:ay 'iyakin ka kabo:bo:.	我很熱給我扇子。	我很熱給我扇子。	ya:o rikrika: be:ay 'iyakin ka kabo:bo:.	我熱給我尿布。	yako kin rikrika: mobe:ay ka 'iniman kapawa:.
+501	baki' 'okik rengreng kakita' ki korkoring.	爺爺和小孩不常相見。	爺爺和小孩不常相見。	baki' 'okik rengreng kakita' ki korkoring.	爺爺不常常看到小孩。	baki' ki korkoring 'okik rengreng kakita'.
+502	yako 'insa'an 'am kala 'ata' ray taew'an.	我等一下會在姑姑家。	我等一下會在姑姑家。	yako 'insa'an 'am kala 'ata' ray taew'an.	我等一下要去家。	yako 'insa'an 'am ray taew'an.
+503	pahila: ray latar ka kamez, noka kabkabaehae: ka 'ameten ila.	曬在外面的稻穀，快被小鳥吃完了。	曬在外面的稻穀，快被小鳥吃完了。	pahila: ray latar ka kamez, noka kabkabaehae: ka 'ameten ila.	曬在外面,被小鳥吃掉了。	pinahila: pazay ray latar 'am 'ameten ila noka kabkabaehae:.
+504	'inay 'oes'oeso'an ka kasbez rae'oe:en 'anhil.	山裡的泉水喝起來很甜。	山裡的泉水喝起來很甜。	'inay 'oes'oeso'an ka kasbez rae'oe:en 'anhil.	來自山上的喝起來很甜。	ray 'oes'oeso'an ka ralom 'anhil rae'oe:en.
+505	'am mae'rem ila kapos ka korkoring!	要睡覺了幫孩子包尿布！	要睡覺了幫孩子包尿布！	'am mae'rem ila kapos ka korkoring!	小孩子要睡覺了!	'am mae'rem ila komapos ka korkoring!
+506	hini kazi:izan kita'en 'oki naka zazi:iz.	這個篩的東西不像米篩。	這個篩的東西不像米篩。	hini kazi:izan kita'en 'oki naka zazi:iz.	這個裂縫看起來不像裂痕。	hini 'ima 'iyapangih 'oki nak'oSa' ka zazi:iz.
+507	hini walo' ba:la' 'ana 'okay 'oral ma' 'okay ka'sih.	東河的河就算不下雨也不會乾涸。	東河的河就算不下雨也不會乾涸。	hini walo' ba:la' 'ana 'okay 'oral ma' 'okay ka'sih.	這顆糖就算是河水也不會下雨也不會乾。	ray walo' ba:la' 'ana 'okay 'a'oral ma' 'okik 'ae:'ae:iw.
+508	kaeh'oe' kayzaeh paskayzaehen ka kaptelengan.	赤皮木可拿來做刀柄。	赤皮木可拿來做刀柄。	kaeh'oe' kayzaeh paskayzaehen ka kaptelengan.	青可以做成蓋子。	ba:Si' kayzaeh paskayzaehen ka kakita'.
+509	hani hayno' kazi:izin, hini o hiza?	這裡有什麼要篩的東西，這個還是那個？	這裡有什麼要篩的東西，這個還是那個？	hani hayno' kazi:izin, hini o hiza?	這裡哪邊要移到,這個還是那個?	hini hayza' ka kano' ka'alingo', hini 'isa:a' o hiza?
+510	hosong 'omapis ray ka'iyayan ka kasi'aelen.	猴子把食物夾在腋下。	猴子把食物夾在腋下。	hosong 'omapis ray ka'iyayan ka kasi'aelen.	子用的包食。	pazay 'ima potimo' ka kasi'aelen ray 'apael.
+511	hini kingaso'an ma'an katabo:en ka 'aehoe' ila o!	這些剩飯剩菜我要拿來餵狗囉！	這些剩飯剩菜我要拿來餵狗囉！	hini kingaso'an ma'an katabo:en ka 'aehoe' ila o!	這個袋子我要把狗丟!	hini tatimae' sinsis ma'an ka 'aehoe' ka 'am pa:tol ila o!
+512	'am'amoeh rae:iw! So'o ka'opi:in noka bato'.	快走！你會被石頭壓到。	快走！你會被石頭壓到。	'am'amoeh rae:iw! So'o ka'opi:in noka bato'.	快走!你會被石頭壓。	'am'amoeh rae:iw! So'o kaSteri:in noka bato'.
+513	siya ka:ongen noka hiza mae'iyaeh bi'i: a tomalan.	她被那個人講不雅的話非常生氣。	她被那個人講不雅的話非常生氣。	siya ka:ongen noka hiza mae'iyaeh bi'i: a tomalan.	那個人向他挑非常生氣。	siya noka hiza 'aehae' mae'iyaeh payaka:i'in bi'i: a tomalan.
+514	nisiya ka'oSa'en ra:waS a tomalan.	他要去的地方很遠。	他要去的地方很遠。	nisiya ka'oSa'en ra:waS a tomalan.	他的子很遠。	nisiya kapayriza'an ra:waS a tomalan.
+515	yako kari'ael 'am rima' ray 'oes'oeso'an 'oemalep, So'o 'am SiSkakano'?	我後天要去山上狩獵，那你呢？	我後天要去山上狩獵，那你呢？	yako kari'ael 'am rima' ray 'oes'oeso'an 'oemalep, So'o 'am SiSkakano'?	我吃過飯要去山上打獵,你要放到哪裡?	yako rim'aen 'am rima' ray 'oes'oeso'an 'omalep, So'o 'isa:a'?
+516	karim'aenan kayzaeh kapanpanra:anan, 'oka' ka 'ima 'aewhay ba:i'.	上午的空氣非常清新，很適合出去散步。	上午的空氣非常清新，很適合出去散步。	karim'aenan kayzaeh kapanpanra:anan, 'oka' ka 'ima 'aewhay ba:i'.	早上是好路,沒有壞風。	karim'aenan ka hinba: 'ima kayzaeh ila rima' manmanra:an.
+517	ray talka: 'inaSkan katal'izaeh'okik 'insiya'a o 'inhiya'a?	桌上的妝扮飾物不是他的那是誰的？	桌上的妝扮飾物不是他的那是誰的？	ray talka: 'inaSkan katal'izaeh'okik 'insiya'a o 'inhiya'a?	桌上的東西是他的還是他的?	ray talka: babaw ka pinakba:in 'okik nisiya, 'in hiya' a?
+518	kepe: ka pinoSakan parae'oe: hi la mama'.	把糯米酒擠出來讓叔叔們喝。	把糯米酒擠出來讓叔叔們喝。	kepe: ka pinoSakan parae'oe: hi la mama'.	米酒給叔叔們吃。	ta:mol ka pinoSakan kapae'oe:en hi mama'.
+519	kita' nisiya pinamowa' kin kayzaeh!	看他種的那麼好！	看他種的那麼好！	kita' nisiya pinamowa' kin kayzaeh!	看他種的很好!	kita' nisiya pinamowa' kin kayzaeh!
+520	yako pawka' ka rayhil, So'o tatilhaehael ki:im 'iniman kayzaeh ay?	我掉了錢，你去幫我找好嗎？	我掉了錢，你去幫我找好嗎？	yako pawka' ka rayhil, So'o tatilhaehael ki:im 'iniman kayzaeh ay?	我有丟錢,你幫我找好嗎?	yako romae:aeh ka rayhil, So'o rima' ki:im ay 'iniman?
+521	niSo' kini:im kamamatawaw makakreng a tomal.	你找的工人很認真。	你找的工人很認真。	niSo' kini:im kamamatawaw makakreng a tomal.	你的專門工作的人很認真。	niSo' ki:im matawaw makakreng.
+522	yako 'okay kinpoetoeh ka 'inSo'o'a kaehoy!	我沒有砍斷你的木頭！	我沒有砍斷你的木頭！	yako 'okay kinpoetoeh ka 'inSo'o'a kaehoy!	我沒有砍你那根木頭!	yako 'okay'in'oetoeh ka niSo' kaehoy!
+523	hini kilkilo' kita'en pakpaka'alo'an.	這些小動物看起來很可憐。	這些小動物看起來很可憐。	hini kilkilo' kita'en pakpaka'alo'an.	這個 kilo' 看起來很可憐。	hini 'ol'olae'an kita'en pakpaka'alo'an.
+524	korkoring homangih kit'a'i' haha'ez ila.	小孩哭得快喘不過氣聲音沙啞了。	小孩哭得快喘不過氣聲音沙啞了。	korkoring homangih kit'a'i' haha'ez ila.	小孩哭得下腰而縮身。	korkoring homangih 'am homnas soma:om ila.
+525	hini mae'iyaeh kin kayzaeh, ra:am ma'az'azem no tatini'.	這個人真好，會幫老人家著想。	這個人真好，會幫老人家著想。	hini mae'iyaeh kin kayzaeh, ra:am ma'az'azem no tatini'.	這個人很好,會對長輩思考。	hiza mae'iyaeh kayzaeh a tomal, ra:am malnobaz ka tatini'.
+526	noka hiza kamo'alay ray kinotimo'an ma:riyae' ila.	那個青年的小腿肚腫起來了。	那個青年的小腿肚腫起來了。	noka hiza kamo'alay ray kinotimo'an ma:riyae' ila.	那個少年在小腿上肚子大大的了。	noka hiza 'al'alak 'apaeh ma:riyae' ila.
+527	So'o konboe'boe' ray ralom 'izo'.	你潛入水裡去。	你潛入水裡去。	So'o konboe'boe' ray ralom 'izo'.	你沉下去水裡。	So'o kaSkoyo: ray ralom.
+528	wa:i' ila tatilhaehael hangal ka baboy!	來幫忙抬豬！	來幫忙抬豬！	wa:i' ila tatilhaehael hangal ka baboy!	來幫忙豬!	wa:ila tatilhaehael So:ol ka baboy!
+529	kalih papa'aehae' komoSa' siya 'okik kayzaeh.	kalih 開玩笑說他身體不舒服。	kalih 開玩笑說他身體不舒服。	kalih papa'aehae' komoSa' siya 'okik kayzaeh.	kalih一次說他不好。	kalih pa'oeway Sa', siya 'okik kayzaeh ka basang.
+530	moyo Sa'ila kongkong ka baboy.	你們去抬豬。	你們去抬豬。	moyo Sa'ila kongkong ka baboy.	你們去殺豬。	moyo Sa'ila So:ol ka baboy.
+531	yako 'am payrarongaw hi kamatortoroe' ma'an.	我要去拜訪我的老師	我要去拜訪我的老師	yako 'am payrarongaw hi kamatortoroe' ma'an.	我要跟著我的老師走。	yako 'am rima' tabin mayaka:i' hi kamatortoroe' ma'an.
+532	lak 'aewhay!	不好！	不好！	lak 'aewhay!	lak不好!	'aewhay!
+533	So'o loman a ta:an.	你太頑皮了。	你太頑皮了。	So'o loman a ta:an.	你的家很多便當。	So'o ma:is a tomalan.
+534	So'o ma:ngabas nanaw 'okay patawaw.	你只會說卻沒有做。	你只會說卻沒有做。	So'o ma:ngabas nanaw 'okay patawaw.	你一直呆在床上不工作。	So'o ma'an koma:ong nanaw o 'okay pawa:i'.
+535	nisiya hima' ma:nani'.	他的手長膿包。	他的手長膿包。	nisiya hima' ma:nani'.	他的手很長。	siya 'ima lomakap ka hima'.
+536	kaehoy malbel ila.	樹木倒掉了。	樹木倒掉了。	kaehoy malbel ila.	木頭倒塌了。	kaehoy ngizo' ila.
+537	yako 'am maSa:eng ki So'on.	我要和你一起坐。	我要和你一起坐。	yako 'am maSa:eng ki So'on.	我要和你坐在一起。	yako 'am maS'ae:aeng kiSo'on.
+538	korkoring rikrika:en ma:hahila: ray hikor.	小孩熱到背後都長痱子。	小孩熱到背後都長痱子。	korkoring rikrika:en ma:hahila: ray hikor.	小孩很熱會在背後玩。	korkoring rikrika: haba:an ila ka hikor.
+539	'omowaz ka kawaS 'am potngor ila 'isa:a' mango' ila.	當祈天祭快到時就進入禁忌期了。	當祈天祭快到時就進入禁忌期了。	'omowaz ka kawaS 'am potngor ila 'isa:a' mango' ila.	祈天祭快到了就放假了。	So: 'am 'a'owaz ila 'am maSpalaw ma' wa:i' ila ka Sinkahila:an.
+540	ray talobong ralom hayza' 'ima minayha'ha'.	杯子裡有滿滿的水。	杯子裡有滿滿的水。	ray talobong ralom hayza' 'ima minayha'ha'.	杯子裡的水有一樣的量。	hini talobong 'ina'amoehan ka ralom.
+541	hini kayba:en minSawi' ila.	這衣服破了。	這衣服破了。	hini kayba:en minSawi' ila.	這件衣服破了。	hini kayba:en minSawi' ila.
+542	yako monpoSal ka 'am rima' komita' ka singsangan.	我看醫生去了二次。	我看醫生去了二次。	yako monpoSal ka 'am rima' komita' ka singsangan.	我二次要去看醫生。	yako rima' polrowa' ka sinsangan ka kina:at.
+543	hini Siba:i' mo:law ila.	這條蛇脫皮了。	這條蛇脫皮了。	hini Siba:i' mo:law ila.	這條蛇脫皮了。	hini Siba:i' minkowis ila.
+544	haba:an ila 'akoey ila nga:aw.	夏天到，蒼蠅就多了。	夏天到，蒼蠅就多了。	haba:an ila 'akoey ila nga:aw.	夏天了很多雨。	haba:an ila potngor 'akoey ila ka kae'tim.
+545	yaba' rikrika:en 'ana kano' kasi'aelen ma' ngi:SiSan.	爸爸熱得什麼都沒有味口。	爸爸熱得什麼都沒有味口。	yaba' rikrika:en 'ana kano' kasi'aelen ma' ngi:SiSan.	爸爸熱了無論要吃什麼都會。	yaba' kin rikrika: 'oka' ila i sazeken.
+546	hini howaw pakSahpi:ihin ila ray kapatawawan ma' manga'nga' ila.	這件事情讓他過了工作就會很順利了。	這件事情讓他過了工作就會很順利了。	hini howaw pakSahpi:ihin ila ray kapatawawan ma' manga'nga' ila.	這件事情讓人很辛苦,就忘記了。	hini howaw patae'aes ila hisiya ka kapatawawan ma' 'am kayzaeh ila.
+547	So'o paywa' 'in siya a ka:i'.	你順著他的話。	你順著他的話。	So'o paywa' 'in siya a ka:i'.	你跟她講話不聽。	So'o tilkoring ka nisiya ka pinanabih.
+548	tata:a' sopaloy ka palaeh 'isa:a' Sekla'en hiza ka balaS.	雞冠大是辨別公雞的方法。	雞冠大是辨別公雞的方法。	tata:a' sopaloy ka palaeh 'isa:a' Sekla'en hiza ka balaS.	雞的骨很大,所以認識那條腰。	tata:a' ka rarahoe'an katinekoringan ka tata:a'.
+549	pansaehsaeh ka kayba:en niSo' hahi:il ka ra:i'.	把你的衣服抖一抖都是泥土。	把你的衣服抖一抖都是泥土。	pansaehsaeh ka kayba:en niSo' hahi:il ka ra:i'.	你的衣服土都是木泥。	niSo' kayba:en hangra:en hahi:il ka ra:i'.
+550	paSa:eng naehan ka tatini' tapayaka:i' ila!	先讓老人家坐再說吧！	先讓老人家坐再說吧！	paSa:eng naehan ka tatini' tapayaka:i' ila!	先請祖先坐下來說明!	pakSa:o' naehan ka tatini' ma' payaka:i' ila!
+551	panga' nimon pa'alhapaeh ila.	樹枝被你們拉斷了。	樹枝被你們拉斷了。	panga' nimon pa'alhapaeh ila.	你們把樹枝割成竹了。	panga' niSo' taSi'in ila.
+552	ya:o 'am pahoehoe' ka korkoring naehan.	我在餵小孩吃奶。	我在餵小孩吃奶。	ya:o 'am pahoehoe' ka korkoring naehan.	我還要奶。	yako mam pahoehoe' ka korkoring kasi'aelen.
+553	'izi' pa'ayna:a' ka 'ima haeba:an kin honaehnge:!	不要讓大家久等！	不要讓大家久等！	'izi' pa'ayna:a' ka 'ima haeba:an kin honaehnge:!	不要讓有空的地方很久!	'izi' pak'akoey 'ayna:a' ka saboeh!
+554	yako pa'o:ol hi maya' ka kawkinsi'ael.	我請maya'幫我留午餐。	我請maya'幫我留午餐。	yako pa'o:ol hi maya' ka kawkinsi'ael.	我叫 maya' 幫我送午餐。	yako paSorangi' hi maya' ka kawkinsi'ael.
+555	tatimae' pil'asay o!	菜要煮熟喔！	菜要煮熟喔！	tatimae' pil'asay o!	菜要煮熟!	talek ka tatimae' 'as'asay o!
+556	niSo' pinaywa:ak kayba:en ma'an mari'in baehi'in hiba:en naehan.	你丟掉的衣服我拿來洗一洗還再穿。	你丟掉的衣服我拿來洗一洗還再穿。	niSo' pinaywa:ak kayba:en ma'an mari'in baehi'in hiba:en naehan.	你蓋的衣服我拿去洗先把它穿起來。	niSo' Sipawka' kayba:en ma'an 'araSen baehi'in, baehi' ila hiba:en.
+557	hiza por'oe' 'inomaS ni 'oya' pinak'ae:'ae:iw.	那個鹹菜是媽媽拿來晒乾的。	那個鹹菜是媽媽拿來晒乾的。	hiza por'oe' 'inomaS ni 'oya' pinak'ae:'ae:iw.	那個青菜是媽媽過的。	hiza por'oe' ni 'oya' rinene: ka pak'ap'apoeh.
+558	niSo' bekeS hayza' ila ka pongaw.	你有白頭髮了。	你有白頭髮了。	niSo' bekeS hayza' ila ka pongaw.	你的頭髮有花紋。	So'o hayza' ila ka 'ima bolalasan ka bekeS.
+559	yako ki 'oya' mam poepoe:oeh ka por'oe'.	我和媽媽正在揉芥菜。	我和媽媽正在揉芥菜。	yako ki 'oya' mam poepoe:oeh ka por'oe'.	我和媽媽在青菜。	yako ki 'oya' mam romahkap ka tatimae'.
+560	Sina:iS pinakisa'oe' koSa'en poe'oe'.	繩子打結稱為結。	繩子打結稱為結。	Sina:iS pinakisa'oe' koSa'en poe'oe'.	"紋結的叫做""toe'e:e""。"	hahiwa' seti:en koSa'en tiSkoy.
+561	yako 'ina 'ae'ae:aew ngizo', ma'an poepoe'oe' haysiya biSbiS.	我跑步跌倒，我的腳踝還在痛。	我跑步跌倒，我的腳踝還在痛。	yako 'ina 'ae'ae:aew ngizo', ma'an poepoe'oe' haysiya biSbiS.	我曾經跌倒,我的關節也痛。	yako 'in'ae'ae:aew ngizo', ma'an sasbong 'iyapangih naehan.
+562	Sa'ila rahi: ka kayba:en!	去晾衣服！	去晾衣服！	Sa'ila rahi: ka kayba:en!	去衣服!	Sa'ila rokrok ka kayba:en!
+563	yako ra:am kiSka:at.	我會讀書。	我會讀書。	yako ra:am kiSka:at.	我很會讀書。	ya:o ra:am kiSka:at.
+564	kakhayza'an hayza' ka SaySiyat ray homza' rowaSek.	以前有賽夏族人居住在rayhomza'。	以前有賽夏族人居住在rayhomza'。	kakhayza'an hayza' ka SaySiyat ray homza' rowaSek.	以前在山有賽夏族人居住。	kakhayza'an hayza' ka SaySiyat 'ima rowaSek rayhomza'.
+565	lasiya raylis ka 'inka mae'iyaeh a rayhil, 'aewhay a tomal.	他們搶奪別人的錢非常壞。	他們搶奪別人的錢非常壞。	lasiya raylis ka 'inka mae'iyaeh a rayhil, 'aewhay a tomal.	他們搶人家的錢,很不好。	lasiya marma' romakep ka rayhil 'in noka mae'iyaeh a tomal.
+566	'izi' raylis ka 'ansiya'a kayba:en!	不要搶他的衣服！	不要搶他的衣服！	'izi' raylis ka 'ansiya'a kayba:en!	不要搶他的衣服!	'izi' rae:iw ka hini kayba:en!
+567	ray kaehoy babaw hayza' ka kabkabaehae:	樹上有個鳥巢。	樹上有個鳥巢。	ray kaehoy babaw hayza' ka kabkabaehae:	樹上有鳥。	kaehoy babaw hayza' 'aehae' noka kabkabaehae: a hines'el.
+568	'ae'aew rino:o' 'iyakin.	'ae'aew是取名於我的。	'ae'aew是取名於我的。	'ae'aew rino:o' 'iyakin.	'ae'aew叫我。	'ae'aew rino:o' ma'an.
+569	hini mae'iyaeh ni 'ataw rino:o'an.	這個人取名於 'ataw。	這個人取名於 'ataw。	hini mae'iyaeh ni 'ataw rino:o'an.	這個人是'ataw的名字。	hini mae'iyaeh rino:o' hi 'ataw.
+570	tomalek ka tatimae' ropa:en sowiti' ka pinobae:aeh kayzaeh si'aelen.	煮菜時加一點酒很好吃。	煮菜時加一點酒很好吃。	tomalek ka tatimae' ropa:en sowiti' ka pinobae:aeh kayzaeh si'aelen.	煮菜要放點酒才好吃。	'am tomalek ka tatimae' So: tomilhoel sowiti' ka pinobae:aeh kayzaeh si'aelen.
+571	rotroton ka kaehoy kaSahoe'en!	多集中要燒的木頭！	多集中要燒的木頭！	rotroton ka kaehoy kaSahoe'en!	集中要燒的木頭!	pak'akoey ka kaehoy kaSahoe'en!
+572	ni minayti' hinbasezan hahila: 'oya' soma'oe' 'aehae' 'ima ngangilaehan totoS 'inisiya.	妹妹生日時媽媽送了一件紅色裙子給他。	妹妹生日時媽媽送了一件紅色裙子給他。	ni minayti' hinbasezan hahila: 'oya' soma'oe' 'aehae' 'ima ngangilaehan totoS 'inisiya.	妹妹的生日媽媽送了一份紅色給他。	So: minayti' Sapang ila 'oya' Somahoe' ka 'ima ngangilaehan ka totoS 'ini siya.
+573	yami 'aehae' taew'an pak'a'inowa' ki tatilhaehael saboeh.	我們一家人一定都要彼此相愛與互相幫助。	我們一家人一定都要彼此相愛與互相幫助。	yami 'aehae' taew'an pak'a'inowa' ki tatilhaehael saboeh.	我們一家人全部都是老婆們。	'ita' 'aehae' taew'an ma' pakpaka'alo'an ki tatilhaehael.
+574	So'o 'izi' ta:a' hi siya.	你不要堵他。	你不要堵他。	So'o 'izi' ta:a' hi siya.	你不要認識他。	So'o 'izi' ho'hot hisiya.
+575	'izi' takahiza 'am mayaka:i'!	不要那樣說！	不要那樣說！	'izi' takahiza 'am mayaka:i'!	不要那樣說話!	'izi' nakhini payaka:i'!
+576	ta:os bali' o 'ibabaw.	ta:os又瘦又高。	ta:os又瘦又高。	ta:os bali' o 'ibabaw.	ta:os是矮的又高的。	ta:os bali' o 'ibabaw.
+577	"yaba' Sa', ""'izi' ta:oS ka kasnaw!"""	爸爸說：「不要撈湯！」	爸爸說：「不要撈湯！」	"yaba' Sa', ""'izi' ta:oS ka kasnaw!"""	爸爸說:「不要洗湯!」	"yaba' komoSa', ""izi' pae'oe: ka kasnaw!"""
+578	'am paSta'ay ila, tamol ila ka pinoSakan.	paSta'ay快到了，釀造糯米酒了。	paSta'ay快到了，釀造糯米酒了。	'am paSta'ay ila, tamol ila ka pinoSakan.	矮靈祭快要了,米酒。	paSta'ay 'am potngor ila, poSak ila ka pinoSakan.
+579	tangtang kaSotatimae'an.	挖地要種菜的。	挖地要種菜的。	tangtang kaSotatimae'an.	樹是菜園。	kowih ka ra:i' kapamowa'an ka tatimae'.
+580	roSa' balaS tata:a' mam tatangoe'.	二隻公雞在互啄。	二隻公雞在互啄。	roSa' balaS tata:a' mam tatangoe'.	二隻公雞在叫。	roSa' tata:a' mam 'a'itol.
+581	paSbaki' somi'ael ka tinawbon tatimae' 'aelaw ki 'ayam.	祖靈祭時吃糯米糕，菜是魚和肉。	祖靈祭時吃糯米糕，菜是魚和肉。	paSbaki' somi'ael ka tinawbon tatimae' 'aelaw ki 'ayam.	祖靈祭吃米糕是要用魚和肉一起煮的。	paSbaki' ila somi'ael ka tinawbon, tatimae' noka 'aelaw ki bori:.
+582	koko' komoSa' siya biSbiS ka ta'oeloeh.	祖母說他頭痛。	祖母說他頭痛。	koko' komoSa' siya biSbiS ka ta'oeloeh.	奶奶說他頭很痛。	koko' komoSa' siya biSbiS ka tae'oeloeh.
+583	So'o ta:nanaw ni 'oya' ka tatimae'.	你常常白拿媽媽的菜。	你常常白拿媽媽的菜。	So'o ta:nanaw ni 'oya' ka tatimae'.	媽媽幫你菜。	So'o rengreng marma' ni 'oya' ka tatimae'.
+584	hini kaehoy kin 'ibabaw 'aewhay ka ta:'itolon.	這棵樹很高不好爬。	這棵樹很高不好爬。	hini kaehoy kin 'ibabaw 'aewhay ka ta:'itolon.	這棵樹這麼高不好爬。	hini kaehoy 'ibabaw a tomalan 'aewhay kaSakapen.
+585	hini tamako' ni mama' binae:iw 'ini baki'.	這些菸草是叔叔買給祖父的。	這些菸草是叔叔買給祖父的。	hini tamako' ni mama' binae:iw 'ini baki'.	這個子是叔叔給爺爺買的。	hini 'iri: mama' binae:iw ni mama' 'ini baki'.
+586	tata' mina kakhayza'an Sapang nom baba:ok.	小米是早期最重要的主食。	小米是早期最重要的主食。	tata' mina kakhayza'an Sapang nom baba:ok.	小米是以前食用的。	tata' kakhayza'an 'ima minremreme: ka tatimae'.
+587	tilka: ila!	天亮了！	天亮了！	tilka: ila!	亮起來了!	Sera: ila!
+588	ma'an kayzaeh ila ka tinal'oemaeh.	我的田耕好了。	我的田耕好了。	ma'an kayzaeh ila ka tinal'oemaeh.	我的年紀滿了。	ma'an pinatiyay kayzaeh ila.
+589	tintin ka hini 'aelaw 'iniman!	幫我秤這條魚！	幫我秤這條魚！	tintin ka hini 'aelaw 'iniman!	幫我量這條魚!	kilo' ka hini 'aelaw 'iniman!
+590	yako langpez ila tinal'oemaeh.	我十歲了	我十歲了	yako langpez ila tinal'oemaeh.	我十年沒有家。	yako lampez ila tinal'oemaeh.
+591	hini Si'Si' toli:in ila.	這些米被米蟲繭成一串串的了。	這些米被米蟲繭成一串串的了。	hini Si'Si' toli:in ila.	這個米被水了。	hini Si'Si' noka SibSi' paSpaSkan ila.
+592	kalih tomata: ma'an ka tinokoeh sitaew.	kalih踩踏我播種的蘿蔔。	kalih踩踏我播種的蘿蔔。	kalih tomata: ma'an ka tinokoeh sitaew.	kalih在我播的。	kalih kaSarak ma'an ka tokoehen.
+593	'ae'aew mam 'omomaS ka por'oe' tomata: ka por'oe'.	'ae'aew正在用腳踩來醃青菜。	'ae'aew正在用腳踩來醃青菜。	'ae'aew mam 'omomaS ka por'oe' tomata: ka por'oe'.	'ae'aew正在青菜菜。	'ae'aew mam 'opi: ka 'at'atip SomikSik ka por'oe'.
+594	So'o toma:'alay 'iyakin, ya:o 'isa:a' Somobae:oeh ila 'iSo'on.	你惹我，我才報復你的。	你惹我，我才報復你的。	So'o toma:'alay 'iyakin, ya:o 'isa:a' Somobae:oeh ila 'iSo'on.	你挑我,我就再跟你還反。	So'o komawsiya' 'iyakin, ma'an So'on tibae:oeh.
+595	towanay niSo' Say kabih no wasal o ra:am malnoSaySiyat kita'en.	你嫂嫂來自海外但看起來很會說賽夏族語。	你嫂嫂來自海外但看起來很會說賽夏族語。	towanay niSo' Say kabih no wasal o ra:am malnoSaySiyat kita'en.	你的在海的另一邊會看起來是賽夏族人。	So'o 'ata' mowa:i' ray kaSkaSnapenan o SaSaySiyat ra:am a tomal.
+596	hiza korkoring 'okik bazae', wakit ka sale'e: nisiya.	那個孩子講不聽，轉他的耳朵。	那個孩子講不聽，轉他的耳朵。	hiza korkoring 'okik bazae', wakit ka sale'e: nisiya.	那個小孩不聽話,著他的耳朵。	hiza korkoring 'okik bazae' payaka:i'in, tilbel ka sale'e:.
+597	hosong 'ima 'aytiway ray wa:or babaw.	猴子盪在葛藤上。	猴子盪在葛藤上。	hosong 'ima 'aytiway ray wa:or babaw.	子在深山上吊高。	pazay ka'ilo'an ray poSi'.
+598	ze:ez ka 'inmana'a kapapama'an!	開我的車！	開我的車！	ze:ez ka 'inmana'a kapapama'an!	幫我開車!	boehi' ka 'inmana'a kapapama'an!
+599	'oya' mam zomi:iz ka tata' ka tawbonen.	媽媽在篩要做成米糕的小米。	媽媽在篩要做成米糕的小米。	'oya' mam zomi:iz ka tata' ka tawbonen.	媽媽正在小米打成糕。	'oya' mam tomangra: ka tata' nom pakhita'.
