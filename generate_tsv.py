@@ -10,7 +10,7 @@ import sys
 import pandas as pd
 
 TRACKED_WORK = "tracked_work"
-CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/", "omorim": "o/", "kevin": "k/"}
+CONTRIBUTORS = {"work": "", "joseph": "j/", "deborah": "d/", "omorim": "o/", "kevin": "k/", "kuo-wang": "kw/"}
 
 MODEL_ABBREVIATIONS = {
     "facebook/nllb-200-3.3B": "NLLB-200-3.3B",
