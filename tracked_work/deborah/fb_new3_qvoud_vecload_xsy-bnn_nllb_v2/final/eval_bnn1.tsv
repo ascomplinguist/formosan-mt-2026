@@ -1,0 +1,552 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	Aiza isia bukzavcia bulbu.	在平地那邊有噴泉。	在平地那邊有噴泉。	Aiza isia bukzavcia bulbu.	那個子有花朵。	Aiza a dalah hai, aiza a isia minkuzakuza.
+1	Kalingku hai, antankinuz ludun.	花蓮在山的後面。	花蓮在山的後面。	Kalingku hai, antankinuz ludun.	我的小腿被到。	Maza lutbu hai, isia ludun.
+2	Bunun hai, mastan mas liskad Kamisama.	布農族有很多人信仰上帝。	布農族有很多人信仰上帝。	Bunun hai, mastan mas liskad Kamisama.	布農族的祖先是祖父。	Bunun hai, supah a bunun tu sinkalahang.
+3	Bunun mais ana niang liskad Kamisama hai, ana maldaukang makakavas.	布農族如果仍未信仰上帝，也可能還在出草。	布農族如果仍未信仰上帝，也可能還在出草。	Bunun mais ana niang liskad Kamisama hai, ana maldaukang makakavas.	布農族如果有女主持人,就會舉行大選。	Maza Bunun hai, mais nii tu mahtu kaimin a bunun, ma'az isia minkuzakuza.
+4	Mastaan Savi mas Langus mapucis.	莎碧比拉烏絲矮。	莎碧比拉烏絲矮。	Mastaan Savi mas Langus mapucis.	薩維和蘭古斯交合。	Maza Sahu hai, madaing mas Bilaus.
+5	Maital hai, kauman mas Pula tu ima tu painsanan.	麥達兒比布拉小五歲。	麥達兒比布拉小五歲。	Maital hai, kauman mas Pula tu ima tu painsanan.	子的手被水泡到。	Madat hai, masnanava tu Bulacia tu painsanan.
+6	Aiza kikai tu abula, aiza kakaunun tu abula.	有機械用油，也有食用油。	有機械用油，也有食用油。	Aiza kikai tu abula, aiza kakaunun tu abula.	有的玉米,也有可吃的玉米。	Aiza mas utung hai, aiza mas kakaun.
+7	Kaa tu katmang matakunav mas ahil!	不要亂丟紙屑！	不要亂丟紙屑！	Kaa tu katmang matakunav mas ahil!	不要到草!	Kaa tu sin'aaz mas patasan!
+8	Aiza supah a vaivivaivi tu ahil.	有許多各式各樣的書。	有許多各式各樣的書。	Aiza supah a vaivivaivi tu ahil.	有很多不同的種類。	Supah a sinkavaazan tu patasan.
+9	. Mazima saikin makusia ahumushut.	我喜歡用套頸陷阱。	我喜歡用套頸陷阱。	. Mazima saikin makusia ahumushut.	我喜歡用子。	Mazima saikin mas pataskal.
+10	Aiphaav a sanglava.	汆燙那些青菜。	汆燙那些青菜。	Aiphaav a sanglava.	把那個子拿下來。	Pisav a bunuaz.
+11	Aiza sui isian pankaka.	桌上有錢	桌上有錢	Aiza sui isian pankaka.	有錢要留在這裡。	Aizaan a sui sia talka.
+12	Aizain tu punciun nii tu mapasadu.	已經有三年沒相見了。	已經有三年沒相見了。	Aizain tu punciun nii tu mapasadu.	這張紙沒有。	Maza talusbu hai, nii tu sinkavaazan.
+13	Inaiza dau habas a uvaaz min'uni mas sisiun.	從前曾經有小孩變成蜥蜴。	從前曾經有小孩變成蜥蜴。	Inaiza dau habas a uvaaz min'uni mas sisiun.	從前小孩常常草。	Habasang hai, aiza uvaazan mas kaviaz.
+14	Akatainavang a atala ii mustub.	請繞過那一條橋，因為斷了。	請繞過那一條橋，因為斷了。	Akatainavang a atala ii mustub.	請把那些子放在水裡。	Maza haising hai, aupa minkuzakuza.
+15	Maaz a almananuunsu napalkadaan?	甚麼是你努力要做的事？	甚麼是你努力要做的事？	Maaz a almananuunsu napalkadaan?	請問你到底要寫什麼?	Maaz isuu sinkavaazan?
+16	Makua isuu alngangausan laupaku?	你的人生目標是如何？	你的人生目標是如何？	Makua isuu alngangausan laupaku?	你的子怎麼長得這麼大?	Maaz isuu sin'av tu kaviaz?
+17	Altalaanku a inaak uvaaz sia pasnanavaan mais sanavanin.	晚上到來時，我在學校等我的孩子。	晚上到來時，我在學校等我的孩子。	Altalaanku a inaak uvaaz sia pasnanavaan mais sanavanin.	我在學校教孩子課程。	Mais malamantaz hai, saikin isnavaan tu uvaazan mas inaak tu uvaaz.
+18	Saduanku a aluaza tu macisbai.	那隻老鼠逃走被我看到。	那隻老鼠逃走被我看到。	Saduanku a aluaza tu macisbai.	那個小孩的頭髮被我了。	Maza haikus hai, mahansiap saikin.
+19	Kaa tu anatun a iskaana.	不要讓那條魚被煮了。	不要讓那條魚被煮了。	Kaa tu anatun a iskaana.	不要把魚起來。	Kaa tu iskaan mas iskaan hai, asa tu sinkalun.
+20	kaa tu anghailu mas palimapadangi tu samu.	結婚習俗的禁忌不得違背。	結婚習俗的禁忌不得違背。	kaa tu anghailu mas palimapadangi tu samu.	不要用空飛的船來搭。	Maza sinkainsanan hai, nii tu mahtu mal'uni.
+21	Antabanun mas naungcia a iskaana.	魚被那隻貓帶走了。	魚被那隻貓帶走了。	Antabanun mas naungcia a iskaana.	那條魚被起來。	Maza iskaan hai, pas'aun mas itu kalangian.
+22	Sinpaska mas uvaaz hai, antalauninku.	孩子送的禮物我收到了。	孩子送的禮物我收到了。	Sinpaska mas uvaaz hai, antalauninku.	我被孩子抱到。	Maza uvaaz tu sinpahuudan hai, isia saikin mastaan.
+23	Maza isuu patasana hai, pisainuninku sia antandaza pangkakacia.	你的那本書我放在那邊的桌子上面了。	你的那本書我放在那邊的桌子上面了。	Maza isuu patasana hai, pisainuninku sia antandaza pangkakacia.	你的書被我放在那個椅子上。	Maza isuu patasan hai, paspasiaunku mas talka.
+24	Antandingalanan hai, itu Savi tu pissanglavan.	旁邊這裡是莎碧的菜園。	旁邊這裡是莎碧的菜園。	Antandingalanan hai, itu Savi tu pissanglavan.	子的祖先是白羊。	Maza haising hai, itu Sa'ila tu sinpaazan.
+25	"Isia antankinuz luduncia hai, aiza dalah tupaun tu ""maslingan""."	在後面那座山裡，有個地方被叫做「悅耳之地」。	在後面那座山裡，有個地方被叫做「悅耳之地」。	"Isia antankinuz luduncia hai, aiza dalah tupaun tu ""maslingan""."	在那個山上有很多子。	Aiza a dalah sia ludun hai, aiza tu lumah mas isnavaan.
+26	Sima astalaan mas maluspingazcia?	那個女人在等誰？	那個女人在等誰？	Sima astalaan mas maluspingazcia?	誰打那個小孩?	Maza minkavi hai, matuduu mas inaak?
+27	Atukailakinun a tamahudas, aupa uncinian sia lumah.	爺爺很可憐，因為獨居。	爺爺很可憐，因為獨居。	Atukailakinun a tamahudas, aupa uncinian sia lumah.	請把子綁起來,因為在家裡很難。	Maza baki hai, mahtu a namasa tu haising.
+28	Aiza inaak tu paat auhaz.	我有四隻小豬。	我有四隻小豬。	Aiza inaak tu paat auhaz.	我有四個小孩。	Aizaan saikin mas tulkuk.
+29	Aukbasunin a tambunguan.	枕頭翻面了。	枕頭翻面了。	Aukbasunin a tambunguan.	那個子被打破了。	Maza haising hai, minuhut.
+30	Aunbanciahun a auhaza mas kalangkangcia.	那隻小豬被那隻母豬壓住。	那隻小豬被那隻母豬壓住。	Aunbanciahun a auhaza mas kalangkangcia.	那些小孩被那隻子咬傷。	Maza babu hai, maliskin mas itu babu.
+31	Aunbiskav saikin mas kupucia.	我移開那個杯子。	我移開那個杯子。	Aunbiskav saikin mas kupucia.	我把那隻雞解掉了。	Maza aung hai, ispaluhusku.
+32	Masial a sinsumbang aupa masial a baak.	呼吸得很好，因為肺很好。	呼吸得很好，因為肺很好。	Masial a sinsumbang aupa masial a baak.	豬肉很好吃,因為牠的胃很大。	Maza hahasas hai, mahtu a isia minkuzakuza.
+33	Mais painduan mas babangu tu pandian hai, nii'in mahtu kaunun.	被綠頭蒼蠅停過的菜不可以吃。	被綠頭蒼蠅停過的菜不可以吃。	Mais painduan mas babangu tu pandian hai, nii'in mahtu kaunun.	豬肉被過的地方不能吃。	Maza sinsistuh mas ka'unian hai, nii tu kanmang.
+34	Mais tatangis tu uvaazan hai, supah a bahbah.	一直哭的小孩很多眼淚。	一直哭的小孩很多眼淚。	Mais tatangis tu uvaazan hai, supah a bahbah.	小孩哭的時候很多。	Maza minangis tu uvaaz hai, supahan mas kaung.
+35	mahtu a ituvali bahis mapihaliv mas maduh.	陽光的溫度能夠曬乾小米。	陽光的溫度能夠曬乾小米。	mahtu a ituvali bahis mapihaliv mas maduh.	子可以用來打小米。	Maza habasang tu sin'auk hai, mahtu masuhut mas maduh.
+36	mais kalatun mas bahusaz hai, cincistak a lutbu.	被虎頭蜂咬的話身體會腫起來。	被虎頭蜂咬的話身體會腫起來。	mais kalatun mas bahusaz hai, cincistak a lutbu.	子被獵殺時,我的身體會受傷。	Mais ma'avun mas balivus hai, mahtu a supah.
+37	Maku'uni mas lukis ka'uni mas bakalhaili.	用木頭製作刀鞘。	用木頭製作刀鞘。	Maku'uni mas lukis ka'uni mas bakalhaili.	把樹來裝子。	Maza lukis hai, pakisaip mas haising.
+38	Nakusian a naia huma kilim mas balangbangaz tu lisav.	他們要到田裡找假酸醬的葉子。	他們要到田裡找假酸醬的葉子。	Nakusian a naia huma kilim mas balangbangaz tu lisav.	他們的田地被草蟲咬過。	Asa naia laupaku sia huma hai, asa tu iskasim mas maduh.
+39	Balivav amin a bainu'a.	也去買豆子。	也去買豆子。	Balivav amin a bainu'a.	請把那些子全部打開。	Maza habasin hai, asa tu manmuav mas bahi.
+40	Habasang Bunun tu bananaz hai, mazima hanup.	古時候布農族的男人喜歡打獵。	古時候布農族的男人喜歡打獵。	Habasang Bunun tu bananaz hai, mazima hanup.	古時候布農族的男子喜歡打獵。	Habasang Bunun tu bunun hai, mazima maun mas hanup.
+41	Mais luvluvan hai, bizakbizak amin a lukis, ismuut.	刮風的時候，所有樹和草都搖動。	刮風的時候，所有樹和草都搖動。	Mais luvluvan hai, bizakbizak amin a lukis, ismuut.	雨下了,樹都被斷。	Mais balivusan hai, paindadaan amin a lukis mas kaung.
+42	Masmuh tu bunun hai, supahan amin mas bizuh.	肥胖的人很多脂肪。	肥胖的人很多脂肪。	Masmuh tu bunun hai, supahan amin mas bizuh.	的人很多。	Maza madadaingaz tu bunun hai, supahan mas ismang.
+43	Mintuhumin a buan.	是下弦月了。	是下弦月了。	Mintuhumin a buan.	月亮在下山。	Maza isia minkuzakuza tu bulan.
+44	Supah a buhlai sian batucia.	那個石頭有許多白黴。	那個石頭有許多白黴。	Supah a buhlai sian batucia.	那塊石頭上很多。	Maza batu hai, supahan mas kaung.
+45	Mais aiza madahpa hai, asa tu ispasumsum bukusi.	有病人的話，要請牧師為他禱告。	有病人的話，要請牧師為他禱告。	Mais aiza madahpa hai, asa tu ispasumsum bukusi.	有飢餓時,必須肚子。	Aiza mas habas tu bunun hai, asa tu patasanan mas pasnanava.
+46	Maza samu hai, itu Bunun habasang tu bungka.	禁忌是布農族從前的文化。	禁忌是布農族從前的文化。	Maza samu hai, itu Bunun habasang tu bungka.	山是布農族古老的樹林。	Maza haitu hai, Bunun tu sin'anan mas kaviaz.
+47	Pia tu sui isuu a bustunan?	你這個手鐲多少錢？	你這個手鐲多少錢？	Pia tu sui isuu a bustunan?	你那個胸口多少錢?	Maza isuu sinlatu tu sui?
+48	Mais tausmuav mas davus hai, naminkuang a cibuklav.	喝太多酒的話胃會壞掉。	喝太多酒的話胃會壞掉。	Mais tausmuav mas davus hai, naminkuang a cibuklav.	洗的時候,我會把水泡起來。	Mais mahtu mas pishang hai, kaunun mas ismuut.
+49	Pia a ituhanvangcia cibuklav i?	那頭牛有幾個胃？	那頭牛有幾個胃？	Pia a ituhanvangcia cibuklav i?	那個子的下巴是什麼?	Maza itu balivus hai, aiza a isia kaaz?
+50	Mupulpulin a cidanuman.	鏡子破了。	鏡子破了。	Mupulpulin a cidanuman.	泉水被噴了。	Maza ismuhaiv hai, minpuus.
+51	Maza inaak cina hai, nacihaalun mas kuisang mais kutunin. ey	我母親明天要給醫生檢查身體。	我母親明天要給醫生檢查身體。	Maza inaak cina hai, nacihaalun mas kuisang mais kutunin. ey	我的媽媽在工作時,用力。	Inaak cina hai, asa tu kauman mas cici hai, asa tu isia sinkaun mas itupa.
+52	Adu cinbilva mais hudanan?	雨天會打雷嗎？	雨天會打雷嗎？	Adu cinbilva mais hudanan?	春天的時候有沒有雨?	Maza daivus hai, mahtu a isia minkuzakuza?
+53	Cinbubulauk a itu uvaaz tu lutbu.	那個小孩的身體長水痘。	那個小孩的身體長水痘。	Cinbubulauk a itu uvaaz tu lutbu.	小孩的肚子很大。	Maza uvaazcia tu ka'unian hai, mintuhki.
+54	Cincisucisu a dingki, aat cinciahavciahav a inaak mata.	燈光閃爍，我的眼睛一直blink。	燈光閃爍，我的眼睛一直blink。	Cincisucisu a dingki, aat cinciahavciahav a inaak mata.	子被我咬,我的眼睛也一直在閃。	Maza lampungu hai, saikin masamu tu mata.
+55	Mais labian hai, usaduan mas bintuhan tu cincisucisu dadaza sia dihanin.	夜裡，可以看見星辰在天上閃爍。	夜裡，可以看見星辰在天上閃爍。	Mais labian hai, usaduan mas bintuhan tu cincisucisu dadaza sia dihanin.	夜晚的時候,在門口拿著子。	Mais malamantaz hai, mahtu kaita mas balivus sia dihanin.
+56	Cinsauk a saia tu makasian masupadan.	他彎腰在芒草叢中通過。	他彎腰在芒草叢中通過。	Cinsauk a saia tu makasian masupadan.	他把他的朋友叫出去。	Maza isaicia tu sin'av sia paaz hai, isia paspasupah.
+57	Sanavan tu cinsiva a saikin mais masabah.	我在晚上九點的時候睡覺。	我在晚上九點的時候睡覺。	Sanavan tu cinsiva a saikin mais masabah.	我打破了這個子,如果能跑步。	Maza inaak tu habasan hai, makasia mahansiap.
+58	Mais ikliva mas kakaunun hai, cinsungasunga a lutbu.	誤吃食物的話，身體會過敏。	誤吃食物的話，身體會過敏。	Mais ikliva mas kakaunun hai, cinsungasunga a lutbu.	吃飯的時候,頭髮會發。	Mais maun mais kaunun hai, mahtu a isuu.
+59	Cisduan a isaicia sinpal'ahu mas babu.	他所設的陷阱捉到山豬。	他所設的陷阱捉到山豬。	Cisduan a isaicia sinpal'ahu mas babu.	他把豬放到被住。	Maza isaicia sinlauk hai, mahtu mas babu.
+60	maza isian bukzav tu daan hai, mangabzan.	平地的路很寬。	平地的路很寬。	maza isian bukzav tu daan hai, mangabzan.	的路很寬。	Maza daing hai, masial a daan.
+61	maza isia Tai'uancin hai, supah a daanbasu.	在台灣這裡，公路很多。	在台灣這裡，公路很多。	maza isia Tai'uancin hai, supah a daanbasu.	在台灣有很多草。	Aiza Taituhcia, supah a daan.
+62	maza kusian inaak tu asang hai, aiza a daanbasu.	有公路通往我的家鄉。	有公路通往我的家鄉。	maza kusian inaak tu asang hai, aiza a daanbasu.	我的家有三個房間。	Aiza a daan hai, asa inaak tu lumah.
+63	adu masamu a naia mapadangi? Nii, nii tu makua, aupa dahda'in naia.	他們是否不許結婚？不，不要緊，因為他們親屬關係很遠。	他們是否不許結婚？不，不要緊，因為他們親屬關係很遠。	adu masamu a naia mapadangi? Nii, nii tu makua, aupa dahda'in naia.	他們有什麼好話要說嗎?他們不,因為很難。	Maza isaicia hai, nii tu mahtu masbah? aupa, kaa tu kaaz, aupa isia a naituan tu sinka'unian.
+64	maza isngaanan tu uvaaz hai, mapisial itutamacia tu dahis.	有名的孩子使父母臉上好看。	有名的孩子使父母臉上好看。	maza isngaanan tu uvaaz hai, mapisial itutamacia tu dahis.	孩子們的身體會受傷。	Maza madadaingaz uvaaz hai, asa tu masial mas tamacina.
+65	Maza hanvanga hai, daivuhdaivuh sia bangkalcia.	那隻牛在水田中滾來滾去。	那隻牛在水田中滾來滾去。	Maza hanvanga hai, daivuhdaivuh sia bangkalcia.	豬在那個山裡飛來飛去。	Maza itu lutbu hai, is'aang sia huma.
+66	maza isaincin dalahan hai, katsi'alan mas sinsusuaz.	這裡的土壤使作物長得好。	這裡的土壤使作物長得好。	maza isaincin dalahan hai, katsi'alan mas sinsusuaz.	這邊的樹林是種植菜園的地方。	Maza huma hai, mahtu mas sin'aang.
+67	Mu, umanin a inaak dalham.	我的臼齒拔掉了。	我的臼齒拔掉了。	Mu, umanin a inaak dalham.	請你我的水桶。	Maza inaak tu ka'av hai, mininiliskin.
+68	Maza davusBunun hai, maimaduh tu kai'unian.	布農酒是小米製成的。	布農酒是小米製成的。	Maza davusBunun hai, maimaduh tu kai'unian.	布農族的文化很強烈。	Maza Bunun hai, masuhud tu maduh.
+69	Maza davusBunun hai, makitvaivi tu ma'ansum sakun.	布農酒有獨特的香氣。	布農酒有獨特的香氣。	Maza davusBunun hai, makitvaivi tu ma'ansum sakun.	布農族的子有不同的長度。	Maza Bunun hai, aizaan mas isia tu sinpa.
+70	supahan a matahdung tu luum sian dihanin.	天空烏雲密佈。	天空烏雲密佈。	supahan a matahdung tu luum sian dihanin.	這裡很多的木頭。	Maza dihanin hai, is'aansuaz.
+71	Bunun hai, makanii tu miminang mas diil.	布農人不常種小麥。	布農人不常種小麥。	Bunun hai, makanii tu miminang mas diil.	布農族喜歡吃菜。	Bunun hai, nii tu sin'aang mas maduh.
+72	aldikusav a busulan.	抓住這支槍。	抓住這支槍。	aldikusav a busulan.	把那些子挖掉。	Kaupav a ispaltu.
+73	Maza tama hai, nadikut sian zakuancin.	爸爸即將留在我家過夜。	爸爸即將留在我家過夜。	Maza tama hai, nadikut sian zakuancin.	爸爸在家裡睡覺。	Tama hai, asa tu kaimin lumah.
+74	Mazima a saikin maunmas dulaz tu haising.	我喜歡吃糯米飯。	我喜歡吃糯米飯。	Mazima a saikin maunmas dulaz tu haising.	我喜歡吃米。	Mazima saikin maun mas maduh.
+75	maza habang hai, itumabananaz tu is'inhahalab tu pinainuk.	長上衣是男子用來盛裝打扮的衣服。	長上衣是男子用來盛裝打扮的衣服。	maza habang hai, itumabananaz tu is'inhahalab tu pinainuk.	子是我每年收的。	Maza sinsis hai, maza bunun tu ismu'uni mas haising.
+76	Habinav amin a kabaanga.	也把那個皮包藏起來。	也把那個皮包藏起來。	Habinav amin a kabaanga.	把那些子全部拿走。	Maza haising hai, pasiav.
+77	Asa tu habinun a ispapas'ah, ku'uni nakaunun mas ubuhcia.	必須把肥皂藏起來，免得會被那個嬰兒吃到。	必須把肥皂藏起來，免得會被那個嬰兒吃到。	Asa tu habinun a ispapas'ah, ku'uni nakaunun mas ubuhcia.	必須把子用來給那個小孩吃。	Asa tu pataskalun mas haising, aupa mahtu kaunun mas uvavaazcia.
+78	Maza hahalcisan hai, nii tu balivun.	這把剪刀不貴。	這把剪刀不貴。	Maza hahalcisan hai, nii tu balivun.	風不會吹。	Maza haising hai, nii tu sin'aang.
+79	Hailangan a inaam daan mas tulakudaingaz.	我們的路被大卡車阻礙。	我們的路被大卡車阻礙。	Hailangan a inaam daan mas tulakudaingaz.	我們的路被老鼠撞到。	Maza kaimin daan hai, masial mas maduh.
+80	Haizungzungav amin a paklisa.	把那條電線捲起來。	把那條電線捲起來。	Haizungzungav amin a paklisa.	子都被住了。	Pishut a uvaaza tu taluhus.
+81	Maza bunuazbusul hai, supahan mas halaisva.	梅子樹很多枯枝。	梅子樹很多枯枝。	Maza bunuazbusul hai, supahan mas halaisva.	子很多青菜。	Maza balivus hai, supahan mas ismuut.
+82	Nahaliliunku tangtangcipulan.	這些玉米粉要被我篩。	這些玉米粉要被我篩。	Nahaliliunku tangtangcipulan.	我一點頭。	Maza maduh hai, asa saikin masamu.
+83	Halmutan a kata laupaku mas mutmut.	我們現在被霧籠罩。	我們現在被霧籠罩。	Halmutan a kata laupaku mas mutmut.	子被蟲到。	Kaimin hai, minkuzakuza.
+84	Lapa'avan a ludun mais hamisan.	冬天時，山上下雪。	冬天時，山上下雪。	Lapa'avan a ludun mais hamisan.	雨下了,山崩。	Mais habasang hai, ismuut sia ludun.
+85	Nii saikin mahtu sisasaa isaicia tu hansu.	我受不了他的臭味。	我受不了他的臭味。	Nii saikin mahtu sisasaa isaicia tu hansu.	我不能看他的臉。	maza saikin hai, nii tu kaimin mas isaicia tu sinkaun.
+86	Aiza a inaak hanupan sian Saviahcia.	我在玉山那邊有獵場。	我在玉山那邊有獵場。	Aiza a inaak hanupan sian Saviahcia.	我在那座山上打獵。	Aiza saikin sia Maza balivus hai, aizaan mas hahanup.
+87	Maza tangtangmaduha hai, asa tu hasisiun.	那些小米粉要篩一篩。	那些小米粉要篩一篩。	Maza tangtangmaduha hai, asa tu hasisiun.	子必須被。	Maza maduh hai, asa tu mahtu mas haising.
+88	Hatulun a maduha dadaza sia patcilasan masangkun.	那些小米在穀倉裡被堆高儲藏。	那些小米在穀倉裡被堆高儲藏。	Hatulun a maduha dadaza sia patcilasan masangkun.	那些小米被在水池裡,很好吃。	Maza maduh hai, ispaliskin sia dalah.
+89	Asa tu pisialun kinsa a itu lai'lai hatumi.	要檢查好汽車的剎車。	要檢查好汽車的剎車。	Asa tu pisialun kinsa a itu lai'lai hatumi.	要把三隻小鼠綁起來。	Asa tu katmang mas kaviaz hai, asa tu ispaliskin.
+90	Maza sikaupa tu sinsusuaz hai, padangian amin mas hiliu.	所有的農作物都被施肥。	所有的農作物都被施肥。	Maza sikaupa tu sinsusuaz hai, padangian amin mas hiliu.	的種子都被草插了。	Maza amin sin'a'is hai, ispalumaz.
+91	Hulusiki hai, mahtu amin a hulusiki is'inhalab mas lutbu anis issubu mas bungu.	方巾也可以用來裝飾身體或包裹頭部。	方巾也可以用來裝飾身體或包裹頭部。	Hulusiki hai, mahtu amin a hulusiki is'inhalab mas lutbu anis issubu mas bungu.	子可以用來骨頭或骨。	Maza patasnas hai, mahtu amin mas ismuut a lutbu.
+92	Vaivivaivi amin a itubunun hupdal.	人的額頭各自不同。	人的額頭各自不同。	Vaivivaivi amin a itubunun hupdal.	子都各式各樣的。	maza bunun sin'aang hai, vaivivaivi tu.
+93	Hushusun mas saicia a sinbalunga.	那個牆壁被我粉刷。	那個牆壁被我粉刷。	Hushusun mas saicia a sinbalunga.	他把那些子綁起來。	Maza sinkuzakuza tu binlumah hai, ismuutunku.
+94	Idadaza a tutua habinunku sia tatapa.	我把鑰匙藏在置物架上。	我把鑰匙藏在置物架上。	Idadaza a tutua habinunku sia tatapa.	我把那個子放在床上。	Maza haising hai, ispaliskin saikin sia paang.
+95	Ikdadauka maun aupa nasuudan.	慢慢的吃因為會噎到。	慢慢的吃因為會噎到。	Ikdadauka maun aupa nasuudan.	我吃得太飽了。	Mananulu mais maun hai, asa tu mahtu kaunun.
+96	Mazima saikin maludah mas imauciu.	我喜歡打羽毛球。	我喜歡打羽毛球。	Mazima saikin maludah mas imauciu.	我喜歡蛋。	Mazima saikin mas balivus.
+97	Inbaav a sanglava.	水燙那些菜。	水燙那些菜。	Inbaav a sanglava.	請把那個子帶回來。	Pistazav a sinkuzakuza.
+98	Maza inmaihanvangan hai, tuzatuza tu manambuh.	煮過牛肉的湯水真的很香。	煮過牛肉的湯水真的很香。	Maza inmaihanvangan hai, tuzatuza tu manambuh.	子的長度很大。	Maza sinpaunun tu mai'uni hai, mastuhas a danum.
+99	Maza dadangian mas sidi tu dalah hai, isahan naicia.	羊住的地方啊，牠們會在那裡撒尿。	羊住的地方啊，牠們會在那裡撒尿。	Maza dadangian mas sidi tu dalah hai, isahan naicia.	子的皮帶被他抓住了。	Maza tupa hai, namasa maduh.
+100	Mazmaaz a isaincia isbabalivsu?	你在那裡賣的東西甚麼？	你在那裡賣的東西甚麼？	Mazmaaz a isaincia isbabalivsu?	那個子的價格是多少?	Maaz isuu tu sin'aunun?
+101	Balivun a isbabaliv laupakadau.	現在商品很貴	現在商品很貴	Balivun a isbabaliv laupakadau.	那些子今天被打破了。	Laupaku a isbabaliv hai, mahtu.
+102	Mais isbuklasan tu madadaingaz hai, naminbuklas amin a mailangna. isbuklasan a isaicia tamacina.	長輩富有智慧的話，晚輩也會變得有智慧。	長輩富有智慧的話，晚輩也會變得有智慧。	Mais isbuklasan tu madadaingaz hai, naminbuklas amin a mailangna. isbuklasan a isaicia tamacina.	打開窗戶的老人家,全都打開了。他們的父母也打開了。	Mais madadaingaz tu sinpaaz hai, mahtu isia masamu.
+103	Isbuklasan a isaicia tamacina.	他的父母很有智慧。	他的父母很有智慧。	Isbuklasan a isaicia tamacina.	他的父親被打到。	Maza isaicia tama hai, masnanava.
+104	Kantang sain tu iscicindun.	這個紡織機很簡單。	這個紡織機很簡單。	Kantang sain tu iscicindun.	請把這張紙起來。	Maza sinsis hai, mahtu a sinsis.
+105	Taunadaan saikin laupaku mas iskanaskal.	我現在遇到高興的事。	我現在遇到高興的事。	Taunadaan saikin laupaku mas iskanaskal.	我常常走路頭。	Maza saikin laupaku hai, asa tu sinkavaazan.
+106	Isaicia bahis hai, iskazavin.	他發燒已經退了。	他發燒已經退了。	Isaicia bahis hai, iskazavin.	他的子被砍掉了。	Maza isaicia sinkahuus hai, minkuzakuza.
+107	Iskusiavang a talulungan mais hudanan.	下雨時請用這把傘。	下雨時請用這把傘。	Iskusiavang a talulungan mais hudanan.	雨降的時候把田野翻修。	Mais maluhus hai, asa tu ka'unian mas talum.
+108	Islabainan saikin sia daan.	我還在路上，深夜就降臨了。	我還在路上，深夜就降臨了。	Islabainan saikin sia daan.	我被趕到路上。	Maza saikin habasang sia daan hai, mal'aituhanin.
+109	Islansan uvaaza mas tama kusia ludun hanup.	那個小孩偷偷跟隨父親去山上打獵。	那個小孩偷偷跟隨父親去山上打獵。	Islansan uvaaza mas tama kusia ludun hanup.	父母親帶那個小孩到山上打獵。	Maza uvaaz hai, malusbais mas tamacia kusia ludun.
+110	Maaz islaupa mas pais?	用什麼武器刺敵人？	用什麼武器刺敵人？	Maaz islaupa mas pais?	為什麼要殺死人?	Maaz a isia masamu tu sin'av?
+111	Makusia saikin isluluhus maluhus lukis.	我用繩子捆木頭。	我用繩子捆木頭。	Makusia saikin isluluhus maluhus lukis.	我昨天被我到樹。	Maza saikin hai, maluslus mas lukis.
+112	Mabaliva isluluhus, iskusia maluhus hangvang.	買條繩子，用來拴牛。	買條繩子，用來拴牛。	Mabaliva isluluhus, iskusia maluhus hangvang.	子用來魚。	Mabaliv a isbabai, asa tu mahtu mas kalumang.
+113	Isia vahlas tu ivutaz hai, ispalaskan mas iskaan.	河裡的小蟲用來釣魚。	河裡的小蟲用來釣魚。	Isia vahlas tu ivutaz hai, ispalaskan mas iskaan.	河邊的小魚被釣到。	Maza islaslas hai, painsanan mas piski.
+114	Aiza inaak tasa ispapatas.	我有一隻筆。	我有一隻筆。	Aiza inaak tasa ispapatas.	我有四個手。	Aizaan saikin mas isia tu sinkahuzas.
+115	Isnanavaan hai, asa tu aizaan mas itu masnanava tu ispintamasaz.	學生需要有老師的鼓勵。	學生需要有老師的鼓勵。	Isnanavaan hai, asa tu aizaan mas itu masnanava tu ispintamasaz.	學校必須有老師的教學責任。	Asa isnanavaan hai, asa tu mahtu kaimin masnanava.
+116	Ispuulin a lukis, aupa namintalabalin.	樹長芽了，因為春天到了。	樹長芽了，因為春天到了。	Ispuulin a lukis, aupa namintalabalin.	把樹開,不然會倒塌。	Maza lukis hai, aupa tu maun mas vali.
+117	Issima sain tu asu?	這是誰的狗？	這是誰的狗？	Issima sain tu asu?	這是誰的狗?	Isa tu asu?
+118	Maimaazbin issinavbalukanan i?	洗碗精到底是甚麼原料做的？	洗碗精到底是甚麼原料做的？	Maimaazbin issinavbalukanan i?	哪裡的酒是最好的?	Maaz a isbabai mas haising?
+119	Kaa tu pisupah makusia issinavbalukan masinav balukan, aupa nabaasun.	不要用太多洗碗精洗碗，因為會中毒。	不要用太多洗碗精洗碗，因為會中毒。	Kaa tu pisupah makusia issinavbalukan masinav balukan, aupa nabaasun.	不要多用子來煮熟的雞肉,否則會被咬。	Kaa tu masial mas bahlu, aupa mahtu ka'uni.
+120	Sain hai, issisinav mas unanataan.	這個是用來清洗廁所的肥皂。	這個是用來清洗廁所的肥皂。	Sain hai, issisinav mas unanataan.	這裡是要教學生。	Maza ini hai, isbabai mas kauman.
+121	Mavia tu istahdung isuu dahisan tu?	為什麼你這張臉突然變黑了？	為什麼你這張臉突然變黑了？	Mavia tu istahdung isuu dahisan tu?	你現在的目標是什麼?	Maaz isuu sinkahuud tu kaimin?
+122	Aiza istamasazan tu bunun saipuksaipuk mazami.	有一位能人管理著我們。	有一位能人管理著我們。	Aiza istamasazan tu bunun saipuksaipuk mazami.	有一個人很聰明,會說話。	Aiza a bunun hai, asa tu masial mas haising.
+123	Maza tutuan hai, istua mas ilavtan.	這個鑰匙用來開這扇門。	這個鑰匙用來開這扇門。	Maza tutuan hai, istua mas ilavtan.	子被打到。	Maza isbabai hai, asa tu painsanan mas ludun.
+124	Uung, istubuninku.	是，我摘斷了。	是，我摘斷了。	Uung, istubuninku.	,我給你包。	Maza, saikin hai, mahansiap.
+125	Isbalivavang saikin mas iuhuntan, aupa madahpa inaak bungu.	請替我買止痛藥，因為我的頭很痛。	請替我買止痛藥，因為我的頭很痛。	Isbalivavang saikin mas iuhuntan, aupa madahpa inaak bungu.	我被子帶走,因為我肚子很大。	Mabaliv a inaak mas madaing tu daingaz, aupa naantuh saikin.
+126	Ivalav a paisa!	偵測那些敵人！	偵測那些敵人！	Ivalav a paisa!	請把那些紙拿起來!	Pisavai a isia ma'ais!
+127	Supah ivut katsaincin.	許多蛇聚居在此。	許多蛇聚居在此。	Supah ivut katsaincin.	這裡很多。	Supah a isia minkuzakuza sia sini.
+128	Mazima ivutsanglav takidaza sihi.	青竹絲喜歡在樹枝上。	青竹絲喜歡在樹枝上。	Mazima ivutsanglav takidaza sihi.	喜歡看那張照片。	Mazima a talus hai, mazima isia lukis.
+129	Supah a bunun izakuancin tantungu.	有許多人在我家拜訪。	有許多人在我家拜訪。	Supah a bunun izakuancin tantungu.	我現在很多人在。	Supah a bunun inaak lumah.
+130	Makitvaivi a isuu kabaangan.	你的這個背包很特別。	你的這個背包很特別。	Makitvaivi a isuu kabaangan.	你的子很粗。	Maza isuu tu kahuzas hai, masial a sinkaun.
+131	Kadaza malmananu liskaDihanin.	認真信靠上天為首要。	認真信靠上天為首要。	Kadaza malmananu liskaDihanin.	那些老人家在這裡。	Maza sin'az hai, asa tu mahtu isia dihanin.
+132	Lintuazavang a sudu, aupa na kahnaan.	請推到籬笆，因為要改建。	請推到籬笆，因為要改建。	Lintuazavang a sudu, aupa na kahnaan.	牛被住,因為牠的頭髮很長。	Maza haising hai, asa tu mahtu kaunun.
+133	Aiza bunun mais maun mas kakusung hai, cinsunga.	有些人吃蝦子會突然發癢。	有些人吃蝦子會突然發癢。	Aiza bunun mais maun mas kakusung hai, cinsunga.	有人吃子時,會被。	maza bunun mais maun mas kaung hai, asa tu maduh.
+134	Asa tu matukalakin mas kailakinang tu bunun.	應當憐憫可憐的人。	應當憐憫可憐的人。	Asa tu matukalakin mas kailakinang tu bunun.	不要強迫受傷的人。	Asa tu sinkahuzas mas madaingaz tu bunun.
+135	Aiza kalav isia saicia tu ima.	他的手上有癬。	他的手上有癬。	Aiza kalav isia saicia tu ima.	他的手上有。	Isaicia ima hai, aizaan mas ismuut.
+136	Mais kalipcih uvaaz hai, nakalipcihun a tangia.	打小孩耳光的時候，耳朵會被打。	打小孩耳光的時候，耳朵會被打。	Mais kalipcih uvaaz hai, nakalipcihun a tangia.	小孩打時,腳會被。	Mais mapulumah tu uvaaz hai, mahtu mas sapu.
+137	Ihlua hai, mazima kalumah sia lukis.	螞蟻喜歡在樹上蓋房子。	螞蟻喜歡在樹上蓋房子。	Ihlua hai, mazima kalumah sia lukis.	子一直在樹上。	Mazima a itu hai, isia lukis tu lumah.
+138	Kalusav a bangkala.	去耙那片水田。	去耙那片水田。	Kalusav a bangkala.	把那條子拔掉。	Saipul a huma.
+139	Kanadaav a buan tu issisipul.	依據月曆。	依據月曆。	Kanadaav a buan tu issisipul.	月亮要開。	Mais is'aang mas bulan.
+140	Maaz isuu mastaan kanaskalun?	你現在最快樂的事情是什麼？	你現在最快樂的事情是什麼？	Maaz isuu mastaan kanaskalun?	你現在要吃什麼?	Maaz isuu laupaku a sinkabaeh?
+141	Mais kandapan ivut tu ikul hai, nakalatun.	若是踩到蛇尾巴就會被咬。	若是踩到蛇尾巴就會被咬。	Mais kandapan ivut tu ikul hai, nakalatun.	子的尾巴被起來。	Mais mais pataskalun mas sibabang hai, mahtu ka'uni.
+142	Masial a kangavas kaunun.	芒果很好吃。	芒果很好吃。	Masial a kangavas kaunun.	草很好吃。	Maza maduh hai, masial kaunun.
+143	Simabis kankusnav inaak asu ii?	究竟是誰踢走我的狗啊？	究竟是誰踢走我的狗啊？	Simabis kankusnav inaak asu ii?	我的狗被到什麼?	Sima masamu a inaak asu?
+144	itu kantumaz tu laas hai, kaduus cici maun.	橄欖的果肉野獸很喜歡吃。	橄欖的果肉野獸很喜歡吃。	itu kantumaz tu laas hai, kaduus cici maun.	農夫的肚子很大吃飯。	Maza maduh hai, maza habasang tu bunun hai, mazima maun.
+145	Mananulua mudadaan! Nakapdih mas hangvang tu taki.	走路要小心！免得踩到牛糞。	走路要小心！免得踩到牛糞。	Mananulua mudadaan! Nakapdih mas hangvang tu taki.	走路要小心!無緣無故的走。	Mananulua mais manangaz! kaa tu mahtu painsanan mas itu lutbu.
+146	Aiza tasa hatabang kapdihunku.	有一隻蟑螂被我踩死了。	有一隻蟑螂被我踩死了。	Aiza tasa hatabang kapdihunku.	我有時會股。	Aiza a ka'av hai, maunku mas haising.
+147	Nakapiatubuan kasu isaincia?	你會在那裡待幾個月？	你會在那裡待幾個月？	Nakapiatubuan kasu isaincia?	你在那邊做什麼?	Maza isia dalah hai, asa tu painsanan?
+148	Natundaza kasuling kusia Taitu.	將搭乘火車到台東。	將搭乘火車到台東。	Natundaza kasuling kusia Taitu.	台東有很多。	Maza isia kauman hai, aizaan sia Tai'uan.
+149	Kaa tu katmang maun saviki sia vasu.	不要任意在巴士上吃檳榔。	不要任意在巴士上吃檳榔。	Kaa tu katmang maun saviki sia vasu.	不要在鍋子裡吃飯。	Kaa tu maun mas haising mais pahansiap.
+150	Nakidaz a cinusdusaan, pahkai istakunav a tasa.	雙胞胎會帶給親人厄運，所以丟掉一個。	雙胞胎會帶給親人厄運，所以丟掉一個。	Nakidaz a cinusdusaan, pahkai istakunav a tasa.	子很大,要用來煮茶。	Maza tuhasis hai, mahtu mas bunun tu painsanan, asa tu pakisava.
+151	Kilaviav a tama kusia ludun.	跟爸爸去山裡。	跟爸爸去山裡。	Kilaviav a tama kusia ludun.	爸爸從山上下來。	Isaipul a tama mas ludun.
+152	kikilim a ituhazam cina mas laupang kusbabai tu susuaz.	鳥媽媽不停的尋找剛學飛的小鳥。	鳥媽媽不停的尋找剛學飛的小鳥。	kikilim a ituhazam cina mas laupang kusbabai tu susuaz.	媽媽把那隻馬背到下面。	Maza hazam hai, nii tu mahtu ismuhasis mas sinkavaaz tu hanvang.
+153	Kilkilav a isuu lutbua.	抖動你的身體。	抖動你的身體。	Kilkilav a isuu lutbua.	你的腳被打破了。	Maza ismuut a isuu kaisianan.
+154	Kinsaav isaicia tu kavaang.	檢查他的皮包。	檢查他的皮包。	Kinsaav isaicia tu kavaang.	請把他的子拔掉。	Pisavai a isaicia tu is'aansanan.
+155	Nakinsa lipung mas isaicia tu lai'lai.	警察將檢查他的車。	警察將檢查他的車。	Nakinsa lipung mas isaicia tu lai'lai.	他把他的子用來打。	Maza isaicia tu kapisaina hai, iskasia mas sapu.
+156	Mais asa aizaan mas kinuzkuzaan hai, asa tu malmananu.	如果要有成就，必須要努力。	如果要有成就，必須要努力。	Mais asa aizaan mas kinuzkuzaan hai, asa tu malmananu.	如果有工作,必須努力。	Mais mahtu kaunun hai, asa tu masial.
+157	Kisangun a sui hai, minahtung, amushangsia, masmuav tu talaang.	結算的時候錢款剛好，結果卻不夠。	結算的時候錢款剛好，結果卻不夠。	Kisangun a sui hai, minahtung, amushangsia, masmuav tu talaang.	錢被拿去,沒用了,還不值得收。	Mais pasiaz hai, mahtu a sui, nii tu sin'aanan mas isbabai.
+158	Kislausan saicia tulkuk mabuhil mas pulauh.	雞被他用滾水燙剝毛。	雞被他用滾水燙剝毛。	Kislausan saicia tulkuk mabuhil mas pulauh.	他把雞上油果。	Maza tulkuk hai, ismuut mas isaicia.
+159	Aluaz hai, mazima isia lumah tu kubu cisdadaan.	老鼠喜歡在屋梁上跑步。	老鼠喜歡在屋梁上跑步。	Aluaz hai, mazima isia lumah tu kubu cisdadaan.	子喜歡在家裡被貓咬。	Maza habas hai, mazima kusia dalahdalah sia balivus.
+160	nii a mihalang bunun masial mais kuhna taikitakna tu haising.	生病的人不宜再吃昨天的飯。	生病的人不宜再吃昨天的飯。	nii a mihalang bunun masial mais kuhna taikitakna tu haising.	沒有善良的人,若吃得飽就很好。	Maza masang hai, nii tu mahtu maun mas kaunun tu pazaku.
+161	Maza kuisaang hai, mapindadu mindahpa tu bunun.	醫生治好病人。	醫生治好病人。	Maza kuisaang hai, mapindadu mindahpa tu bunun.	房子是給老人家的。	Maza ismu'uni hai, mahtu mas maduh.
+162	Tahai hai, taskun mas tama kulumah.	達海和父親一起回家。	達海和父親一起回家。	Tahai hai, taskun mas tama kulumah.	達被爸爸打破了。	Maza Dahai hai, isia tama mas haising.
+163	Aiza ivut isia laak tu kumbu.	有蛇在洞穴裡面。	有蛇在洞穴裡面。	Aiza ivut isia laak tu kumbu.	樹上有。	Aiza a uvaaza sia kalumah.
+164	maza bunun mais tallutbu'in hai, un'apavan mas kumis	人如果長成熟了，就會長出陰毛	人如果長成熟了，就會長出陰毛	maza bunun mais tallutbu'in hai, un'apavan mas kumis	人若要酒,必須把子。	Mais bunun hai, maisnavaun mas isia minkuzakuza.
+165	Kaa tu katmang labatu ludun, aupa nataisandu duma tu bunun.	不要往山壁亂扔石頭，免得打到別人。	不要往山壁亂扔石頭，免得打到別人。	Kaa tu katmang labatu ludun, aupa nataisandu duma tu bunun.	不要把石頭丟到山裡,否則會被別人撞到。	Kaa tu lumah mas batu, aupa mahtu mas bunun.
+166	Labiskav a lai'lai'a mas tauntaun.	汽車推倒腳踏車。	汽車推倒腳踏車。	Labiskav a lai'lai'a mas tauntaun.	請把子拔掉。	Maza kapapama'an hai, maliskin mas ispaluh.
+167	maza zuu hai, mahtu labiskav mas lai'lai.	大象可推倒汽車。	大象可推倒汽車。	maza zuu hai, mahtu labiskav mas lai'lai.	可以解開眼睛。	Maza haibun hai, mahtu mapainiliskin mas kapapama'an.
+168	Mais lapunalan hai, ladimpuhan a daan.	每次有土石流， 路就被淹埋了。	每次有土石流， 路就被淹埋了。	Mais lapunalan hai, ladimpuhan a daan.	雨下了,道路被吹風。	Mais maisnava hai, painsananin a daan.
+169	Laupaku hai, niin laiziu balivun.	現在收音機不賣了。	現在收音機不賣了。	Laupaku hai, niin laiziu balivun.	風來襲,我們沒有到這裡。	Laupaku hai, nii tu sinkabaliv.
+170	Lanadaan naicia lumah mas danum.	他們家積水。	他們家積水。	Lanadaan naicia lumah mas danum.	他們的房子裝滿水。	Maza isaicia lumah hai, ispalusutan mas danum.
+171	Langaci mahtuang mihumis.	幸好還能活著。	幸好還能活著。	Langaci mahtuang mihumis.	子可以。	Mazima a habasang hai, mahtu amin.
+172	Maza bunuk hai, laplusunku sia maitaah tu daan, namasial udadaanan.	沙子我撒在泥巴路上，會比較好走。	沙子我撒在泥巴路上，會比較好走。	Maza bunuk hai, laplusunku sia maitaah tu daan, namasial udadaanan.	那隻山豬被我帶到路上,牠一直在走。	Maza islava hai, paspasiavku sia luduncia, asa tu mahtu kaunun.
+173	Kaa tu latasban duma bunun tu sudu.	不可以越過別人的籬笆。	不可以越過別人的籬笆。	Kaa tu latasban duma bunun tu sudu.	不要對別人的狗。	Kaa tu mahtu maninilumah mas bunun.
+174	Maza Umas hai, imita lavian mais hanup.	烏瑪斯是我們打獵時的首領。	烏瑪斯是我們打獵時的首領。	Maza Umas hai, imita lavian mais hanup.	烏瑪斯是我們打獵時的外號。	Umas hai, inaam tu sin'aang mais hanup.
+175	Maza libus hai, supahan mas vaivivaivi tu minihumis.	森林中有很多各式各樣的生物。	森林中有很多各式各樣的生物。	Maza libus hai, supahan mas vaivivaivi tu minihumis.	蜂巢很多各式各樣的蟲。	Aiza a lukis hai, supahan mas amin tu sin'auk.
+176	Maza mainduduaz hai, asa tu lingsiu malasBunun.	年輕人應當練習說布農語。	年輕人應當練習說布農語。	Maza mainduduaz hai, asa tu lingsiu malasBunun.	子必須要吃布農語。	Maza uvaaz hai, asa tu mahtu mal'uni mas Bunun.
+177	Mais unting hai, asa tu mananulu, kaa tu listudul.	開車應當小心，不要打旽。	開車應當小心，不要打旽。	Mais unting hai, asa tu mananulu, kaa tu listudul.	子若要,不要。	Mananulu a minkuzakuza, kaa tu kaaz.
+178	Maliba a saikin mas tasa asu tu luhi.	我抱一隻小狗。	我抱一隻小狗。	Maliba a saikin mas tasa asu tu luhi.	我被狗咬傷了。	Maza inaak tu asu hai, malusbu.
+179	Tama, naminmaazbin a kinulut tu lukisan ii?	爸爸，鋸這些木頭到底要作什麼用呢？	爸爸，鋸這些木頭到底要作什麼用呢？	Tama, naminmaazbin a kinulut tu lukisan ii?	爸爸,你了那個煮好的雞肉嗎?	Isaipul a tama, asa tu lukis hai, aizaan mas isia?
+180	Lunghu laupakadau isnanavaan.	現在學生放假。	現在學生放假。	Lunghu laupakadau isnanavaan.	現在在學校很多。	Laupaku a isnanavaan hai, masial.
+181	Kalinsuhis tu luvluv hai, mintunis madaing.	向南吹的風有時很強。	向南吹的風有時很強。	Kalinsuhis tu luvluv hai, mintunis madaing.	的小鳥是非常可憐。	Maza habasang tu balivus hai, makadaan masmuav.
+182	Mais luvus a ima hai, kaa tu maciduu mas zingki.	濕淋淋的手不可觸摸電？	濕淋淋的手不可觸摸電？	Mais luvus a ima hai, kaa tu maciduu mas zingki.	手若軟,不要用手摸貓。	Maza sinmuuk tu ima hai, nii tu mahtu mas lipat?
+183	Mabaliv aupa kata pang?	我們要買點麵包嗎？	我們要買點麵包嗎？	Mabaliv aupa kata pang?	買多一點子?	Asa kata masuaz a bunbun?
+184	Namabaliv saikin mas bunbun.	我要買香蕉。	我要買香蕉。	Namabaliv saikin mas bunbun.	我買過米。	Maza saikin pasali ka tangkal.
+185	Makaskas a mabananaza.	那個男人很勤勞。	那個男人很勤勞。	Makaskas a mabananaza.	那個男人很。	Maza maisnava hai, masial.
+186	Maza takiLuluna tu asang hai, mabukzav.	羅娜村地勢平坦。	羅娜村地勢平坦。	Maza takiLuluna tu asang hai, mabukzav.	隆的狗很大。	Lunah a lumah hai, mal'uni.
+187	Maza uvaaza hai, macipul mas ahil.	那個小孩正在摺紙。	那個小孩正在摺紙。	Maza uvaaza hai, macipul mas ahil.	那個小孩上竹。	Maza uvaaz hai, maliskin mas patas.
+188	Macistak a isaicia cian, aupa damuun dahpahataz.	他的肚子腫脹，因為罹患肝病。	他的肚子腫脹，因為罹患肝病。	Macistak a isaicia cian, aupa damuun dahpahataz.	他的肚子很大,因為吃太多了。	Maza isaicia sin'av hai, aupa isia maduh.
+189	Inaak tu lumah hai, madahda mas itu Ciang tu lumah.	我家離江的家很遠。	我家離江的家很遠。	Inaak tu lumah hai, madahda mas itu Ciang tu lumah.	我的房子與江家相隔。	Inaak lumah hai, aizaan mas Jiang tu lumah.
+190	Madaiplu danum hai, nii tu mahtu huudan.	被汙染的水不能喝。	被汙染的水不能喝。	Madaiplu danum hai, nii tu mahtu huudan.	溢出的水不能喝。	Maza sinmuuk tu danum hai, nii tu mahtu malinu.
+191	Habas Bunun mais madiahu hai, kaaz huud danumkazav.	從前布農族人口渴的時候，只喝冷水。	從前布農族人口渴的時候，只喝冷水。	Habas Bunun mais madiahu hai, kaaz huud danumkazav.	以前布農族如果打雨,一定會喝水。	Habasang Bunun mais mahansiap hai, mahtu kaunun mas habas tu lumah.
+192	Maduu a saikin mas suu.	我愛你。	我愛你。	Maduu a saikin mas suu.	我和你架。	Macinkaun saikin.
+193	Aiza pinilumah maduu mahabin pandian.	有媳婦喜歡把菜藏起來。	有媳婦喜歡把菜藏起來。	Aiza pinilumah maduu mahabin pandian.	有一家人住在二房子。	Aiza tu minkuzakuza hai, mazima mabaliv mas haising.
+194	Mahacispung a lukis.	樹木很茂盛。	樹木很茂盛。	Mahacispung a lukis.	那棵樹很。	Maza lukis hai, supahan.
+195	Mahalcis aip Dahu mas kansul.	達琥今天剪葡萄。	達琥今天剪葡萄。	Mahalcis aip Dahu mas kansul.	大人喜歡打小米。	Maza Dahu hai, maluhut mas uvaaz.
+196	Simabis mahanal suu ii?	是誰理你的頭髮？	是誰理你的頭髮？	Simabis mahanal suu ii?	你幾歲了?	Sima sinmuza a isuu haising?
+197	Inaak tu maluspingaz hai, mahanal zaku.	我太太理我的頭髮。	我太太理我的頭髮。	Inaak tu maluspingaz hai, mahanal zaku.	我的女兒很熟。	Inaak tu minkuzaku hai, maluslus a inaak lutbu.
+198	Aiza ismuut tu lisav mais musmusun hai, mahansu saakun.	有些草的葉子被搓揉的時候很難聞。	有些草的葉子被搓揉的時候很難聞。	Aiza ismuut tu lisav mais musmusun hai, mahansu saakun.	有一隻子被獵殺,牠被抓走了。	maza sinkuzakuza tu dalah hai, makuang a sapu.
+199	Mananulua mais mudadaan saincia, aupa mahatuhatu dalah.	在那邊行走要小心，因為地面崎嶇不平。	在那邊行走要小心，因為地面崎嶇不平。	Mananulua mais mudadaan saincia, aupa mahatuhatu dalah.	走路時要小心,因為會跌倒。	Mananulua mais manangaz, aupa dalahang a lumah.
+200	Aiza mahulpiah tu bunun, nii'in mahtu mudadaan.	有很胖的人，沒辦法走路。	有很胖的人，沒辦法走路。	Aiza mahulpiah tu bunun, nii'in mahtu mudadaan.	有的人,不能經過。	Aiza masmuav tu bunun hai, nii tu mahtu mananup.
+201	Mahushus uvaaz mas itu sidi tu tuhnaz.	小孩在啃羊的骨頭。	小孩在啃羊的骨頭。	Mahushus uvaaz mas itu sidi tu tuhnaz.	小孩到山上的水。	Uvavaaz hai, maliskin mas tulkukan.
+202	Mahusngu uasabi mais iskaun sasimi tu iskaan.	吃生魚片的時候，芥末很嗆鼻。	吃生魚片的時候，芥末很嗆鼻。	Mahusngu uasabi mais iskaun sasimi tu iskaan.	魚吃起來很。	Mais maun mas iskaan tu hanglas hai, mahtu a hazam.
+203	Aiza bunun mazima maun mas itubabu tu maibungu.	有人喜歡吃豬頭肉。	有人喜歡吃豬頭肉。	Aiza bunun mazima maun mas itubabu tu maibungu.	有人喜歡吃豬肉。	Aiza tu bunun hai, mazima maun mas babu.
+204	aiza a itu babu tu maibungu siin maikaung sian kakaunancia.	麵館裡有豬頭皮	麵館裡有豬頭皮	aiza a itu babu tu maibungu siin maikaung sian kakaunancia.	豬在那個子的肚子裡吃飯。	Aiza a haising mais hanup.
+205	Namutpung a masial tu hansiap sia mailalangna.	好的知識將在後代散播。	好的知識將在後代散播。	Namutpung a masial tu hansiap sia mailalangna.	那個的魚在那邊跳舞。	Maza sinkuzakuza tu isnavaan hai, asa tu mininula.
+206	Utung amin hai, makakvut inaicia tu utungcikis.	猴子也照顧牠們的幼猴。	猴子也照顧牠們的幼猴。	Utung amin hai, makakvut inaicia tu utungcikis.	子都把他們的子綁起來。	Maza haishang hai, masial mas isaicia tu kaviaz.
+207	Supah a madadaingaz makauduz.	有許多老人駝背。	有許多老人駝背。	Supah a madadaingaz makauduz.	很多老人家在。	Supah a bunun tu minkuzakuza.
+208	Vanu hai, makibailulu kusbai.	蜜蜂繞圈子飛。	蜜蜂繞圈子飛。	Vanu hai, makibailulu kusbai.	子喜歡玩飛鼠。	Maza hazam hai, is'aang sia dalah.
+209	Ishaalmang a uvaaz makilavi mas duma tu bunun mudaan.	小孩在隨便跟著別人走。	小孩在隨便跟著別人走。	Ishaalmang a uvaaz makilavi mas duma tu bunun mudaan.	小孩喜歡跟別人打架。	Uvavaaz hai, makasava mas bunun.
+210	Makinsapi saikin mas inaak uvaazpingaz tu hulbu.	我編女兒的頭髮成髮辮。	我編女兒的頭髮成髮辮。	Makinsapi saikin mas inaak uvaazpingaz tu hulbu.	我用我的小孩的頭髮。	Maza inaak tu minkavi hai, ismuut mas haising.
+211	Haiap a kasu malasBunun ha?	你會說布農語嗎？	你會說布農語嗎？	Haiap a kasu malasBunun ha?	你是誰說布農語?	Maaz isuu tu bunun hai, asa tu sin'aang?
+212	Pinukan uvaaz mas malaskiim tu pinainuk.	小孩穿了一件金色的衣服。	小孩穿了一件金色的衣服。	Pinukan uvaaz mas malaskiim tu pinainuk.	小孩被的小米住了。	Uvavaaz hai, masial tu sinpaupa.
+213	Itu dihanin tu kaisanglavan hai, malasmaduhlas.	天空的藍色接近白色。	天空的藍色接近白色。	Itu dihanin tu kaisanglavan hai, malasmaduhlas.	今天的午餐很好吃。	Maza dihanin hai, kaaz tu sin'auk.
+214	Mahtu malaszu mas zaas, aat inkaduan mas kiim.	可以過濾沙子，而發現金子。	可以過濾沙子，而發現金子。	Mahtu malaszu mas zaas, aat inkaduan mas kiim.	可以草,但不能用木頭。	Mahtu mahtu mas islasbu, asa tu mahansiap mas aitu.
+215	Malaungduz saicia ngutus.	他的鼻子挺。	他的鼻子挺。	Malaungduz saicia ngutus.	他的手臂很粗。	Maza isaicia sinkahu.
+216	Maldahvi tu kauman inaak lumah mas pasnanavaan.	我家離學校稍遠。	我家離學校稍遠。	Maldahvi tu kauman inaak lumah mas pasnanavaan.	我的家和學校相隔很遠。	Inaak lumah hai, kaviaz a isnavaan.
+217	Dulpin mais pandu sia bauvan hai, maldadailaz	麻雀停在芒花上面的話，會排成一列列的。	麻雀停在芒花上面的話，會排成一列列的。	Dulpin mais pandu sia bauvan hai, maldadailaz	子被帶到山裡時,會長大。	Mais ma'uni mas balivus hai, mahtu paspalumah.
+218	Malhainsazan a maluspingaz sian llumah.	只有女人在家。	只有女人在家。	Malhainsazan a maluspingaz sian llumah.	那些小孩在家裡呆著。	maza inaak tu minkavi hai, aizaan mas dalah.
+219	Asa sinlatuza tu malhunduh.	信仰必須堅定。	信仰必須堅定。	Asa sinlatuza tu malhunduh.	請把那些東西拿來。	Asa tu sinkuzakuza hai, asa tu mahtu kaaz.
+220	Malmananu isaicia sinsumsum tu istamasazan.	他的禱告靈力非常強大。	他的禱告靈力非常強大。	Malmananu isaicia sinsumsum tu istamasazan.	他一直在著被罵的東西。	Maza isaicia sinpais hai, masial a isia tu sinpu.
+221	Nii tu malnanau tu inunulan, aat muntunuh ludun.	地震之後不久便山崩。	地震之後不久便山崩。	Nii tu malnanau tu inunulan, aat muntunuh ludun.	不會說話,但要說服。	Mais mainduu hai, nii tu mahtu minkuzakuza.
+222	Maluszang a inaak lumah mas isDahucia tu lumah.	我的房子和那位Dahu的房子並排。	我的房子和那位Dahu的房子並排。	Maluszang a inaak lumah mas isDahucia tu lumah.	我的房子與那個老的房子相連。	Inaak lumah hai, Dahu tu lumah.
+223	Manami a dihanin mais namintalabal.	春天時天氣溫暖。	春天時天氣溫暖。	Manami a dihanin mais namintalabal.	午夜時,這邊很。	Mais valian hai, mal'uni.
+224	Manaskal saikin mahtu mapasadu masuu.	我很高興能夠見到你。	我很高興能夠見到你。	Manaskal saikin mahtu mapasadu masuu.	我可以你的手。	Mazima saikin mas isuu tu sinkaita.
+225	Mangaspah tu bunun hai, nii tu maciknu mais cisdadaan.	胖而強壯的人跑步時幾乎跑不動。	胖而強壯的人跑步時幾乎跑不動。	Mangaspah tu bunun hai, nii tu maciknu mais cisdadaan.	的人不會在路上打架。	Maza masial tu bunun hai, makuang mais makidaz.
+226	Mapahainan a uvaaz sia daisah.	小孩子在廣場玩耍。	小孩子在廣場玩耍。	Mapahainan a uvaaz sia daisah.	小孩在床上躺著。	Uvavaaz hai, aizaan sia ludun.
+227	Mapakatain saikin mas hanvangtan sungkat mas vahlas.	我使這條牛繞路過河。	我使這條牛繞路過河。	Mapakatain saikin mas hanvangtan sungkat mas vahlas.	我用手打到山。	Maza haising hai, isia saikin paskalun mas balivus.
+228	Mapakatain saikin mas uvaaztan kulumah.	我使這個小孩繞路回家。	我使這個小孩繞路回家。	Mapakatain saikin mas uvaaztan kulumah.	我被那個小孩綁在家裡。	Maza uvaaz hai, ispaliskinku sia lumah.
+229	Mapaliba pakatuszang masabah mais makazav.	冷的時候就抱著另一半睡覺。	冷的時候就抱著另一半睡覺。	Mapaliba pakatuszang masabah mais makazav.	請把早餐當晚餐吃。	Mais mais habasang hai, mahtu mas kaviaz tu madaingaz.
+230	Mais mapansais hai, dungzavin mapahaungun.	爭論到後來就吵架了。	爭論到後來就吵架了。	Mais mapansais hai, dungzavin mapahaungun.	的時候,要用手指伸直。	Maza minka'aiz hai, nii tu mainduu.
+231	Muntunuh daan aat, kaazin mapantala.	道路坍方不通，因此惟有接駁。	道路坍方不通，因此惟有接駁。	Muntunuh daan aat, kaazin mapantala.	路上不好走。	Maza daan hai, nii tu mahtu kaunun mas dalah.
+232	Mapantala inaicia sinpasisingav tu halinga.	他們提親的事成功了。	他們提親的事成功了。	Mapantala inaicia sinpasisingav tu halinga.	他們的子很長。	Maza isia naicia sinpaaz hai, mahtu.
+233	Mapasnada saikin maluhus mas hanvang sia lukiscia.	我以那棵樹為基準把牛綁在樹上。	我以那棵樹為基準把牛綁在樹上。	Mapasnada saikin maluhus mas hanvang sia lukiscia.	我被送去那棵樹上獵。	Maza lukis hai, isia saikin mas lutbu hai, malus'uni sia lukis.
+234	Mapatantungu hai masial tu sinkuzakuza.	互相拜訪是好事。	互相拜訪是好事。	Mapatantungu hai masial tu sinkuzakuza.	工作要做得好。	Maza minkuzakuza hai, masial tu sinkava.
+235	Mapatupa kaimin tu naniin mapahaungun.	我們溝通好不再吵架。	我們溝通好不再吵架。	Mapatupa kaimin tu naniin mapahaungun.	我們四個都沒有被打死。	Asa kata mabaliv haitu nii tu mahtu mal'aib.
+236	Mapatus hai, masamu mais mushu.	祭典的點火儀式中，火熄滅是禁忌。	祭典的點火儀式中，火熄滅是禁忌。	Mapatus hai, masamu mais mushu.	子會長大的時候吃。	Mais isia masuhpa tu sin'ailan hai, nii tu mahtu kaunun.
+237	Masamu mapaulang.	不可好色。	不可好色。	Masamu mapaulang.	請頭。	Kaa tu sin'auk.
+238	Mapaunghul inama tama maduh sia batahan.	爸爸在背架中背了堆高的小米。	爸爸在背架中背了堆高的小米。	Mapaunghul inama tama maduh sia batahan.	父母親把小米在田裡。	Maza tama hai, ispalusutan mas sin'auk tu maduh.
+239	Tama hai, mapavaaz mas huma issaiv mas uvaaz.	爸爸分配田地給孩子。	爸爸分配田地給孩子。	Tama hai, mapavaaz mas huma issaiv mas uvaaz.	爸爸在田裡種小孩。	Maza tama hai, pas'aang mas uvaazcia.
+240	Mapinasnas saikin huma.	我整平田地。	我整平田地。	Mapinasnas saikin huma.	我在田裡耕作。	Maza inaak tu huma hai, maluhis.
+241	Mapishut saikin mas siulcia masukud.	我把那個窗戶關緊。	我把那個窗戶關緊。	Mapishut saikin mas siulcia masukud.	我被那個子咬傷了。	Maza haising hai, ismuutunku.
+242	Mapudinuun kaimin mas sui aat, isbaliv mas babu.	我們湊錢買豬。	我們湊錢買豬。	Mapudinuun kaimin mas sui aat, isbaliv mas babu.	我們要把錢用來救豬。	Maza kata tu sui hai, makisaip mas babu.
+243	Isnanavaan hai, mapulaz cidanuman.	學生打破玻璃。	學生打破玻璃。	Isnanavaan hai, mapulaz cidanuman.	學生們在播種田野。	Maza isnanavaan hai, minkuzakuza tu haising.
+244	Aiza bunun maduu pinukan mas mapushiv tu pinainuk.	有些人喜歡穿灰褐色的衣服。	有些人喜歡穿灰褐色的衣服。	Aiza bunun maduu pinukan mas mapushiv tu pinainuk.	有人用子煮熟的飯。	maza bunun hai, mazima mas maduh tu sinkabahuan.
+245	Maduu amin bunun mihumis sia masaningsing tu lumah.	人都喜歡居住在清潔乾淨的房子裡。	人都喜歡居住在清潔乾淨的房子裡。	Maduu amin bunun mihumis sia masaningsing tu lumah.	大家都在屋裡祈求安慰。	Mazima bunun hai, makasia isia pasnanava tu lumah.
+246	Bunun habas hai, maduu isia masaunghuan minang maduh.	以前布農人喜歡在山坡上播種小米。	以前布農人喜歡在山坡上播種小米。	Bunun habas hai, maduu isia masaunghuan minang maduh.	布農族以前在田裡種小米。	Habas Bunun hai, mazima mahansiap mas maduh.
+247	Mais cidaz busul hai, asa masiksik sia havangcia tu habu.	獵槍若沒有擊發，要在槍口刷火藥。	獵槍若沒有擊發，要在槍口刷火藥。	Mais cidaz busul hai, asa masiksik sia havangcia tu habu.	子被蟲時,必須在那個空洞中躲藏。	Mais hahanup hai, aupa tu mahtu malusbu mas isbabai.
+248	Masinap kaimin mas autuk, haitu nii tu listulun.	我們追兔子，但沒追上。	我們追兔子，但沒追上。	Masinap kaimin mas autuk, haitu nii tu listulun.	我們用火柴耕作,沒有。	Maza kata hai, mahansiap mas hazam.
+249	Masinghal asang mais labian.	村落在夜晚有光亮。	村落在夜晚有光亮。	Masinghal asang mais labian.	夜晚時天氣很好。	Maza asang hai, aupa isia malampus.
+250	Tama hai, maskalun uvaazcia mihaipu maduh.	爸爸派孩子在小米田趕鳥。	爸爸派孩子在小米田趕鳥。	Tama hai, maskalun uvaazcia mihaipu maduh.	爸爸那個小孩要打小米。	Maza tama hai, pasia maduh mas uvaaz sia huma.
+251	Ivut hai, maduu takisia masubatu.	蛇喜歡住在多石的地方。	蛇喜歡住在多石的地方。	Ivut hai, maduu takisia masubatu.	子用石頭磨。	Mazima a sibabus hai, mazima isia pasnanavaan mas batu.
+252	Asa bunun tu masuhais itu tamacina tu sinkadaidaz.	人要回報父母的愛。	人要回報父母的愛。	Asa bunun tu masuhais itu tamacina tu sinkadaidaz.	人必須照顧父母的身體。	Asa tu bunun hai, asa tu mahtu mas tamacina.
+253	Makusia saikin mas susuis masuis mas taublas.	我用刨絲刀刨蘿蔔。	我用刨絲刀刨蘿蔔。	Makusia saikin mas susuis masuis mas taublas.	我用小米青菜。	Maza saikin hai, masuhut mas haising.
+254	Nakunata pahainan hai, asa tu ngausang masukud ilav.	要出去玩必須先關好門。	要出去玩必須先關好門。	Nakunata pahainan hai, asa tu ngausang masukud ilav.	那些被遺棄的子,要把他們留在這裡。	Mais kaimin kusia malus'aang hai, asa tu mahtu mas lukis.
+255	Mais masumsum makisaiv kikilim hai, nasaivan inkaduan.	若禱告、祈求、尋找，就會得著、找到。	若禱告、祈求、尋找，就會得著、找到。	Mais masumsum makisaiv kikilim hai, nasaivan inkaduan.	的花生若長得很長,會被燒掉。	Mais malusbah hai, isia minkalahang, mahtu kaunun.
+256	Alabia hai, masuzaas tu dalah.	阿拉伯是沙漠國家。	阿拉伯是沙漠國家。	Alabia hai, masuzaas tu dalah.	子是肥胖的小。	Maza A'arabai hai, isia aav tu lumah.
+257	Matauduh a hudan mas bununtan.	雨滴到這個人。	雨滴到這個人。	Matauduh a hudan mas bununtan.	子被山蟲咬。	Maza bunun hai, malusbu.
+258	Mataunghu luduna.	那座山峰突起。	那座山峰突起。	Mataunghu luduna.	那邊的山很深。	Maza ludun hai, minpuut.
+259	IsCiang a pinatas hai, mathas saduan.	江寫的字看起來很清楚。	江寫的字看起來很清楚。	IsCiang a pinatas hai, mathas saduan.	的葉子很長。	Maza itu hai, isnavaan tu sinkuzakuza tu patasanan.
+260	Mamaus tamaku tu bunun hai, mazima matnipah.	常常抽煙的人喜歡吐痰。	常常抽煙的人喜歡吐痰。	Mamaus tamaku tu bunun hai, mazima matnipah.	的人喜歡吃飯。	Maza mintuhuma tu bunun hai, mazima mabaliv.
+261	Matukulaaz tu bunun hai, ukaas tamasaz kuzakuza.	瘦弱的人沒有力氣工作。	瘦弱的人沒有力氣工作。	Matukulaaz tu bunun hai, ukaas tamasaz kuzakuza.	專門工作的人沒有工作。	Maza madaing tu bunun hai, nii tu mahtu isia sin'aang.
+262	Misbusukin tu bunun hai, matunghaz mas pangkaka.	喝醉了的人弄倒桌子。	喝醉了的人弄倒桌子。	Misbusukin tu bunun hai, matunghaz mas pangkaka.	喝酒的人會牙。	Maza huma hai, mapuhtu mas haising.
+263	Tushungun mas uvaaz matusuk a izuk.	小孩頑皮的戳橘子。	小孩頑皮的戳橘子。	Tushungun mas uvaaz matusuk a izuk.	小孩被到很重。	Maza uvaaz hai, mastuhas a ismuut.
+264	Kukuav mais sadu susuaz hai, mavia tu asa madamu ii?	老鷹看到小雞的時候，為什麼都會想抓呢？	老鷹看到小雞的時候，為什麼都會想抓呢？	Kukuav mais sadu susuaz hai, mavia tu asa madamu ii?	種植子的時候,要怎麼吃?	Maza hauk hai, maisnava mas tulkuk tu kaimin hai, namapaun amin mahansiap?
+265	Mazima saikin maun mavuus tu nasi.	我喜歡吃多汁的水梨。	我喜歡吃多汁的水梨。	Mazima saikin maun mavuus tu nasi.	我喜歡吃米。	Mazima saikin maun mas maduh tu baung.
+266	Mazmaaz takingadah sia danum?	水裡有哪些生物？	水裡有哪些生物？	Mazmaaz takingadah sia danum?	你喝水的原因是什麼?	Maaz a isia vaivivaivi tu lumah?
+267	Taupas hai, kusia ising mapasadu dahpa, aupa mihalang.	Taupas去醫院看病，因為生病。	Taupas去醫院看病，因為生病。	Taupas hai, kusia ising mapasadu dahpa, aupa mihalang.	草是用來種植菜,因為長得很高。	Maza Taupas hai, pasnanavaan sia paspasupah tu haising.
+268	Naminasianik Pusung mudadaan sadusadu.	我將要去台東走走看看。	我將要去台東走走看看。	Naminasianik Pusung mudadaan sadusadu.	我從普農走到東河。	Maza saikin hai, asa tu Tai'utu mas dalahdalah.
+269	Adu namahtu saikin minaunin kudiip pishasibang?	下午我可以去玩嗎？	下午我可以去玩嗎？	Adu namahtu saikin minaunin kudiip pishasibang?	我有幾天要去打賭?	Mais sain hai, mahtu saikin kusia mainsanan?
+270	"Mais mindahpain hai, mintatulun tupa tu, ""Ana niang habasang malkadadavus."""	生病之後後悔的說，「如果以前沒有常常喝酒的話。」	生病之後後悔的說，「如果以前沒有常常喝酒的話。」	"Mais mindahpain hai, mintatulun tupa tu, ""Ana niang habasang malkadadavus."""	子的時候,要的叫,說:「以前我很會吃雞肉。」	"Mais mahtu hai, mabaliv tu bunun, ""Andii tu habasan hai, nii tu naunghas mas pishang."""
+271	Mindanum saikin mas maibabu.	我煮豬肉湯。	我煮豬肉湯。	Mindanum saikin mas maibabu.	我喝豬肉。	Maza inaak tu haising hai, iskalun mas maibabu.
+272	Minduldul pisuhdung mas masnanava.	起立向老師鞠躬。	起立向老師鞠躬。	Minduldul pisuhdung mas masnanava.	老師著打架。	Maza mininilumah hai, malus'a mas masnanava.
+273	Minhalab tu maluspingaz hai, painukan mas pakapavun mas halubangbang siinmas ulalai.	盛裝的女性穿著外衣和內裙以及綁腿。	盛裝的女性穿著外衣和內裙以及綁腿。	Minhalab tu maluspingaz hai, painukan mas pakapavun mas halubangbang siinmas ulalai.	舊婚的女人被用子和子綁在床上。	Maza maduh hai, masial mas haising sia halumcia.
+274	Minkaustub a kakalang mas ivut.	螃蟹夾斷蛇。	螃蟹夾斷蛇。	Minkaustub a kakalang mas ivut.	子被蟲住。	Maza haibun hai, painsanan.
+275	Asa cici tu pisainun piskazavancia madainpus aat, naniin minkuas.	肉類必須放在那個冰箱儲存，否則會變得不新鮮。	肉類必須放在那個冰箱儲存，否則會變得不新鮮。	Asa cici tu pisainun piskazavancia madainpus aat, naniin minkuas.	請把這個字用來寫那個句子,否則會被打掉。	Asa tu mai'uni hai, asa tu paskalutan mas isia kalusku, aupa nii tu mahtu maluh.
+276	Kinitdaan tu danumpandian hai, minkulkul.	剩湯結成糊狀。	剩湯結成糊狀。	Kinitdaan tu danumpandian hai, minkulkul.	的水被起來了。	Maza sinkaupa tu kasnava hai, pas'auk.
+277	Mais minpinang hai, supah a samu	播種季的禁忌很多。	播種季的禁忌很多。	Mais minpinang hai, supah a samu	打獵的時候很多煙。	Supah a sin'av tu minkuzakuza.
+278	Mintuzin a inaak aikitmataun.	我的目標成真了。	我的目標成真了。	Mintuzin a inaak aikitmataun.	我的子被咬了。	Maza inaak sinkuzakuza hai, mahtu.
+279	Mais makazav hai, mismudu sia sapuz.	寒冷的時候在火堆前取暖。	寒冷的時候在火堆前取暖。	Mais makazav hai, mismudu sia sapuz.	的時候,在水池裡會噴水。	Mais habasang hai, mal'uni mas ispaazcia.
+280	Mistaba a ahil.	紙燒起來了。	紙燒起來了。	Mistaba a ahil.	樹起來了。	Maza pataskal hai, mahansiapin.
+281	Mais muntunuh huma hai, supah a saviki mulampas.	田地在土石流侵襲時，很多檳榔樹連根拔起。	田地在土石流侵襲時，很多檳榔樹連根拔起。	Mais muntunuh huma hai, supah a saviki mulampas.	耕作的時候,很多木柴要用。	Mais huma hai, mais maduh mas ludun tu lukis hai, supah a siduh.
+282	Mulmulunku a isaicia vau.	他的肩膀，我按摩。	他的肩膀，我按摩。	Mulmulunku a isaicia vau.	我喜歡他的。	Iduhais saikin isaicia ka'av.
+283	Aiza mumudan madaulu, aiza maputul.	脖子有的長有的短。	脖子有的長有的短。	Aiza mumudan madaulu, aiza maputul.	有子會長大,有子會長小。	Maza haising hai, mahainghal.
+284	Munaul a Savi sia patdanumancia.	莎碧在那個水缸取水。	莎碧在那個水缸取水。	Munaul a Savi sia patdanumancia.	Savi在那個水田下雨。	Maza Sahu hai, isia dalah tu cis'inuman.
+285	Munpungav a uvaaz sia asangdaingaz.	小孩在都市裡走丟了。	小孩在都市裡走丟了。	Munpungav a uvaaz sia asangdaingaz.	那個小孩被到那邊。	Uvavaaz hai, palusbu sia asang.
+286	Mupaspasin amin a itu bunuaz tu lipuah.	梅花也凋落了。	梅花也凋落了。	Mupaspasin amin a itu bunuaz tu lipuah.	那些花的果實都被了。	Maza pishut hai, ma'aismin.
+287	Mananulua andikus mas lulubunun, aupa namupluh.	請小心提蛋，因為會裂掉。	請小心提蛋，因為會裂掉。	Mananulua andikus mas lulubunun, aupa namupluh.	請把子起來,否則會掉下來。	Mananulua mas isia a kaunun, aupa mahtu malusbu.
+288	Musingat isicia sapa.	他的獸皮碎裂。	他的獸皮碎裂。	Musingat isicia sapa.	他的子很硬。	Maza isaicia a sinkauman hai, minpuus.
+289	Maza minututu tu danum hai, musliv sia dalah.	倒出來的水滲入地裡。	倒出來的水滲入地裡。	Maza minututu tu danum hai, musliv sia dalah.	水滴到山裡。	Maza sin'auk tu danum hai, minmangaz sia lumah.
+290	Makazavkazavin a dihanin hai, naminhamisan in.	天氣冷了，就是秋天了。	天氣冷了，就是秋天了。	Makazavkazavin a dihanin hai, naminhamisan in.	這天很明亮。	Maza habasin hai, nii tu sin'ail.
+291	Sain hai, itu maduh tu nangsa.	這是小米的梗。	這是小米的梗。	Sain hai, itu maduh tu nangsa.	現在是小米的時節。	Itu a sin'auk mas pishut.
+292	Maza ngulus hai, isbabazbaz siin iskaun mas haising.	嘴巴用來說話和吃飯。	嘴巴用來說話和吃飯。	Maza ngulus hai, isbabazbaz siin iskaun mas haising.	雞被魚吃了,牠們在這裡食。	Maza ispaaz hai, pasnavaun mas ma'an.
+293	Maza paaz mas maduh, siinmas acipul mas bainu hai, aizaan amin mas nukis.	稻子和小米，以及玉米和豆子，都有殼。	稻子和小米，以及玉米和豆子，都有殼。	Maza paaz mas maduh, siinmas acipul mas bainu hai, aizaan amin mas nukis.	米和小米,用來裝牛肉也都有麻。	Maza utung mas maduh hai, isia dalah tu baaz sia bunuaz hai, aizaan amin mas utung.
+294	Mais mabazu mas paaz hai, asa tu tapisun a nukis.	舂稻米時必須把糠揚去。	舂稻米時必須把糠揚去。	Mais mabazu mas paaz hai, asa tu tapisun a nukis.	打破子的時候,要把木板拆掉。	Mais mais hanup hai, asa tu kaaz mas haising.
+295	Bazuan a nusung mas inaliv.	臼是舂粿的地方。	臼是舂粿的地方。	Bazuan a nusung mas inaliv.	那個子被到。	Maza haising hai, isia haising.
+296	Laupaku hai, nuumbuan.	現在是六月。	現在是六月。	Laupaku hai, nuumbuan.	子是小米。	Laupaku hai, isia Juni.
+297	Supah a pacikaul sian libus.	森林裡很多五色鳥。	森林裡很多五色鳥。	Supah a pacikaul sian libus.	很多在山裡。	Supah a hanvang sia palivus.
+298	Namushuin tu sapuz, izaav pacingna pacibangbang.	快要熄滅的火， 把它重新燃起旺盛。	快要熄滅的火， 把它重新燃起旺盛。	Namushuin tu sapuz, izaav pacingna pacibangbang.	的種子,要吃到雞肉。	Maza haising hai, asa tu ispaluhus mas sapu.
+299	Maza pacishuan hai, cinsisinghal.	螢火蟲一閃一閃發光。	螢火蟲一閃一閃發光。	Maza pacishuan hai, cinsisinghal.	子被起來。	Maza minkuzakuza hai, kaaz mais mudadaan.
+300	Nii kaimin tahuan mas cina isaicia tu padadaimpusan.	我們沒被告知母親她的儲藏處。	我們沒被告知母親她的儲藏處。	Nii kaimin tahuan mas cina isaicia tu padadaimpusan.	我們不想跟他的母親談話。	Takna kata tu sinpaazan mas cina hai, aiza a inaicia pasipul.
+301	Ilumah a cina padangi pininhaizu sia paan.	在家裡，媽媽把酸菜放在瓶子裡。	在家裡，媽媽把酸菜放在瓶子裡。	Ilumah a cina padangi pininhaizu sia paan.	媽媽把房子蓋在地上。	Aiza sian lumah hai, masial mas cina mas hazam tu maduh.
+302	Inaam huma hai, pahaisan mas lukis.	我的田地以樹木分界。	我的田地以樹木分界。	Inaam huma hai, pahaisan mas lukis.	我們的田地被木頭砍伐。	Inaak huma hai, ispalunghung mas lukis.
+303	Pahdial a saia sian mahdial tu daan.	他在滑溜的路上滑倒。	他在滑溜的路上滑倒。	Pahdial a saia sian mahdial tu daan.	他走在的路上。	Maza daingdaingaz tu daan hai, mudadaan mas isia.
+304	Inaak paihuunan hai, isia luduncia.	我開墾的地在那座山裡。	我開墾的地在那座山裡。	Inaak paihuunan hai, isia luduncia.	我的子在那邊。	Inaak tu lumah hai, isia ludun.
+305	Maza nii tu pakadaidaz tu bunun hai, satamalan.	不彼此愛護的人受到輕視。	不彼此愛護的人受到輕視。	Maza nii tu pakadaidaz tu bunun hai, satamalan.	不善的人會被罵。	Maza nii tu bunun hai, nii tu sinka'uni.
+306	Pakatainunku a utubai aupa minuntunuh a daana.	因為那條道路坍方我使摩托車繞路。	因為那條道路坍方我使摩托車繞路。	Pakatainunku a utubai aupa minuntunuh a daana.	我把木柴,因為路很窄。	Maza daan hai, isia minkuzakuza hai, paspasikung saikin mas katukput.
+307	Mais miliskin isaicia lainihaiban tu palanduan hai, kahanimulmulun.	一想到他經歷過的事情就難過。	一想到他經歷過的事情就難過。	Mais miliskin isaicia lainihaiban tu palanduan hai, kahanimulmulun.	他打破了那個舊的帳,現在很好看。	Mais isia pasnanavaan hai, asa tu mahansiap.
+308	Palasmauvunin saikin mas kaviaz sui.	我被朋友騙了錢。	我被朋友騙了錢。	Palasmauvunin saikin mas kaviaz sui.	我被朋友借錢。	Maza inaak tu bunun hai, maluhtu mas sui.
+309	Kaa tu mapalasmuav mas bunun, ku'uni bacuun Kamisama.	不要騙人，否則會被上帝懲罰。	不要騙人，否則會被上帝懲罰。	Kaa tu mapalasmuav mas bunun, ku'uni bacuun Kamisama.	不要讓人看不起,要照顧老師。	Kaa tu maliskin mas bunun, aupa mahtu kaunun mas itu Tamacina.
+310	Palaszu saikin madaiplu tu danum.	我過濾混濁的水。	我過濾混濁的水。	Palaszu saikin madaiplu tu danum.	我喝過水了。	Maza minkuzakuza tu danum hai, ismuut.
+311	Mazima saikin muskun mas matataiklas tu bunun palihansiap.	我喜歡和學者共同討論。	我喜歡和學者共同討論。	Mazima saikin muskun mas matataiklas tu bunun palihansiap.	我喜歡看著有氣的人,讓他們笑。	Mazima saikin mas isnanavaan tu bunun malsusuaz.
+312	Labian mais mudadaan uka palsiuhun hai, nakalatun mas ivut.	夜裡出門沒有火把的話，會被蛇咬。	夜裡出門沒有火把的話，會被蛇咬。	Labian mais mudadaan uka palsiuhun hai, nakalatun mas ivut.	晚上經過不到門口,被子撞到。	Mais maitangis mais malamma tu lumah hai, mahtu iskaling mas sibabus.
+313	Palusapuzun saikin mas cina.	媽媽叫我生火。	媽媽叫我生火。	Palusapuzun saikin mas cina.	我被媽媽打。	Maza inaak hai, asa tu kaimin.
+314	Mais paluszangun hai, siamas maisidi manambuh.	相較之下還是羊肉好吃。	相較之下還是羊肉好吃。	Mais paluszangun hai, siamas maisidi manambuh.	雨下了,我們要去採收的。	Maza sin'auk hai, masial maun.
+315	Pisainunku sia panatpuancia a batakandanuma.	我把那個竹水管放在田地的盡頭那邊。	我把那個竹水管放在田地的盡頭那邊。	Pisainunku sia panatpuancia a batakandanuma.	我在那個小鎮的前院睡覺。	Maza takil hai, isiaak tu pinaskalun sia huma.
+316	Isia pasnanavaan, supahan a papatasan tu pangkaka.	學校裡，書桌很多。	學校裡，書桌很多。	Isia pasnanavaan, supahan a papatasan tu pangkaka.	在學校很多學生被打架。	Mais pasnanavaan hai, supahan mas patasanan.
+317	Aiza sia huhuudan uciacia a pangkapalusu.	有喝茶的長椅。	有喝茶的長椅。	Aiza sia huhuudan uciacia a pangkapalusu.	那個子的下巴在那邊。	Aiza a kaung mas bahlu.
+318	Kiukai tu alnuhuan hai, siamas pangkapalusu.	教會的座位是長椅。	教會的座位是長椅。	Kiukai tu alnuhuan hai, siamas pangkapalusu.	的乳房是用來。	Maza sinkiva hai, isia pasnanavaan.
+319	Mahatba inaak panhudasun a lutbu.	我的祖父母身體健康。	我的祖父母身體健康。	Mahatba inaak panhudasun a lutbu.	我的胸口很痛。	Maza inaak tu tamacina hai, mahtu a isia lutbu.
+320	Inaak sinkuzakuza hai, pankanahtung aip tu hanian.	我的工作到今天結束。	我的工作到今天結束。	Inaak sinkuzakuza hai, pankanahtung aip tu hanian.	我的工作是草耕,今天要做更多。	Inaak sinkuzakuza hai, asa tu haising.
+321	Pankuang a tuki mais muhalhal.	時鐘掉下來的時候摔壞了。	時鐘掉下來的時候摔壞了。	Pankuang a tuki mais muhalhal.	子若長大,要。	Maza habasang hai, pas'aungzangan ila.
+322	Pantaskun kaimin kusia pasnanavan.	我們相遇而一起上學。	我們相遇而一起上學。	Pantaskun kaimin kusia pasnanavan.	我們在學校一起唱歌。	Maza kata tu pasnanava hai, isia pasnavaan.
+323	Laupaku hai, ukiin amin maupacin tu papatvisan.	現在，也已經沒有這種射耳祭收藏室了。	現在，也已經沒有這種射耳祭收藏室了。	Laupaku hai, ukiin amin maupacin tu papatvisan.	今天我來到所有子園。	Laupaku hai, nii tu kaimin mas isia mintuhas.
+324	Pasabahavang a uvaaza.	請把那個孩子哄睡。	請把那個孩子哄睡。	Pasabahavang a uvaaza.	請把那個孩子帶回家。	Ipataskal a uvaaza.
+325	Taintungu tu bunun hai, asa tu pasabahun sia masaningsing tu sapalan.	要讓訪客睡乾淨的床。	要讓訪客睡乾淨的床。	Taintungu tu bunun hai, asa tu pasabahun sia masaningsing tu sapalan.	人必須穿著的衣服。	Asa tu bunun hai, asa tu mahtu mapainuk.
+326	Kaa tu pasimul mas makasa tu bunun mas sui.	不要借錢給懶惰的人。	不要借錢給懶惰的人。	Kaa tu pasimul mas makasa tu bunun mas sui.	不要讓的人用錢。	Kaa tu sinkaun mas minkuzakuza.
+327	Pasitatau kaimin kusia babalivancia.	我們三個人結伴去那個商店。	我們三個人結伴去那個商店。	Pasitatau kaimin kusia babalivancia.	我們在那個山口走路。	Maza kata tu talka hai, malusbu kusia isia dukaan.
+328	Masnanava hai, paskazaan mas zami.	老師是我們親近的對象。	老師是我們親近的對象。	Masnanava hai, paskazaan mas zami.	學生被我們教書。	Maza masnanava hai, inaam tu sin'aang.
+329	Pastabalav a bunbuna, nalubununin.	去砍那香蕉，要悶熟了。	去砍那香蕉，要悶熟了。	Pastabalav a bunbuna, nalubununin.	把那些子煮熟,烤起來。	Pisav a bunbun, asa tu mahtu.
+330	Pantakzangan sain mas babu tu dadangian.	這位置是豬躺的地方。	這位置是豬躺的地方。	Pantakzangan sain mas babu tu dadangian.	這裡是豬肉的地方。	Maza sinkava hai, ispaazan mas babu.
+331	Aiza aluaz isia patcilasancia maun mas maduh.	有老鼠在那個穀倉裡吃小米。	有老鼠在那個穀倉裡吃小米。	Aiza aluaz isia patcilasancia maun mas maduh.	在那個小屋有老鼠吃小米。	Aiza a Maus hai, aizaan mas maduh tu sinpaaz.
+332	Aiza naak lumah tu tau a patdanuman.	我家有三個水缸。	我家有三個水缸。	Aiza naak lumah tu tau a patdanuman.	我家有水田。	Inaak lumah hai, tal'a tu kaung.
+333	Sapil hai, dainpusun sia patsapilancia.	鞋子收在那個鞋櫃裡。	鞋子收在那個鞋櫃裡。	Sapil hai, dainpusun sia patsapilancia.	子被插在床上。	Maza habas hai, ispaliskin sia kaaz.
+334	Madamu a Taupas tulkuk sia pattulkukan.	Taupas在養雞場捉雞。	Taupas在養雞場捉雞。	Madamu a Taupas tulkuk sia pattulkukan.	塔普斯在子裡抓雞。	Taupas hai, mapataz mas tulkuk.
+335	matauhtauh a patukdul mas lukis, kikilim mas ivutaz tu nakaunun.	那隻啄木鳥啄樹木找蟲吃。	那隻啄木鳥啄樹木找蟲吃。	matauhtauh a patukdul mas lukis, kikilim mas ivutaz tu nakaunun.	子用木頭著小孩吃。	Maza hazam hai, maluslus sia lukis mais maun.
+336	mapatumantuk kaimin tu nanii'in muhna mapahaungun.	我們彼此約定不再吵架。	我們彼此約定不再吵架。	mapatumantuk kaimin tu nanii'in muhna mapahaungun.	我們的目標是要堅持。	Asa kata mabaliv a haising mais nii tu ka'av.
+337	mapatumantuk a naia sia Kamisama mas bunun tu tanangaus tu naminpakatuszang sauhabas.	他們在神和人的面前立誓，永遠成為夫妻。	他們在神和人的面前立誓，永遠成為夫妻。	mapatumantuk a naia sia Kamisama mas bunun tu tanangaus tu naminpakatuszang sauhabas.	他們在上帝面前祈求別人的祝福,過去所說的話。	Maza isaicia hai, pasia a tacini tu sinkauman mas bunun hai, namasa maduh.
+338	Mapadangi tu tanangaus hai, ngausang patunhaal.	結婚之前，先要訂婚。	結婚之前，先要訂婚。	Mapadangi tu tanangaus hai, ngausang patunhaal.	的樹枝被磨碎了。	Mais malumah hai, asa tu painsanan.
+339	Sain tu iskuzakuza hai, paunangcia.	這個工作就暫時這樣。	這個工作就暫時這樣。	Sain tu iskuzakuza hai, paunangcia.	工作的地方在那邊。	Maza ismu'a tu sinkuzakuza hai, asain.
+340	Pidaizaav a isuu patasan.	把你的書放在那邊。	把你的書放在那邊。	Pidaizaav a isuu patasan.	你的書被破了。	Isaipul a isuu patasan.
+341	Napikuun a tingami mapatas?	要怎麼寫信？	要怎麼寫信？	Napikuun a tingami mapatas?	那個子被什麼蟲咬掉了?	Maaz maisnava tu patasan?
+342	Pinanasukav a danuma.	把那些水煮沸。	把那些水煮沸。	Pinanasukav a danuma.	那些水被挖掉了。	Pisav a danum.
+343	Sinaivanik mas TamaCiang mas sidi tu pinasah.	我被江叔叔送羊腿。	我被江叔叔送羊腿。	Sinaivanik mas TamaCiang mas sidi tu pinasah.	我向爸爸傳送的遺產。	Saikin hai, painsanan mas itu Ciang tu kaviaz.
+344	Pingadahunku inaak patasan sia pangkaka.	我的書我放在書桌裡。	我的書我放在書桌裡。	Pingadahunku inaak patasan sia pangkaka.	我把我的書放在紙箱裡。	Inaak patasan hai, istuhasunku sia talka.
+345	Pisbahisavang a pandian.	請把菜加熱。	請把菜加熱。	Pisbahisavang a pandian.	請把那個樹枝剪成一條。	Maza haising hai, asa tu sin'auk.
+346	Kaa tu sipungul mapishaci mas danum.	別忘了燒開水。	別忘了燒開水。	Kaa tu sipungul mapishaci mas danum.	不要用水到水泡。	Kaa tu mabaliv mas huud.
+347	Uvavaaza hai, isia pasnanavaancia pishasibang.	那些小孩在學校那裡玩耍。	那些小孩在學校那裡玩耍。	Uvavaaza hai, isia pasnanavaancia pishasibang.	那個小孩在那所學校打球。	Maza uvaaz hai, aizaan sia pasnanavaan.
+348	Pishutav a duuna maluhus.	綁緊那條繩子。	綁緊那條繩子。	Pishutav a duuna maluhus.	請把那個子拔掉。	Pisav a ismuza.
+349	Piskasainunku laiziu sia tatapacia.	我把收音機放在那個架子上。	我把收音機放在那個架子上。	Piskasainunku laiziu sia tatapacia.	我把那個子放在那邊。	Maza ismuhaiv hai, pasisuaz saikin sia paat.
+350	Uung, asa saikin pismali.	是的我喜歡打球。	是的我喜歡打球。	Uung, asa saikin pismali.	,我要去洗臉。	Maza saikin hai, mazima kusia maluslus.
+351	Maldauk a andii uvaaz pisngungusul.	這個小孩還在流鼻涕。	這個小孩還在流鼻涕。	Maldauk a andii uvaaz pisngungusul.	小孩很,因為被小孩打。	Maza uvaaz hai, aizaan mas ismuha.
+352	Isia Takau hai, niin bunun pispaaz.	高雄沒有人種稻了。	高雄沒有人種稻了。	Isia Takau hai, niin bunun pispaaz.	塔高族人不是蛋。	Maza kahus hai, ukaan mas isnavaaz.
+353	Inaam pisanglavan hai, sauzan mas tamana.	我們的菜園種高麗菜。	我們的菜園種高麗菜。	Inaam pisanglavan hai, sauzan mas tamana.	我們的農作物種植了。	Inaam patatimahan hai, minpaaz mas maduh.
+354	Mais mataiklas tu bunun hai, mataiklas a punuh.	聰明的人腦子聰明。	聰明的人腦子聰明。	Mais mataiklas tu bunun hai, mataiklas a punuh.	熟的人若是熟,會把田地耕作。	Maza mahansiap tu bunun hai, mahusnas a sinkuzakuza.
+355	maza puthudas hai, mazima tunkaudukaudu sian lukis.	松鼠喜歡在樹上跳躍。	松鼠喜歡在樹上跳躍。	maza puthudas hai, mazima tunkaudukaudu sian lukis.	子喜歡爬在樹上。	Mazima a hazam hai, mazima manlangsiap sia lukis.
+356	Sain tu patasan hai, sainiduaninku.	這本書我已經讀過了。	這本書我已經讀過了。	Sain tu patasan hai, sainiduaninku.	這本書我讀過。	Maza patasan hai, inaak pasnanava.
+357	Saidiip a saia pasavai kahuzas.	他去那邊比賽唱歌了。	他去那邊比賽唱歌了。	Saidiip a saia pasavai kahuzas.	他那邊的子很大。	Isaicia hai, pasia dalahang mas sinkava.
+358	Supah a samah sia humacia.	田中有許多A菜。	田中有許多A菜。	Supah a samah sia humacia.	田裡很多木炭。	Supah a humacia.
+359	Madaing inaak sapalan, mahtu unsaspaatan masabah.	我的床很大，可以睡四個人。	我的床很大，可以睡四個人。	Madaing inaak sapalan, mahtu unsaspaatan masabah.	我很好看,可以多打球。	Maza inaak patas hai, mahtu ispatama tu bunun.
+360	Saisia kaimin tunsila Taitu mabaliv ulus mas sapil.	我們前天去台東買衣服和涼鞋。	我們前天去台東買衣服和涼鞋。	Saisia kaimin tunsila Taitu mabaliv ulus mas sapil.	我們到台東買子。	Kaumananta kata Taitu hai, kaimin tu isbabai mas haising.
+361	Cibabangbang sapuz, halum hai, makazkaz tunhabin sia dalah.	大火熊熊燃燒時，穿山甲挖洞躲在地下。	大火熊熊燃燒時，穿山甲挖洞躲在地下。	Cibabangbang sapuz, halum hai, makazkaz tunhabin sia dalah.	子,子可以穿在地上。	Mais paaz hai, mais mahansiap mas hazam tu talumah.
+362	Satuunku inaak uvaaz kusia pasnanavaan.	我的孩子被我送去上學。	我的孩子被我送去上學。	Satuunku inaak uvaaz kusia pasnanavaan.	我把我的孩子送到學校。	Inaak uvaaz hai, isnavaanku sia pasnanava.
+363	Masa makulut mas sanglav hai, sindamus mas ima.	切菜的時候劃傷了手。	切菜的時候劃傷了手。	Masa makulut mas sanglav hai, sindamus mas ima.	草的時候手會被。	Mais ma'uni mas maduh hai, minsaipuk a ima.
+364	Mazima saikin maun mas babu tu sikis.	我喜歡吃豬蹄。	我喜歡吃豬蹄。	Mazima saikin maun mas babu tu sikis.	我喜歡吃豬肉。	Mazima saikin maun mas habas.
+365	Saikin takna hai, silalaan mas Dahu tu namapahaungun.	我昨天被達琥挑釁而吵架。	我昨天被達琥挑釁而吵架。	Saikin takna hai, silalaan mas Dahu tu namapahaungun.	我昨天被達打架。	Maza saikin hai, takna Dahu mas dahu tu maliskin.
+366	Maza halidang mais ibulas silup ma'anat hai, tuzatuza tu masial kaunun.	樹豆加上腸子一起煮，真的很好吃。	樹豆加上腸子一起煮，真的很好吃。	Maza halidang mais ibulas silup ma'anat hai, tuzatuza tu masial kaunun.	子如果下雨,會長得很好吃。	Maza bauni hai, pahansiap mas bunuaz tu haising hai, mazima maun.
+367	Sinavunku aip sinkakaun.	今天我洗餐具。	今天我洗餐具。	Sinavunku aip sinkakaun.	我煮了這塊飯。	Maza habasin saikin hai, malusuh mas isia sinkaun.
+368	Pakasikalun uvaaz sia sinbalung manah.	小孩從圍牆的空隙射。	小孩從圍牆的空隙射。	Pakasikalun uvaaz sia sinbalung manah.	小孩被在屋子裡。	Uvavaaz hai, ispaluh mas sin'al.
+369	Mais nalahaib sia palavaazan hai, asa tu sanasia singhalnanulu.	如果要通過十字路口，必須按照紅綠燈。	如果要通過十字路口，必須按照紅綠燈。	Mais nalahaib sia palavaazan hai, asa tu sanasia singhalnanulu.	睡覺的時候,必須用手指伸直。	Mais mahtu pasia painsanan hai, asa tu ka'uni mas ispalasang.
+370	Inaak tama tu sinhasam hai, antalaunku amin.	我父親的勸告，我全部接受。	我父親的勸告，我全部接受。	Inaak tama tu sinhasam hai, antalaunku amin.	我爸爸的菜我全吃了。	Maza inaak tama tu sinpaaz hai, saikin amin.
+371	Adia hai, sinkandapan mas hanvangcia.	那些是那隻牛的腳印。	那些是那隻牛的腳印。	Adia hai, sinkandapan mas hanvangcia.	那隻子被那隻老鼠咬過。	Maza itu tu sin'anan mas cina hai, isia hanvang.
+372	Tahuavang saikin tu isima sain tu sinpinaskal.	請告訴我這是誰送的禮品。	請告訴我這是誰送的禮品。	Tahuavang saikin tu isima sain tu sinpinaskal.	我喜歡那些被我打破的字。	Savun saikin mas bunun tu sin'aang.
+373	Bunun hai, imita vaivivaivi siduh tu sintuskun.	布農族是我們各家族的統稱。	布農族是我們各家族的統稱。	Bunun hai, imita vaivivaivi siduh tu sintuskun.	布農人有不同的。	Bunun hai, itu inaam tu sin'aang.
+374	Uvavaaz hai, tulansan mas inaak tu sintutupa.	孩子們跟著我說話。	孩子們跟著我說話。	Uvavaaz hai, tulansan mas inaak tu sintutupa.	小孩被我的子咬傷。	Uvavaaz hai, isia inaak tu sinkava.
+375	Kaimin masa uvaazang, mazima kikilim hazam tu sinuk.	我們小時候喜歡找鳥巢。	我們小時候喜歡找鳥巢。	Kaimin masa uvaazang, mazima kikilim hazam tu sinuk.	我們小時候喜歡米飯。	Mazima a kata uvaaz hai, makasia mabaliv mas palivus.
+376	Anatupa tu miahdi hai, asa tu sisasaa.	雖然艱苦，一定要忍耐。	雖然艱苦，一定要忍耐。	Anatupa tu miahdi hai, asa tu sisasaa.	的小腿必須擦。	Maza madaing hai, asa tu mahtu ka'a'az.
+377	Malbuntuin kasu sisasaanku.	你被我忍耐很久了。	你被我忍耐很久了。	Malbuntuin kasu sisasaanku.	你被我教會打得。	Maza isia inaak tu sin'aang hai, madaing.
+378	Maduh hai, sishutun maluhus sia palangan.	藤簍裡的小米被綁緊。	藤簍裡的小米被綁緊。	Maduh hai, sishutun maluhus sia palangan.	小米被在田裡。	Maza haising hai, is'aang mas pishut.
+379	Sukudan saicia ilav, nii tu mapulumah asu.	他關門，不讓狗進入房內。	他關門，不讓狗進入房內。	Sukudan saicia ilav, nii tu mapulumah asu.	他被困住,不想去養狗。	Maza isaicia lumah hai, nii tu mahtu pasia isnavaan mas asu.
+380	Adu kanahtunganin imuu lumah sulabu?	你們家灌好水泥漿了嗎？	你們家灌好水泥漿了嗎？	Adu kanahtunganin imuu lumah sulabu?	你們家有沒有房?	Isuu lumah hai, ismuut mas patpatung?
+381	Mazima hanvang supduh sia vahlas.	牛喜歡泡在河裡。	牛喜歡泡在河裡。	Mazima hanvang supduh sia vahlas.	豬喜歡在山上爬。	Mazima a itu tu hanvang sia lumah.
+382	Pupunu tu daisah hai, suulan mas danum.	塵土飛揚的前院被潑水。	塵土飛揚的前院被潑水。	Pupunu tu daisah hai, suulan mas danum.	滿床的水泡起來了。	Maza minuhus tu dalah hai, ispalut mas tui.
+383	Supahan mas tabuan luduna.	那座山有許多血桐樹。	那座山有許多血桐樹。	Supahan mas tabuan luduna.	那裡很多水泥。	Supah a ludun mas balivus.
+384	Pandianan hai, taikitakna tu kinitdaan.	這些是昨天的剩菜。	這些是昨天的剩菜。	Pandianan hai, taikitakna tu kinitdaan.	這塊地是我們所造的。	Maza itu takna tu sin'anan hai, isia minkuzakuza.
+385	Tainilumah hai, asa tu makaskas kuzakuza.	當家的主人要勤奮工作。	當家的主人要勤奮工作。	Tainilumah hai, asa tu makaskas kuzakuza.	家庭必須做事盡力。	Mais maisinumah hai, asa tu mahtu isia pasnanava.
+386	Inaak sinpapanah hai, niang taisandu.	我所發射的都還沒有射中。	我所發射的都還沒有射中。	Inaak sinpapanah hai, niang taisandu.	我的飛機沒有飛機。	Maza inaak sinlava hai, nii tu mahtu malusbu.
+387	Kapimaupa maun hai, nataldaing.	飲食正常會長大。	飲食正常會長大。	Kapimaupa maun hai, nataldaing.	吃的東西很。	Mais maun hai, mahtu amin mas isia minkula.
+388	Inaak lutbu hai, makanadidiip tu talsial.	我的身體越來越好。	我的身體越來越好。	Inaak lutbu hai, makanadidiip tu talsial.	我的腳是的。	Maza inaak a ismu'a tu kauman hai, mahtu amin.
+389	Supah a tamahudas sian uk'uk.	很多蟾蜍在小溪邊。	很多蟾蜍在小溪邊。	Supah a tamahudas sian uk'uk.	子很多。	Supah a ka'av sia lusbu.
+390	Kaa tu maun mas tamaku.	不要吸菸。	不要吸菸。	Kaa tu maun mas tamaku.	不要吃。	Kaa tu ma'auk mas ismuut.
+391	Masuaz a saikin mas tamana.	我種高麗菜。	我種高麗菜。	Masuaz a saikin mas tamana.	我養子。	Inaak sin'av mas maduh.
+392	Mais nahanup hai, aiza patuhazam kusbai maisnatanaskaun mai'aupa sia tanavili hai, musuhis.	要去打獵的時候，如果有繡眼鳥從右邊飛向左邊，就會調頭回去。	要去打獵的時候，如果有繡眼鳥從右邊飛向左邊，就會調頭回去。	Mais nahanup hai, aiza patuhazam kusbai maisnatanaskaun mai'aupa sia tanavili hai, musuhis.	打獵時,有時要用手槍射中一頭但在門口會很。	Mais mais nii tu hanup hai, mais isia minkuzakuza hai, aupa paspasimul sia kaviazan.
+393	maza inaak lumah hai, antansian daan tu tanavili.	我家在路的左側。	我家在路的左側。	maza inaak lumah hai, antansian daan tu tanavili.	我的家是路的旁邊。	Inaak lumah hai, isia kaluaz tu daan.
+394	Asa saikin mabaliv bahlu tu tanbunguan.	我想買新枕頭。	我想買新枕頭。	Asa saikin mabaliv bahlu tu tanbunguan.	我必須買子。	Asa saikin mabaliv mas bahis.
+395	Ispakaun mas ubuh tu iu hai, asa tu tangtangun.	用來餵嬰兒的藥，要搗成粉末。	用來餵嬰兒的藥，要搗成粉末。	Ispakaun mas ubuh tu iu hai, asa tu tangtangun.	孩子吃飽的食物必須煮。	Maza habai hai, ismuut mas banaz tu kahuzas.
+396	Simabin isia tankinuz tatangis a ii?	是誰在後面哭泣？	是誰在後面哭泣？	Simabin isia tankinuz tatangis a ii?	你到那個房間去哭嗎?	Sima mininhal tu haising?
+397	Mais tankukutunin, namudaan saikin kusia Takau.	午夜後，我要去高雄。	午夜後，我要去高雄。	Mais tankukutunin, namudaan saikin kusia Takau.	打火的時候,我去高雄。	Mais pasnanavaan hai, saikin kusia Kahu.
+398	Mazima a uvavaaza tantungu sian hudasnanaz.	那些孩子喜歡拜訪爺爺。	那些孩子喜歡拜訪爺爺。	Mazima a uvavaaza tantungu sian hudasnanaz.	那個小孩喜歡在床上躺著。	Mazima uvaaz hai, namasa maduh mas baki.
+399	Mais tapudavus hai, ma'aipi damun mas dahpahataz.	酒鬼容易得肝病。	酒鬼容易得肝病。	Mais tapudavus hai, ma'aipi damun mas dahpahataz.	打火的時候,要用水。	Maza maivus hai, mahtu mas haitu.
+400	Makaniin laupaku usaduan mas tapushuan.	現在不容易看到螢火蟲了。	現在不容易看到螢火蟲了。	Makaniin laupaku usaduan mas tapushuan.	子被火燒了。	Laupaku hai, nii tu mahtu kaunun mas isia minkuzakuza.
+401	Laupaku hai, taubuan.	現在是三月。	現在是三月。	Laupaku hai, taubuan.	子是被。	Laupaku a habas.
+402	taudaniv a inaam pasnanavaan mas istaiklasan patahu.	我們學校邀請學者演講。	我們學校邀請學者演講。	taudaniv a inaam pasnanavaan mas istaiklasan patahu.	我們的學生在米。	Inaam pasnanavaan hai, asa tu painsanan mas isnanavaan tu bunun.
+403	Masa unulan hai, supah a bunun taupatazan.	之前地震時很多人被壓死。	之前地震時很多人被壓死。	Masa unulan hai, supah a bunun taupatazan.	下雨的時候很多人會被打。	Habas mais mabaliv hai, supah a bunun.
+404	taussupah a malusping tu aluaza mas takbu.	母老鼠生很多幼鼠。	母老鼠生很多幼鼠。	taussupah a malusping tu aluaza mas takbu.	那些的小米很多。	Maza ma'ais hai, supahan mas maduh.
+405	Mahtu a inaak tama ma'ama mas dusa tu tavasiu tu paaz.	我父親可以背兩個麻袋的稻子。	我父親可以背兩個麻袋的稻子。	Mahtu a inaak tama ma'ama mas dusa tu tavasiu tu paaz.	我爸爸可以用二隻子的田。	Maza inaak tama hai, mahtu mas tu haising tu painsanan.
+406	Maza tavukul hai, istavukul mas iskaan.	魚網用來網魚。	魚網用來網魚。	Maza tavukul hai, istavukul mas iskaan.	魚被魚起來。	Maza iskaan hai, masial tu kaviaz.
+407	Inaak hudasnanaz mais sadu tilibi hai, mazima listutudul.	我爺爺看電視時喜歡打瞌睡。	我爺爺看電視時喜歡打瞌睡。	Inaak hudasnanaz mais sadu tilibi hai, mazima listutudul.	我的朋友在電視看時,會叫。	Inaak baki hai, mais pasimaun mas TV tu mainduu.
+408	Tatuunin tu lumah hai, tuduhan.	舊屋漏水。	舊屋漏水。	Tatuunin tu lumah hai, tuduhan.	屋子的房間被拆除了。	Maza haising hai, minuhus mas danum.
+409	Tuduhan inaam taluhan.	我們的工寮漏水。	我們的工寮漏水。	Tuduhan inaam taluhan.	我們的田地很大。	Maza inaam patpatas hai, minpuus.
+410	maza sain hai, itutakilimun maibungu tu tuhnaz.	這是山豬的頭骨。	這是山豬的頭骨。	maza sain hai, itutakilimun maibungu tu tuhnaz.	這隻是用來青的小米。	Maza itu a babu tu kaung.
+411	Maza tukban hai, istapus mas maduh.	簸箕用來為小米揚糠。	簸箕用來為小米揚糠。	Maza tukban hai, istapus mas maduh.	子被打小米。	Maza ismuut hai, mahtu mas maduh.
+412	Maza isnanavaana hai, natunbasu kusia pasnanavaan.	那些學生要搭公車去學校。	那些學生要搭公車去學校。	Maza isnanavaana hai, natunbasu kusia pasnanavaan.	那個學生被送到學校。	Maza isnanavaan hai, asa tu pasia pahansiap mas iskuluan.
+413	Tunghazav a lukisa.	把那棵樹弄倒。	把那棵樹弄倒。	Tunghazav a lukisa.	那棵樹。	Pishut a lukis.
+414	maza inaak ngaan hai, tupaun tu Savi.	我的名字叫Savi。	我的名字叫Savi。	maza inaak ngaan hai, tupaun tu Savi.	我的名字是子。	Savi a inaak tu isnanava.
+415	Bunun hai, nautu maupacia tutupa tu mapakadaidaz.	人們總是那樣必然的相親相愛。	人們總是那樣必然的相親相愛。	Bunun hai, nautu maupacia tutupa tu mapakadaidaz.	布農人喜歡用子做。	maza bunun hai, aizaan tu minkuzakuza.
+416	Masa ubuhang a kasu hai, pisi'alun mas tamacina saipuk.	當你還是嬰兒時，受到父母很好的照顧。	當你還是嬰兒時，受到父母很好的照顧。	Masa ubuhang a kasu hai, pisi'alun mas tamacina saipuk.	子被父母咬過。	Mais isuu tu uvaaz hai, masial a itu mas tamacina.
+417	maza inaicia taluhan hai, unataan mas matushung tu bunun.	他們的工寮，惡作劇的人在那裏大小便。	他們的工寮，惡作劇的人在那裏大小便。	maza inaicia taluhan hai, unataan mas matushung tu bunun.	他們的子被獵人抓走了。	Isaicia sinkaupa hai, mastuhas tu bunun hai, aizaan mas utung.
+418	Undusaan kaimin sia Kalingku kuzakuza kasui.	我們兩個人在花蓮工作賺錢。	我們兩個人在花蓮工作賺錢。	Undusaan kaimin sia Kalingku kuzakuza kasui.	我們在 Kalingku工作兩年。	Kaimin tu bunun hai, isia Kaluluhan mas sui.
+419	Inaam masnanava hai, unpuluan.	我們的老師患有痛風。	我們的老師患有痛風。	Inaam masnanava hai, unpuluan.	我們的老師很高興。	Maza inaam masnanava hai, ma'an tu kaung.
+420	Upluhunku bainuPuut maun.	我把花生剝裂來吃。	我把花生剝裂來吃。	Upluhunku bainuPuut maun.	我吃過一碗雞肉。	Maza baliku hai, ismuuk saikin maun.
+421	Sinpavali tu paaz hai, vasvasun mas tulkuk.	曬過的稻子被雞弄散了。	曬過的稻子被雞弄散了。	Sinpavali tu paaz hai, vasvasun mas tulkuk.	的地瓜被雞咬。	Maza sinpaupa tu haising hai, painsanan mas tulkuk.
+422	Vilisanku a kangkunanana mas ulus.	那根竹竿是我掛衣服的地方。	那根竹竿是我掛衣服的地方。	Vilisanku a kangkunanana mas ulus.	我把子起來。	Maza takil hai, inaak tu sinkaun mas kaunun.
+423	Navilisunku palanganan sian lukiscin.	我要把這竹簍掛在這棵樹上。	我要把這竹簍掛在這棵樹上。	Navilisunku palanganan sian lukiscin.	我把子插在樹下。	Maza takna hai, ispaliskin saipuk sia lukis.
+424	Vuhvuhun a lumah mas unul.	房屋被地震搖晃。	房屋被地震搖晃。	Vuhvuhun a lumah mas unul.	那個房子被水淹沒了。	Maza lumah hai, maliskin mas dalah.
+425	Masial a isaicia bangkal vulvulun.	他的水田除草做得很好。	他的水田除草做得很好。	Masial a isaicia bangkal vulvulun.	他的子很好穿。	Maza isaicia huma hai, masial a sin'av.
+426	maza isaincin hai, zaku a mastaan masituhas.	在這裡是我最年長。	在這裡是我最年長。	maza isaincin hai, zaku a mastaan masituhas.	我這個男生,我很會打架。	Maza inaak tu haising hai, isia minkulavan.
+427	Zami a tainisia mas dalahcin.	我們是這塊土地的主人。	我們是這塊土地的主人。	Zami a tainisia mas dalahcin.	我們沒有去那邊看看。	Kaimin hai, isia a huma.
+428	Mazima a saikin maun mas kinal'ing tu lili tu zuszus.	我喜歡吃炒過貓的嫩芽。	我喜歡吃炒過貓的嫩芽。	Mazima a saikin maun mas kinal'ing tu lili tu zuszus.	我喜歡吃被獵的子。	Mazima saikin maun mas sinkava tu hanvang.
+429	Tupaa.	請說。	請說。	Tupaa.	請舉行祈禱。	Maza ismutav.
+430	Masabaha!	睡吧！	睡吧！	Masabaha!	請進!	Minsapa!
+431	Alivav a dulaz ii nakaunun.	把那些糯米粒做成麻糬來吃。	把那些糯米粒做成麻糬來吃。	Alivav a dulaz ii nakaunun.	請把子吃。	Pisav a sinpaza hai, painsananun mas ismu'a.
+432	Kaimin tastu'aluskunan hai, aiza mabananaz, aiza amin maluspinaz.	我們班有男生，也有女生。	我們班有男生，也有女生。	Kaimin tastu'aluskunan hai, aiza mabananaz, aiza amin maluspinaz.	我們的家庭有男,也有女。	Aiza kaimin pasnanavaan hai, aizaan mas minkuzakuza.
+433	Maza huma hai, asaunku isbaliv.	我得把田賣掉。	我得把田賣掉。	Maza huma hai, asaunku isbaliv.	田地我把它翻修了。	Asa saikin mas huma hai, asa tu sin'auk.
+434	Alhaipuavang a madaingaza.	請照料那個老人。	請照料那個老人。	Alhaipuavang a madaingaza.	請把那些老人家照顧。	Pasiav a itu madadaingaz.
+435	Aiza a inaak tasa ahu isian humacia.	我在那邊的田裡有一個陷阱。	我在那邊的田裡有一個陷阱。	Aiza a inaak tasa ahu isian humacia.	我那邊的田裡有草。	Aiza inaak huma hai, aizaan mas is'aas.
+436	Maza inaak a ahu hai, antabanun mas vaniscia.	我的陷阱被那隻山豬帶走了。	我的陷阱被那隻山豬帶走了。	Maza inaak a ahu hai, antabanun mas vaniscia.	我的鞋子被那隻豬了。	Inaak sin'av hai, taliskun mas itu maivang.
+437	Nii saikin cisuknu ansahan tastuhaungu tu danum.	我提不起一桶水。	我提不起一桶水。	Nii saikin cisuknu ansahan tastuhaungu tu danum.	我沒有煮湯,所以喝水很。	Natupa saikin mas tu aung.
+438	Kaunavin a haising.	吃飯了。	吃飯了。	Kaunavin a haising.	吃飯了。	Maun a haising.
+439	Maza isuu patasanan hai, andiipang.	你的這本書還在這裡。	你的這本書還在這裡。	Maza isuu patasanan hai, andiipang.	你的書被破了。	Isain a isuu patasan.
+440	Manaskalam aupa?	你們高興嗎？	你們高興嗎？	Manaskalam aupa?	你在打獵嗎?	Mazima a kasu?
+441	Anuavang a ubuha.	請照顧那個嬰兒。	請照顧那個嬰兒。	Anuavang a ubuha.	請把那個小孩抱起來。	Maza uvaaz hai, pahansiap.
+442	Minaun kata sia kakaunan.	我們在餐廳吃過飯。	我們在餐廳吃過飯。	Minaun kata sia kakaunan.	吃飯的地方很乾。	maza kaimin hai, maun mas haising.
+443	Mahtuang kata tasban tanamun malasBunun.	希望我們通過布農語認證考試。	希望我們通過布農語認證考試。	Mahtuang kata tasban tanamun malasBunun.	佛祖族的祖先很高興。	Asa tu kata mabaliv mas Bunun tu sinkavaazan.
+444	pis'azu'azu a asu mapahainan.	狗滾來滾去互相玩耍。	狗滾來滾去互相玩耍。	pis'azu'azu a asu mapahainan.	狗被得很大便。	Maza asu hai, malkalkal mais mahansiap.
+445	Habas uvavaaz tu bungu hai, supah ishuus.	從前小孩的頭上很多頭蝨卵。	從前小孩的頭上很多頭蝨卵。	Habas uvavaaz tu bungu hai, supah ishuus.	孩子的嘴巴以前很多。	Habas tu uvaaz hai, supahan mas isia lutbu.
+446	Inain ii. Nakinkikinuz kaimin.	你先走吧，我們會跟著走。	你先走吧，我們會跟著走。	Inain ii. Nakinkikinuz kaimin.	我們在一起打架。	Pulu'a a kasu, kaimin tu pasia.
+447	Masial a andii ishahalcis iskusia.	這鉗子很好用。	這鉗子很好用。	Masial a andii ishahalcis iskusia.	這支球是用來打球的。	Maza ismuut hai, mahtu mapainuk.
+448	Iskalunav a uvaaz mapakaun babucia.	把小孩使喚去餵豬。	把小孩使喚去餵豬。	Iskalunav a uvaaz mapakaun babucia.	請那個孩子吃那些食物。	Pisav a uvaaz hai, asa tu pahansiap mas babu.
+449	Namudaanin saikin kulumah.	我要離去回家了。	我要離去回家了。	Namudaanin saikin kulumah.	我今天回家。	Nanu saikin kusia kalumah.
+450	Istutuku a kasu mas danumtan.	我為你倒這個水。	我為你倒這個水。	Istutuku a kasu mas danumtan.	你用水住我。	Maza isuu tu danum hai, kaununku mas isuu.
+451	Ispatasku a Ciang mas tingami.	我替江寫信。	我替江寫信。	Ispatasku a Ciang mas tingami.	我給打槍。	Maza inaak tu surat hai, isia Jiang.
+452	Laupaku hai cinpitu tu masan taiktaik.	現在是七點十分。	現在是七點十分。	Laupaku hai cinpitu tu masan taiktaik.	星期五是聖誕節。	Laupaku hai, isia sapitu tu painsanan.
+453	Mais mapus'anin tu taiktaik hai, nakusuancia saikin.	二十分鐘以後，我去你那邊。	二十分鐘以後，我去你那邊。	Mais mapus'anin tu taiktaik hai, nakusuancia saikin.	打火的時候,我被那樣做。	Maza minkuzaku tu sin'az, saikin mas isuu tu dalah.
+454	Nadikut saikin sia isuu tu lumahcin.	我要留在你家這裡過夜。	我要留在你家這裡過夜。	Nadikut saikin sia isuu tu lumahcin.	我被你家抓走了。	Namuza saikin isia inaak lumah.
+455	Cis'ahu a vanisdaingaz sian inaak tu ahu.	大山豬中了我的陷阱。	大山豬中了我的陷阱。	Cis'ahu a vanisdaingaz sian inaak tu ahu.	那些小女孩被我綁在腿上。	Maza maivang hai, ismuuk a inaak tu sinpu.
+456	Cishu a dingki	停電了	停電了	Cishu a dingki	把那個子切開。	Maza ishuhaiv hai, pahansiapin.
+457	Cingusav a tangkuizuszusa.	摘那些龍鬚菜。	摘那些龍鬚菜。	Cingusav a tangkuizuszusa.	把那個子剪掉。	Pistaulav a tangis.
+458	Tailutpu tu bunun hai, asa tu masambut kuzakuza.	中年人做事要確實。	中年人做事要確實。	Tailutpu tu bunun hai, asa tu masambut kuzakuza.	專門工作的人必須勤勞。	Maza madadaingaz hai, asa tu mahtu kaunun.
+459	Ciahunav a busula.	把槍修直	把槍修直	Ciahunav a busula.	請把那個木耳開。	Pasiav a patas.
+460	Mahansiap a saia ka'uni mas cipsi.	他擅長做頭飾。	他擅長做頭飾。	Mahansiap a saia ka'uni mas cipsi.	他很會煮雞肉。	Maza isaicia hai, masial mas sinpa.
+461	Aiza anatan mas pandian tu cikuu.	有煮湯的鍋子。	有煮湯的鍋子。	Aiza anatan mas pandian tu cikuu.	有一隻子的蛋。	Aiza a haung mas iskalun.
+462	Halcisav a hulbuan.	把這頭髮剪一剪。	把這頭髮剪一剪。	Halcisav a hulbuan.	把那個小米開。	Pisav a sin'av.
+463	Supah a inaak sinsuaz halidang.	我種過很多樹豆。	我種過很多樹豆。	Supah a inaak sinsuaz halidang.	我種的很多草。	Supah saikin mas huud tu bainu.
+464	maza inaak a masinauba hai, mamantuk tu hahanup.	我哥哥是認真的獵人。	我哥哥是認真的獵人。	maza inaak a masinauba hai, mamantuk tu hahanup.	我的老師是非常善於打獵的。	Inaak tuhaspingaz hai, masial a hahanup.
+465	Maza haispa tu iku tu kalkal hai maszang mas ngul'a a kaihaitlasan.	烏龜背上的殼像鍋子一樣硬。	烏龜背上的殼像鍋子一樣硬。	Maza haispa tu iku tu kalkal hai maszang mas ngul'a a kaihaitlasan.	的尾巴穿著是用來打線。	Maza isuu tu haising hai, masamu maluhus.
+466	Maza minataz tu bunun hai, pungadahun sia hatu.	死了的人被裝進棺材。	死了的人被裝進棺材。	Maza minataz tu bunun hai, pungadahun sia hatu.	的人被丟到泥巴裡。	Maza minkuzaku hai, ispaluskun mas kaung.
+467	Haal a saia mangaspah, haitu ukaas tamasaz.	他看起來魁梧，只是沒有力氣。	他看起來魁梧，只是沒有力氣。	Haal a saia mangaspah, haitu ukaas tamasaz.	他說話很多,但沒有大聲。	Maza isaicia tu sinkava hai, nii tu kaaz.
+468	Supahan a isuu lumahan mas haimangsut.	你這間屋子很多東西。	你這間屋子很多東西。	Supahan a isuu lumahan mas haimangsut.	你的房子很多垃圾。	Supah a isuu lumah.
+469	Maza tangaa mas navu hai, is'unhuhuma tu haimangsut.	鋤頭和鐮刀是用來種田的工具。	鋤頭和鐮刀是用來種田的工具。	Maza tangaa mas navu hai, is'unhuhuma tu haimangsut.	子和牛是耕作所要的。	Maza hais hai, isia haising hai, is'aansanan mas huma.
+470	Aiza a hutun kai'unian mas hudasnanaz.	有的疊石是我爺爺做的。	有的疊石是我爺爺做的。	Aiza a hutun kai'unian mas hudasnanaz.	有一個子被老人家撞到。	Aiza a kaung hai, mastuhas inaak tamacina.
+471	Namasuaz saikin sibus tu huhu.	我要種甘蔗頭。	我要種甘蔗頭。	Namasuaz saikin sibus tu huhu.	我種了很多玉米。	Nanu saikin mas maduh.
+472	Iskaul a hununga.	那塊木炭用來畫線。	那塊木炭用來畫線。	Iskaul a hununga.	草要煮熟。	Maza balivus hai, ispaluhutan mas lumah.
+473	Maza ispapatas hai, iskaul mas ahil.	筆用來在紙上畫線。	筆用來在紙上畫線。	Maza ispapatas hai, iskaul mas ahil.	子被草插在地上。	Maza pataskas hai, ispaluhis mas patasan.
+474	Adia hai, issinav mas balukan.	這個是用來洗碗的。	這個是用來洗碗的。	Adia hai, issinav mas balukan.	那些是被子咬的。	Maza isia hai, mahtu mas haising.
+475	Adu mahtu a kasu dikut mais sanavanin?	你晚上可以留下來嗎？	你晚上可以留下來嗎？	Adu mahtu a kasu dikut mais sanavanin?	你在夜裡睡覺嗎?	Maza isuu malampusin hai, mahtu amin?
+476	Maza kalapat hai, madaungkus, nii tu ama'ama tu mahtu lahaiban.	懸崖垂直，完全沒辦法走。	懸崖垂直，完全沒辦法走。	Maza kalapat hai, madaungkus, nii tu ama'ama tu mahtu lahaiban.	子很粗,不能讓人走。	Maza is'aas hai, nii tu mahtu mananulu.
+477	Asa a kata tu mintasa a is'aang.	我們應當團結一心。	我們應當團結一心。	Asa a kata tu mintasa a is'aang.	請把這張紙拿起來。	Asa kata tu sinkaun mas isia minkuzakuza.
+478	aluhanan hai, kaunanta mas pinithanian tu haising.	這個工寮是我們吃午飯的地方。	這個工寮是我們吃午飯的地方。	aluhanan hai, kaunanta mas pinithanian tu haising.	子吃起來很像是雞肉。	Maza patasanan hai, itu inaam pasnanavaan.
+479	maza kikai hai, mastaan mas makukasuling mapaingna.	機器大都使用汽油發動。	機器大都使用汽油發動。	maza kikai hai, mastaan mas makukasuling mapaingna.	子被蟲咬過後,牠們就走掉了。	Maza isia tu masin hai, aminun mas kaaz.
+480	Luumun a saia sian luluuman, aupa supahan mas kuang.	他被關進監牢，因為很多罪。	他被關進監牢，因為很多罪。	Luumun a saia sian luluuman, aupa supahan mas kuang.	他在小米,因為很多力。	Maza isaicia hai, pahuskaun mas haising.
+481	Namabalivik mas kuus tu namalaskan mas iskaan.	我要買釣竿去釣魚。	我要買釣竿去釣魚。	Namabalivik mas kuus tu namalaskan mas iskaan.	魚被子撞到。	Maza saikin pasali mas iskaan hai, asa tu kankalul.
+482	Lakangkanganku a antasipal tu bangkal.	我犁對面的水田。	我犁對面的水田。	Lakangkanganku a antasipal tu bangkal.	我把草翻開。	Maza isia dalah hai, kaimin tu lumah.
+483	Sima a inkaduan mas laakcia?	誰找到那個洞穴的？	誰找到那個洞穴的？	Sima a inkaduan mas laakcia?	那個男生是誰?	Sima sinkasia a iang?
+484	Lasungavsu a pais isaincin.	你在這裡埋伏敵人。	你在這裡埋伏敵人。	Lasungavsu a pais isaincin.	那個地瓜被那邊的水滴到。	Maza isuu hai, asa tu mahansiap mas maduh.
+485	Lasungavsu isainacin.	你在這裡埋伏。	你在這裡埋伏。	Lasungavsu isainacin.	請把我母親留住。	Maza isuu hai, pas'auk.
+486	maza halup tu laas hai, madavus.	桃子的肉很甜。	桃子的肉很甜。	maza halup tu laas hai, madavus.	的葉子很硬。	Maza maun tu aitu hai, masial.
+487	Masibalat a minupaluh tu lukis sia daan, lahnut mas nakusia pasnanavaan tu uvavaaz.	倒下來的樹橫在路上，擋住要上學的學生。	倒下來的樹橫在路上，擋住要上學的學生。	Masibalat a minupaluh tu lukis sia daan, lahnut mas nakusia pasnanavaan tu uvavaaz.	路上一棵樹撞到學校裡的小孩。	Maza minkuzakuza tu lukis hai, isia daan hai, mal'uni mas isnanavaan tu uvaaz.
+488	Hangvang hai, masial iskusia lakangkang.	水牛犁田很好用。	水牛犁田很好用。	Hangvang hai, masial iskusia lakangkang.	子用來很好。	Maza hanvang hai, mahtu mapainsanan.
+489	maza liiv hai, iskusia ka'uni mas Bunun tu ulus.	苧麻被用來製作布農族的衣服。	苧麻被用來製作布農族的衣服。	maza liiv hai, iskusia ka'uni mas Bunun tu ulus.	子用來布農族的乳頭。	Maza isbabai hai, masial mas Bunun tu haising.
+490	Maza asua hai, aizaan tastulutbu tu lu'lu.	那隻狗全身都有傷口。	那隻狗全身都有傷口。	Maza asua hai, aizaan tastulutbu tu lu'lu.	子有多顆的乳液。	Maza asu hai, aizaan amin mas ismuut.
+491	Lupukav a minuvasvas tu cilasa.	把散開了的那些米粒捧起來。	把散開了的那些米粒捧起來。	Lupukav a minuvasvas tu cilasa.	請把洗的衣服拿起來。	Pisav a sinpaaz hai, pa'azin.
+492	mais istahdung a luum hai, cipciah a bilva.	雲變黑的時候，雷聲作響。	雲變黑的時候，雷聲作響。	mais istahdung a luum hai, cipciah a bilva.	雨停的時候,子會噴。	Mais minkahuud hai, ismuhaiv a sapu.
+493	Luumav a babu'a.	把那隻豬關起來。	把那隻豬關起來。	Luumav a babu'a.	請把那些子吃掉。	Paskalun a babu.
+494	Isian ning'av hai, aiza maza iskaandaingaz.	海中有大魚。	海中有大魚。	Isian ning'av hai, aiza maza iskaandaingaz.	你的父母有長輩。	Aiza isia isia isia iskaan.
+495	Mais balivusanin hai, supah a lukis manhanu.	颱風侵襲之後，很多木頭漂流。	颱風侵襲之後，很多木頭漂流。	Mais balivusanin hai, supah a lukis manhanu.	風來襲時,很多樹都被砍掉了。	Mais balivusan hai, supahan mas lukis.
+496	Macislaliva saikin takna mataisah.	我昨天作了惡夢。	我昨天作了惡夢。	Macislaliva saikin takna mataisah.	我今天工作很忙。	Maza saikin hai, kauman mas haimantan.
+497	Madiav itu uvaazcia pinainuk.	那個小孩穿的是黃色。	那個小孩穿的是黃色。	Madiav itu uvaazcia pinainuk.	請那個小孩吃這個菜。	Maza uvaaz hai, isuu tu sin'auk.
+498	Maza madiav tu paklis hai, isluhus mas sinhaili tu katnadaan.	銅線用來綁山刀的柄。	銅線用來綁山刀的柄。	Maza madiav tu paklis hai, isluhus mas sinhaili tu katnadaan.	的皮被打開後,又插下了那個蓋子。	Maza talus hai, ispaluh mas haimantancia.
+499	Malaingas aip dihanin.	今天天氣晴。	今天天氣晴。	Malaingas aip dihanin.	今天是晴天。	Maza habasin hai, mal'uni.
+500	Asa tu macingmut munhuma.	必須早起耕作。	必須早起耕作。	Asa tu macingmut munhuma.	要努力耕作。	Asa tu minkulaaz hai, asa tu katmang.
+501	Laupang kaimin mapasadu aat, mapavuhvuh ima.	我們剛見面就握手。	我們剛見面就握手。	Laupang kaimin mapasadu aat, mapavuhvuh ima.	我們今天一起舉行這次的儀式。	Maza kata tu sinkaita hai, isia minkuzakuza.
+502	Kamisama hai, masuus masaiv inaak tu uvaaz taiklas.	上主加添智慧給我的孩子。	上主加添智慧給我的孩子。	Kamisama hai, masuus masaiv inaak tu uvaaz taiklas.	媽媽我的孩子頭髮。	Maza inaak uvaaz hai, ispakavaaz mas inaak tu uvaaz.
+503	Maza tangkuihalput hai, makalutkut.	佛手瓜有皺紋。	佛手瓜有皺紋。	Maza tangkuihalput hai, makalutkut.	子很。	Maza maduh hai, aizaan mas ismuut.
+504	Habasang, Bunun mais minang hai, kaaz tasaun, aat masial ihaipuan.	從前布農人播種的時候，只會種下一粒，因為這樣比較好驅鳥照顧。	從前布農人播種的時候，只會種下一粒，因為這樣比較好驅鳥照顧。	Habasang, Bunun mais minang hai, kaaz tasaun, aat masial ihaipuan.	以前布農族人吃飯時,很好喝。	Habasang Bunun mais mahansiap hai, asa tu mahtu maduh mas bunuaz, aupa nii tu masial mapasaip mas hazam.
+505	Madaivuh mas dalah mintaah.	用水把土調成泥巴。	用水把土調成泥巴。	Madaivuh mas dalah mintaah.	子被草燒了。	Maza vaivi hai, painsanav mas huma.
+506	Maaz kaununmu?	你們在吃什麼？	你們在吃什麼？	Maaz kaununmu?	你們吃什麼?	Maaz isuu maun?
+507	Namaaz huudanmu?	你們將要喝什麼？	你們將要喝什麼？	Namaaz huudanmu?	你們在吃什麼?	Maaz isuu a kaunun?
+508	Natuavang a maduha.	請疏減那些小米。	請疏減那些小米。	Natuavang a maduha.	請把那些蜜蜂。	Maza maduh hai, asa tu mahtu.
+509	Nau a isaicia ngulus tu makuang.	他的嘴巴本來就很壞。	他的嘴巴本來就很壞。	Nau a isaicia ngulus tu makuang.	他的嘴巴很硬。	Isaicia kaung hai, namataz a sinkaun.
+510	sinaipukik mas supa tu naung	我養過很多貓。	我養過很多貓。	sinaipukik mas supa tu naung	很多水果被挖掉了。	Supah saikin mas kaung.
+511	Mais palinanutu hai, nii tu mahtu savai masituhas.	說話不可以勝過兄姊。	說話不可以勝過兄姊。	Mais palinanutu hai, nii tu mahtu savai masituhas.	子的時候不能用手摸。	Maza minkuzakuza hai, nii tu mahtu mas tamacina.
+512	Pahuunav a huma'a!	替那塊田地砍草！	替那塊田地砍草！	Pahuunav a huma'a!	把那塊田野拆除!	Pisav a huma!
+513	Pas'ahav a imuu ulusa.	去洗你們的那些衣服。	去洗你們的那些衣服。	Pas'ahav a imuu ulusa.	你們把那個水煮乾。	Pisavai a isuu tu kaunun.
+514	maza hazam hai, maku'uni mas pani kusbai.	鳥用翅膀飛。	鳥用翅膀飛。	maza hazam hai, maku'uni mas pani kusbai.	子用來煮麵。	Maza hazam hai, ispaluhlu.
+515	Minduduaza hai, pahainanan mas bunun aupa cisbangaz.	那個年輕人因為不會打獵被人譏笑。	那個年輕人因為不會打獵被人譏笑。	Minduduaza hai, pahainanan mas bunun aupa cisbangaz.	那些人被那個男人叫去打架。	Maza uvaaza hai, nii tu mahtu kaunun mas bunun.
+516	Tuzaa! Panahav a vanisa!	快！射那隻野豬！	快！射那隻野豬！	Tuzaa! Panahav a vanisa!	!把那個山豬砍掉。	Mananulua! Pisav a babu!
+517	Itu valanu tu baas hai, matamasaz.	毒魚藤的毒很強力。	毒魚藤的毒很強力。	Itu valanu tu baas hai, matamasaz.	的頭很大。	Maza ismu'a tu hazam hai, masial a sinpa.
+518	Aiza patas tahaisun sia ulus, aiza amin kazungaun sia ahil.	有編織在衣服上的圖紋，也有畫在紙上的圖案。	有編織在衣服上的圖紋，也有畫在紙上的圖案。	Aiza patas tahaisun sia ulus, aiza amin kazungaun sia ahil.	有子被在頭上,也有子被下面。	Aiza tu sinmu'a sia baju, aiza mas ispaluhcia.
+519	Maza Lanugs hai, niang pakaun tulkuk.	拉烏絲還沒餵雞。	拉烏絲還沒餵雞。	Maza Lanugs hai, niang pakaun tulkuk.	蘭格斯人不吃雞。	Laus hai, nii tu mahtu mas tulkuk.
+520	Kuzakuza kaimin mas dumaduma tu iskuzakuza, napisupahang sui.	我們做很多別的工作，希望盡量多賺一點錢。	我們做很多別的工作，希望盡量多賺一點錢。	Kuzakuza kaimin mas dumaduma tu iskuzakuza, napisupahang sui.	我們工作一天,賺錢很多。	Supah a kata sinkaupa tu sinkuzakuza, asa tu mahtu mapabaliv mas sui.
+521	Pianu hai, balivundaingaz.	鋼琴非常昂貴。	鋼琴非常昂貴。	Pianu hai, balivundaingaz.	子是小豬。	Maza pianuman hai, mahaing a sinkabaev.
+522	Madanghas a itu'uvaazcia piing.	那個孩子的臉頰很紅。	那個孩子的臉頰很紅。	Madanghas a itu'uvaazcia piing.	那個小孩的腿很粗。	Maza uvaazcia sin'av hai, masial.
+523	Mataishang isaicia a piing.	他的臉頰發亮。	他的臉頰發亮。	Mataishang isaicia a piing.	他的子很好看。	Maza isaicia sinkahuud hai, ismuhais.
+524	mapulpul a naia mas lumah aupa nakabahlu.	他們爆破房子，因為要重建。	他們爆破房子，因為要重建。	mapulpul a naia mas lumah aupa nakabahlu.	他們把房子蓋好,因為雨下了。	Maza lumah hai, isia dalahdalah mas maduh.
+525	Makanii'in laupaku usaduan mas pungki.	現在不容易看到畚箕了。	現在不容易看到畚箕了。	Makanii'in laupaku usaduan mas pungki.	子用來雞。	Laupaku hai, nii tu mahtu kaunun mas balivus.
+526	Mais maun taumii hai, mazima saikin pisupah mas salu.	吃麵的時候，我喜歡大蒜愈多愈好。	吃麵的時候，我喜歡大蒜愈多愈好。	Mais maun taumii hai, mazima saikin pisupah mas salu.	吃飯時,我喜歡多喝酒。	Mais maun mas bainu hai, inaak masial a bunbun mais maduh.
+527	Maza uvaazan hai, sapahsapah mas kamasia.	這個小孩嚼糖果。	這個小孩嚼糖果。	Maza uvaazan hai, sapahsapah mas kamasia.	小孩打架。	Maza uvaaz hai, ismuut mas kaung.
+528	Sima sangan palinanutu?	剛才說話的是誰？	剛才說話的是誰？	Sima sangan palinanutu?	誰的手指被打破了?	Isa a saitan tu sinpaazan?
+529	Nasima masnava zami kahuzas?	誰將教我們唱歌？	誰將教我們唱歌？	Nasima masnava zami kahuzas?	我們現在在哪裡學習?	Sima masnanava a kaimin tu sinkalunga?
+530	Maza Tasasabahantasa Tu Lumah hai, saikas ludun.	101大樓有如山高。	101大樓有如山高。	Maza Tasasabahantasa Tu Lumah hai, saikas ludun.	大山的房子很寬。	Maza 101 tu lumah hai, aizaan mas ludun.
+531	Mazima utung silili mas bunun.	猴子喜歡模仿人類。	猴子喜歡模仿人類。	Mazima utung silili mas bunun.	貓喜歡跟人一起。	Mazima a haishang mais pataskalun mas bunun.
+532	Minaunin saikin pinitcingmut.	我吃過早餐了。	我吃過早餐了。	Minaunin saikin pinitcingmut.	我被到。	Maza saikin maun mas haising.
+533	Supah isia sungus tukisu.	後院有很多百香果。	後院有很多百香果。	Supah isia sungus tukisu.	樹枝很多。	Supah a balivus sia dalah.
+534	Maza zungzung hai, maduhtaz.	鼻涕是黏的。	鼻涕是黏的。	Maza zungzung hai, maduhtaz.	子很大。	Maza sinsis hai, ismuut.
+535	Sinimul tu patasan, suhaisavin.	借的書還回去吧。	借的書還回去吧。	Sinimul tu patasan, suhaisavin.	種的子要磨一磨。	Maza sininanu tu patasan hai, asa tu ispaliskadu.
+536	Sinimul tu sui, asa tu suhaisun.	借的錢一定要還。	借的錢一定要還。	Sinimul tu sui, asa tu suhaisun.	錢要收回。	Maza sininanu tu sui hai, asa tu mahtu ispalulu.
+537	Supah asu sia daisah mapasisinap.	很多狗在廣場上互相追逐。	很多狗在廣場上互相追逐。	Supah asu sia daisah mapasisinap.	很多狗在家裡被抓。	Supah a asu sia paazan hai, maluhtu mas isia minkuzakuza.
+538	Isvuusan a itusidicia susu.	母羊的乳房多汁。	母羊的乳房多汁。	Isvuusan a itusidicia susu.	他的乳房被了。	Maza itupa hai, supahan mas ismuut.
+539	Namindangaz a saikin mas suu munhuma.	我將幫助你耕作。	我將幫助你耕作。	Namindangaz a saikin mas suu munhuma.	你耕作的土地我很喜歡。	Kaumanku isuu mas huma.
+540	maza isaicia ima hai, supahan mas takbu.	他的手很多水泡。	他的手很多水泡。	maza isaicia ima hai, supahan mas takbu.	他的手上很多。	Supah a isaicia ima mas dalah.
+541	Tahuav a saikin mas isuu tu sinkuzakuza.	請告訴我你的職業。	請告訴我你的職業。	Tahuav a saikin mas isuu tu sinkuzakuza.	我喜歡你工作。	Pasamu'a saikin isuu sinkabaeh.
+542	Tanudav a taluhan mas hau.	把工寮用柱子撐住。	把工寮用柱子撐住。	Tanudav a taluhan mas hau.	子被草到。	Maza pataskasan hai, painsanan mas tulkukan.
+543	Tapulav a lapata.	去摘那邊的芭樂。	去摘那邊的芭樂。	Tapulav a lapata.	把這塊木板翻開。	Pisav a balivus.
+544	Maza izukan hai, inaak tu cinapul.	這些橘子是我摘的。	這些橘子是我摘的。	Maza izukan hai, inaak tu cinapul.	子是我的後代。	Maza ismuut hai, inaak tu sinmup.
+545	Natalpia kasu saincia?	你會在那裡多少天？	你會在那裡多少天？	Natalpia kasu saincia?	你在那邊玩什麼?	Maza isuu haising hai, aizaan a kaunun?
+546	Uskukua laupaku tundaan naicia basu?	他們所乘坐的巴士現在大約在哪裡？	他們所乘坐的巴士現在大約在哪裡？	Uskukua laupaku tundaan naicia basu?	他們的肉被我吃過嗎?	Isain a naia tu painsanan mas isuu tu buscia?
+547	Isima sain tu utah?	這是誰的嘔吐物？	這是誰的嘔吐物？	Isima sain tu utah?	這是什麼植物?	Maza bunun tu maun?
+548	Aiza izamiancia ung'ung isngadahdaingaz.	我們那裡的峽谷非常深。	我們那裡的峽谷非常深。	Aiza izamiancia ung'ung isngadahdaingaz.	那裡有個小子長得很大。	Maza inaam tu lumah hai, mahangav a sin'aang.
+549	Mais unting lai'lai hai, asa tu mananulu mas bunun.	在路上駕駛要注意行人。	在路上駕駛要注意行人。	Mais unting lai'lai hai, asa tu mananulu mas bunun.	子被咬的時候,必須跟著人走。	Mais daan hai, asa tu mapit'av mas bunun.
+550	Supah a zaas sianning'avcia	海邊沙子多	海邊沙子多	Supah a zaas sianning'avcia	那裡很多草。	Supah a islas'ailan.
