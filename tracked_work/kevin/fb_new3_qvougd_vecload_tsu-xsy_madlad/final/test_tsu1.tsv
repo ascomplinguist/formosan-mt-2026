@@ -1,0 +1,837 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	isi 'aanana'veni ta moningeohu si tuutu.	公雞拼命攻擊小狗。	公雞拼命攻擊小狗。	isi 'aanana'veni ta moningeohu si tuutu.	那小桐樹在群眾面前被嘲笑。	isi 'aoka patvahi to teo'ua 'o av'u.
+1	ita 'afeo'fu'a ta os'o hoseoya ci nghou.	他擾亂我要獵的猴子	他擾亂我要獵的猴子	ita 'afeo'fu'a ta os'o hoseoya ci nghou.	他在我耕作的地上咬人。	mita 'afeo'fu'u to te'o hioa ci nghou.
+2	ita 'amakna 'ucea hioa ta voyu na lema'cohio.	Voyu竟然想到要當老師。	Voyu竟然想到要當老師。	ita 'amakna 'ucea hioa ta voyu na lema'cohio.	Voyu原本要做的工作被他做錯了。	mita ma'sonu ho teta engocha lema'cohio 'e voyu.
+3	teav'a 'anpunpa ana si fou.	那些肉不要隨便吃。	那些肉不要隨便吃。	teav'a 'anpunpa ana si fou.	不要隨便吃肉。	tav'a okakaeba 'o si fou.
+4	ihe 'aptaptaungi 'e voyu ho mita tmopsu.	Voyu念書時有人在吵鬧。	Voyu念書時有人在吵鬧。	ihe 'aptaptaungi 'e voyu ho mita tmopsu.	Voyu寫字時大家彼此矛盾。	pantola pahsospothi ne mita tmopsu 'e voyu.
+5	o' tela 'aupumpu tmo'popcako to 'o'oko.	不要隨便掌摑小朋友。	不要隨便掌摑小朋友。	o' tela 'aupumpu tmo'popcako to 'o'oko.	不要隨便打小孩	teav'a 'afeifei'za si 'o'oko.
+6	na'na husansana si 'epi ta sapcisu.	你臉上的疤看得很清楚	你臉上的疤看得很清楚	na'na husansana si 'epi ta sapcisu.	你的鞋子很好看。	na'no cohzona si i'mu ta fousu.
+7	zou 'oahngu to mo mayahe peayofu 'e mo'o.	Mo'o是屬於跑得很快的人	Mo'o是屬於跑得很快的人	zou 'oahngu to mo mayahe peayofu 'e mo'o.	Mo'o是跑步的人的父親	mita mahsiohu 'e mo'o.
+8	ho mo yaa mcoi, la su'eusu to mo kua'onga ci yusu 'o 'oahngusi.	若有親人過世，遺族要穿著黑色的衣著。	若有親人過世，遺族要穿著黑色的衣著。	ho mo yaa mcoi, la su'eusu to mo kua'onga ci yusu 'o 'oahngusi.	雨下的時候，牠們會向著漂亮的衣服跑去。	ho mo ma'maameoi 'o macocono, la yusu yusu no mao'oahngu.
+9	tekoc'o soangzotneni to teo'ua 'o 'oanusi.	雞的飼料你少量放就好。	雞的飼料你少量放就好。	tekoc'o soangzotneni to teo'ua 'o 'oanusi.	你只要照顧雞一點。	tekoc'o aasvutu si teo'ua ta teo'ua.
+10	isi patpopsohi to esou to inosi 'o oko.	媽媽用細長的樹枝打了孩子兩次。	媽媽用細長的樹枝打了孩子兩次。	isi patpopsohi to esou to inosi 'o oko.	媽媽給孩子兩次打小孩。	isi pahtoteuhi to ino si oko.
+11	os'ocu peeelui 'ola hia mosi to smohfihci.	我已經會設置捕獸夾的方法了。	我已經會設置捕獸夾的方法了。	os'ocu peeelui 'ola hia mosi to smohfihci.	我已經確定那個人是誰。	te'ocu asvuta 'o h'oepona to feongo.
+12	lahe 'ousa to 'o'oko 'o ecuu ta'e ho yuuhnguzi.	小朋友常去那邊的水池游泳。	小朋友常去那邊的水池游泳。	lahe 'ousa to 'o'oko 'o ecuu ta'e ho yuuhnguzi.	小朋友們會用山葵來吹那裡的風。	Lahe 'oyona to 'o'oko 'omo yuhmuyu ta fofeohva.
+13	la kaebu 'oyochumu 'o hanahana.	鴨子一直在水裡。	鴨子一直在水裡。	la kaebu 'oyochumu 'o hanahana.	女人喜歡喝酒	isi soekak'inga to nghou 'o chumu.
+14	mo na'no umnu co 'tohungu taini.	他的想法很好。	他的想法很好。	mo na'no umnu co 'tohungu taini.	他的想法很對	na'no umnu si ita ta'payo'a.
+15	'upena honci o'te amso yopitvuhi no heesi. teec'o umnu.	就算給不到七個蘋果，也可以啦！	就算給不到七個蘋果，也可以啦！	'upena honci o'te amso yopitvuhi no heesi. teec'o umnu.	雖然雨不多，但還是很好。	o'a mateno mahsiohu 'o apple, a'umtu.
+16	mo mainenu na a'a'ausna to hosamuu ho moso cmoehu?	颱風過後，你們的部落的情況如何？	颱風過後，你們的部落的情況如何？	mo mainenu na a'a'ausna to hosamuu ho moso cmoehu?	冬天天氣怎麼這麼冷？	mio na'no maica ho mo su'no 'o hahabonanu?
+17	lasi a'asvi to mameoi 'o tee teai toton'u.	要開墾小米田之前，家族的掌門人要先土地祈福。	要開墾小米田之前，家族的掌門人要先土地祈福。	lasi a'asvi to mameoi 'o tee teai toton'u.	長者們喜歡捧小米祭典	la a'asvu to mamameoi 'o ceonu ho te i'eongcu tmoepoyu to ton'u.
+18	isi a'honga to voyu 'e tee mia ci ceonu.	Voyu標示出要走的路。	Voyu標示出要走的路。	isi a'honga to voyu 'e tee mia ci ceonu.	voyu把要走的路標示出來。	mita ma'hiteuyu to te hia mia ci ceonu 'e voyu.
+19	a'ico como matvaho ta apihana.	對面有人再射擊了一次。	對面有人再射擊了一次。	a'ico como matvaho ta apihana.	路被人再翻一遍	ihe pnaa to mo supeopeohu 'o ohsi pnaa.
+20	ita a'umta ana 'o fou ne yofna.	他昨晚真的吃了那肉	他昨晚真的吃了那肉	ita a'umta ana 'o fou ne yofna.	他昨晚真的吃肉。	a'umtu oepunga 'o fou ne yofna.
+21	mita etuhcu to a'umtusi.	他講對了。	他講對了。	mita etuhcu to a'umtusi.	他碰到真的東西	ita a'upa ekvo'i.
+22	lata aacni mongsi ho isi koica to amo 'e oko.	孩子被父親罵，每次都會哭。	孩子被父親罵，每次都會哭。	lata aacni mongsi ho isi koica to amo 'e oko.	孩子被父親責罵時，總是難過。	isi koica to amo 'o oko ho mo mongsi.
+23	ita aasa 'omo cuveu ci tngoo.	他碰到燙的鍋子。	他碰到燙的鍋子。	ita aasa 'omo cuveu ci tngoo.	他抓中彎曲的鍋子。	ita tufkua 'o mo soekak'ingi ci tngoo.
+24	os'o abohta talua ana 'o s'os'o, ko'ko o'a mo congo co t'ango'u.	幸好我記得吃藥了，所以我的腳不痛。	幸好我記得吃藥了，所以我的腳不痛。	os'o abohta talua ana 'o s'os'o, ko'ko o'a mo congo co t'ango'u.	我吃得很久了，所以我的腳不痛。	a'umtu tma'ongu ci os'o o'te amzo su'no 'e t'ango'u.
+25	o'a mos'a acau acuhu yaa kuhcu 'e haahocngu	男人不見得都有皮製披風。	男人不見得都有皮製披風。	o'a mos'a acau acuhu yaa kuhcu 'e haahocngu	男人還沒夠強	o'a lahe paevahi to haahocngu 'o haahocngu.
+26	ita achuma su'nova a'o.	他持續生我的氣。	他持續生我的氣。	ita achuma su'nova a'o.	他終於生我的氣了。	ita asnguya su'nova a'o.
+27	tela iachi emum'u to chae, o'a tela couno mhino.	要自己種蔬菜，不要總是用買的	要自己種蔬菜，不要總是用買的	tela iachi emum'u to chae, o'a tela couno mhino.	菜要自己種，不要賣價高的	temu'so emu'i 'o chae, otes'a te'ona mhia mhia ci chae.
+28	isi t'esa to ino 'omo aekieki ci pooyoyo to amo.	媽媽縫補爸爸已破的褲子	媽媽縫補爸爸已破的褲子	isi t'esa to ino 'omo aekieki ci pooyoyo to amo.	媽媽縫補爸爸縮短的褲子。	isi t'esneni to ino si mo aftungu ci pooyoyo ta amo.
+29	ihe aemo'a to 'o'oko 'o efuefu'u to coca.	放在庭院的沙子被孩子們弄散了。	放在庭院的沙子被孩子們弄散了。	ihe aemo'a to 'o'oko 'o efuefu'u to coca.	小朋友把茶園的樹砍了。	ihe pa'hiteufza to 'o'oko 'o mo yonto patio.
+30	mo aemoemou tinoi ti'usnu to oko 'o amosi.	他的爸爸打小孩打得太過分了	他的爸爸打小孩打得太過分了	mo aemoemou tinoi ti'usnu to oko 'o amosi.	孩子的父親打他打得太過分了	mo aemoemou si amo ta oko ho mita emo'i.
+31	mo aepe noe'ucu 'o tonghifza ne mo muchu.	下雨時牆壁由下而上潮濕	下雨時牆壁由下而上潮濕	mo aepe noe'ucu 'o tonghifza ne mo muchu.	下雨時牆壁很乾脆	mo yuftongu si tonghifza ne mo chumu.
+32	ihe afnasa poa tomau'to'tohungui to maaya 'o nia amouyongu.	日本人讓amouyongx成為特別有智慧的人。	日本人讓amouyongx成為特別有智慧的人。	ihe afnasa poa tomau'to'tohungui to maaya 'o nia amouyongu.	他們最後讓maaya聽從昔日的amouyongu。	lahe yaeza poa ti'usneni to yapon 'o amuuyongx.
+33	afsa 'o puzu yangui.	yangui，把火熄滅。	yangui，把火熄滅。	afsa 'o puzu yangui.	把Yangui的刀折斷。	poa soekak'ineni ta yangui si pupuzu.
+34	micu petohuyu afsi 'o moso pae'uhu ta hcuyu ta'e.	那山丘發生的火災終於熄滅了	那山丘發生的火災終於熄滅了	micu petohuyu afsi 'o moso pae'uhu ta hcuyu ta'e.	那山丘的起源已被人類佔領了。	micu smohcu si mo yuho ta hcuyu.
+35	mo mainci aha'o mivoecuvcu 'e hpuhpungu?	天為何出乎意料地暗下來？	天為何出乎意料地暗下來？	mo mainci aha'o mivoecuvcu 'e hpuhpungu?	為什麼這山會陡峭？	mainci isi aaknuesa na mo su'no si hie.
+36	la na'no ahoha'o homo zotayo to nsoo.	狩獵於獸泉時要靜悄悄的。	狩獵於獸泉時要靜悄悄的。	la na'no ahoha'o homo zotayo to nsoo.	用鼻子吹氣很有趣。	la 'aoko tosvo ho mo 'aafofou.
+37	teeno ahtuo'te congo ho isi yo'eoca to fkoi.	被蛇咬一定會痛的。	被蛇咬一定會痛的。	teeno ahtuo'te congo ho isi yo'eoca to fkoi.	蛇被咬的時候要立刻抓住它。	lea 'aoko ngoveo to mo mcoi ci fkoi.
+38	te'o amako uso ho ake'i ao'pou tomo nac'o.	我至少要去喪家聊表弔唁	我至少要去喪家聊表弔唁	te'o amako uso ho ake'i ao'pou tomo nac'o.	我先去安慰那苦惱的人。	te'o aasvutu uhne maicamuhu ho ea'ei.
+39	alu'u smololongu ne mi'o smopcuku.	我跌倒時竟然受傷了。	我跌倒時竟然受傷了。	alu'u smololongu ne mi'o smopcuku.	我跌倒時摔得很傷眼睛	mi'o amzo tma'congo ne os'o smopcuki.
+40	teko amaamtana mo'o si te faeni to mamameoi ci fou.	mo'o你要給老人的肉要給大塊的	mo'o你要給老人的肉要給大塊的	teko amaamtana mo'o si te faeni to mamameoi ci fou.	Mo'o你要給老人的肉要大塊的。	teko amaamtana mo'o si tesi ana ta fou to mameoi.
+41	amako'so tolu ho mita toalungu.	他起碼會釣到魚。	他起碼會釣到魚。	amako'so tolu ho mita toalungu.	他釣魚時獲得很多。	mita mahtothomu to yosku.
+42	tetola amamahtuica 'e h'oe'eato.	我們要堅持用我們的語言。	我們要堅持用我們的語言。	tetola amamahtuica 'e h'oe'eato.	要把陷阱鎖上。	teto la 'ahuyu hola buacou.
+43	la leyaezoi 'o amo'u.	我的父親是做農的。	我的父親是做農的。	la leyaezoi 'o amo'u.	我爸爸是勞力工	mo la 'oanu 'o amo'u.
+44	ihe totoefungi to 'o'oko 'o amohe.	他們躲他們的爸爸。	他們躲他們的爸爸。	ihe totoefungi to 'o'oko 'o amohe.	小朋友把他們的父親抱起來。	ihe toehunga 'aohaesa 'o amosi.
+45	o'a mo amso maski 'e osko pei'i.	你煮的不夠鹹	你煮的不夠鹹	o'a mo amso maski 'e osko pei'i.	你煮的東西還不夠多。	o'a teko c'o peisnonu'veni si teko pei'i.
+46	mo amutu si phingi ta emoo ta voyu.	voyu的家門是關著的	voyu的家門是關著的	mo amutu si phingi ta emoo ta voyu.	Voyu家的門被擋住了	mo yonto emoo no emoo ta voyu.
+47	ana si fou fuzu.	把山豬肉吃了吧	把山豬肉吃了吧	ana si fou fuzu.	吃山豬肉。	nahocu o'te p'ontu to fou fuzu.
+48	ita anga koica si pasuya.	他太責備Pasuya了。	他太責備Pasuya了。	ita anga koica si pasuya.	他竟然責罵Pasuya。	ita aupcio yu'faensa 'o pasuya.
+49	mainci anou c'o maica 'e osko tov'oha?	你收成的作物怎麼就只有這些？	你收成的作物怎麼就只有這些？	mainci anou c'o maica 'e osko tov'oha?	你怎麼只在那裡割筍？	mainci a'umtu eni si iko tufkua?
+50	moc'o anou ne emoo 'o oko.	小孩子獨自在家	小孩子獨自在家	moc'o anou ne emoo 'o oko.	小孩只有在家吃飯	mo yoso 'o oko ho mo emoo.
+51	ihe anova poa aisi uhne c'oeha 'o 'o'oko.	他們只讓小孩單獨去河邊	他們只讓小孩單獨去河邊	ihe anova poa aisi uhne c'oeha 'o 'o'oko.	他們只讓小孩去河邊。	ihe poa to'upneni to 'o'oko ho uhne c'oeha.
+52	leata meemealu ao'pou 'e ku'atu.	ku'atu會安慰人。	ku'atu會安慰人。	leata meemealu ao'pou 'e ku'atu.	Ku'atu很會說話。	lata yu'upa to'upneni ta ku'atu 'o mocmo.
+53	mi'o m'ene to peisu ta aomoe'o.	我向Mo'o叔叔要錢。	我向Mo'o叔叔要錢。	mi'o m'ene to peisu ta aomoe'o.	我給Aomoe'o錢	os'o peispak'eni to peisu 'o amo mo'o.
+54	mac'o acpua aotothoma tesi o'te pateongaboi to tma'congo.	疾病要及早治療，否則會蔓延	疾病要及早治療，否則會蔓延	mac'o acpua aotothoma tesi o'te pateongaboi to tma'congo.	除非及早治療，否則會傳染	la at'ocu o'te tma'congo 'o tma'congo ci tes'a emosonu.
+55	mi'o apuyu koe'i to mamameoi.	我對長輩們反而不好意思。	我對長輩們反而不好意思。	mi'o apuyu koe'i to mamameoi.	我勉強尊敬長者	os'o na'no umnu ho mo 'oyona 'o mameoi.
+56	isi asona psuemoi simo coni ta chae.	一個菜大約要五元。	一個菜大約要五元。	isi asona psuemoi simo coni ta chae.	菜園裡面最先採草的就是我的。	mo soupuzu 'o mo notoyange ci chae.
+57	isi atva'esa hubankake to mo biteuyunu 'e pasuya.	Pasuya在他們之中看起來最高。	Pasuya在他們之中看起來最高。	isi atva'esa hubankake to mo biteuyunu 'e pasuya.	Pasuya很高興聚集了很多人。	ihe pa'hiteufza to ihe pnaa 'e pasuya.
+58	mita atva'esi bankake ta mihin'i biteuyunu 'e pasuya.	pasuya在他們之中長最高	pasuya在他們之中長最高	mita atva'esi bankake ta mihin'i biteuyunu 'e pasuya.	Pasuya愛好幫他們聚會的人借錢	mo aulu mahsiu 'o pasuya.
+59	mo atvohu 'o ecngi ho fo'na.	樹豆和鵲豆混合了	樹豆和鵲豆混合了	mo atvohu 'o ecngi ho fo'na.	地瓜成熟時結果。	micu yu'futngu to f'ue 'o tufsu.
+60	micu ausuhcu bankake si sbuku.	竹筍長得愈來愈高。	竹筍長得愈來愈高。	micu ausuhcu bankake si sbuku.	那竹筍開始變紅了	isicu yuepeeza 'o sbuku.
+61	lea poa aot'ot'ou 'e feango telano taso.	要讓身體動一動才有力。	要讓身體動一動才有力。	lea poa aot'ot'ou 'e feango telano taso.	用力幹活才會有力量。	la na'no yupeahngu ho poa hioaneni si feango.
+62	o'aos'os'a av'oha koica 'e yangui.	我狠不下心責備yangui	我狠不下心責備yangui	o'aos'os'a av'oha koica 'e yangui.	Yangui不斷地責罵我。	mi'o 'aoka ta'hongu to yangui.
+63	na'no ayucu ho mita su'eusu.	他衣服都穿的緊緊的	他衣服都穿的緊緊的	na'no ayucu ho mita su'eusu.	他滑倒時很輕易跌倒	na'no yu'futnga si yusu taini.
+64	mita aulu bonu ne mi'o esmi.	我到時他正在吃飯	我到時他正在吃飯	mita aulu bonu ne mi'o esmi.	我來時他剛好吃飽	mita oupuzu bonu ne mi'o cu toecu'nguya.
+65	mo aulu nat'ohaesa 'o inosu ho ino'u.	你的媽媽跟我的媽媽是真正的姊妹。	你的媽媽跟我的媽媽是真正的姊妹。	mo aulu nat'ohaesa 'o inosu ho ino'u.	你的媽媽和我剛好是一對姐妹	zou 'a'ahuyu 'o ino yako ho ino'u.
+66	pasuaulu	箭竹	箭竹	pasuaulu	牛	mo ma'hiteuyu 'o sbuku.
+67	tekola ausvusvuta 'e e'e ta cou.	你要不斷學習鄒語。	你要不斷學習鄒語。	tekola ausvusvuta 'e e'e ta cou.	你要謹慎地講鄒語	tekon'a ausvuta 'o e'e no cou.
+68	mi'o baito to fuzu ne hucma.	我昨天看到了山豬。	我昨天看到了山豬。	mi'o baito to fuzu ne hucma.	我昨天看見山豬	os'o a'usna ne hucma 'o fuzu.
+69	micu na'no bankake 'e sbuku.	竹筍已經長很高了。	竹筍已經長很高了。	micu na'no bankake 'e sbuku.	竹筍已經很高了	micu yupa supeopeohu 'o sbuku.
+70	micu bankake 'o c'osu	樟樹長很高。	樟樹長很高。	micu bankake 'o c'osu	樟樹已經長滿了	mo acuhu yuepe si c'osu.
+71	o'anala luea boemamucu homo tufku maitan'e.	現在洗衣服幾乎都不用手洗了。	現在洗衣服幾乎都不用手洗了。	o'anala luea boemamucu homo tufku maitan'e.	今天洗衣服不容易找到。	'ana la lua hola tmaolalu ho mo tufku maitan'e.
+72	mi'o boepa poyave ho tmuvci.	我使用刀子砍草。	我使用刀子砍草。	mi'o boepa poyave ho tmuvci.	我用刀子刺殺蛇	os'o titha tuapzu 'e poyave.
+73	mi'o boepono to huyu no fuzu ne hucma.	我昨天在山豬路徑放陷阱	我昨天在山豬路徑放陷阱	mi'o boepono to huyu no fuzu ne hucma.	昨天我刺殺山豬	os'o p'eac'i to ceonu 'o fuzu ne hucma.
+74	mi'o bohilu ne mi'o puepuyu to chae.	我切菜時切到手。	我切菜時切到手。	mi'o bohilu ne mi'o puepuyu to chae.	我切菜時割到草	os'o p'ecmu'i to chae ne mi'o tma'congo.
+75	mo bohiz'oz'o to saietungu 'o mo'o.	Mo'o砍碎木瓜。	Mo'o砍碎木瓜。	mo bohiz'oz'o to saietungu 'o mo'o.	Mo'o在燒木瓜	mo sbuku to cnumu 'o mo'o.
+76	mo bohmutu ta ceonu si evi.	路被樹堵住了。	路被樹堵住了。	mo bohmutu ta ceonu si evi.	那棵樹擋在路上	isi smomuti to evi 'o ceonu.
+77	ne noana'o mosola kakutia 'ola hia bonto naveu pai.	在過去很少吃到白米飯。	在過去很少吃到白米飯。	ne noana'o mosola kakutia 'ola hia bonto naveu pai.	以前煮飯時常用米飯	ne noana'o la omza 'o naveu.
+78	isi hosopi to kaapana to 'uongu 'o chachaesi.	'uongu的菜園用竹子豎立著。	'uongu的菜園用竹子豎立著。	isi hosopi to kaapana to 'uongu 'o chachaesi.	'Uongu在菜園裡丟竹子。	isi pa'hiteufza to kaapana 'o chachae to 'uongu.
+79	ma cuma co mo ocucuhu ta chae'u.	是什麼把我的菜吃完了？	是什麼把我的菜吃完了？	ma cuma co mo ocucuhu ta chae'u.	我的菜被什麼枯萎了？	cuma na o'te amako bonu ta chae'u?
+80	tehin'icu chua 'o feu'u.	他們就要殺那豬了。	他們就要殺那豬了。	tehin'icu chua 'o feu'u.	豬已經準備好了。	tehocu tu'upu si feu'u.
+81	tekon'a ciha si mapupucu.	請你丟掉垃圾	請你丟掉垃圾	tekon'a ciha si mapupucu.	你去檢查那些垃圾。	tekocu efo'a si pucu.
+82	mita cmiu to teta pnaa ci 'ua 'e voyu.	Voyu已經瞄準好他要射的水鹿	Voyu已經瞄準好他要射的水鹿	mita cmiu to teta pnaa ci 'ua 'e voyu.	Voyu近距離射殺他要射的鹿	mita cu ma'hiteuyu to voyu 'o 'ua ci teta pnaa.
+83	mita cmuhu to simeo.	他已經把山羊肉烤了	他已經把山羊肉烤了	mita cmuhu to simeo.	他烤豬肉	mitacu peisbabonu si fou moatu'nu.
+84	ita cocvi ta sayungu ho mi'o smofei'i.	Sayungu嘲笑我跌倒。	Sayungu嘲笑我跌倒。	ita cocvi ta sayungu ho mi'o smofei'i.	我燒米糕Sayungu跟著我。	isi pahsusufti to sayungu a'o ho mi'o smopcuku.
+85	mo cocvo 'e oko ne ita ya'ezneni.	他對著這幼兒說話時他會笑	他對著這幼兒說話時他會笑	mo cocvo 'e oko ne ita ya'ezneni.	小孩他說話講得很準確	mita c'o yuhmuyu ho mita aomotu'u si oko.
+86	mo cohmo to chachae 'o yangui.	Yangui在菜園澆水	Yangui在菜園澆水	mo cohmo to chachae 'o yangui.	Yangui在菜園裡覓食	mo mu'ei to chumu 'o yangui.
+87	mo nongaco ne teova 'o isi o'te e'eupngi ci f'ue.	他沒帶完的地瓜暫放在工寮	他沒帶完的地瓜暫放在工寮	mo nongaco ne teova 'o isi o'te e'eupngi ci f'ue.	工寮堆得滿滿的沒有收穫的地瓜	ita sotuhceni ta teova si o'a ita aiei'i ci f'ue.
+88	isi e'ho'hi no poepe si sofu ta emoo.	家的屋頂被風掀開。	家的屋頂被風掀開。	isi e'ho'hi no poepe si sofu ta emoo.	屋頂被風吹壞了。	isi p'ecmu'i to poepe 'o sofu ta emoo.
+89	mita e'ho'ho tomo capo to fatu ci emcu 'e yangui.	yangui剝掉那攀爬在石頭上的藤蔓	yangui剝掉那攀爬在石頭上的藤蔓	mita e'ho'ho tomo capo to fatu ci emcu 'e yangui.	Yangui向石頭上的土石伸出援手	mo m'ecihi to mo smoh'o to fatu 'o yangui.
+90	lasi e'hongi to av'u 'o lasi emomzi to fuzu.	狗可以聞得出山豬的蹤跡。	狗可以聞得出山豬的蹤跡。	lasi e'hongi to av'u 'o lasi emomzi to fuzu.	狗會嘲弄山豬	isi pa'hiteufza to av'u 'o h'oepona to fuzu.
+91	mita e'hongu no mo namusngau.	他聞到很香的味道	他聞到很香的味道	mita e'hongu no mo namusngau.	他哀悼過去的傷痛	mita mafe 'o maususu.
+92	mo mainci e'po'pou 'e oko ho os'o 'ucea tuocosi?	為何小孩對我的發問都顧左右而言他？	為何小孩對我的發問都顧左右而言他？	mo mainci e'po'pou 'e oko ho os'o 'ucea tuocosi?	我剛才教她小孩怎麼說白話？	mainci 'aoko yu'hupsoneni ta oko si os'o eutotaveia?
+93	ita c'o at'inga e'po'pova 'o isi tuocosi.	他所問的他只答非所問	他所問的他只答非所問	ita c'o at'inga e'po'pova 'o isi tuocosi.	他說的話只一直重複一遍。	mita 'aoko eusvuta 'o ita e'voki.
+94	isi e'sosoni no sosea si moso supeopeohu ci naveu.	掉在地上的飯，螞蟻搬得好快	掉在地上的飯，螞蟻搬得好快	isi e'sosoni no sosea si moso supeopeohu ci naveu.	掉下的飯被醋吃得很酸。	mo na'no smoe'ohu si i'iya ta ceonu ci naveu.
+95	mo e'sosonu ho isi pofngua 'o hiafa.	用頭背式帶東西很順利	用頭背式帶東西很順利	mo e'sosonu ho isi pofngua 'o hiafa.	載的東西卸下來很輕鬆。	lea kaebu ho mo pa'hiteufzu to macucuma.
+96	ake'i ehoha'o ho teko e'tu ta po'oyua.	你拉水管時輕一點拉	你拉水管時輕一點拉	ake'i ehoha'o ho teko e'tu ta po'oyua.	你拉水管時輕一點拉。	ake'a ehoha'va ho teko e'tui 'o po'oyua.
+97	Evalvalu ho mita coeconu 'e pasuya.	Pasuya走路時搖搖晃晃。	Pasuya走路時搖搖晃晃。	Evalvalu ho mita coeconu 'e pasuya.	Pasuya走路很順便	mo 'aoko yuftongu ne mita e'ohu 'e pasuya.
+98	mita e'voku to ehti to evi.	他折斷樹枝	他折斷樹枝	mita e'voku to ehti to evi.	他折斷樹枝	mita mahtothomu to ehti.
+99	isi e'u'umnua to lema'cohio 'e 'uongu.	老師稱讚'uongx	老師稱讚'uongx	isi e'u'umnua to lema'cohio 'e 'uongu.	'Uongu被老師們很喜歡。	mo epapaata'zeni to lema'cohio 'o 'uongx.
+100	mo botngonu 'o la'u eahahafa.	我帶領的人很多。	我帶領的人很多。	mo botngonu 'o la'u eahahafa.	我帶的東西很多	mo botngonu 'o os'o eoho'a.
+101	'ote la euski ho lahe eaknuesa.	他們搬弄是非時不要回應。	他們搬弄是非時不要回應。	'ote la euski ho lahe eaknuesa.	他們討厭時不要輕易地說謊。	hoci 'aoko yu'upu ho ihe aha'va yaa.
+102	os'o eamaameoia na taini.	我認他為親。	我認他為親。	os'o eamaameoia na taini.	我很愛她。	os'o cu tohoneni 'o nia mameoi.
+103	mainci mihin'i eanan'ou ho mihin'i yupeahnguyu?	他們的對話怎是各說各的？	他們的對話怎是各說各的？	mainci mihin'i eanan'ou ho mihin'i yupeahnguyu?	他們彼此認識怎麼會分開住？	cuma na ihe ya'ei ho ihe aomotu'a?
+104	la couno hioa 'o easmoyusku ho mo mayasvi.	mayasvi祭典時總會舉行成年禮	mayasvi祭典時總會舉行成年禮	la couno hioa 'o easmoyusku ho mo mayasvi.	射魚時是用錐子打標。	lahe peepungneni to mayasvi 'o mo meesi.
+105	o'a mi'o smeecu'ho eh'utu ho mita yontan'e.	他在這裡我不敢說出來	他在這裡我不敢說出來	o'a mi'o smeecu'ho eh'utu ho mita yontan'e.	他在這裡我勉強找到他。	o'a os'o ta'payo'vi 'e ita ta'e.
+106	os'o eha'va 'o snufu.	我不小心吞下皮	我不小心吞下皮	os'o eha'va 'o snufu.	我把竹筍吊起來。	o'a os'o aepunga 'o f'usu.
+107	la eho'a 'o 'oahngu ho mo meesi.	舉行祭典時要邀請親友。	舉行祭典時要邀請親友。	la eho'a 'o 'oahngu ho mo meesi.	祭典時要尊敬親友	la meesi ho te p'eac'i ho poa toono to mao'oahngu.
+108	la ake'a ehoha'va 'o 'o'oko ho lako yoobaka.	你打孩子時輕一點。	你打孩子時輕一點。	la ake'a ehoha'va 'o 'o'oko ho lako yoobaka.	小孩打鬧時要謹慎地講。	ake'i soekak'inga si oko ho teko e'tui.
+109	mo ehpungu to amosi 'o oko ho ihe pohcingha.	小孩被人欺負向他的爸爸訴苦。	小孩被人欺負向他的爸爸訴苦。	mo ehpungu to amosi 'o oko ho ihe pohcingha.	孩子被父親打了四下	isi pae'uhi to oko 'o amo taini.
+110	mio pahafo a'o to tesi phieni ci ehufu 'o fa'ei.	Fa'ei 託我帶他要賣的紅棕。	Fa'ei 託我帶他要賣的紅棕。	mio pahafo a'o to tesi phieni ci ehufu 'o fa'ei.	Fa'ei帶著她要賣的紅棕來給我	isi poa to'upneni to fa'ei 'o teta phieni ci tufsu.
+111	os'o ekuyungvi si emoo no teo'ua.	我把雞舍圍籬。	我把雞舍圍籬。	os'o ekuyungvi si emoo no teo'ua.	我把雞舍圍起來。	os'o pa'hiteufza 'o teo'ua.
+112	teav'a s'a ekuzkuzoa 'o voyu.	不要毀謗Voyu	不要毀謗Voyu	teav'a s'a ekuzkuzoa 'o voyu.	不要讓我騷擾Voyu。	teav'a 'afeifei'za si voyu.
+113	mimza elu to mo nakuzo.	我們聞到臭味	我們聞到臭味	mimza elu to mo nakuzo.	我和那醉酒的人一起喝	imza smoyo no chum'u.
+114	os'o elui 'o mo nafongku.	我聞到的腐臭味。	我聞到的腐臭味。	os'o elui 'o mo nafongku.	我聽到吵鬧的人。	os'o honga 'o os'o ta'una.
+115	em'um'i si husu ta cuehu.	把骨頭的骨髓吸出來。	把骨頭的骨髓吸出來。	em'um'i si husu ta cuehu.	種那骨頭的藤條	s'eftunga si fnguusi ta cuehu.
+116	ita emocaefia ta pasuya ne mi'o toheae.	我在曬太陽時Pasuya經過。	我在曬太陽時Pasuya經過。	ita emocaefia ta pasuya ne mi'o toheae.	我擔心Pasuya時他生氣。	os'o toalungvi 'e pasuya ne mi'o mo soyumu.
+117	ma ngiau co mo emooskopu nca sofu.	貓在屋頂上行走	貓在屋頂上行走	ma ngiau co mo emooskopu nca sofu.	屋頂上有貓。	mo emopeohu to sofu si nghou.
+118	te'o miski ta emoosu maitan'e yofna.	我今晚要在你家住一晚。	我今晚要在你家住一晚。	te'o miski ta emoosu maitan'e yofna.	今晚我要在你家喝酒。	te'o mipsohi u mo notoyange maitan'e.
+119	os'o emooveia 'o o'u mia ci ceonu.	我又走回我剛走的路	我又走回我剛走的路	os'o emooveia 'o o'u mia ci ceonu.	我把我走過的路翻轉了。	mi'o maine'e to o'u mi'o suceofu ci ceonu.
+120	i'o sokoeveni 'e 'o'oko ho te emopihi to mo fozu ci chumu.	我替孩子們擔心他們要渡水深的地方。	我替孩子們擔心他們要渡水深的地方。	i'o sokoeveni 'e 'o'oko ho te emopihi to mo fozu ci chumu.	我幫小孩渡過深水處。	os'o ta'saseoluneni to 'o'oko 'o teta cu yufei'i.
+121	os'o emu'a ne hucma 'o ucei.	我昨天種植芋頭。	我昨天種植芋頭。	os'o emu'a ne hucma 'o ucei.	我昨天種芋頭。	os'o emuemu'i to ucei ne hucma.
+122	mo'u emum'u to ucei ne hucma.	我昨天種植芋頭	我昨天種植芋頭	mo'u emum'u to ucei ne hucma.	我昨天種芋頭	os'o emuemu'i to ucei ne hucma.
+123	os'o ausvuta engha 'o os'o talui ci e'e no sbukunu.	我試著說出我聽到的布農族語	我試著說出我聽到的布農族語	os'o ausvuta engha 'o os'o talui ci e'e no sbukunu.	我聽到竹筍聲響很嚇人。	mi'o ausvuta engha 'o os'o tmaangeu to buacou.
+124	os'o c'o engheni to tposu ci o'a mita tmuh'utu.	因為他發不出聲音所以我代他唸書。	因為他發不出聲音所以我代他唸書。	os'o c'o engheni to tposu ci o'a mita tmuh'utu.	我只寄書給他，因為他沒有收拾。	os'o pahcingheni to tposu ci mita o'te ahtu hangsou.
+125	itac'o engheni si 'o'oko ta tposu.	他幫小朋友念書。	他幫小朋友念書。	itac'o engheni si 'o'oko ta tposu.	他只送那些書的小孩一趟。	ita pahcingha to oko 'o tposu.
+126	panto mo enghova ci tposu.	有一本藍色的書	有一本藍色的書	panto mo enghova ci tposu.	有的人寫得很好。	mo conci yuknon'i 'o tposu no khayu.
+127	na'no enghova 'e enguca ho mo molu.	天氣晴朗天空是藍的	天氣晴朗天空是藍的	na'no enghova 'e enguca ho mo molu.	杉木長得很好	mo ngoveo ho mo soyumu 'e haingu.
+128	ita engocha ta pasuya 'o 'o'oko ho uhne c'oeha.	Pasuya帶領孩子們去河邊。	Pasuya帶領孩子們去河邊。	ita engocha ta pasuya 'o 'o'oko ho uhne c'oeha.	Pasuya帶領孩子們去河邊。	isi paavi to pasuya 'o 'o'oko ho uhne c'oeha.
+129	mitac'o engzotu to pat'a'ausna taini.	他話說得很少	他話說得很少	mitac'o engzotu to pat'a'ausna taini.	他只是捏造他的話	mita aomotu'u ho mita aomotu'u.
+130	mo entuhu nsou ne hucma 'o mameoi ne peongsi	汪家的老人昨天斷氣	汪家的老人昨天斷氣	mo entuhu nsou ne hucma 'o mameoi ne peongsi	山洞的老人家昨天去探望	mo asno'zonu ne hucma 'o mameoi to conci pa'hiteufzu.
+131	sia na mo entuhu to po'oyua?	誰拉斷了水管？	誰拉斷了水管？	sia na mo entuhu to po'oyua?	誰把水管接上？	sia 'o mo aemo'u to po'oyua?
+132	mo yonta apihana ho eoho'u co voyu.	voyu在對面呼叫著	voyu在對面呼叫著	mo yonta apihana ho eoho'u co voyu.	Voyu在對面打電話。	mo ma'hiteuyu to peohnasi 'o voyu.
+133	isi eot'ova ta oko si eukeokeo.	小孩在搖動趕鳥器。	小孩在搖動趕鳥器。	isi eot'ova ta oko si eukeokeo.	那小孩搖動搖籃。	isi eot'ova to oko 'o yoi.
+134	poa ep'ungu ta 'o'oko si nte'o titha ci teesi.	小孩把我要用的繩子打一個結了	小孩把我要用的繩子打一個結了	poa ep'ungu ta 'o'oko si nte'o titha ci teesi.	我用的繩子讓小孩綁緊。	isi pa'hiteufza to oko 'o teesi no te'o ana.
+135	ita epapaata'zi a'o ta mo'o ho mita e'ohu.	Mo'o 向我誇耀他去打獵。	Mo'o 向我誇耀他去打獵。	ita epapaata'zi a'o ta mo'o ho mita e'ohu.	Mo'o出門時他誇耀我。	isi pa'hiteufza a'o to mo'o ho teta yuovei.
+136	teko epei no teko ana.	你選擇你要吃的	你選擇你要吃的	teko epei no teko ana.	你選擇你要吃的。	teko p'eac'a si teko ana.
+137	isi pahtoteuhi ne isi eplikva to inosi 'o oko.	小孩被他媽媽打了三下。	小孩被他媽媽打了三下。	isi pahtoteuhi ne isi eplikva to inosi 'o oko.	媽媽打小孩打三次	isi pahsospothi to ino si oko.
+138	mita esmi 'e mo'o ne mimza cu oepungu.	我們吃完了MO'O才來	我們吃完了MO'O才來	mita esmi 'e mo'o ne mimza cu oepungu.	我們吃完飯Mo'o來接我們	teto cu oe'uhta bonun'a 'o mo'o.
+139	imza esmiza ne mita toa 'ocea.	他採茶的時候我們到達。	他採茶的時候我們到達。	imza esmiza ne mita toa 'ocea.	他種茶時我們相互接近。	micu a'upngu ne mita m'ecihi to 'ocea.
+140	a'umtu pa'hikokoe'i ho mi'o esnononhungu.	我遲到了真的對不起。	我遲到了真的對不起。	a'umtu pa'hikokoe'i ho mi'o esnononhungu.	我真是太過分了。	a'umtu 'e os'o p'eatiska ne mi'o cu toecu'nguya.
+141	alu mateononmuhu to paceofu ne mita esoskungi.	他瘧疾時都蓋到六層棉被。	他瘧疾時都蓋到六層棉被。	alu mateononmuhu to paceofu ne mita esoskungi.	他跌倒時摔得很重	isi pateoemohi ne ita honga 'o haengi.
+142	cuma na ten'a koa engha ho iko cuc'o esuaeza.	你事後才講還有什麼好說的呢？	你事後才講還有什麼好說的呢？	cuma na ten'a koa engha ho iko cuc'o esuaeza.	你已經提出要償還的要求，又該怎麼辦？	cuma na teko ya'ei?
+143	zou 'o peongsi ho niahosa na te esvutu no hiesi no homeyaya.	小米收穫祭的舉行日期是由汪氏族與梁氏族說定的	小米收穫祭的舉行日期是由汪氏族與梁氏族說定的	zou 'o peongsi ho niahosa na te esvutu no hiesi no homeyaya.	Homeyaya祭典要舉辦時，要把柱子放在哪裡？	lahe p'eac'i to tuanya 'o mo meoi to ton'u.
+144	os'o eteovi si mo poneo.	我在平坦的地方搭建工寮。	我在平坦的地方搭建工寮。	os'o eteovi si mo poneo.	我在平原上開墾。	os'o tutiei to teova 'o ne papai.
+145	eto'usni ta pasuya 'o mo'o.	Pasuya幫Mo'o說話。	Pasuya幫Mo'o說話。	eto'usni ta pasuya 'o mo'o.	Pasuya教導Mo'o	isi eobaka to pasuya 'o mo'o.
+146	mita eto'usnu to mo yahnguyu.	他在提親時幫忙說話	他在提親時幫忙說話	mita eto'usnu to mo yahnguyu.	他責備競爭的人	mita toehunga aomotu'u ne mita eobako to maavo.
+147	teav'a namaci eup'op'a	不一定要全盤托出。	不一定要全盤托出。	teav'a namaci eup'op'a	不要隨便說謊	'ote la 'ahuyu eup'op'o.
+148	isi mi'usmi a'mi to mameoi ho eutotaveia.	長者對我們叮嚀。	長者對我們叮嚀。	isi mi'usmi a'mi to mameoi ho eutotaveia.	長者來向我們求婚	isi toehunga e'eici to mameoi 'o emomza.
+149	os'o eveia 'o mo'o.	我報復Mo'o了	我報復Mo'o了	os'o eveia 'o mo'o.	我回Mo'o。	mi'ocu yupa atavei to mo'o.
+150	la mimimio ho mo feungna 'o ngiungiu ho eyabobonu.	夜鴞在夜間出來找食物。	夜鴞在夜間出來找食物。	la mimimio ho mo feungna 'o ngiungiu ho eyabobonu.	基布鳥和白背蜂是同一家族的	la meolu ho mo 'oyona 'o yoi.
+151	os'o cu eyuyuca 'o mapepethu'ta.	我已經把窗戶都關緊了。	我已經把窗戶都關緊了。	os'o cu eyuyuca 'o mapepethu'ta.	我已經把所有的窗戶關起來。	os'ocu pa'hiteufza 'o phingi.
+152	i'o fo'faneni to cou 'o os'o o'te psuv'ohneni ci chae.	我把沒賣出去的菜分送給別人	我把沒賣出去的菜分送給別人	i'o fo'faneni to cou 'o os'o o'te psuv'ohneni ci chae.	我把我沒種的菜送給鄒族人。	os'o pa'ievi to mocmo 'o o'a mi'usnu ci chae.
+153	la'u kaebu bonu to foumoatu'nu.	我很喜歡吃山羊肉	我很喜歡吃山羊肉	la'u kaebu bonu to foumoatu'nu.	我喜歡吃山豬肉	la'u kaebu bonu to fou moatu'nu.
+154	miko yumzo no cuma ho miko ha'o na'no su'no?	你忽然很生氣是什麼原因？	你忽然很生氣是什麼原因？	miko yumzo no cuma ho miko ha'o na'no su'no?	你生氣是因為你過量吃東西嗎？	mo mainci na'no su'no siko?
+155	ita hafa 'o te ima ci chumu.	他攜帶飲水	他攜帶飲水	ita hafa 'o te ima ci chumu.	他帶來要喝的水。	mita ma'efo'u to chumu.
+156	yunga si sapieisu ho hatasi.	脫掉你的鞋子打赤腳。	脫掉你的鞋子打赤腳。	yunga si sapieisu ho hatasi.	把你的鞋子綁好。	teav'a ta'pongeni si sapiei ho miko t'ango.
+157	la smoyo no hicu 'o 'o'oko.	小孩子怕鬼神	小孩子怕鬼神	la smoyo no hicu 'o 'o'oko.	小孩怕太陽	mo ti'usnu to feohu 'o oko.
+158	panto la smoyo no hicu ci cou.	有的很怕鬼神	有的很怕鬼神	panto la smoyo no hicu ci cou.	有的人是聰明的	panto la na'no toakoko no fkoi.
+159	te'o uhne hihiehoma'u.	我去我的旱作園	我去我的旱作園	te'o uhne hihiehoma'u.	我要去巡獵	mi'o uhne 'oyona'u.
+160	teko hipuepuya 'o f'ue sayungu ho mooyai pivuyu'a.	Sayungu你把地瓜切塊做地瓜湯。	Sayungu你把地瓜切塊做地瓜湯。	teko hipuepuya 'o f'ue sayungu ho mooyai pivuyu'a.	Sayungu把地瓜切成塊。	teko s'eftungneni ta f'ue sayungu ho te peisbabimza.
+161	lasi tomuti to fiteu na kuici hicu honcisi ohcum'a 'o kuba ho hosa.	如果惡靈靠近男子會所與部落，木槲蘭能阻擋邪氣。	如果惡靈靠近男子會所與部落，木槲蘭能阻擋邪氣。	lasi tomuti to fiteu na kuici hicu honcisi ohcum'a 'o kuba ho hosa.	山葵成熟時，它們的果實會被男人和女人吃光。	ho mo ma'hiteuyuna 'o haahocngu ne noana'o, la emoo to haah'o poa yuhmuyu to mocmo.
+162	ita ta'eaeva honcita o'te meelu maine'e.	他擔心不能回家。	他擔心不能回家。	ita ta'eaeva honcita o'te meelu maine'e.	他擔心自己不能回家。	mita ma'sonu ho o'a teta maine'e.
+163	la meelu mebotngonu 'o honte ne noana'o.	以前的皇帝可以娶很多太太。	以前的皇帝可以娶很多太太。	la meelu mebotngonu 'o honte ne noana'o.	以前的河流會有很多魚。	mo botngonu 'o mamameoi to niahosa.
+164	te'o uhne hosa ho toamayasvi.	我要去部落參加戰祭	我要去部落參加戰祭	te'o uhne hosa ho toamayasvi.	我要去部落祭祀。	te'o uhne 'oha ho toalungu.
+165	mo yonenu na no'ausnu no hosasu?	你的部落在哪個方向？	你的部落在哪個方向？	mo yonenu na no'ausnu no hosasu?	你的部落在哪裡？	te ma'hi'vonu na osko hahasa.
+166	zou hotoalungva 'o homuchua.	雨季適合釣魚。	雨季適合釣魚。	zou hotoalungva 'o homuchua.	夏天是乾燥的季節。	la mafe ho mo yosku 'o mo moabonu.
+167	mi'o i'mi ne hosa.	我來自大社	我來自大社	mi'o i'mi ne hosa.	我從部落來。	mi'o mainenu to meesi.
+168	zou hosa 'o os'o i'mizi.	我來自大社。	我來自大社。	zou hosa 'o os'o i'mizi.	我是從部落出來的。	os'o maine'e 'o meoi.
+169	teko i'payo tehe eno aiti.	站到明顯處好讓他們看見	站到明顯處好讓他們看見	teko i'payo tehe eno aiti.	你要回他家去。	mo ma'hi'usnu ho ihe yaahzoo.
+170	leata 'ote amako ma'moalu i'upu meesi.	對參加祭典漠不關心。	對參加祭典漠不關心。	leata 'ote amako ma'moalu i'upu meesi.	他不願意參加儀式	o'a la 'ahuyu to meesi ho mo meesi.
+171	mita seolua no i'upu ta meesi.	他正在參加祭典。	他正在參加祭典。	mita seolua no i'upu ta meesi.	他正在參加儀式	mita meesi 'e mo meesi.
+172	teto ianan'ou to te mia .	咱們各走各的路	咱們各走各的路	teto ianan'ou to te mia .	我們來指引路	teto mia na te meoi.
+173	la ieni to mayasvi ho easmoyuska 'o yu'fafoinana.	依照mayasvi祭典為青年舉行成年禮。	依照mayasvi祭典為青年舉行成年禮。	la ieni to mayasvi ho easmoyuska 'o yu'fafoinana.	學校要向mayasvi索取獎勵。	la peispak'eni to mayasvi 'o mo meheoisi no yuvaho.
+174	ihen'a nookai ne hucma 'e emoo eni.	他們昨天剛入住這棟房子。	他們昨天剛入住這棟房子。	ihen'a nookai ne hucma 'e emoo eni.	這棟房子昨天有人搶劫。	ihecu yunu'veni ta emoo ne hucma.
+175	ita ima ta amo si emi.	爸爸把酒喝了	爸爸把酒喝了	ita ima ta amo si emi.	是爸爸喝了酒。	mo peonoyu to emi 'o amo.
+176	ita kac'ohi ta voyu 'e ufi.	Voyu咬了一口年糕。	Voyu咬了一口年糕。	ita kac'ohi ta voyu 'e ufi.	Voyu捏取一塊年糕。	isi otpuski to voyu 'o ufi.
+177	os'o kaebeni ho mita smopcuku.	他跌倒時，我幸災樂禍。	他跌倒時，我幸災樂禍。	os'o kaebeni ho mita smopcuku.	他跌倒我幫他抱。	os'o yupa toveucu ho mita smopcuku.
+178	mo covhi 'o kakapana'u.	我的竹林很遠	我的竹林很遠	mo covhi 'o kakapana'u.	我的竹林有五棵樹	mo na'no yupa ta'e 'o kakaapana'u.
+179	mainci ala poa tuapayo'neni to 'iusungu 'o kakapanasu.	你怎麼讓'iusungu割毀你的桂竹林。	你怎麼讓'iusungu割毀你的桂竹林。	mainci ala poa tuapayo'neni to 'iusungu 'o kakapanasu.	怎麼讓'Iusungu砍斷你的竹林的枝子？	cuma na teta poa yuhmuyu to 'iusungu si kaapanatako.
+180	la cmufeu to ceaf'u 'o keetue.	木耳會長在倒下的腐木。	木耳會長在倒下的腐木。	la cmufeu to ceaf'u 'o keetue.	貓在樹上爬。	la boemi to mo oefu'u ci evi 'o tuapzu.
+181	mo keolo 'e ceoa ho mo o'te ahtu muchu.	太久沒下雨土地都乾了	太久沒下雨土地都乾了	mo keolo 'e ceoa ho mo o'te ahtu muchu.	土石崩落而不停地下雨	o'te ahtu chumu ho isicu yuhcuvha 'o ceonu.
+182	isicu t'ot'i to voyu 'o tesi mu'i to khafei.	要種咖啡的地已經開墾了。	要種咖啡的地已經開墾了。	isicu t'ot'i to voyu 'o tesi mu'i to khafei.	Voyu要種的瓜已經開墾了。	isicu poe'oha 'o te emu'i to cafe.
+183	la na'no m'ona'o 'o mon'a ko'ingi hola oengutu.	嬰兒睡覺時會睡很久。	嬰兒睡覺時會睡很久。	la na'no m'ona'o 'o mon'a ko'ingi hola oengutu.	睡覺的人一起來睡很久	la oengutu ho mo oengutu si oko.
+184	isi koica si 'o'oko.	他罵那些孩子。	他罵那些孩子。	isi koica si 'o'oko.	小孩責罵他。	ita ekvo'i si 'o'oko.
+185	ohola thuci to kokeu 'o papai ne noana'o	以前的稻田會養田螺	以前的稻田會養田螺	ohola thuci to kokeu 'o papai ne noana'o	以前河童在水田裡覓食	mo ma'hiteufzu 'o ne noana'o papai.
+186	mo m'eefo'u to linki 'e ciengona ta t'ango'u.	我的另一隻腳陷到泥巴裡。	我的另一隻腳陷到泥巴裡。	mo m'eefo'u to linki 'e ciengona ta t'ango'u.	我的腳踩到泥巴	isi smomuti to lingki 'o t'ango'u.
+187	la luya cunghu to yusu 'o malungeavana.	鬼針草易沾到衣服上。	鬼針草易沾到衣服上。	la luya cunghu to yusu 'o malungeavana.	山葵適合在衣服上。	la boemi to yusu 'o h'oepona.
+188	mita boepapak'i ho mita m'ea peisu.	他以暴力方式要錢。	他以暴力方式要錢。	mita boepapak'i ho mita m'ea peisu.	他賣錢時捏造數據	ita peispak'eni to peisu 'o mo hahocngu.
+189	mita cu m'eaveivei m'eabonu.	他求了好多次要吃。	他求了好多次要吃。	mita cu m'eaveivei m'eabonu.	他已經多次生病了	ita opsoha ho mita bonu.
+190	mi'o m'eachi to suesu no teova.	我自己立起工寮的柱子	我自己立起工寮的柱子	mi'o m'eachi to suesu no teova.	我踩到工寮的柱子	mi'o m'ecihi to suesu to teova.
+191	o'a mo umnu ci m'ene hoci m'eaveivei.	需索無度是不好	需索無度是不好	o'a mo umnu ci m'ene hoci m'eaveivei.	再多吃一次是不好的	o'a mo umnu ho mo 'oha tmaolalu.
+192	ita p'ec'uci 'o mo maeno ci pania.	他踩到尖銳的玻璃	他踩到尖銳的玻璃	ita p'ec'uci 'o mo maeno ci pania.	他踩破了玻璃瓶。	mita m'ecihi to mo macucuma ci fatu.
+193	mo m'ec'uhu to ceo'u 'o 'uachumu.	水牛踩到梯田邊坡	水牛踩到梯田邊坡	mo m'ec'uhu to ceo'u 'o 'uachumu.	牛踩在梯田邊坡上	mo m'ecihi to ceo'u 'o 'uachumu.
+194	mi'o m'echumu to feongo.	我踏在洞裡不動	我踏在洞裡不動	mi'o m'echumu to feongo.	我踏進洞裡	o'a os'o mo'ohi to feongo.
+195	mo m'ecunu to okono fkoi 'o mo'o.	Mo'o踏到小蛇	Mo'o踏到小蛇	mo m'ecunu to okono fkoi 'o mo'o.	Mo'o對著小孩開槍	mo m'ecihi to fkoi 'o mo'o.
+196	lahe p'eepzi to momhino 'o huphina to macucuma.	商店主人通常物品價格都定很高	商店主人通常物品價格都定很高	lahe p'eepzi to momhino 'o huphina to macucuma.	店家們都要價很高的買東西	lahe 'aoka umnua 'o mo mhia mhia macucuma to momhino.
+197	'ua tesi teomi hoci'u m'eptu no takubingi no fuesu.	我如果向他要七碗米，他會給	我如果向他要七碗米，他會給	'ua tesi teomi hoci'u m'eptu no takubingi no fuesu.	他要是還在，我一定會給他一碗米飯	tesi nana yosvuta na teta m'eaveivei no takubingi no fuesu.
+198	miko m'espotu a'o to f'ue.	你向我要四個地瓜	你向我要四個地瓜	miko m'espotu a'o to f'ue.	你丟地瓜給我	teko m'eav'o to f'ue a'o.
+199	ta'u m'eszo no mcuu no ton'u no ta'u hioyapo.	我要九穗的小米用來播種	我要九穗的小米用來播種	ta'u m'eszo no mcuu no ton'u no ta'u hioyapo.	我要為我要耕作的稻田埋下一大塊小米	te'o mu'a no ton'u ho mi'o emuemu'u.
+200	mihin'i yuyuso 'e nat'ohaesa ho m'oasoe.	他們倆兄弟一起偷毒魚。	他們倆兄弟一起偷毒魚。	mihin'i yuyuso 'e nat'ohaesa ho m'oasoe.	弟妹和姐妹各自有五個弟妹	ihe toehunga toveuca 'o yoskuaulu.
+201	mo m'ontuhu ta emcu si 'uongu.	'Uongu在砍斷藤蔓。	'Uongu在砍斷藤蔓。	mo m'ontuhu ta emcu si 'uongu.	'Uongu在吊樹	isi tvici to 'uongu 'o ehti to sbuku.
+202	mo ma'cohio bua cou 'o mameoi.	老人教導說母語	老人教導說母語	mo ma'cohio bua cou 'o mameoi.	長者教我們說鄒語	la pa'cohivi to mamameoi 'o mo bua maameoi.
+203	mainci ma'e'epi si sapcisu?	你的臉怎麼很多疤？	你的臉怎麼很多疤？	mainci ma'e'epi si sapcisu?	你的鞋子怎麼滑倒？	mo mainci na'no ngotohvu si fngusu.
+204	ote la ma'eungzu no uk'a yupasu.	不要因為沒錢而過於憂慮	不要因為沒錢而過於憂慮	ote la ma'eungzu no uk'a yupasu.	不要怕別人跟著你	teav'a ta'eungza ho mita peisu.
+205	mo ma'hi'upu to niahosa 'o tuthusana.	朱家屬於粱家的家族系統	朱家屬於粱家的家族系統	mo ma'hi'upu to niahosa 'o tuthusana.	朱家包含在梁家內	mo ma'hinsohu ta emoo no tuthuca 'o tuphuca.
+206	zou hosa ta tfuya 'o isi ma'hi'usni ta lalauya ho pnguu.	樂野和來吉屬於特富野社。	樂野和來吉屬於特富野社。	zou hosa ta tfuya 'o isi ma'hi'usni ta lalauya ho pnguu.	樂野縣的最高處是特富野。	la yainca ho la na'no toveuca 'o ne psoseongana.
+207	te poa ma'hiezuhu si oko ci tes'a supeohu.	讓孩子變換睡之姿以免掉下床	讓孩子變換睡之姿以免掉下床	te poa ma'hiezuhu si oko ci tes'a supeohu.	要讓孩子抬頭看一下才不會掉下來	poa teovahneni ta oko si oengutu tes'a supeopeohu.
+208	mita mici ma'hiezuhu ne apihana 'e mo'o.	Mo'o 想要歸屬對岸	Mo'o 想要歸屬對岸	mita mici ma'hiezuhu ne apihana 'e mo'o.	Mo'o在下方偷東西	mita ma'sonu to apihana 'e mo'o.
+209	mo so okosi 'e hopo; o'a tekos'a ma'himamso.	床太小，不夠你躺	床太小，不夠你躺	mo so okosi 'e hopo; o'a tekos'a ma'himamso.	床太小，你坐不下	mo okosi 'o ca'hu, o'a tekos'a oengutu.
+210	mo ma'hivoveohu 'o mo notoyange ci ca'hu.	椅子排成八排	椅子排成八排	mo ma'hivoveohu 'o mo notoyange ci ca'hu.	椅子排成四排	mo ma'hisosiohu 'o mo notoyange ci ca'hu.
+211	teko poa ma'hiyovcu ta ceonu si evi.	你把樹朝下排放著	你把樹朝下排放著	teko poa ma'hiyovcu ta ceonu si evi.	你讓那棵樹朝下停著。	teko pa'hiteufza ta evi si te pnaa.
+212	mi'o ma'ivaho to tposu to oko'u.	我再寄書給我的小孩	我再寄書給我的小孩	mi'o ma'ivaho to tposu to oko'u.	我再寄書給我的小孩	os'o pa'ievi to tposu 'o oko'u.
+213	mi'o ma'iyovcu to chae.	我把菜往下送	我把菜往下送	mi'o ma'iyovcu to chae.	我倒菜	os'o pa'ievi 'o chae.
+214	'ote namaci ma'muemusu ta teko hioa.	你的事別著急	你的事別著急	'ote namaci ma'muemusu ta teko hioa.	你做的工作不要隨便多說。	tav'a'so aot'ova si macucumasu.
+215	mita ma'payo'u mahafo to te ima ci chumu.	她忘記帶要喝的水	她忘記帶要喝的水	mita ma'payo'u mahafo to te ima ci chumu.	他一直送水	mita ma'teuyuna no teta ima ci chumu.
+216	la ma'po'u'umtu to teko afu'a hioa.	你既然要做事就要實實在在	你既然要做事就要實實在在	la ma'po'u'umtu to teko afu'a hioa.	你要堅持你的工作	nahocu a'umtu ho teko hioa.
+217	mita ma'saseolu no pokuyai.	他自認適合開車	他自認適合開車	mita ma'saseolu no pokuyai.	他怕被人追。	mita ma'sonu ho mita yahnguyu.
+218	mita cu eno ma'susuae ho mita alu petma'congo.	他後悔喝酒把身體喝壞了	他後悔喝酒把身體喝壞了	mita cu eno ma'susuae ho mita alu petma'congo.	他打了五次已經很害怕	mita ma'koe'io to emi ho mita cmu'ho.
+219	mi'o ma'tipvongu homo uk'a tov'oha.	我為著沒有收入而苦惱	我為著沒有收入而苦惱	mi'o ma'tipvongu homo uk'a tov'oha.	沒有收成我擔心	mi'o ta'kuzo ho o'a os'o honga.
+220	mita maapaso to evi 'e 'uongu.	uongu鋸樹	uongu鋸樹	mita maapaso to evi 'e 'uongu.	'Uongu砍樹	mo tuapzu 'o uongu.
+221	mita maapaso to fou 'e 'uongu.	'uongu切肉	'uongu切肉	mita maapaso to fou 'e 'uongu.	'Uongu切肉	mita ma'kakoi to simeo 'e 'uongu.
+222	la kahkumnu 'o mabuya to la kaebu aut'ot'ou.	喜歡運動的人小腿都很粗	喜歡運動的人小腿都很粗	la kahkumnu 'o mabuya to la kaebu aut'ot'ou.	喜歡搖動的物體是紅色的。	mo na'no yu'fa 'o mo maica ci ca'hu.
+223	isi toemizi to ceoa 'e mac'oc'oeha.	土石流衝向河流	土石流衝向河流	isi toemizi to ceoa 'e mac'oc'oeha.	這兩條河流都是由土石流形成的。	mo yuftongu ta c'oeha si ceoyu.
+224	lac'o maceici to chumu 'o av'u ho mo mimo.	狗喝水時用舌頭舔。	狗喝水時用舌頭舔。	lac'o maceici to chumu 'o av'u ho mo mimo.	狗喝水時會舔水	la peepeuci to cuehu 'o av'u ho mo mimo.
+225	na'no maelu to mo mimo 'e pasuya.	pasuya很容易找到喝酒的人	pasuya很容易找到喝酒的人	na'no maelu to mo mimo 'e pasuya.	Pasuya喝得出來的酒很好喝	lata kaebu to mo mimo 'e pasuya.
+226	mitac'o maenu'u to chae ho o'te cumasa.	他種了菜之後就不管理了	他種了菜之後就不管理了	mitac'o maenu'u to chae ho o'te cumasa.	他沒吃就直接走到菜園裡去	mita emu'i to chae ho o'a mita ahtu yuhmuyu.
+227	mita maeyovcu to fatu.	他把石頭往下丟。	他把石頭往下丟。	mita maeyovcu to fatu.	他在搖動石頭	ita paecu'heni 'o fatu.
+228	te'o maezo uhne maibayu.	我也要去嘉義	我也要去嘉義	te'o maezo uhne maibayu.	我也要去嘉義	te'o uhne maicaya.
+229	mo mah'i'usnu ta tfuy 'o tiaki'ana.	鄭家是特富野社的。	鄭家是特富野社的。	mo mah'i'usnu ta tfuy 'o tiaki'ana.	山豬在上方追趕獵物	zou toveuca no tfuya 'o ne psoseongana.
+230	mita mahafo to te ima ci chumu.	他攜帶飲用水	他攜帶飲用水	mita mahafo to te ima ci chumu.	他送水喝	mita ma'efo'u to chumu.
+231	ote la mahep'ungu to 'eongu to sapiei.	鞋帶不要打死結	鞋帶不要打死結	ote la mahep'ungu to 'eongu to sapiei.	不要把鞋子綁得太緊	teav'a 'afeifei'za si sapiei.
+232	o'a ita pahev'oha 'o po'oyua.	他綁不好水管	他綁不好水管	o'a ita pahev'oha 'o po'oyua.	他連水管都拔不掉。	o'a mita m'eac'o to po'oyua.
+233	alu mahevaveivei 'e hia tacvoh'i ta teesi.	那樣長的繩子可以來回綁好幾圈	那樣長的繩子可以來回綁好幾圈	alu mahevaveivei 'e hia tacvoh'i ta teesi.	這繩子剛好可以一百圈繞。	man'i 'o mo atva'esi titha yuhcuvha si mocmo.
+234	mita maheyucu to sapiei.	他綁緊鞋子	他綁緊鞋子	mita maheyucu to sapiei.	他穿鞋	mita ma'efo'u to sapiei.
+235	mo mahsospotu ne isi eobaka to fa'ei 'o fkoi.	Fa'ei打蛇打了四次	Fa'ei打蛇打了四次	mo mahsospotu ne isi eobaka to fa'ei 'o fkoi.	Fa'ei打蛇時它咬人	mita matpopsohu ne mita eobako to fkoi 'e fa'ei.
+236	mita mahsungsungu to cuc'u ho bonu 'e pasuya.	Pasuya用生薑沾鹽巴來吃飯	Pasuya用生薑沾鹽巴來吃飯	mita mahsungsungu to cuc'u ho bonu 'e pasuya.	Pasuya把辣椒捆綁吃	la omza to soetohvu ho isi otaseona 'o pasuya.
+237	mo na'no mahtuicu ho isi suesu si teufsu.	櫸木當柱子很堅固	櫸木當柱子很堅固	mo na'no mahtuicu ho isi suesu si teufsu.	那木瓜砍得很快	mo ma'mamso to suesu 'o evi.
+238	na'no mahtuicu co 'tohungu taini.	他很固執	他很固執	na'no mahtuicu co 'tohungu taini.	他的想法很對。	mita na'no ma'kaebu.
+239	lac'o maimai si mauputisi ta feu'u.	很矮小的小豬很可愛。	很矮小的小豬很可愛。	lac'o maimai si mauputisi ta feu'u.	豬的糞便很難排出。	la na'no yu'fa ho mo cohci 'o oko no feu'u.
+240	naho poa maino huphinasi ho phieni.	你就按照它的價錢去賣。	你就按照它的價錢去賣。	naho poa maino huphinasi ho phieni.	你可以請人賣	teko mhia na ita p'eacni.
+241	mais'a mameoi ho mo bonu si oko.	小孩吃東西像老人	小孩吃東西像老人	mais'a mameoi ho mo bonu si oko.	那孩子吃東西還是老人家吃的	mo ma'sonu to mamameoi 'o oko.
+242	nahocu maiyaesu ho 'otena 'aoko mongsi.	你眼淚擦掉別再哭了	你眼淚擦掉別再哭了	nahocu maiyaesu ho 'otena 'aoko mongsi.	不要一直哭，你就自己哭吧。	tav'a'so yuhmuyu si ngotohva ho teav'a 'aoka c'o cohivi.
+243	to maliliu panto la bonu to heoemu'u.	不同種的蚱蜢中，有的蚱蜢會吃農作物	不同種的蚱蜢中，有的蚱蜢會吃農作物	to maliliu panto la bonu to heoemu'u.	有的人會吃各種作物	panto la ma'mome to heoemu'u 'e mo noteuyunu.
+244	mita mam'eti to h'oepona 'e mo'o.	Mo'o去巡陷阱	Mo'o去巡陷阱	mita mam'eti to h'oepona 'e mo'o.	Mo'o攀登到陷阱	mita mahtothomu to h'oepona 'e mo'o.
+245	mo mameoihe to voyu 'o pasuya.	Pasuya比Voyu年長	Pasuya比Voyu年長	mo mameoihe to voyu 'o pasuya.	Pasuya是Voyu的長子	mita mameoi to voyu 'e pasuya.
+246	sia na mo alu mamceezoyu to pusiahu?	誰竟然砸爛了我的南瓜？	誰竟然砸爛了我的南瓜？	sia na mo alu mamceezoyu to pusiahu?	誰竟然咬了南瓜？	sia 'o mo smoe'os'o to f'ue'u?
+247	tela tmalu to mameoi hola mahsuftu.	要聽取老人的訓誡	要聽取老人的訓誡	tela tmalu to mameoi hola mahsuftu.	討厭東西時要聽從老人家的訓誡	tela tmalu to maameoi 'o e'e no cou.
+248	mo yu'ma moengu 'e mao'oahngu taini ho mo pasunaeno.	他的親戚都很會唱歌	他的親戚都很會唱歌	mo yu'ma moengu 'e mao'oahngu taini ho mo pasunaeno.	他的朋友們聚集一起唱歌	la kaebu pasunaeno 'o maameoi taini.
+249	leata o'te amako maololu i'upu meesi.	對參加祭典漠不關心	對參加祭典漠不關心	leata o'te amako maololu i'upu meesi.	他竟然沒參加儀式	o'a la 'ahuyu to meesi.
+250	mo mafe 'o sbuku to maozi.	孟宗竹的筍子很好吃	孟宗竹的筍子很好吃	mo mafe 'o sbuku to maozi.	麻竹的竹筍很好吃	la mafe 'o sbuku to kaapana ta man'i.
+251	mo somafea to mapapasu 'o pasnoaulu.	上等箭竹的筍最好吃。	上等箭竹的筍最好吃。	mo somafea to mapapasu 'o pasnoaulu.	苦花魚在你的鍋子裡面。	la mafe 'o mo supeopeohu ci sbuku.
+252	mo mas'osu to ceoyu 'o tomohva.	指標是指向虎頭蜂窩	指標是指向虎頭蜂窩	mo mas'osu to ceoyu 'o tomohva.	虎頭蜂是害羞的。	isi pe'ongki to mo macucuma 'o tmoepoyu.
+253	'ote la maskuv'o to 'o'oko.	不要誤導小孩子	不要誤導小孩子	'ote la maskuv'o to 'o'oko.	不要欺負小孩	teav'a pae'uhi si oko.
+254	mitac'o masloungu to mo tuocosu.	那個人指導錯誤	那個人指導錯誤	mitac'o masloungu to mo tuocosu.	他只是在騷動中輕鬆一點	mo ma'hi'usnu si isi poa hioaneni.
+255	la afnaso mateoneano ho mo hosoyuma.	冬天時要穿的暖和	冬天時要穿的暖和	la afnaso mateoneano ho mo hosoyuma.	冬天是最熱的季節。	la teoma'e to hie ho mo hosoyuma.
+256	teto n'a matnusku to pasu nakumo.	我們來唱一次Nakumo這首歌	我們來唱一次Nakumo這首歌	teto n'a matnusku to pasu nakumo.	我們來唱十次的歌	teto pasunaenva 'o pasunaenva ta nakumo.
+257	mita matnusku ne mita smoavoyu.	他剛才射了一次飛鼠	他剛才射了一次飛鼠	mita matnusku ne mita smoavoyu.	他在射擊時射中了獵物	mita cu aemu'i smopcuku to voyu.
+258	mita c'o matnusku ne mita eobako to oko.	他打小孩只打一次	他打小孩只打一次	mita c'o matnusku ne mita eobako to oko.	他打小孩時只打兩次	mita epliki to oko.
+259	teko matpopsohu to miome.	miome請唱兩次	miome請唱兩次	teko matpopsohu to miome.	你唱miome。	teko pasuhoha'va 'o miome.
+260	naho n'a matvaho , pasuya.	Pasuya，請再唱一次	Pasuya，請再唱一次	naho n'a matvaho , pasuya.	Pasuya你再唱一次	pasuya, teko patvaveiveia.
+261	naho n'a matvaho pono.	請再射一次	請再射一次	naho n'a matvaho pono.	你可以再唱一次	teko patvaveoha.
+262	lea'u meelu matvaveivei ho mi'o mahafo pasunaeno.	我領唱時可以重複地唱歌	我領唱時可以重複地唱歌	lea'u meelu matvaveivei ho mi'o mahafo pasunaeno.	我唱歌時常用八節拍	la'u pasuhoha'o ho mi'o pasunaeno.
+263	mo mav'ov'o 'e maveoveocu ta feango.	身體內有各種不同的筋	身體內有各種不同的筋	mo mav'ov'o 'e maveoveocu ta feango.	我們的肝臟很大	mo ma'hiteuyuna 'o feongo.
+264	to homeyaya isi peesi hoci bonu to nakuzo ho to mayoyosku.	homeyaya時若吃了腥味重的獸肉或吃各種魚視為禁忌。	homeyaya時若吃了腥味重的獸肉或吃各種魚視為禁忌。	to homeyaya isi peesi hoci bonu to nakuzo ho to mayoyosku.	homeyaya時，除了吃肉外也要吃水果	lahe p'eatiskeni homo bonu to feohu no mo mafe ci yosku ne homeyaya.
+265	laha yaingca to mamameoi 'o fnguu to mayuyuangsou zou papoevu.	長者們都說各種動物的頭是papoevu。	長者們都說各種動物的頭是papoevu。	laha yaingca to mamameoi 'o fnguu to mayuyuangsou zou papoevu.	長者們都說龍神的頭是papoevu。	lahe yainca to mamameoi 'o fnguu to macucuma ho mo papuevu.
+266	mo meave to te teai yungku ci 'ue 'o haah'o.	大夥削要做背籃的黃藤	大夥削要做背籃的黃藤	mo meave to te teai yungku ci 'ue 'o haah'o.	大夥喜歡在背籃上蓋背袋	mo ma'hiteuyu to te teke yungku ci 'ue 'o haah'o.
+267	mo mav'ov'o 'o meemeesi ta coua'toana.	我們鄒有很多祭典	我們鄒有很多祭典	mo mav'ov'o 'o meemeesi ta coua'toana.	鄒族的祭典有很多種類	mo man'i 'o la meesi to coua'toana.
+268	micu peepungu 'o mo meesi.	祭典今天已經完成	祭典今天已經完成	micu peepungu 'o mo meesi.	參加儀式的人都來到。	micu aulu meesi maitan'e.
+269	a mita c'o mef'oesu.	他只是未婚生子啊	他只是未婚生子啊	a mita c'o mef'oesu.	他只鑽一洞	mita c'o haah'o homo feohu.
+270	mo seolua no mefcuyu 'o teo'ua.	雞正在下蛋	雞正在下蛋	mo seolua no mefcuyu 'o teo'ua.	雞正在綁帶	mo m'ecihi to teo'ua 'o teo'ua.
+271	titho to takubingi ho meosvutu to fuesu.	用碗撈米來量	用碗撈米來量	titho to takubingi ho meosvutu to fuesu.	用碗攪米來量	titho ta takubingi ho peosvuta si fuesu.
+272	panto la meteongaso to vcongu ho meezuhu.	有人會放棄原來的配偶另娶他人。	有人會放棄原來的配偶另娶他人。	panto la meteongaso to vcongu ho meezuhu.	有的人會祭祀鳥神。	pantola pa'hi'upneni to hupahe ci mocmo 'o hupahe.
+273	lea'u methu to ceu'fu to fou.	我用小竹盤裝肉	我用小竹盤裝肉	lea'u methu to ceu'fu to fou.	我會煮肉	os'o titha to fou 'o kaapana.
+274	mi'o mhino to mo coni ci teo'ua.	我買了一隻雞	我買了一隻雞	mi'o mhino to mo coni ci teo'ua.	我賣一隻雞	mi'o mhia teo'ua.
+275	ita mi'povi 'o mo cmuhu to feu'u.	他因看殺豬而不專注。	他因看殺豬而不專注。	ita mi'povi 'o mo cmuhu to feu'u.	他對著殺豬的人射了三次	o'a ita ta'saseoluneni homo mo 'aafofou to feu'u.
+276	os'o poa mi'povneni ta haah'o 'e os'o teatatvia.	群眾為了我提的東西而逗留。	群眾為了我提的東西而逗留。	os'o poa mi'povneni ta haah'o 'e os'o teatatvia.	我用我要講故事的書來教導年輕人。	ihe toehunga yu'upu si os'o eutotaveia.
+277	mi'ocu mici maine'e.	我想回家了。	我想回家了。	mi'ocu mici maine'e.	我已經回家了	te'ocu maine'e.
+278	panto imza poa miseisi to semento to ceonu.	我們請人把路塗上水泥	我們請人把路塗上水泥	panto imza poa miseisi to semento to ceonu.	我們曾經讓水泥滑下阻擋道路	teto poa tufkuneni to semento si ceonu.
+279	mi'o miseisi to ngeai.	我塗抹化妝品。	我塗抹化妝品。	mi'o miseisi to ngeai.	我踩得離水很近	os'o sotpuskeni 'o to'pucva.
+280	mo na'no mismoyoa 'o os'o aiti ci cmoi.	我看見的熊看起來很可怕。	我看見的熊看起來很可怕。	mo na'no mismoyoa 'o os'o aiti ci cmoi.	我看到的熊很大。	mo na'no ngoveo 'e os'o pa'hiteufza ci cmoi.
+281	mitac'o ekameosu ho mita aomotu'u 'e pasuya.	pasuya他只說得很簡短。	pasuya他只說得很簡短。	mitac'o ekameosu ho mita aomotu'u 'e pasuya.	Pasuya說話時不留情面	mita aaknuesu ho mita aomotu'u 'e pasuya.
+282	mita mo'oyu 'e 'uongu.	'Uongu在烤竹筒飯	'Uongu在烤竹筒飯	mita mo'oyu 'e 'uongu.	'Uongu在烤魚	mo tu'nu 'o 'uongu ho mo pei'i.
+283	mihin'in'a mihna mocaefi ne pooftongaveoveo.	他們才剛剛經過觸口	他們才剛剛經過觸口	mihin'in'a mihna mocaefi ne pooftongaveoveo.	他們在山丘上一直走路	micu aulu smopcuku 'o ihe cu e'tui.
+284	mo mochi ta pucu 'e oko.	孩子在丟垃圾	孩子在丟垃圾	mo mochi ta pucu 'e oko.	小孩扔垃圾	mo m'ecihi to pucu si oko.
+285	ake'a poa tmoena'o moefueso si osko pei'i.	妳煮的要煮沸久一點。	妳煮的要煮沸久一點。	ake'a poa tmoena'o moefueso si osko pei'i.	你煮的東西稍微讓它發酵一點。	tekoc'o soekak'inga si iko pei'i.
+286	te'o mofi ta mo pio ci peisu ho te homeyaya.	小米豐收祭時，我要交錢	小米豐收祭時，我要交錢	te'o mofi ta mo pio ci peisu ho te homeyaya.	我要寄錢給死去的親友。	la'u meelu to peisu 'o ton'u.
+287	ita moh'upi na suu.	他陪你睡。	他陪你睡。	ita moh'upi na suu.	他拿你的東西。	ita oengutu su'no.
+288	ita moheuphi to mo'o 'o pasuya.	Mo'o 與Pasuya睡在一起。	Mo'o 與Pasuya睡在一起。	ita moheuphi to mo'o 'o pasuya.	Pasuya是Mo'o下的兵。	mo 'oyona to pasuya 'o mo'o.
+289	alu mohtoeseu co haengi'u.	我的汗水直接湧出。	我的汗水直接湧出。	alu mohtoeseu co haengi'u.	我的背部跌撞的地方很痛	isi cu toecum'i 'o h'onu'u.
+290	mo momentuhu 'o moso mumio ci ta'cu.	山羌從陷阱脫逃	山羌從陷阱脫逃	mo momentuhu 'o moso mumio ci ta'cu.	山豬出現了	mo eoho'u to h'oepona 'o puutu.
+291	momhino yosku	魚販	魚販	momhino yosku	魚賣家	mo meoisi to yosku.
+292	congo 'e cpuh'o ho mo cono hie momo.	拔了一天的草，腰覺得很酸痛	拔了一天的草，腰覺得很酸痛	congo 'e cpuh'o ho mo cono hie momo.	太陽下山時，天色是藍綠的。	mo na'no yu'hupsu 'o kukuzo ne mo p'onakosku.
+293	mita cu mongoi ta emoo 'e mo'o.	mo'o 他已經分家了	mo'o 他已經分家了	mita cu mongoi ta emoo 'e mo'o.	Mo'o已經蓋了他的房子	mitacu a'umtu 'e mo'o.
+294	mosi to peisu ta pangka tena si titha to oko.	留點錢放置桌上，給小孩用	留點錢放置桌上，給小孩用	mosi to peisu ta pangka tena si titha to oko.	孩子在桌子上放錢	te'o topci ta pangka si peisu ho faeni to oko.
+295	ihe pot'afsa to haah'o 'o isi pae'uhi.	眾人在滅火	眾人在滅火	ihe pot'afsa to haah'o 'o isi pae'uhi.	大夥把被燒掉的草全拔掉。	mo ma'hiteuyunu 'o mo pae'uhu.
+296	tekon'a moteovaho no tesi s'ofu ta ba'i.	請你重做柺杖給祖母。	請你重做柺杖給祖母。	tekon'a moteovaho no tesi s'ofu ta ba'i.	你幫祖母再替她削竹筍。	tekon'a teovahneni ta sbuku si ba'i.
+297	mo moteovoveohu 'o ita patoyangza ci ca'hu.	他排的椅子有八排。	他排的椅子有八排。	mo moteovoveohu 'o ita patoyangza ci ca'hu.	他唱的椅子倒了五次	isi pa'hiteufza 'o ita pa'hiteufza ci ca'hu.
+298	isi mumzi to kuhku 'o h'oepona'u.	狐狸中了我的陷阱。	狐狸中了我的陷阱。	isi mumzi to kuhku 'o h'oepona'u.	狐狸爬過我的陷阱。	isi p'ecmu'i to kuici 'o h'oepona'u.
+299	mo naanuhtu si lulku ta yangui	Yangui的手指都很短	Yangui的手指都很短	mo naanuhtu si lulku ta yangui	Yangui的手指很短	mo angu cuc'u 'o fnguusi ta yangui.
+300	mo na'no nac'o si oko ho isi koica.	小孩子被罵了心裡很難過	小孩子被罵了心裡很難過	mo na'no nac'o si oko ho isi koica.	那孩子被責罵得很慘。	na'no yu'hupsonu si oko ho isi koica.
+301	nac'o si oko hote poa maine'e.	要讓那小孩回家他不願意	要讓那小孩回家他不願意	nac'o si oko hote poa maine'e.	孩子要回家只需要你一個人。	o'a mitas'a honga si oko ho poa maine'e.
+302	nanghia 'e pasuya ho voyu.	Pasuya和Voyu是好朋友	Pasuya和Voyu是好朋友	nanghia 'e pasuya ho voyu.	請唱Pasuya和Voyu的歌	mo 'aoko ami to pasuya ho voyu.
+303	la yone luhtu 'o nanghia'u.	我的愛人住在Luhtu	我的愛人住在Luhtu	la yone luhtu 'o nanghia'u.	我的腿一直疼痛	mo nooyo to luhtu 'o nia'u.
+304	teko oum'uha si naveusu.	你的飯趕快吃。	你的飯趕快吃。	teko oum'uha si naveusu.	你來吃飯	tekoc'o obeko no takubingisu.
+305	la'u peela teai teesi 'o ngei.	苧麻可以做成繩子。	苧麻可以做成繩子。	la'u peela teai teesi 'o ngei.	我會綁<0xE9><0x8F><0xA2>子	la teko pefotngu to teesi 'o pcoknu.
+306	ihe ngicvi to haah'o 'o pupuzu.	大伙在火塘烤火。	大伙在火塘烤火。	ihe ngicvi to haah'o 'o pupuzu.	大夥圍著火塘。	ihe papasa to haah'o 'o pupuzu.
+307	ihe ngoevi to haah'o 'o tena suesu ci evi.	大夥扛著要當柱子的木頭。	大夥扛著要當柱子的木頭。	ihe ngoevi to haah'o 'o tena suesu ci evi.	大夥們把柱子蓋起來。	isi pa'hiteufza to haah'o 'o te talui ci evi.
+308	lahe ngoheungea 'o mo pak'i ci av'u.	他們懼怕凶狠的狗。	他們懼怕凶狠的狗。	lahe ngoheungea 'o mo pak'i ci av'u.	他們討厭凶狠的狗	ihe teava'za 'o mo pak'i ci av'u.
+309	os'o ngov'eni to ca'hu 'o yusu'u.	我把我的衣服掛在椅子上	我把我的衣服掛在椅子上	os'o ngov'eni to ca'hu 'o yusu'u.	我把我的衣服掛在椅子上。	os'o teongheni to ca'hu 'o yusu'u.
+310	poa no'ayumonu si oko ci mo'so 'aoko mici mimiyo.	讓孩子在屋裡面，因為他一直想往外跑	讓孩子在屋裡面，因為他一直想往外跑	poa no'ayumonu si oko ci mo'so 'aoko mici mimiyo.	讓孩子自主走路，因為他一直跑步	poa so'upneni ta emoo si oko ci mita 'aoko mo meoino.
+311	'otena 'aoko no'pou ta tec'u e'ohu.	別再耽誤他們要出發了	別再耽誤他們要出發了	'otena 'aoko no'pou ta tec'u e'ohu.	沒有人一直等到班次結束	teav'a 'afeifei'za ho tehe cu e'ohu.
+312	teav'ana 'aoka no'povi si te yaahioa.	別再耽誤他們要工作了。	別再耽誤他們要工作了。	teav'ana 'aoka no'povi si te yaahioa.	要工作的地方不要一直推擠。	teav'a 'afeifei'za ho tehe yaa.
+313	mohta la asonghoi no'upu to puutu.	他從小就和漢人同住	他從小就和漢人同住	mohta la asonghoi no'upu to puutu.	他常常與漢人混在一起	mita i'mi ne cou 'o hane.
+314	sia co mo noe'ohu ta ceo'u?	誰把石埂坐垮了？	誰把石埂坐垮了？	sia co mo noe'ohu ta ceo'u?	誰踩掉了梯田邊坡？	sia 'o mo posmoebako to fatu?
+315	mi'o noepe ta sofu.	我在屋頂上方	我在屋頂上方	mi'o noepe ta sofu.	我在屋頂上睡覺	mi'o smoyo to sofu.
+316	la'u noku'a 'o t'ee no av'u.	我對狗大便感到噁心	我對狗大便感到噁心	la'u noku'a 'o t'ee no av'u.	我怕狗的叮咬	mi'o na'no yu'hupsonu ta av'u.
+317	ihe nomuta to lesmoe'isi 'o ceonu ta'e.	那邊的路被警察阻擋。	那邊的路被警察阻擋。	ihe nomuta to lesmoe'isi 'o ceonu ta'e.	路被暴雨堵住了。	isi smomuti to lesmoe'isi 'o ceonu ta'e.
+318	ihin'i nomuti ta 'o'oko ho mi'o yahioa.	小孩子們一直阻礙我工作。	小孩子們一直阻礙我工作。	ihin'i nomuti ta 'o'oko ho mi'o yahioa.	我工作時，孩子們都很支持我	ihe 'aoka bumemealu to 'o'oko a'o ho yaeza yahioa.
+319	mi'o n'a nookayo to kuyai	我頭一次坐轎車	我頭一次坐轎車	mi'o n'a nookayo to kuyai	我要在車子裡面工作	mi'o cu yusuhngu to kuyai.
+320	isi noskufi ta kuyai si evi.	那部車在那棵樹下。	那部車在那棵樹下。	isi noskufi ta kuyai si evi.	車子撞到樹。	isi nocmu'i to kuyai si evi.
+321	teko pivuyu'u note ana ho yofna.	你來做晚上要吃的地瓜湯。	你來做晚上要吃的地瓜湯。	teko pivuyu'u note ana ho yofna.	晚上你要準備吃東西	teko na'a peispak'eni no te anana'va oevoi ho yofna.
+322	isi notoyangi to moatu'nu si ceo'u.	山羊排在石埂上。	山羊排在石埂上。	isi notoyangi to moatu'nu si ceo'u.	水牛在梯田裡面。	isi pa'hiteufza to moatu'nu 'o ceoyu.
+323	mo notvohu to c'oeha 'o yoskuaulu ho czou.	苦花魚和石斑魚混雜在河裡	苦花魚和石斑魚混雜在河裡	mo notvohu to c'oeha 'o yoskuaulu ho czou.	苦花魚和蛇在河裡混雜著	mo nooyo to c'oeha 'o yosku ho yosku to c'oeha.
+324	ita okosia ta tanivu 'o nte chua ci feu'u.	將要殺的豬，Tanivu嫌小。	將要殺的豬，Tanivu嫌小。	ita okosia ta tanivu 'o nte chua ci feu'u.	Tanivu 要宰殺的豬是她小孩。	isi cu yu'futnga to tanivu 'o te poa sea'funu ci feu'u.
+325	'a ntoho yuuving 'o voyu honci o'a mo'so angu poha'o.	Voyu要不是動作太慢，本來是要當郵差。	Voyu要不是動作太慢，本來是要當郵差。	'a ntoho yuuving 'o voyu honci o'a mo'so angu poha'o.	Voyu在回家時還沒被打到。	o'a tetacu aepunga 'e voyu ci mita at'ocu aakak'ingi.
+326	isi nun'i ta oko si nun'u ta inosi.	小孩在吃母奶。	小孩在吃母奶。	isi nun'i ta oko si nun'u ta inosi.	那孩子吃了媽媽的飯。	isi oe'uhi to oko 'o tesi ana.
+327	mo na'no meoisi si nun'u ta sayungu.	Sayungu的乳房很大	Sayungu的乳房很大	mo na'no meoisi si nun'u ta sayungu.	Sayungu的奶很甜	mo na'no sbuku 'o sayungu.
+328	mo angu o'cuphu 'e iko emu'a ci ton'u.	你種的小米間隔都太近	你種的小米間隔都太近	mo angu o'cuphu 'e iko emu'a ci ton'u.	你種的小米還夠吃	mo na'no yupa pecmu'u si iko mu'a ci ton'u.
+329	ote la o'hi'hisi to 'oanu.	不要浪費食物	不要浪費食物	ote la o'hi'hisi to 'oanu.	不要過量吃食物	teav'a la ou'hi'puya 'o chae.
+330	mita o'hongu ho os'o p'ani to nia mea'hisi.	我給他吃白鼻心他吃得出來	我給他吃白鼻心他吃得出來	mita o'hongu ho os'o p'ani to nia mea'hisi.	我給他吃年糕他就喝了。	ita o'honga 'o os'o p'onuhi.
+331	poa amako o'po'pou no kamcia 'e haah'o.	讓眾人在閒暇時吃糖果	讓眾人在閒暇時吃糖果	poa amako o'po'pou no kamcia 'e haah'o.	讓大夥放竹筍在位。	poa o'te amako 'oahtu to chumu ho mo leac'u ngoseo.
+332	teko buengu to pohe te o'upa ho cohzona.	你烤個玉米，中午可以一起吃的	你烤個玉米，中午可以一起吃的	teko buengu to pohe te o'upa ho cohzona.	中午你要把玉米種子堆好要吃	teko puepuyu no ton'u, teto o'te othui ho mo supeopeohu.
+333	mo o'upu to os'o ana ci pohe 'o pasuya.	Pasuya跟我一起吃玉米。	Pasuya跟我一起吃玉米。	mo o'upu to os'o ana ci pohe 'o pasuya.	Pasuya也吃了我的玉米粒	ita o'honga ta pasuya 'o ton'u.
+334	mita cu oahtu.	他已吃過午餐	他已吃過午餐	mita cu oahtu.	他已經吃飽	mitacu o'te psoelu.
+335	ita c'o oamaamtanua 'o ucei.	他只選大的芋頭來吃。	他只選大的芋頭來吃。	ita c'o oamaamtanua 'o ucei.	他只好吃很多芋頭。	isi o'te othui to mo meoisi ci ucei.
+336	micu oe'mu 'o 'o'oko ci te tmopsu.	要上學的小孩提前吃了	要上學的小孩提前吃了	micu oe'mu 'o 'o'oko ci te tmopsu.	小朋友要上學了	micu oasoe to te tmopsu ci 'o'oko.
+337	o'te la oemoemou to mo yonto pania.	瓶子裡的東西不要吃過量	瓶子裡的東西不要吃過量	o'te la oemoemou to mo yonto pania.	瓶子裡的東西不會吃	teav'a o'te amako macucuma si mo yonta chumu.
+338	isi oenguti ta oko si hopo'u.	朋友睡在我的床上。	朋友睡在我的床上。	isi oenguti ta oko si hopo'u.	那孩子在我的床上睡覺。	isi oengutu to yainca co yo'u'u 'o yawoza.
+339	lasi tomuti ta fiteu na kuisipsipa hoci ohcum'u ta kuba ho hosa.	木槲蘭能阻擋邪氣靠近Kuba和部落	木槲蘭能阻擋邪氣靠近Kuba和部落	lasi tomuti ta fiteu na kuisipsipa hoci ohcum'u ta kuba ho hosa.	部落和男子會到一起時，祭屋都要舉辦祭典	la boemi to haengu 'o kuba ho h'oepona.
+340	ohe la ataveia oh'usni ci hosa 'o ne cayamavana.	茶山是最後遷去的部落。	茶山是最後遷去的部落。	ohe la ataveia oh'usni ci hosa 'o ne cayamavana.	車山是過去主要經營農業的地。	zou ohsi ohtocu uhne 'oyona ci 'ocea.
+341	ohela yoni no nia takupuyanu 'o niahosa ne simvi.	新的舊部落是Takupuyanu族人的所在地。	新的舊部落是Takupuyanu族人的所在地。	ohela yoni no nia takupuyanu 'o niahosa ne simvi.	梁氏家族在石家是以前的領導	zou emoo no 'oyona to sukubayanu 'o 'oanu.
+342	micu oheovcu to c'oeha 'o mo yusku ci ceoa.	土石崩落到河裡去	土石崩落到河裡去	micu oheovcu to c'oeha 'o mo yusku ci ceoa.	沉澱下來的土石流向河裡。	mo m'ecihi to c'oeha 'o ceoyu.
+343	ihecu oheumha to mo yu'suezuyu 'o ezoyuhe.	他們輪工完畢了。	他們輪工完畢了。	ihecu oheumha to mo yu'suezuyu 'o ezoyuhe.	雨下的季節，他們的田已經乾涸了。	ihecu ohpuehi 'o heoemu'u.
+344	itac'o ohi'va to tngoo 'o 'oanu.	他當場吃鍋裡的食物。	他當場吃鍋裡的食物。	itac'o ohi'va to tngoo 'o 'oanu.	他吃飯只在鍋裡。	ita oe'oha 'o tesi ana to pupuzu.
+345	isicu ohlonga to emi co h'onu'u.	我的肝已被酒精浸蝕。	我的肝已被酒精浸蝕。	isicu ohlonga to emi co h'onu'u.	我吃的東西已經喝完了。	isicu smomuti to emi 'o h'oepona'u.
+346	mo cihi 'o mo n'a tmopsu ci oko'u	我還有一位孩子在讀書。	我還有一位孩子在讀書。	mo cihi 'o mo n'a tmopsu ci oko'u	我有一個小孩正在上學	mo tmopsu 'o oko'u ho mo tmopsu.
+347	moc'on'a okosi 'o ita chua ta tanivu ci feu'u.	Tanivu要殺的豬還很小。	Tanivu要殺的豬還很小。	moc'on'a okosi 'o ita chua ta tanivu ci feu'u.	Tanivu 宰殺的豬只有小小一隻	o'ana mocu mocun'i si te tmui ci feu'u to tanivu.
+348	lata yonenu? lata yone omza	他哪裡人？他是上方的人	他哪裡人？他是上方的人	lata yonenu? lata yone omza	他在睡覺嗎？他睡上半夜	zou ma'an? zou ma'an ta oevoi?
+349	mi'o ongaco to te'o teongheni to amo.	我留菜給父親吃	我留菜給父親吃	mi'o ongaco to te'o teongheni to amo.	我有要送給爸爸的東西。	os'o teongheni to chae 'o amo.
+350	oonoyu to chai	只吃菜	只吃菜	oonoyu to chai	吃菜	a'upa peispak'i ta chae.
+351	mo opcoi to fkoi 'o amo.	父親殺死了蛇	父親殺死了蛇	mo opcoi to fkoi 'o amo.	父親背山蛇	mo m'ecihi to fkoi 'o amo.
+352	isi opcoza to amo 'o fkoi.	父親殺死了蛇。	父親殺死了蛇。	isi opcoza to amo 'o fkoi.	蛇被爸爸咬了一口。	isi tmopso to amo 'o fkoi.
+353	o'a ita oseolua 'o mo cohumu.	他不吃甜的。	他不吃甜的。	o'a ita oseolua 'o mo cohumu.	他吃不下午茶。	o'a mita bonu to lac'u.
+354	isi osno'zona to feu'u 'o emcu.	豬猛吃了地瓜葉。	豬猛吃了地瓜葉。	isi osno'zona to feu'u 'o emcu.	豬吃地瓜葉吃得出來。	isi okakaeba to feu'u 'o emcu.
+355	mo osno'zonu to emcu 'o feu'u.	豬猛吃了地瓜葉	豬猛吃了地瓜葉	mo osno'zonu to emcu 'o feu'u.	豬在咬地瓜	mo mafe 'o emcu to fuzu.
+356	lea mafe ho isi osonghoza 'omo faeva ci pai.	剛開始的新米特別好吃。	剛開始的新米特別好吃。	lea mafe ho isi osonghoza 'omo faeva ci pai.	米飯省著吃很好。	la mafe 'o isi cu p'eac'i ci 'uachumu.
+357	lac'o ospuca 'o fsoi.	fsoi只嚼其汁	fsoi只嚼其汁	lac'o ospuca 'o fsoi.	fsoi很會嚼食	mita ma'ingzotu to pusiahu 'e fsoi.
+358	nahocu ousvuta.	你就來試吃。	你就來試吃。	nahocu ousvuta.	你來試吃	naho cu o'te a'asvu.
+359	tako otaveia 'o saitungu.	木瓜你要後面吃喔。	木瓜你要後面吃喔。	tako otaveia 'o saitungu.	你把木瓜切成塊。	tekoc'o opaskeni si f'ue.
+360	naho oueva si yosku.	那魚你們先吃吧。	那魚你們先吃吧。	naho oueva si yosku.	你就吃那些魚。	temu ana si yosku.
+361	oupcieva si iko ana ci tena amzo coheuceu.	你趕快吃不然就涼了。	你趕快吃不然就涼了。	oupcieva si iko ana ci tena amzo coheuceu.	先吃你要吃的份。	teko na'a okakaeba ci takocu sufeungnu.
+362	mita c'o oupeipei to ita ana ci chae.	他只挑些菜吃	他只挑些菜吃	mita c'o oupeipei to ita ana ci chae.	他吃菜就不管。	mita aaknuesu to chae.
+363	teav'a la ounpunpa 'o s'os'o.	藥不可亂吃。	藥不可亂吃。	teav'a la ounpunpa 'o s'os'o.	不要放太多藥在嘴上。	'ote la o'te p'aeni to tma'congo.
+364	la cong'e cfu'o ho mo ounpunpu.	亂吃東西會胃痛	亂吃東西會胃痛	la cong'e cfu'o ho mo ounpunpu.	雞群聚集時會有大量的蛋	la na'no oasoe ho mo 'aoko bonu.
+365	ita p'aeni to oko 'o cnumu.	他把香蕉餵給小孩。	他把香蕉餵給小孩。	ita p'aeni to oko 'o cnumu.	他給小孩吃香蕉。	ita paepo'isneni to cnumu 'o oko.
+366	os'o p'eachia ta'e ta oko.	我讓孩子單獨站立在那邊。	我讓孩子單獨站立在那邊。	os'o p'eachia ta'e ta oko.	我踩到那小孩。	os'o poa yuteuyuneni ta oko simo yonta'e.
+367	itac'o p'eatvieineni no tesi ima ci chumu tomo tma'congo.	他為病人求取喝的水。	他為病人求取喝的水。	itac'o p'eatvieineni no tesi ima ci chumu tomo tma'congo.	他只給病人喝一點水	ita p'eac'i to tesi ima 'o mo chomu.
+368	tec'u sohpoi 'o isi p'eaveivei p'enzi.	被需索無度的一方會感到厭煩。	被需索無度的一方會感到厭煩。	tec'u sohpoi 'o isi p'eaveivei p'enzi.	再添加一點香蕉	la na'no yu'hupsonu 'o mo 'aoko ngoseo.
+369	itacu p'eaveiveia 'o poyave'u.	他跟我要刀子好多次。	他跟我要刀子好多次。	itacu p'eaveiveia 'o poyave'u.	他已經多次用刀子刺我。	ita opsoha a'o ho taha'veni to poyave.
+370	os'o p'echumi 'o feongo.	我踏在洞裡不動。	我踏在洞裡不動。	os'o p'echumi 'o feongo.	我踏進洞裡。	os'o p'ecmu'i 'o feongo.
+371	p'ecihi to oko 'o puzu.	小孩踩到炭火。	小孩踩到炭火。	p'ecihi to oko 'o puzu.	孩子踩到炭火	isi p'ec'uc'eni to oko 'o pupuzu.
+372	isi p'ecuneni to fkoi to oko 'o t'angosi.	小孩子的腳踏到小蟲。	小孩子的腳踏到小蟲。	isi p'ecuneni to fkoi to oko 'o t'angosi.	小孩踩傷腳關節。	isi p'ecmu'i to oko 'o yoi.
+373	isi p'ecuni to mo'o 'o okono fkoi.	Mo'o踏到小蛇。	Mo'o踏到小蛇。	isi p'ecuni to mo'o 'o okono fkoi.	Mo'o踩傷小蛇。	isi p'ecmu'i to mo'o 'o fkoi.
+374	os'o p'eefo'i ta linki si tu'u taini.	我把他的鋤頭踩進泥巴裡。	我把他的鋤頭踩進泥巴裡。	os'o p'eefo'i ta linki si tu'u taini.	我把他的小枝放在泥巴底下。	os'o p'ecmu'neni to lingki 'o fnguusi taini.
+375	te'o p'eezuhneni co t'ango'u ci micu yatunga.	我要換腳踩，因為已經麻了。	我要換腳踩，因為已經麻了。	te'o p'eezuhneni co t'ango'u ci micu yatunga.	我要為我已經成熟的腳踩一踩。	te'o p'ecmu'u ci mi'ocu m'eac'o.
+376	ita p'efacneni to pania 'o t'ango taini.	他的腳踩到玻璃而割傷。	他的腳踩到玻璃而割傷。	ita p'efacneni to pania 'o t'ango taini.	他用腳踩住玻璃。	isi tma'congo to fatu co t'ango taini.
+377	ita p'enzeni to te'o ima ci chumu.	他幫我要我喝的水。	他幫我要我喝的水。	ita p'enzeni to te'o ima ci chumu.	他幫我取水喝。	ita faeni no te'o ima ci chumu.
+378	meemealu ho mita p'omeoisi to snoecavu 'e motoyu.	Motoyu很會把家禽養大	Motoyu很會把家禽養大	meemealu ho mita p'omeoisi to snoecavu 'e motoyu.	Motoyu 刺殺蛇得很厲害	lata kaeba na'na to'upu si motoyu.
+379	la p'onakocnu to f'ue ho mooyai emnof'ue.	做地瓜酒前要把地瓜發酵	做地瓜酒前要把地瓜發酵	la p'onakocnu to f'ue ho mooyai emnof'ue.	做地瓜時要把地瓜切成塊	la tiova ho te peonu'vi 'o f'ue.
+380	tekon'a p'onakocveni no ta'u teai emi.	請你做發酵地瓜給我做酒用。	請你做發酵地瓜給我做酒用。	tekon'a p'onakocveni no ta'u teai emi.	你陪我提我要做酒的。	tekon'a tusbuka si f'ue ho te'o peisbabisneni a'o.
+381	mita p'onu to oko.	他餵小孩	他餵小孩	mita p'onu to oko.	他給孩子吃飯	mita emo'u to oko.
+382	la'u cong'e p'ungu.	我的關節會痛	我的關節會痛	la'u cong'e p'ungu.	我有打嗝	mi'o cong'e kali.
+383	ita pa'ea 'o f'ue	他在挖地瓜。	他在挖地瓜。	ita pa'ea 'o f'ue	他放地瓜	ita emu'i to f'ue.
+384	ita pa'eingzoti a'mi to tahza.	他寄少量的豆給我們。	他寄少量的豆給我們。	ita pa'eingzoti a'mi to tahza.	他寄豆給我們。	ita a'upa pnaa to tahza 'o teto ana.
+385	ihe pa'eof'a 'o c'osu.	他們砍倒樟樹。	他們砍倒樟樹。	ihe pa'eof'a 'o c'osu.	他們把樟樹推開。	ihe pa'hiteufza 'o c'osu.
+386	te yaica nate pa'hi'ausna no pangka.	桌子要這樣排。	桌子要這樣排。	te yaica nate pa'hi'ausna no pangka.	桌子要這樣排著	te yaica na te p'eac'i to pangka.
+387	ihe pa'himuta to ceonu 'o pcoknu.	他們用麻竹擋路。	他們用麻竹擋路。	ihe pa'himuta to ceonu 'o pcoknu.	他們把麻竹放在路上。	ihe pa'hiteufza to pcoknu 'o ceonu.
+388	isi pa'himuti to mo oefu'u ci pcoknu 'o ceonu.	倒下的麻竹擋住路。	倒下的麻竹擋住路。	isi pa'himuti to mo oefu'u ci pcoknu 'o ceonu.	倒下的麻竹擋住道路。	isi smomuti to pcoknu ta ceonu 'o mo oefu'u ci pcoknu.
+389	isi pa'hipopsoha 'o isi patoyangza ci ca'hu.	椅子排兩排。	椅子排兩排。	isi pa'hipopsoha 'o isi patoyangza ci ca'hu.	椅子排成四排。	isi pa'hiteuyuna 'o isi patoyangza ci ca'hu.
+390	leata kaeba pa'hismosmoyoi 'e 'o'oko.	他喜歡說一些嚇人的話。	他喜歡說一些嚇人的話。	leata kaeba pa'hismosmoyoi 'e 'o'oko.	小孩喜歡玩弄他。	lata kaebu eusvuta 'o ihe eoho'a.
+391	temu pa'hisungcva si kaapana.	你們把竹子排直。	你們把竹子排直。	temu pa'hisungcva si kaapana.	你們把竹子排直	temu poa ma'hiteufzu si kaapana.
+392	ita pa'hivoveoha 'o ita patoyangza ci ca'hu.	他把椅子排成八排。	他把椅子排成八排。	ita pa'hivoveoha 'o ita patoyangza ci ca'hu.	他把椅子往上推。	ita pa'hiteufza 'o ca'hu.
+393	os'o pa'i'usni to tposu 'o paicu.	我把書寄給Paicu。	我把書寄給Paicu。	os'o pa'i'usni to tposu 'o paicu.	我給Paicu寫書。	os'o pa'ievi to tposu 'o paicu.
+394	os'o pa'ivahneni to ak'i 'o yoskumaski.	我再將鹹魚寄給爺爺。	我再將鹹魚寄給爺爺。	os'o pa'ivahneni to ak'i 'o yoskumaski.	我把魚送給祖父。	te'o pa'ievi to yosku 'o ak'i.
+395	ihe pa'konvosa ta 'o'oko 'o mali.	孩子愛霸佔球。	孩子愛霸佔球。	ihe pa'konvosa ta 'o'oko 'o mali.	小朋友把馬放在一起。	isi yu'hupsoneni ta 'o'oko si mali.
+396	pa'teni si iko teai ci macucuma.	你把你做的東西給人看	你把你做的東西給人看	pa'teni si iko teai ci macucuma.	把你做的東西貼上。	teko pa'hiteufza si iko yaa.
+397	ihe aon'oza si sofu ho pa'vahi.	他們拆掉屋頂重蓋	他們拆掉屋頂重蓋	ihe aon'oza si sofu ho pa'vahi.	他們把屋頂蓋一蓋。	ihe pa'hiteufza 'o sofu.
+398	isi paavneni to phingi 'o mo esmi.	他為來的人開門。	他為來的人開門。	isi paavneni to phingi 'o mo esmi.	來的人把門關起來。	ita paepo'isneni to mo pnaa ci phingi.
+399	la mafe ho isi so'upi to simeo 'o packanga.	粽子加上肥肉很好吃。	粽子加上肥肉很好吃。	la mafe ho isi so'upi to simeo 'o packanga.	醬汁加上豬肉很好吃	la mafe 'o simeo ho isi sopuhngeni to moatu'nu.
+400	mo pae'uhu 'o mo phomeo ci puutu ne yoyohu.	在yoyohu放火整地的漢人引起火災	在yoyohu放火整地的漢人引起火災	mo pae'uhu 'o mo phomeo ci puutu ne yoyohu.	在河裡射魚的人被抓住	mo ma'eoemohu 'o mo pae'uhu to yoyohu.
+401	ihin'i cu paecuhneni 'o hioyapo no ton'u.	他們已經把小米種子播種完畢。	他們已經把小米種子播種完畢。	ihin'i cu paecuhneni 'o hioyapo no ton'u.	他們已經預先播種小米種子。	ihecu 'aoko emu'a 'o ton'u.
+402	isi oc'ocic'o paelui ta fatu si fkoi.	他碰巧用石頭打中蛇。	他碰巧用石頭打中蛇。	isi oc'ocic'o paelui ta fatu si fkoi.	蛇只輕輕地咬那石頭。	ita aaknuesa titha sbuku to fkoi 'o fatu.
+403	ita paenu'vi to chae 'o papai ho o'tena cumasa.	他菜種到田裡後就不管理了	他菜種到田裡後就不管理了	ita paenu'vi to chae 'o papai ho o'tena cumasa.	晚上他在田裡播種菜類。	mita cu e'ohu to papai ho o'a mita ahtu yuoveia.
+404	mo na'no smosvutu 'o isi paepecnguha ci po'oyua.	那接起來的水管很密合。	那接起來的水管很密合。	mo na'no smosvutu 'o isi paepecnguha ci po'oyua.	被堵住的水管很直	mo na'no yu'futngu si isi soekak'inga ci po'oyua.
+405	os'o paesngucveni 'o fatu ho ciha.	我石頭丟得直直的。	我石頭丟得直直的。	os'o paesngucveni 'o fatu ho ciha.	我用石頭砸他們。	os'o yufeongneni to fatu 'o os'o efo'a.
+406	teav'a so pahep'unga 'o 'eongu to sapiei.	鞋帶不要打死結。	鞋帶不要打死結。	teav'a so pahep'unga 'o 'eongu to sapiei.	不要把鞋子的帶子綁得太緊。	teav'a 'afeifei'za si sapiei.
+407	os'o pahevaha 'o ita o'te pahev'oha.	我把他綁不緊的重綁上。	我把他綁不緊的重綁上。	os'o pahevaha 'o ita o'te pahev'oha.	我把他綁不緊的綁上。	os'o pahe'pahi 'o ita o'te pahe'pova.
+408	ala pahevaveiveia 'o hia tacvoh'i to teesi.	那樣長的繩子可以來回綁好幾圈。	那樣長的繩子可以來回綁好幾圈。	ala pahevaveiveia 'o hia tacvoh'i to teesi.	繩子一直綁得很緊	isi p'eac'i tacvoh'i 'o mo na'no langki ci teesi.
+409	isi pahisi to oko 'o pangka.	小孩擦桌子。	小孩擦桌子。	isi pahisi to oko 'o pangka.	孩子把桌子推開了。	isi tmutpuski ta oko si pangka.
+410	pahnu'va ta paicu 'e pupuzu ho 'otena cumasa.	Paicu燒了火爐就不管了。	Paicu燒了火爐就不管了。	pahnu'va ta paicu 'e pupuzu ho 'otena cumasa.	明天不要在火爐邊燒東西。	ita aupcieva ta paicu 'o pupuzu.
+411	itac'o pahpaceofa 'o yusu, itacu yunga.	那衣服他只穿一穿就丟掉	那衣服他只穿一穿就丟掉	itac'o pahpaceofa 'o yusu, itacu yunga.	他只穿衣服，就洗澡了。	mita aulu mahmaceofu ho mita tfuya si yusu.
+412	pahsieveni to sieu 'o cuc'u.	他把生薑沾鹽	他把生薑沾鹽	pahsieveni to sieu 'o cuc'u.	把辣椒切成塊。	ita sotvohi to sieu 'o h'oepona.
+413	ihe nana pahsiohi na ihe pnaa.	他們對著射擊目標射了九次。	他們對著射擊目標射了九次。	ihe nana pahsiohi na ihe pnaa.	他們原本要射擊八次。	ihe pateopoptuhi 'o ihe pnaa ci macucuma.
+414	o'a la azou eusku ho isi pahsoksoki.	以陽具猥褻的動作對著山，山崩就停止了。	以陽具猥褻的動作對著山，山崩就停止了。	o'a la azou eusku ho isi pahsoksoki.	他不敢說話被打了。	ho mo ma'hiteufzu to fuengu 'o ceoyu.
+415	ita pahtothoma 'o fatu.	他抬抬看石頭。	他抬抬看石頭。	ita pahtothoma 'o fatu.	他踩破石頭。	ita paepo'isneni 'o fatu.
+416	isi paiftongneni to ba'i 'o mon'a faeva ci paiftonga.	Ba'i繫上新的頭飾帶。	Ba'i繫上新的頭飾帶。	isi paiftongneni to ba'i 'o mon'a faeva ci paiftonga.	祖母把一棵豆子栽種了。	isi pa'hiteufza to ba'i 'o yususi.
+417	ita paihaengineni ta oko si 'oyoemuya.	他用毛巾幫孩子擦汗	他用毛巾幫孩子擦汗	ita paihaengineni ta oko si 'oyoemuya.	他幫那孩子帶著工寮。	mita tufku to hici to oko.
+418	o'a ihe paimamsozi to mo bonu 'o pangka.	吃飯的人坐不滿桌子。	吃飯的人坐不滿桌子。	o'a ihe paimamsozi to mo bonu 'o pangka.	吃飯的人沒有把桌子排直	o'a mo ma'hiteufzu to mo bonu 'o pangka.
+419	os'o paiyaesui 'e apu'u	我幫Apu'u擦眼淚	我幫Apu'u擦眼淚	os'o paiyaesui 'e apu'u	我跟著Apu'u走	os'o pahsuca to hiaemoza 'o Apu'u.
+420	os'o poa thucneni to voyu 'o papai'u.	我的水田讓Voyu種植插秧。	我的水田讓Voyu種植插秧。	os'o poa thucneni to voyu 'o papai'u.	我讓Voyu在我的田裡澆水。	isi poa emu'neni to voyu 'o papai'u.
+421	isi papasa to yangui 'o tesi pei'i ci fou.	Yangui切肉要煮。	Yangui切肉要煮。	isi papasa to yangui 'o tesi pei'i ci fou.	Yangui把她要煮的肉切成塊。	te pei'i 'o yangui ho mo puehu.
+422	tekon'a papasneni to fou no te'o pei'i.	請幫我切我要煮的肉。	請幫我切我要煮的肉。	tekon'a papasneni to fou no te'o pei'i.	你幫我切我要煮的肉。	tekon'a tusbuka si te'o pei'i ci fou.
+423	takon'a papasneni to toapiu a'o.	你幫我鋸木柴。	你幫我鋸木柴。	takon'a papasneni to toapiu a'o.	你幫我削竹子。	tekon'a tusbuka ta evi a'o.
+424	os'o papcinva 'o av'u'u.	我幫我的狗洗澡	我幫我的狗洗澡	os'o papcinva 'o av'u'u.	我鞭打我的狗。	os'o poa papasa 'o av'u'u.
+425	teav'a la pas'osi 'o la aomotu'a.	不要用手指頭指著你說話的對象。	不要用手指頭指著你說話的對象。	teav'a la pas'osi 'o la aomotu'a.	說話的人不要輕蔑。	teav'a titheni ta iko aomotu'u si emucu.
+426	teav'a pasmuta to ceonu 'o evi.	不要將樹擋在路上。	不要將樹擋在路上。	teav'a pasmuta to ceonu 'o evi.	不要把樹推倒在路上。	teav'a so pomi ta ceonu si evi.
+427	poa pasuvahneni ta 'o'oko si pasunaeno.	讓小朋友再唱那首歌。	讓小朋友再唱那首歌。	poa pasuvahneni ta 'o'oko si pasunaeno.	讓孩子們再唱那首歌。	poa pasuvnneni ta 'o'oko si pasunaeno.
+428	o'a os'o pasvo'ha 'o fatu.	我拿不動石頭	我拿不動石頭	o'a os'o pasvo'ha 'o fatu.	我不用石頭撐住。	o'a os'o moemoemova 'o fatu.
+429	mo mafe 'o sbuku to pasu.	箭筍好吃	箭筍好吃	mo mafe 'o sbuku to pasu.	帕蘇竹筍很好吃	la mafe 'o sbuku.
+430	mo ecvuhu 'e pat'a'ausnasu.	你的說法太沉重了	你的說法太沉重了	mo ecvuhu 'e pat'a'ausnasu.	你的話說得很準確	mo na'no soekak'ingi si e'e ho iko aomotu'u.
+431	nama os'ocu pateoemoha 'o ceonu.	這路我走了五次。	這路我走了五次。	nama os'ocu pateoemoha 'o ceonu.	我已經翻過路了	os'o p'eac'i 'e ceonu.
+432	os'o pateopehaeseni ta oko 'o mo hipsi ci yusu.	我幫小孩穿兩件薄薄的衣服。	我幫小孩穿兩件薄薄的衣服。	os'o pateopehaeseni ta oko 'o mo hipsi ci yusu.	我幫小孩穿上厚衣。	os'o yupiheni to oko 'o mo conci yusu.
+433	pateoyangi ta coca si ca'hu.	在庭院擺椅子	在庭院擺椅子	pateoyangi ta coca si ca'hu.	椅子排成四排	mo ma'hiteufzu to ca'hu 'o yasiungu.
+434	ita siho patvaha 'o e'e taini ho mita sangeau.	他喝酒後一直重複他的話。	他喝酒後一直重複他的話。	ita siho patvaha 'o e'e taini ho mita sangeau.	他喝酒後一直重複他的話。	ita 'aoka patvaveiveia 'o e'e taini ho mita emi.
+435	ita patvahi ne ita pnaa 'o fuzu.	他又射了一次那隻山豬。	他又射了一次那隻山豬。	ita patvahi ne ita pnaa 'o fuzu.	他射山豬時射中三次。	ita paecu'heni ta fuzu si fuzu.
+436	'ua teko peelui ho takocu patvaveiveia.	你重複唱幾遍就會唱了	你重複唱幾遍就會唱了	'ua teko peelui ho takocu patvaveiveia.	你釣魚時，就要回來。	naho pasuhoha'o ho teko pasunaeno.
+437	mo payo'u no ino si oko.	小孩找不到媽媽	小孩找不到媽媽	mo payo'u no ino si oko.	那孩子被媽媽抱著	o'a mo mhia ino si oko.
+438	cuma na teko pe'eni?	你要搗什麼？	你要搗什麼？	cuma na teko pe'eni?	你要給我吃什麼？	cuma na osko peisbabonu?
+439	ita pe'honga ta yangui 'o mo mafe ci emi.	Yangui喝得出好酒。	Yangui喝得出好酒。	ita pe'honga ta yangui 'o mo mafe ci emi.	Yangui喝得出好酒。	isi peosvuta to yangui 'o mo sume ci emi.
+440	teko poa buululu si iko peac'a ci suesu.	你把柱子立穩。	你把柱子立穩。	teko poa buululu si iko peac'a ci suesu.	你把你砍的柱子拔起來。	tekon'a sotuhceni ta suesu.
+441	o'a ihe s'a peakak'inga to yu'fafoinana 'o emihe.	年輕人沒有省著喝他們的酒。	年輕人沒有省著喝他們的酒。	o'a ihe s'a peakak'inga to yu'fafoinana 'o emihe.	我沒有給學生喝酒。	o'a mo'so peonoya 'o haah'o si emi.
+442	isi peatvo'neni to feongo 'o mo ngohcu ci evi.	水流沖走的樹困陷在石縫中。	水流沖走的樹困陷在石縫中。	isi peatvo'neni to feongo 'o mo ngohcu ci evi.	洞裡面咬到樹。	isi yuftongi to fatu 'o mo supeopeohu ci evi.
+443	alu yo'hunge 'o lasi le peayofa to 'ua.	鹿常跑的地方已經凹陷。	鹿常跑的地方已經凹陷。	alu yo'hunge 'o lasi le peayofa to 'ua.	河的對岸很多石頭。	micu yufeongu si la 'oyona ci 'ua.
+444	suatukcu 'o la le peayofi to la peayofu.	跑道的跑步道很紮實。	跑道的跑步道很紮實。	suatukcu 'o la le peayofi to la peayofu.	跑步的人要跟隨跑步的人	mo na'no yu'hupsu 'o peayofu to pisteoya.
+445	la'u huhucmasi peayofu.	我每天跑步。	我每天跑步。	la'u huhucmasi peayofu.	我會跑步	la'u peayofu 'o mo maica.
+446	mo pebobotngonu 'o mo esmi ci 'o'oko.	來的孩子愈來愈多	來的孩子愈來愈多	mo pebobotngonu 'o mo esmi ci 'o'oko.	來到的人小心翼翼地迎接	micu aulu meoino 'e 'o'oko.
+447	ita pecmu'i a'o	他靠近我。	他靠近我。	ita pecmu'i a'o	他抱我	ita toecum'i a'o.
+448	honci e'ohu ho mayo, la peemzi 'o mao'oahngu.	如果出獵有收穫，要餽贈親友。	如果出獵有收穫，要餽贈親友。	honci e'ohu ho mayo, la peemzi 'o mao'oahngu.	除非你出門，否則親友會來探望。	hoci oakak'ingi 'o mo huaeca, la paifutneni 'o mao'oahngu.
+449	la mav'ov'o 'ola peepeeseni ta coua'toana.	鄒族人會為很多事情舉行祭儀。	鄒族人會為很多事情舉行祭儀。	la mav'ov'o 'ola peepeeseni ta coua'toana.	鄒族人會吹笛	lahe peispak'i to cou 'o mo meesi.
+450	teko na'a peepeuci si cohma ho mo n'a cuveu.	那稀飯還很燙請你吹一下。	那稀飯還很燙請你吹一下。	teko na'a peepeuci si cohma ho mo n'a cuveu.	晚間有風時請你吹。	nahocu pe'ongki si naveu. teko cu pae'uhu.
+451	tekon'a peepeucneni ta tesi ana ci cohma si oko.	請幫那小孩吹他要吃的稀飯。	請幫那小孩吹他要吃的稀飯。	tekon'a peepeucneni ta tesi ana ci cohma si oko.	你幫那孩子吹他要吃的晚餐。	tekon'a p'eac'i ta tesi ana si oko.
+452	te'o peeseni 'o hiesi ne mo'u la yayo.	我要慶祝我的生日	我要慶祝我的生日	te'o peeseni 'o hiesi ne mo'u la yayo.	我打獵時用的刀子要借一隻。	te'o meelu meesi 'o naaminu.
+453	la totovaho meesi to homeyaya ho mayasvi.	homeyaya和mayasvi是每年都會舉辦的	homeyaya和mayasvi是每年都會舉辦的	la totovaho meesi to homeyaya ho mayasvi.	Homeyaya和Mayasvi祭典都要參與到底	lahe peepungneni 'o homeyaya ho mayasvi.
+454	zouc'o pef'oesa taini.	他就是未婚生的孩子。	他就是未婚生的孩子。	zouc'o pef'oesa taini.	他的腳痛只是短暫的。	'a ita okosi 'o mo ngoveo ci oko.
+455	os'o pefotngi to fahei 'o teova'u.	我用杉木做我工寮的橫樑。	我用杉木做我工寮的橫樑。	os'o pefotngi to fahei 'o teova'u.	我把我的工寮蓋在杉木底下。	os'o titha yu'futnga ta teova'u 'o fatu.
+456	poa pehoi si mamameoi.	讓老人先喝。	讓老人先喝。	poa pehoi si mamameoi.	讓長者來幫忙。	poa peonu'veni ta mameoi si te ima.
+457	pehoza simo yonta oko no kaiyu ci emi.	先喝那小缸的酒。	先喝那小缸的酒。	pehoza simo yonta oko no kaiyu ci emi.	把那小木桶裡的酒送去。	ake'ac'o peepunga si emisi ta kunkunu.
+458	mita pei'i to mo mafe ci 'oanu.	他煮了好吃的食物	他煮了好吃的食物	mita pei'i to mo mafe ci 'oanu.	他煮很多好吃的食物	ita pei'i 'o mo bonu.
+459	tekon'a pei'i to te ana ho yofna.	請你煮一下晚餐	請你煮一下晚餐	tekon'a pei'i to te ana ho yofna.	你來煮晚餐。	teko na'a peisbabonu no omza.
+460	tekon'a pei'neni 'o te esmi.	你為要來的人煮餐吧。	你為要來的人煮餐吧。	tekon'a pei'neni 'o te esmi.	你來煮要吃的東西。	teko puepuya 'o mo uhne emoo.
+461	Uk'anala meelx moyai peingu maitan'e.	現在已經沒有人會作口笛了。	現在已經沒有人會作口笛了。	Uk'anala meelx moyai peingu maitan'e.	今天還沒有人能洗澡。	'ana la yainca tena c'o pae'uhu maitan'e.
+462	mita peipei'i 'e sayungu ho te cmu'ho 'o ak'i.	Sayungu為了爺爺要來而烹飪	Sayungu為了爺爺要來而烹飪	mita peipei'i 'e sayungu ho te cmu'ho 'o ak'i.	Sayungu為祖父烤火	mita pei'i to tesi uhne ak'i 'e sayungu.
+463	naho cu peisvahi si imu hioa.	你們再繼續工作。	你們再繼續工作。	naho cu peisvahi si imu hioa.	你們做的工作就繼續做。	nahocu yaahahaza.
+464	pemaman'i 'o peisu ta yangui.	Yangui的錢越來越多	Yangui的錢越來越多	pemaman'i 'o peisu ta yangui.	Yangui的錢被人搶走了	micu asno'zonu 'o peisu ta yangui.
+465	pemneni to mo cmucmu'ho 'o mo umnu ci emi.	讓來的人喝好酒。	讓來的人喝好酒。	pemneni to mo cmucmu'ho 'o mo umnu ci emi.	給走路的人喝好酒。	poa peonoyeni to mo i'eongcu si emi.
+466	lac'o pengzota 'o mo sume ci emi.	烈酒只要喝少的。	烈酒只要喝少的。	lac'o pengzota 'o mo sume ci emi.	烈酒會喝得很久	ake'ac'o soekak'inga si mo sume ci emi.
+467	tec'o la pengzotu hola mimo to emi.	喝酒喝少少的就好	喝酒喝少少的就好	tec'o la pengzotu hola mimo to emi.	喝酒時先省著喝	lea umnu ho isi peepunga 'o emi.
+468	isi peobanga to av'u 'o fuzu.	狗追趕山豬。	狗追趕山豬。	isi peobanga to av'u 'o fuzu.	狗追山豬跑掉了。	isi pae'uhi to av'u 'o fuzu.
+469	os'o peoluneni to pooyoyo taini si kosu'u.	我的鉤子勾到你的褲子。	我的鉤子勾到你的褲子。	os'o peoluneni to pooyoyo taini si kosu'u.	我用鉤子綁住她的褲子。	mo meolu ta pooyoyosu si h'oepona'u.
+470	ita peomuta to la'u mia ci ceonu 'o pcoknu.	他種了麻竹阻擋了我的路。	他種了麻竹阻擋了我的路。	ita peomuta to la'u mia ci ceonu 'o pcoknu.	麻竹擋住我要走的路。	ita smomuti ta ceonu 'o pcoknu'u.
+471	mitac'o peonoyu to emi ho o'te mako soepaski.	他光喝酒不配菜	他光喝酒不配菜	mitac'o peonoyu to emi ho o'te mako soepaski.	他沒洗衣服就喝酒了	o'a mita peonoya 'o emi.
+472	ita peonu'veni to ton'u ta pasuya 'o 'o'oko taini.	Pasuya為他孩子種了小米就不管。	Pasuya為他孩子種了小米就不管。	ita peonu'veni to ton'u ta pasuya 'o 'o'oko taini.	Pasuya 為她的孩子種了小米就不管。	ita to'upneni ta pasuya 'o ton'u to okosi.
+473	ita peonu'vi to ton'u ta pasuya 'o ezoyu taini.	Pasuya 的地種了小米就不管。	Pasuya 的地種了小米就不管。	ita peonu'vi to ton'u ta pasuya 'o ezoyu taini.	Pasuya在他的農地種植小米。	ita yunu'va ta pasuya 'o ton'u.
+474	poa peothomneni ta ak'i simo yonta soetohvu.	讓祖父試喝那杯。	讓祖父試喝那杯。	poa peothomneni ta ak'i simo yonta soetohvu.	讓祖父探望在餐廳的人。	poa peonoyeni ta ak'i si sofu.
+475	tetoc'o pesvuta ta isi tposi ta pania.	我們按照瓶子的刻度來喝。	我們按照瓶子的刻度來喝。	tetoc'o pesvuta ta isi tposi ta pania.	我來塗上瓶子的底漆	teto peohnasi to soetohvu ta cuntu.
+476	poac'o pesvutneni ta oko si s'os'o.	小孩按照量去喝藥。	小孩按照量去喝藥。	poac'o pesvutneni ta oko si s'os'o.	讓孩子直接吃藥。	isi poa peosvuta to oko 'o s'os'o.
+477	poan'a peteona'veni to av'u 'o fuzu ihecu petohuya 'a'usni.	先放狗追山豬好長一段時間，他們終於制伏那頭山豬。	先放狗追山豬好長一段時間，他們終於制伏那頭山豬。	poan'a peteona'veni to av'u 'o fuzu ihecu petohuya 'a'usni.	叫狗追山豬，他們終於趕上了。	'aoko poa 'afeifei'zeni ta av'u si fuzu.
+478	os'o pethua to takubingi 'o fou.	我用碗裝肉。	我用碗裝肉。	os'o pethua to takubingi 'o fou.	我把肉放在碗裡。	os'o pa'hiteufza to fou 'o takubingi.
+479	'ote la petmuzu to emi.	不要喝很多酒	不要喝很多酒	'ote la petmuzu to emi.	不要喝很多酒	teav'a'so peonoya 'o emi.
+480	'otena pevaho no emi.	不可再喝。	不可再喝。	'otena pevaho no emi.	不要再喝酒了	'ote so peonoyu.
+481	mav'ov'o 'o ita phiphini ta sayungu.	Sayungu買進很多種類的東西	Sayungu買進很多種類的東西	mav'ov'o 'o ita phiphini ta sayungu.	Sayungu他開的洞很多。	mo m'enomu to macucuma 'o sayungu.
+482	aha'o pkaako to mo nouteuyunu 'e pasuya.	Pasuya 無緣無故地離開聚會	Pasuya 無緣無故地離開聚會	aha'o pkaako to mo nouteuyunu 'e pasuya.	Pasuya直接打那聚會的人	mita 'aoko mahtothomu to meesi 'e pasuya.
+483	cuma co isi 'aoka po'eungna nca av'u?	狗一直在吠什麼？	狗一直在吠什麼？	cuma co isi 'aoka po'eungna nca av'u?	狗一直叫他幹嘛？	cuma na isi 'aafofova ta av'u?
+484	aoko po'eungnu 'o av'u ne yofna.	昨晚狗一直吠	昨晚狗一直吠	aoko po'eungnu 'o av'u ne yofna.	昨晚一直打那隻狗	mo 'aoko tmoepoyu to av'u ne yofna.
+485	'avai, naho cu uhto po'ovnu ho tutputu no te tubzuka ci ciocio.	'Avai，你就到豬舍抓要殺的豬。	'Avai，你就到豬舍抓要殺的豬。	'avai, naho cu uhto po'ovnu ho tutputu no te tubzuka ci ciocio.	'Avai，你去把要燒的草全拔掉。	'avai, teko uhne mo'o to te mhia fuzu.
+486	temula talua 'o lahe po'pa'cohivneni to mamameoi.	你們要牢記長輩教誨。	你們要牢記長輩教誨。	temula talua 'o lahe po'pa'cohivneni to mamameoi.	你們要謹慎地聽長者的教訓。	temu la titho to mamameoi ho isi e'tu.
+487	po'poti ta oko si mali.	小孩踢那球	小孩踢那球	po'poti ta oko si mali.	把那石頭推開小孩。	mo m'ecihi ta mali si oko.
+488	poa pocengneni to voyu 'o mo yahioa.	讓Voyu監督在工作的人。	讓Voyu監督在工作的人。	poa pocengneni to voyu 'o mo yahioa.	讓Voyu陪那工作的人。	poa poekotveni to voyu 'o mo yahnguyu.
+489	teton'a poe'oha 'e mo nomutu ta ceonu ci fatu.	我們把擋在路上的石頭推一下。	我們把擋在路上的石頭推一下。	teton'a poe'oha 'e mo nomutu ta ceonu ci fatu.	我們來推倒擋在路上的石頭。	teto pa'hiteufza 'o mo yonto ceonu ci fatu.
+490	a hin'i 'o mo poefu'u to suesu to teova.	工寮的柱子是他們推倒的	工寮的柱子是他們推倒的	a hin'i 'o mo poefu'u to suesu to teova.	是他們推倒工寮的柱子。	ihe poefu'a 'o suesu to teova.
+491	zou lesmoe'isi 'o mo poekotu to moso opcoi.	囚禁殺人者是警察	囚禁殺人者是警察	zou lesmoe'isi 'o mo poekotu to moso opcoi.	是警察開槍打那個男子。	zou lesmoe'isi 'o mo mahsiu.
+492	mo nakuzo si poesosva no av'u.	狗拉的屎很臭。	狗拉的屎很臭。	mo nakuzo si poesosva no av'u.	那隻狗的屁股是彎曲的	mo ca'i si isi peolua ta av'u.
+493	lahe e'sosoni to mo at'ocu pofngu ho mo mafafo.	他們用頭背式帶東西很順利	他們用頭背式帶東西很順利	lahe e'sosoni to mo at'ocu pofngu ho mo mafafo.	常常流血的人他們責備	lahe na'no yuhcuvha 'o macucuma ho mo e'e.
+494	mo pohcinghi to oko 'o 'avai.	'Avai在欺負小孩	'Avai在欺負小孩	mo pohcinghi to oko 'o 'avai.	'Avai在護小孩	mita e'voku to oko 'e 'avai.
+495	o'a mita amako polu ne ita cohmo to chae.	他給菜澆水時沒有澆到水	他給菜澆水時沒有澆到水	o'a mita amako polu ne ita cohmo to chae.	他吃菜還沒吃完	o'a ita chua si chae ne mita chua.
+496	tekon'a yaa 'o tee pomutneni to phingi.	你去拿東西鎖門。	你去拿東西鎖門。	tekon'a yaa 'o tee pomutneni to phingi.	你拿著要用來開門的。	tekon'a uhne macucuma ho paepo'isneni ta phingi.
+497	mo pomutu 'o phingi.	門鎖了	門鎖了	mo pomutu 'o phingi.	門被鎖住了	mo ma'hiteuyu to phingi.
+498	mo pono to 'ua 'o mo'o.	Mo'o射了水鹿	Mo'o射了水鹿	mo pono to 'ua 'o mo'o.	Mo'o在射鹿	mo m'ecihi to 'ua 'o mo'o.
+499	mita matpopsohu ne mita pono to 'ua.	他射殺水鹿射了兩發	他射殺水鹿射了兩發	mita matpopsohu ne mita pono to 'ua.	他在射鹿時兩次射中。	mita m'ecihi ne mita pnaa 'o va'hu.
+500	mo psoelu to yosku 'o mo popluku ne c'oha.	在河裡爆破的炸到了魚	在河裡爆破的炸到了魚	mo psoelu to yosku 'o mo popluku ne c'oha.	在河裡撈魚的人抓到魚。	mo smoe'oyu to yosku 'o c'oeha.
+501	isi psoelua co t'ango'u ne os'o poplukvi 'o fatu.	我炸石頭的時候炸到了我的腳。	我炸石頭的時候炸到了我的腳。	isi psoelua co t'ango'u ne os'o poplukvi 'o fatu.	我砸石頭時腳痛。	os'o smopaevi to fatu 'o t'ango'u.
+502	te posvuta to soetuhva na tee ima.	把要喝的倒進量杯。	把要喝的倒進量杯。	te posvuta to soetuhva na tee ima.	用杯子量我們要喝的量。	tea'so si teko ima ho soekak'inga.
+503	temu'so bumemealu ho lamu pout'ucu to kuyai.	你們開車時要小心	你們開車時要小心	temu'so bumemealu ho lamu pout'ucu to kuyai.	你們在車子裡面掃地要謹慎地掃	la ake'ahe ma'e ho mimu maimamso.
+504	os'o psapiezi 'o sapiei no hici.	我把皮鞋穿上。	我把皮鞋穿上。	os'o psapiezi 'o sapiei no hici.	我穿皮鞋。	os'o yupeahnguha 'o sapiei no ci cou.
+505	isi psaz'oz'i to 'uachumu 'o pusiahu.	牛踩碎南瓜。	牛踩碎南瓜。	isi psaz'oz'i to 'uachumu 'o pusiahu.	牛在刺青。	isi p'ecmu'i to 'uachumu 'o f'ue.
+506	tako psoemi to tenva ho eusvuta a'o.	你用電話告訴我。	你用電話告訴我。	tako psoemi to tenva ho eusvuta a'o.	你用電話向我求助	teko yaeza pa'cohivi a'o via telefaini.
+507	mo psoetiskou 'o pzuuhe to mo soupuzu to teova.	他們在工寮起火的火光很亮	他們在工寮起火的火光很亮	mo psoetiskou 'o pzuuhe to mo soupuzu to teova.	工寮燒火時用炭火烤的很火大	mo soe'os'o 'o ihe p'eac'i to teova.
+508	mo psoetiskou to aemana 'o teiki.	電燈照亮屋內	電燈照亮屋內	mo psoetiskou to aemana 'o teiki.	夫妻互相擁抱	mo soe'os'o to emoo 'o pupuzu.
+509	na'no ptaungu si hanahana.	鴨子很吵	鴨子很吵	na'no ptaungu si hanahana.	那家族很富裕。	mo na'no yu'hupsonu 'o nghou.
+510	mo sonu ho mo ptuceonu to mo maupoponeo.	在平地開路較容易	在平地開路較容易	mo sonu ho mo ptuceonu to mo maupoponeo.	在路上開路比較容易	mo soekak'ingi to mo mia ci ceonu.
+511	os'o pvohca maine'e 'o oko.	我送小孩回家。	我送小孩回家。	os'o pvohca maine'e 'o oko.	我勉強讓孩子回家。	os'o pa'ievi to oko ho maine'e.
+512	teko s'eangangaezeni ta ufi si 'o'oko.	你把米糕切塊給小朋友。	你把米糕切塊給小朋友。	teko s'eangangaezeni ta ufi si 'o'oko.	你幫小孩切一點米糕。	teko s'eftungneni to ufi 'o 'o'oko.
+513	os'o salua ne ceonu 'o av'u.	我在路上壓到狗。	我在路上壓到狗。	os'o salua ne ceonu 'o av'u.	我在路上攔到狗。	os'o smopaevi to av'u ne ceonu.
+514	seo'isneni ta tuapiu si teesi.	把那繩子用來綁那木柴。	把那繩子用來綁那木柴。	seo'isneni ta tuapiu si teesi.	用繩子綁住木材。	teopoya si tuapzu ho pa'hiteufza si evi.
+515	seo'tuneni ta suesu si av'u.	把狗拴在那柱子上	把狗拴在那柱子上	seo'tuneni ta suesu si av'u.	把那狗綁在柱子上。	poa teopoya ta suesu si av'u.
+516	ihe taie'oha ta 'o'oko si seuzu.	孩子們滾那輪胎。	孩子們滾那輪胎。	ihe taie'oha ta 'o'oko si seuzu.	小朋友把鈴子推開了。	ihe pa'hiteufza to 'o'oko si kuyai.
+517	sia ta pangka si f'ue.	把地瓜放在桌上	把地瓜放在桌上	sia ta pangka si f'ue.	桌上的地瓜是誰的？	te'o soekak'inga ta pangka si f'ue.
+518	os'o sia to ciengona to emoo 'o os'o aut'uca ci zomu.	我飼養的鳥放在家屋後院。	我飼養的鳥放在家屋後院。	os'o sia to ciengona to emoo 'o os'o aut'uca ci zomu.	我把駕駛的飛鼠放置在家門外。	os'o sopuhngeni to emoo 'o os'o chohivi ci voyu.
+519	os'o sie'ohneni 'o hisi ne mi'o bonu to cuehu.	我在啃骨頭時把牙齒咬斷了。	我在啃骨頭時把牙齒咬斷了。	os'o sie'ohneni 'o hisi ne mi'o bonu to cuehu.	我吃骨頭時咬到牙齒	os'o s'eftungneni ta cuehu ne mi'o tufku.
+520	ita sie'ohneni 'o hisi taini ne mita bonu to kamae.	他吃番石榴時把牙齒咬斷了。	他吃番石榴時把牙齒咬斷了。	ita sie'ohneni 'o hisi taini ne mita bonu to kamae.	他吃芭樂時咬傷牙齒。	ita s'eftungneni ta cuehu ne mita ana no fcuyu.
+521	isi siesa to tanivu 'e f'uhu'u.	Tanivu按摩我的背	Tanivu按摩我的背	isi siesa to tanivu 'e f'uhu'u.	Tanivu剃掉我的頭髮。	mita masvo'ho to fnguu 'e tanivu.
+522	ita sii to naveu 'o takubingi.	他盛飯在碗裡。	他盛飯在碗裡。	ita sii to naveu 'o takubingi.	他把碗放在鍋子裡。	ita peispak'eni ta takubingi.
+523	ita sieni to naveu to takubingi 'o ba'i.	他用碗幫奶奶盛飯。	他用碗幫奶奶盛飯。	ita sieni to naveu to takubingi 'o ba'i.	他為祖母燒飯時燒得很熱。	ita pa'ievi to takubingi 'o ba'i.
+524	naho skosi si fahei.	你可以削那杉木。	你可以削那杉木。	naho skosi si fahei.	你砍那杉木。	tekon'a tusbuka si evi.
+525	'a eno tan'e na ohsi smaasasi no nia maaya.	這裡就是以前日本人滑行的地方。	這裡就是以前日本人滑行的地方。	'a eno tan'e na ohsi smaasasi no nia maaya.	這裡就是過去Maaya時的殘骸所剩下的地方。	'a eno tan'e 'o la yupa to yapon.
+526	mo smae'ohu ta fatu si kuyai.	那車子撞翻石頭	那車子撞翻石頭	mo smae'ohu ta fatu si kuyai.	車子撞到石頭	mo smoftongu ta fatu si kuyai.
+527	tako smaic'uhu tomo yaa meoe.	你走到有大石頭的地方	你走到有大石頭的地方	tako smaic'uhu tomo yaa meoe.	你踩到大石頭	teko uhne mo meoe to fatu.
+528	te'on'a smaisvutu ta ohon'a teai ci ceonu.	我試著走新開的路	我試著走新開的路	te'on'a smaisvutu ta ohon'a teai ci ceonu.	我要踩一下剛做的路	mi'o s'elu to mo ausu no ci ceonu.
+529	mo smapliki ta oko si mameoi.	那老人彈那小孩。	那老人彈那小孩。	mo smapliki ta oko si mameoi.	長者責罵小孩	isi p'ecmu'i to mameoi 'o oko.
+530	mo sme'futngu to kaapana 'o mo'o.	Mo'o鋸斷竹子	Mo'o鋸斷竹子	mo sme'futngu to kaapana 'o mo'o.	Mo'o把竹子打斷	mita meoino to kaapana 'e mo'o.
+531	mi'o smelu ta lulku ne mi'o puepuyu to fou.	我切肉時切到手指	我切肉時切到手指	mi'o smelu ta lulku ne mi'o puepuyu to fou.	我切肉時切到肋骨	mi'o m'ecihi to t'ango'u ne mi'o toomutu.
+532	na'no yuususunu si oko ho mo mici smo'euc'uhu ta mo esmi.	那小孩伸長脖子想看到來的人。	那小孩伸長脖子想看到來的人。	na'no yuususunu si oko ho mo mici smo'euc'uhu ta mo esmi.	那孩子看起來很害怕，因為他剛好碰到來人。	isi pae'uhi to oko 'o mo teta ci hioa.
+533	os'o tasohpozi 'omo smoavovei ci kuyai.	我聽煩來來往往的車子。	我聽煩來來往往的車子。	os'o tasohpozi 'omo smoavovei ci kuyai.	我把彎曲的車子推開。	os'o ta'saseoluneni 'o mo uhta'payofu ci kuyai.
+534	tekon'a atfungu somoe'isi to kaapana.	由你來綁竹子	由你來綁竹子	tekon'a atfungu somoe'isi to kaapana.	你幫我把竹子組織好。	tekon'a tu'upi si kaapana.
+535	ita smofei'zi ta sayungu si lingki sica.	那邊的泥巴是Sayungu跌到四腳朝天的地方。	那邊的泥巴是Sayungu跌到四腳朝天的地方。	ita smofei'zi ta sayungu si lingki sica.	Sayungu直接踩破了泥巴。	zou toono ta sayungu si o'te tma'congo ci lingki.
+536	isi smotokui to 'uachumu 'o suesu.	柱子被牛碰撞到。	柱子被牛碰撞到。	isi smotokui to 'uachumu 'o suesu.	牛踩掉柱子。	isi smopcaki to 'uachumu si suesu.
+537	lea'u smoyoa 'o mo pak'i ci av'u.	我害怕凶狠的狗。	我害怕凶狠的狗。	lea'u smoyoa 'o mo pak'i ci av'u.	我怕凶狠的狗	lea'u ngoheungeu to mo pak'i ci av'u.
+538	os'o smoyoneni ho mita 'ahuyu supihi ta c'oeha.	他硬是涉水我替他害怕。	他硬是涉水我替他害怕。	os'o smoyoneni ho mita 'ahuyu supihi ta c'oeha.	他突然跑到河邊我就知道了。	ita aha'va takaapana ho mita su'no.
+539	mi'o smuftu to te'o sofu ci kaapana.	我在量要蓋屋頂的竹子	我在量要蓋屋頂的竹子	mi'o smuftu to te'o sofu ci kaapana.	我把要蓋屋頂的竹子砍斷了	mi'o m'ecihi to kaapana no te sofu.
+540	tekon'a to'uni smupeu ta peisu'u.	請你來幫我算錢	請你來幫我算錢	tekon'a to'uni smupeu ta peisu'u.	請你幫我搶我的錢。	tekon'a tusvuta na peisu'u.
+541	cuma na iko spuya ho miko yonsica ho smusmupeu?	你在那裡是在數些什麼？	你在那裡是在數些什麼？	cuma na iko spuya ho miko yonsica ho smusmupeu?	你踩到泥巴是為了什麼？	cuma na osko ma'hiteuyuna ta'e?
+542	isi peela so'euyovca ne cucuesu 'o ne lalauya.	從石棹可往下看到樂野	從石棹可往下看到樂野	isi peela so'euyovca ne cucuesu 'o ne lalauya.	在樂野部落有很長的水溝。	la pa'hiteufza 'o laksu to tuapzu.
+543	poac'o soakak'ineni 'o hileo.	省著用肥料。	省著用肥料。	poac'o soakak'ineni 'o hileo.	讓肥料省著用。	ake'i soekak'inga si hileo.
+544	te ngoveo elua 'o isi soefo'a to ceoa ci kin.	很難找到埋在土裡的金子。	很難找到埋在土裡的金子。	te ngoveo elua 'o isi soefo'a to ceoa ci kin.	埋在土裡的金子要找得很久。	lea 'oha moseo to mo yonto ceoa ci kin.
+545	os'o poa sof'uf'eni ta pangka 'o poyave.	我讓人把刀放在桌子底下。	我讓人把刀放在桌子底下。	os'o poa sof'uf'eni ta pangka 'o poyave.	我把刀放在桌子底下。	os'o poa teongheni to poyave 'o pangka.
+546	isi sofi to kaapana 'o teova'u.	我的工寮屋頂是用竹子做的。	我的工寮屋頂是用竹子做的。	isi sofi to kaapana 'o teova'u.	我的工寮蓋在竹子底下。	la sofu to teova'u 'o kaapana.
+547	la sohoza 'o esmu.	用芒草莖起火。	用芒草莖起火。	la sohoza 'o esmu.	香蕉是適合採收的。	titho ta tuapzu ho soekak'inga.
+548	mo ake'i sohpoi 'o mameoi.	那老人有點感到厭煩	那老人有點感到厭煩	mo ake'i sohpoi 'o mameoi.	長者稍微說些話	mo a'umtu su'no si mameoi.
+549	mi'o sohpoi to mo yangaevi ci 'o'oko.	我對孩子的吵鬧聲厭煩	我對孩子的吵鬧聲厭煩	mi'o sohpoi to mo yangaevi ci 'o'oko.	我陪同在哭的小孩	mi'o na'no yuhmuyu ta oko ho mo 'aoka pae'uhu.
+550	songcungci ta f'ue si skayu.	把那籃子裝滿地瓜。	把那籃子裝滿地瓜。	songcungci ta f'ue si skayu.	用籃子把地瓜堆起來。	teav'a ta f'ue si skayu.
+551	mo sotacvo'hi 'o os'o aiti ci fkoi.	我看到的蛇最長。	我看到的蛇最長。	mo sotacvo'hi 'o os'o aiti ci fkoi.	我看到的蛇只有一隻。	mo atva'esi ta fkoi si os'o ngoheungeua.
+552	soteuyuna ta yungku si f'ue.	把地瓜集中在背簍裡。	把地瓜集中在背簍裡。	soteuyuna ta yungku si f'ue.	把地瓜集中在背籃裡。	te'o ma'hiteufzu to f'ue 'o yungku.
+553	cuma na teta soupuza ta Voyu?	Voyu要用什麼起火？	Voyu要用什麼起火？	cuma na teta soupuza ta Voyu?	Voyu要燒什麼？	cuma na teta soupuzneni ta voyu?
+554	os'o sue'ohi si fatu.	我坐翻那石頭。	我坐翻那石頭。	os'o sue'ohi si fatu.	我把石頭推開。	os'o su'funi si fatu.
+555	mi'o sue'ohu ta fatu.	我坐翻那石頭	我坐翻那石頭	mi'o sue'ohu ta fatu.	我從石頭上掉下來	mi'o m'ecihi to fatu.
+556	isi sukvo'i to os'o ana ci s'os'o co cfu'o'u.	我吃藥吃壞肚子。	我吃藥吃壞肚子。	isi sukvo'i to os'o ana ci s'os'o co cfu'o'u.	我吃的東西堆積起來，我因此而跌倒。	os'o oepunga 'o s'os'o.
+557	mo sukvo'u ta cfu'o'u ne mi'o bonu ta s'os'o.	我吃藥吃壞肚子	我吃藥吃壞肚子	mo sukvo'u ta cfu'o'u ne mi'o bonu ta s'os'o.	我吃鹽巴時腿痛	mi'o o'te m'ecihi ho os'o p'aeni.
+558	os'o suokvo'neni na taini.	我在惡夢中夢到他不好的預兆。	我在惡夢中夢到他不好的預兆。	os'o suokvo'neni na taini.	我為她擔心。	os'o toalungvi 'o o'a ita o'te ahtu yuhmuyu.
+559	mi'o suokvo'u ne yofna.	昨晚我作惡夢	昨晚我作惡夢	mi'o suokvo'u ne yofna.	我昨晚睡覺	mi'o yoievi ne yofna.
+560	'a eno si evi sico 'o os'o supeohi.	那棵樹就是我掉落的地方。	那棵樹就是我掉落的地方。	'a eno si evi sico 'o os'o supeohi.	我就是跌在那棵樹上的。	'a eno si evi 'o os'o smopcaki.
+561	mi'o eya to mo poyapo ho supiha.	我找水淺的地方涉水。	我找水淺的地方涉水。	mi'o eya to mo poyapo ho supiha.	我借到錢幫忙買衣服	os'o yohivi 'o mo yusku ci chumu.
+562	nahocu aothomu supihi ta va'hu.	你就嘗試渡河。	你就嘗試渡河。	nahocu aothomu supihi ta va'hu.	你就去那河邊直接下方。	tako es'esmi 'o c'oeha.
+563	isi suyumi to ceoyu na a'o.	我被黃蜂攻擊。	我被黃蜂攻擊。	isi suyumi to ceoyu na a'o.	虎頭蜂對著我射了三次	isi atavei to ceoyu a'o.
+564	moso la suyumo to sbukunu 'e cou.	鄒族曾經攻擊布農族。	鄒族曾經攻擊布農族。	moso la suyumo to sbukunu 'e cou.	鄒族人會煮竹筍	ihe asvuta to cou 'o bumeunga.
+565	isi tipeoha to tanivu 'o osila sviei.	Tanivu失去了他的小孩。	Tanivu失去了他的小孩。	isi tipeoha to tanivu 'o osila sviei.	Tanivu把沒烤好的東西拿走了。	isi ticngiha to tanivu 'o okosi.
+566	ita svuti 'o ezoyu'u.	他測量我的地。	他測量我的地。	ita svuti 'o ezoyu'u.	他砍錯草砍到我的農地。	ita svuta 'o ezoyu'u.
+567	la su'cupha 'o machachae.	種菜要種得密	種菜要種得密	la su'cupha 'o machachae.	菜園要圍起來。	la ma'hiteufzu ho mo muemu'u.
+568	os'o na'na su'cuphi to bunuvhu si ezoyu'u.	我的地種李子種得很密。	我的地種李子種得很密。	os'o na'na su'cuphi to bunuvhu si ezoyu'u.	我的農地下方長滿了李子。	isi na'no yuhmuyu to bunuvhu 'o ezoyu'u.
+569	mo mainenu ci miko 'aoko su'su'no maitan'e.	你今天為什麼一直生氣？	你今天為什麼一直生氣？	mo mainenu ci miko 'aoko su'su'no maitan'e.	你為什麼一直在生氣？	mainci miko su'no maitan'e?
+570	la conino su'ti 'o iachi hupa.	自己的獵場要自己祭神。	自己的獵場要自己祭神。	la conino su'ti 'o iachi hupa.	他們的衣服怎麼都綁得緊	lahe eoho'va 'o yaoi ho isi eobaka.
+571	na'no sungcu si na'si ta fi'i.	檳榔的樹幹很直。	檳榔的樹幹很直。	na'no sungcu si na'si ta fi'i.	fi'i的鼻子很長。	na'no yu'fa ho isi yuftongi si evi no pngiei.
+572	tonfui si sungucva.	用灰燼覆蓋你的鼻涕。	用灰燼覆蓋你的鼻涕。	tonfui si sungucva.	把垃圾丟掉。	tov'oha ta fnguu si tuapzu.
+573	isi t'esa to ino 'o te'o yusu.	媽媽縫我要穿的衣服	媽媽縫我要穿的衣服	isi t'esa to ino 'o te'o yusu.	媽媽綁我要穿的衣服。	isi tpo'oni to ino si te'o yusu'u.
+574	isi t'okameosa to yosku 'o topana'u.	魚瞬間咬住我的魚餌。	魚瞬間咬住我的魚餌。	isi t'okameosa to yosku 'o topana'u.	我的水田割魚時，就砍掉了。	isi p'ec'uc'i to yosku 'o yosku'u.
+575	tekon'a t'ot'eni no te'o emu'i no ucei.	你幫我開墾要種芋頭的地方。	你幫我開墾要種芋頭的地方。	tekon'a t'ot'eni no te'o emu'i no ucei.	你幫我開墾要種芋頭的地方。	tekon'a tusbuka ta tngoo no emu'i a'o.
+576	os'o 'ucea poa ta'hongneni ta 'o'oko ko'ko os'o yainca.	我想要讓孩子們聽懂所以才這樣說。	我想要讓孩子們聽懂所以才這樣說。	os'o 'ucea poa ta'hongneni ta 'o'oko ko'ko os'o yainca.	我說的話是要讓孩子們理解的。	os'o engha 'e 'o'oko ho teta cu tmopsu.
+577	os'o ta'kuv'a 'e 'avai ho mo uhne c'oeha ho o'te ahtu yuovei.	Avai去河邊還沒回來，我很擔心。	Avai去河邊還沒回來，我很擔心。	os'o ta'kuv'a 'e 'avai ho mo uhne c'oeha ho o'te ahtu yuovei.	我懷疑'Avai去河邊一直還沒回來。	mi'o ma'sonu ho o'a mitacu maine'e 'o avai ne mita uhne c'oeha.
+578	teav'a poa ta'ongneni ta 'o'oko si tonghifza.	不要讓孩子們用黑炭塗黑牆壁。	不要讓孩子們用黑炭塗黑牆壁。	teav'a poa ta'ongneni ta 'o'oko si tonghifza.	不要讓小孩弄傷牆壁。	teav'a poa titheni ta 'o'oko si tonghifza.
+579	mita ta'payo'u mahto poyave.	他忘記帶刀。	他忘記帶刀。	mita ta'payo'u mahto poyave.	他心裡有數要射殺我	ita ta'payo'a 'o poyave.
+580	mo umnu ho isi ta'popoha'va na te hioa.	深思熟慮後的工作態度是好的。	深思熟慮後的工作態度是好的。	mo umnu ho isi ta'popoha'va na te hioa.	該做的事情分享很好。	la umnu ho isi ta'payo'a 'o hioasi.
+581	ci os'o ta'saseolua hoci hin'i navconga 'e yangui ho mo'o.	我很希望Yangui和Mo'o做夫妻。	我很希望Yangui和Mo'o做夫妻。	ci os'o ta'saseolua hoci hin'i navconga 'e yangui ho mo'o.	Yangui和Mo'o彼此是好友，我很高興。	te'o anana'va yupa to yangui ho mo'o 'o mo'i.
+582	ita ta'susu'nova 'o hiahe aomotu'u.	他們講話的方式讓他很火大生氣。	他們講話的方式讓他很火大生氣。	ita ta'susu'nova 'o hiahe aomotu'u.	他對我說話的人很有信心。	isi pae'uhi ne ita aomotu'u 'o ihe aomotu'a.
+583	zou cuma na iko ta'to'tohungva?	你在思考什麼？	你在思考什麼？	zou cuma na iko ta'to'tohungva?	你在想什麼？	cuma na osko ma'v'ohu?
+584	ihe ta'upi to yoskuhe tomo mahfuyo.	抓到魚的人有分魚給我。	抓到魚的人有分魚給我。	ihe ta'upi to yoskuhe tomo mahfuyo.	他們在阻水抓魚時獲得了魚。	ihe faeni to yosku 'o mo tu'u.
+585	mo taacvoh'i 'o kaapana.	竹子都很長	竹子都很長	mo taacvoh'i 'o kaapana.	竹子排成一排	mo na'no man'i 'o kaapana.
+586	la meelu e'ecvuhu 'o mo at'ocu	習慣扛東西的人能挑很重的。	習慣扛東西的人能挑很重的。	la meelu e'ecvuhu 'o mo at'ocu	習慣守信用的人會說再見	la kaebu ho mo 'atavei to macucuma homo na'no hioasi.
+587	tekon'a taakanneni to f'ue a'o.	你幫我挑地瓜。	你幫我挑地瓜。	tekon'a taakanneni to f'ue a'o.	你幫我搬地瓜。	tekon'a tusbuka a'o na f'ue.
+588	os'o tac'uhi ho ihe yainca mo tma'congo 'o fa'ei.	我聽人家說Fa'ei生病了	我聽人家說Fa'ei生病了	os'o tac'uhi ho ihe yainca mo tma'congo 'o fa'ei.	我很驚訝他們說Fa'ei生病了。	os'o tma'honga ho mo tma'congo 'o fa'ei.
+589	alu man'i si taha'va taini ho mita i'mi ta momhino.	他去商店回來得了不少的贈品。	他去商店回來得了不少的贈品。	alu man'i si taha'va taini ho mita i'mi ta momhino.	他到店裡買東西很多。	ita ohtoteuhu ho mita i'mi ne momhino.
+590	pe'i ta 'o'oko 'o nia taha'va no'u fou.	孩子們，我白白得來的肉煮了。	孩子們，我白白得來的肉煮了。	pe'i ta 'o'oko 'o nia taha'va no'u fou.	小朋友煮了我以前要吃的肉。	'o'oko, os'o pei'i 'o os'o cu peisbabonu ci fou.
+591	'o la yotmuzu tahe yaeza yotmuzi.	給人多的，人也給你多。	給人多的，人也給你多。	'o la yotmuzu tahe yaeza yotmuzi.	要放火的地方要準備。	'aoko yaakakaeba ho ihe faeni.
+592	to ehohanva ta cou a'toana tahoza ho moso etupu micu engha noana'o	鄒族的傳說中從洪水時期開始算到現在已經很久遠	鄒族的傳說中從洪水時期開始算到現在已經很久遠	to ehohanva ta cou a'toana tahoza ho moso etupu micu engha noana'o	我們的鄒族傳統是把祭典當做很重要的一項	mo na'no sino la atva'esa ne noana'o 'o ehoi to cou.
+593	temu tahoza tan'e ho tvici.	你們從這裡開始砍草。	你們從這裡開始砍草。	temu tahoza tan'e ho tvici.	你們要向這裡砍草。	temu ici 'o tuapiu.
+594	taikukuyungva ta oko si ca'hu no taucunu.	小孩在轉那圓椅子	小孩在轉那圓椅子	taikukuyungva ta oko si ca'hu no taucunu.	那孩子搖動老人的椅子。	mo ma'hiteuyunu ta ca'hu si oko.
+595	poa taikukuyungveni ta oko simo taucunu ci ca'hu.	讓小孩轉那圓椅子。	讓小孩轉那圓椅子。	poa taikukuyungveni ta oko simo taucunu ci ca'hu.	讓孩子圍著坐在椅子上。	poa yuftongi ta oko si ca'hu.
+596	ihe takua'ongvi si sapci ta av'u.	他們把狗的臉塗黑。	他們把狗的臉塗黑。	ihe takua'ongvi si sapci ta av'u.	他們把狗的腳綁緊。	ihe pe'ongki si fnguu ta av'u.
+597	la ta'po'u'umta 'o teko afu'a hioa.	你既然要做事就要實實在在。	你既然要做事就要實實在在。	la ta'po'u'umta 'o teko afu'a hioa.	你該做的工作記住。	tekoc'o aot'ova ho teko hioa.
+598	os'o moeza tas'usna 'o ino'u coni ho lac'o noachi.	我乾脆把獨居的阿姨接過來住。	我乾脆把獨居的阿姨接過來住。	os'o moeza tas'usna 'o ino'u coni ho lac'o noachi.	我有時聽到我媽媽在哭。	os'o yupa tomo conohiepohu 'o ino ta'u noyu.
+599	ihe tat'oiva to maamespingi 'o ton'u.	女人們收割小米。	女人們收割小米。	ihe tat'oiva to maamespingi 'o ton'u.	他們把小米送到各家。	ihe pa'ievi to maamespingi 'o ton'u.
+600	o'a tec'o anou butisi to evoo.	不要把病死獸肉分給。	不要把病死獸肉分給。	o'a tec'o anou butisi to evoo.	還沒夠吃梅花鹿的蛋	teav'a'so p'eatiskeni si mo mcoi ci fou.
+601	'inania teelu to kuyai.	差一點沒趕上車。	差一點沒趕上車。	'inania teelu to kuyai.	先看車子	o'te ahtu pnaa si kuyai.
+602	os'o 'inania teelui 'o kuyai.	我差一點沒能趕上車。	我差一點沒能趕上車。	os'o 'inania teelui 'o kuyai.	我本來就想要車子。	o'te ahtu sea'funu smoyu'ho to kuyai.
+603	pooyoyon'a, tekono o'te pae'ekelu.	穿上褲子，不然你就被人看光了。	穿上褲子，不然你就被人看光了。	pooyoyon'a, tekono o'te pae'ekelu.	褲子，請不要鬆動	teav'a'so yupaskeni si teko c'o paavi.
+604	temuc'o yu'pici ta huv'o.	那個橘子你們分一半。	那個橘子你們分一半。	temuc'o yu'pici ta huv'o.	你們只要把橘子折斷一段就好。	temu c'o yu'futngeni si huv'o.
+605	micu aoyocu 'o tena uhne fuengu ho hucma.	明天要去上山的已經準備好了。	明天要去上山的已經準備好了。	micu aoyocu 'o tena uhne fuengu ho hucma.	明天要去山的路已經佈滿了	mi'ocu seaputu to te hioaneni ho hucma.
+606	aemu'au afsi 'o tenki ne micu smunu'u.	下大雨時突然停電。	下大雨時突然停電。	aemu'au afsi 'o tenki ne micu smunu'u.	雨下的很大部分是從他的工寮下方。	isi aepunga 'o emoo ho mo moi.
+607	tekon'a hmoi 'o nia teo'pu'pa	你燒那些燒剩下的雜物	你燒那些燒剩下的雜物	tekon'a hmoi 'o nia teo'pu'pa	你來燒過的垃圾	teko soe'osneni ta mo supeopeohu ci teoa.
+608	imia teo'pu'peni no tasi emu'i si sayungu.	我們在燒過的地幫Sayungu清理她要種植的地方。	我們在燒過的地幫Sayungu清理她要種植的地方。	imia teo'pu'peni no tasi emu'i si sayungu.	Sayungu我幫她拔草。	isi pomi to sayungu 'o teto emu'i ci ezoyu.
+609	imia teo'pu'pi 'o oho hmoi.	我們清理燒過的雜物	我們清理燒過的雜物	imia teo'pu'pi 'o oho hmoi.	我們去焚燒火塘。	imza poa tufku'i 'o ihe oevoi.
+610	tekon'a teoca si kaapana.	你來砍竹子。	你來砍竹子。	tekon'a teoca si kaapana.	你把竹子折斷。	tekon'a tmoepoyu to kaapana.
+611	tekon'a teocneni to kaapana a'o.	你幫我砍竹子。	你幫我砍竹子。	tekon'a teocneni to kaapana a'o.	你幫我割竹子。	tekon'a tusbuka ta kaapana a'o.
+612	ihe teoe'ievi ta mo yusuhngu 'e yangui.	Yangui被那坐著的人斜眼看。	Yangui被那坐著的人斜眼看。	ihe teoe'ievi ta mo yusuhngu 'e yangui.	Yangui和坐著的人相互看望。	isi pae'uhi to mo yusuhngu 'o yangui.
+613	na'na teokngukngi si puzu ta kuyai.	看車燈很刺眼。	看車燈很刺眼。	na'na teokngukngi si puzu ta kuyai.	車子的引擎很大。	lea ma'ma'e ho mo pae'uhu 'o phingi.
+614	la teokngukngu ho la alu mi'unu to hie.	直接看太陽會很刺眼	直接看太陽會很刺眼	la teokngukngu ho la alu mi'unu to hie.	太陽下山時會發出尖銳的聲音	lea na'no ma'ma'e ho mo pae'uhu ta hie.
+615	o'te teomi to 'akuanu ne nte'o yuevaho no peisu.	我向'akuanu借錢他不答應	我向'akuanu借錢他不答應	o'te teomi to 'akuanu ne nte'o yuevaho no peisu.	我借錢時借不到'Akuanu。	ita 'aoka yu'upu to peisu'u 'o 'akuanu.
+616	o'te teomneni to pasuya ho nte'o yuevaha 'o kuyaisi.	Pasuya不答應我借他的車。	Pasuya不答應我借他的車。	o'te teomneni to pasuya ho nte'o yuevaha 'o kuyaisi.	我要搬他的車，卻不容易找到Pasuya。	ita 'aoka to'usni ta pasuya a'o lea kuyai.
+617	teona'va teopoya to 'atai 'o efuefu'u.	'Atai搬沙子搬很久。	'Atai搬沙子搬很久。	teona'va teopoya to 'atai 'o efuefu'u.	'Atai 先去搬我的木瓜。	mo na'no tmoena'o to tuapzu 'o 'atai.
+618	teav'as'a na'na poa teona'veni si ihe teopoya.	他們搬東西不要讓他們搬太久。	他們搬東西不要讓他們搬太久。	teav'as'a na'na poa teona'veni si ihe teopoya.	不要讓他們太久拉那工寮的梁柱。	teav'a poa 'afeo'fu'neni ho ihe heosa.
+619	isi teongasneni to peisu to amo a'o.	爸爸留錢給我。	爸爸留錢給我。	isi teongasneni to peisu to amo a'o.	爸爸寄錢給我	isi tineni to amo a'o 'o peisu'u.
+620	ita teoponeni to ucei 'o ba'i.	他幫祖母搬芋頭。	他幫祖母搬芋頭。	ita teoponeni to ucei 'o ba'i.	他為祖母搬芋頭。	ita paepo'isneni to ucei 'o ba'i.
+621	tekon'a teopoya mo'o si os'o s'eftuftunga ci evi.	Mo'o請你把我鋸斷的那些木頭搬來	Mo'o請你把我鋸斷的那些木頭搬來	tekon'a teopoya mo'o si os'o s'eftuftunga ci evi.	Mo'o，請你幫我搬我斷的樹。	teko poa tu'upneni ta mo'o si os'o skopci ci evi.
+622	ihe teovahi 'o emonopeisia ta tiaki'ana.	他們重修鄭家的祭屋	他們重修鄭家的祭屋	ihe teovahi 'o emonopeisia ta tiaki'ana.	他們重建祭屋。	ihe pa'iova 'o emoonopeisia to macocono emoo.
+623	mi'o'so ti'pou ta 'o'oko. o'a te'o meelu uhto te nouteuyunu.	因為我得照顧孩子。因此不能出席聚會	因為我得照顧孩子。因此不能出席聚會	mi'o'so ti'pou ta 'o'oko. o'a te'o meelu uhto te nouteuyunu.	我打斷小孩，所以我沒去聚會	mo'so 'aoko sochipi to 'o'oko. ko'ko o'a os'o c'o meelu meesi.
+624	mi'o ti'pou to yungkuhe.	我拿錯別人的背簍	我拿錯別人的背簍	mi'o ti'pou to yungkuhe.	我踩掉背籃	mi'o tu'upu ta ucei to mocmo.
+625	teav'as'a poa ti'povneni ta mo yahioa 'o tu'u'u.	不要讓那些工作的人拿錯我的小鋤頭。	不要讓那些工作的人拿錯我的小鋤頭。	teav'as'a poa ti'povneni ta mo yahioa 'o tu'u'u.	不要讓工作的人踩破我的小枝。	teav'a poa ti'usneni ta mo hioa si cuyu'u.
+626	temula tiakak'inga 'o peisumu.	你們錢要省著用。	你們錢要省著用。	temula tiakak'inga 'o peisumu.	你們要省著用錢。	temu soekak'ingi ta peisu'u.
+627	isi tibkocneni to ehti to evi to yangui 'o ak'i.	Yangui為爺爺折斷樹枝。	Yangui為爺爺折斷樹枝。	isi tibkocneni to ehti to evi to yangui 'o ak'i.	Yangui替祖父砍樹枝。	isi ebkoca to yangui 'o ak'i.
+628	mita tibkocu to ehti to evi 'e yangui.	Yangui她折斷樹枝	Yangui她折斷樹枝	mita tibkocu to ehti to evi 'e yangui.	Yangui砍樹枝	mita mahtothomu to ehti 'e yangui.
+629	mo ticngihi to ezoyu 'o oko.	孩子繼承土地	孩子繼承土地	mo ticngihi to ezoyu 'o oko.	小孩在敲打土石	mo titho to ezoyu 'o oko.
+630	isi tifkica to yongo 'e lulku'u.	螃蟹夾我的指頭	螃蟹夾我的指頭	isi tifkica to yongo 'e lulku'u.	我的手被背風刺傷。	isi noe'ohi to kma'e 'o fnguu'u.
+631	la na'no yophia hoci tikvo'a 'o la hia meesi.	祭儀時很怕用錯方式	祭儀時很怕用錯方式	la na'no yophia hoci tikvo'a 'o la hia meesi.	祭典時祈福很重要	la na'no umnu ho mo 'aoko meesi.
+632	mo tinzo'u ta fcuyu si oko.	那小孩捏碎蛋。	那小孩捏碎蛋。	mo tinzo'u ta fcuyu si oko.	那小孩捏取一塊蛋	isi s'eftungneni ta oko si fcuyu.
+633	mo man'i 'o ita tiseita ta yangui ci kokeu.	Yangui摸索到很多田螺。	Yangui摸索到很多田螺。	mo man'i 'o ita tiseita ta yangui ci kokeu.	Yangui捏取很多小米糕	mita mahtothomu to teomeoma 'e yangui.
+634	kaebu titacvoh'i to yoecunghu 'e mo'o ho mita toalungu.	Mo'o釣魚時喜歡用長的釣竿	Mo'o釣魚時喜歡用長的釣竿	kaebu titacvoh'i to yoecunghu 'e mo'o ho mita toalungu.	Mo'o釣魚時喜歡在水裡抓魚。	lata kaebu titho to yosku 'o mo'o ne mita pei'i.
+635	lea titacvoh'i 'o ehuu no meah'o ho mo coeconu.	大的吸水蟲走路時會呈長形	大的吸水蟲走路時會呈長形	lea titacvoh'i 'o ehuu no meah'o ho mo coeconu.	山丘上有很多血紅色的斑點。	la meoino tomo ma'hifeoyu ho mo eocngu to yosku.
+636	te'o titho to fatu ho tmopsu.	我要用石頭寫字	我要用石頭寫字	te'o titho to fatu ho tmopsu.	我要用石頭寫字	te'o tmopsu ta fatu co tposu.
+637	mita tma'pou 'e voyu.	Voyu聽錯了	Voyu聽錯了	mita tma'pou 'e voyu.	Voyu在射擊	mita tma'congo 'e voyu.
+638	tamuc'o tmac'uhu tan'e.	你們砍草砍到這裡就好	你們砍草砍到這裡就好	tamuc'o tmac'uhu tan'e.	請直接走這裡。	nahocu e'ohu ho temu su'no.
+639	mi'o tmaha'o to fou ne hucma.	昨天我白白得到肉	昨天我白白得到肉	mi'o tmaha'o to fou ne hucma.	我昨天買肉	mi'o m'ecihi to fou ne hucma.
+640	lasi taunona'vu to mo n'a oko 'o la tmaikukuyungu ci macucuma.	幼童對於會轉的東西總覺得很稀奇	幼童對於會轉的東西總覺得很稀奇	lasi taunona'vu to mo n'a oko 'o la tmaikukuyungu ci macucuma.	會唱歌的東西是小孩都喜歡的	la kaebu ma'to'tohungu to 'o'oko 'omo yuhohaengi.
+641	mi'o tmanuu to mo cocoya ci ceoa.	我擁有廣大的土地	我擁有廣大的土地	mi'o tmanuu to mo cocoya ci ceoa.	我採在椰子園裡面	mo ma'hisosiohu 'o ezoyu'u.
+642	la'u tmasohpoi to mo smoavovei ci kuyai.	我聽煩來來往往的車子	我聽煩來來往往的車子	la'u tmasohpoi to mo smoavovei ci kuyai.	我把那些彎曲的車子擋住	mi'o tmalu to mo uhta cmu'u ci kuyai.
+643	mita atva'esi tmatmuzu to isi aangaeza ci yosku.	他分魚分最多。	他分魚分最多。	mita atva'esi tmatmuzu to isi aangaeza ci yosku.	他喜歡採很多被分割的魚	ita atva'esa tomo macucuma 'o yosku.
+644	a mitan'a tmopsu 'e tanivu.	Tanivu還在讀書	Tanivu還在讀書	a mitan'a tmopsu 'e tanivu.	Tanivu正在寫書	mita tmopsu to tposu 'e tanivu.
+645	isi to'hongi to voyu 'o mo oefu'u ci evi.	Voyu把倒下的樹做了記號。	Voyu把倒下的樹做了記號。	isi to'hongi to voyu 'o mo oefu'u ci evi.	Voyu把倒下的樹歸咎於他。	ita pahsusufta ta voyu 'o mo oefu'u ci evi.
+646	os'o to'hongneni to ceonu 'o haengu.	我用芒草在路上做標誌。	我用芒草在路上做標誌。	os'o to'hongneni to ceonu 'o haengu.	我把芒草吊在路上。	os'o yohivi to ceonu 'o hcuyu.
+647	zou to'pucva 'o os'o to'si to pucu.	我是把垃圾丟到垃圾場。	我是把垃圾丟到垃圾場。	zou to'pucva 'o os'o to'si to pucu.	我放垃圾的地方就是垃圾場。	os'o to'seni to pucu 'o pucu.
+648	mi'o to'so to pucu.	我丟垃圾	我丟垃圾	mi'o to'so to pucu.	我丟垃圾	os'o to'seni si pucu.
+649	tekon'a to'upi no ntesi phianeni simeo.	他要買豬肉，請你加一點錢。	他要買豬肉，請你加一點錢。	tekon'a to'upi no ntesi phianeni simeo.	你選擇要煮豬的。	tekon'a yusa'veni no peisu ho mita mhia simeo.
+650	poa to'usneni ta pasuya si mo toa fo'na.	叫Pasuya幫忙那採鵲豆的。	叫Pasuya幫忙那採鵲豆的。	poa to'usneni ta pasuya si mo toa fo'na.	讓Pasuya陪那吃米糕的人。	poa tu'upneni ta pasuya si mo mu'i to tahza.
+651	ho teko toveuca 'o bunuvhu yangui, tekoc'o toamaamtanua.	Yangui採李子時，只要採大的。	Yangui採李子時，只要採大的。	ho teko toveuca 'o bunuvhu yangui, tekoc'o toamaamtanua.	你採柳子時，就要採大的。	ho tacvoh'i ta yangui si bunuvhu, tenac'u toveucu.
+652	ihe toasoeza 'o huv'o'u.	人家偷採我的橘子。	人家偷採我的橘子。	ihe toasoeza 'o huv'o'u.	他們採很多我的橘子。	ihe toveuca 'o huv'o'u.
+653	itocu toaveiveia totea honcita maine'e.	我們等他回來等很多年了。	我們等他回來等很多年了。	itocu toaveiveia totea honcita maine'e.	他已經等不到人回來了。	teto la m'eac'o ho mita maine'e.
+654	ita tobkongi ta pasuya 'o voyu.	Pasuya丟傷Voyu眼睛	Pasuya丟傷Voyu眼睛	ita tobkongi ta pasuya 'o voyu.	Pasuya把Voyu當老闆。	mita smoteusu to ma'konvosu ta voyu 'e pasuya.
+655	mita tobkongu to mocmo 'e pasuya.	Pasuya丟傷別人的眼睛。	Pasuya丟傷別人的眼睛。	mita tobkongu to mocmo 'e pasuya.	Pasuya在責備別人	ita pahsihi to pasuya 'o ma'congo taini.
+656	teton'a toepohi phini si kuyai.	那車子我們一起合起來買。	那車子我們一起合起來買。	teton'a toepohi phini si kuyai.	我們來到車子那裡。	imza yupa titha mhia kuyai.
+657	sia ta isi toepohneni ta suongu.	與Suongu一起並肩而走的是誰？	與Suongu一起並肩而走的是誰？	sia ta isi toepohneni ta suongu.	誰幫山豬採草。	sia 'o mo toehunga yupa to suongu?
+658	ita toh'ievi si ca'hu.	他側躺在那椅子上。	他側躺在那椅子上。	ita toh'ievi si ca'hu.	他把椅子推翻。	ita oe'oha si ca'hu.
+659	mita aha'o tohbako ta ceoa 'e amo.	父親隨意地躺在地上	父親隨意地躺在地上	mita aha'o tohbako ta ceoa 'e amo.	父親竟然丟石頭在地上	mo aulu to zomu 'o amo.
+660	botngonu 'o mo toheyae to mamaepuhu ci yuansou.	很多動物在草原上曬太陽。	很多動物在草原上曬太陽。	botngonu 'o mo toheyae to mamaepuhu ci yuansou.	大量的年輕人參與到武家。	isi soe'osneni to yosku 'o mo yonto kukuzo.
+661	mo tohi'u ta ecngi si ba'i.	祖母直接採樹豆	祖母直接採樹豆	mo tohi'u ta ecngi si ba'i.	祖母在切樹豆	mo ma'hiteufzu to evi 'o ba'i.
+662	lac'o tohi'va to evisi 'o teofahea.	咖啡豆是直接從樹上採下。	咖啡豆是直接從樹上採下。	lac'o tohi'va to evisi 'o teofahea.	工寮多採藤本木	isi yunovi to 'ocea 'o 'o'ocea ta cafe.
+663	teav'a tohi'vi si chumu ta kunkunu.	水不要直接用來洗。	水不要直接用來洗。	teav'a tohi'vi si chumu ta kunkunu.	不要在桶子裡直接洗水	tav'a 'aafofova si chumu.
+664	mi'o tokaci ta fofeohva.	我跨過水溝	我跨過水溝	mi'o tokaci ta fofeohva.	我跨過水溝	mi'o m'ecihi to fofeohva.
+665	o'a ita tolui 'o yosku to ecuu.	他沒有釣到池塘裡的魚。	他沒有釣到池塘裡的魚。	o'a ita tolui 'o yosku to ecuu.	他還沒撈到魚。	o'a ita tufkua 'o yosku to po'oyua.
+666	ita tomohvi ta mo'o ta ceoyu.	Mo'o標示出了那蜂窩。	Mo'o標示出了那蜂窩。	ita tomohvi ta mo'o ta ceoyu.	Mo'o在抓虎頭蜂。	isi pa'hiteufza to mo'o 'o ceoyu.
+667	lasi tomuti to fiteu na kuisipsipa honci ohcum'u ta kuba ho hosa.	木槲蘭能擋住邪氣進入會所與部落。	木槲蘭能擋住邪氣進入會所與部落。	lasi tomuti to fiteu na kuisipsipa honci ohcum'u ta kuba ho hosa.	祭屋和部落都有祭祀神祇的儀式。	la boemi to yuho ho mo p'eac'i 'o hcuyu ho hahaemoka.
+668	ihe tomutneni to phingi 'o kuyai.	他們使車子擋住門口。	他們使車子擋住門口。	ihe tomutneni to phingi 'o kuyai.	他們把車子擋在門外。	ihe poa tomutu to phingi 'o kuyai.
+669	isi tonghifi to kaapana 'o emoo'u.	我家裡是用竹子做牆壁的。	我家裡是用竹子做牆壁的。	isi tonghifi to kaapana 'o emoo'u.	我的家是用竹子蓋的。	la titha taepungneni to emoo 'o kaapana.
+670	ita tonkinkeni to mcoohe 'o efuefu'u.	他用沙子丟傷別人的眼睛。	他用沙子丟傷別人的眼睛。	ita tonkinkeni to mcoohe 'o efuefu'u.	他把我的木瓜丟給別人。	ita sotvohi to yoi 'o macocono to mocmo.
+671	poa toonveni ta ku'atu si lingki ta pooyoyosu.	讓Ku'atu洗去你褲子上的泥巴。	讓Ku'atu洗去你褲子上的泥巴。	poa toonveni ta ku'atu si lingki ta pooyoyosu.	讓Ku'atu洗你的褲子上的泥土。	poa tufkuneni ta ku'atu si lingki ta pooyoyosu.
+672	isi toonvi to 'avai 'o linki to pooyoyosi.	'Avai洗掉褲子上的泥土。	'Avai洗掉褲子上的泥土。	isi toonvi to 'avai 'o linki to pooyoyosi.	'Avai洗掉她褲子上的泥土。	mo tvici to ceo'u ta pooyoyo 'o 'avai.
+673	ote la 'aunpunpu topco no kuici ongko no mocmo.	我不要隨便給別人貼上不好的名聲	我不要隨便給別人貼上不好的名聲	ote la 'aunpunpu topco no kuici ongko no mocmo.	不要隨便說別人壞話	te'o la'u aaknuesu ho mo yoievi 'o mocmo.
+674	mo topeapo si c'oeha ho mo yaa yuskua.	河邊有坍方時河水乾涸	河邊有坍方時河水乾涸	mo topeapo si c'oeha ho mo yaa yuskua.	河水流失時河堤崩塌	mo su'eohu ne c'oeha ho mo yuhcuvcongu.
+675	micu topeasmu.	下小雨了	下小雨了	micu topeasmu.	已經頂到柱子了	micu chumu.
+676	la na'no yupa topeu ho mo ehtothomu.	摔角時常用絆腳這一招	摔角時常用絆腳這一招	la na'no yupa topeu ho mo ehtothomu.	雙方拼鬥很有條理	lahe kaeba titacvoh'i 'o mo ma'hiteuyuna.
+677	os'o topui to yungku 'o teo'ua.	我用背簍蓋住雞。	我用背簍蓋住雞。	os'o topui to yungku 'o teo'ua.	我把雞放在背籃上。	os'o yupihia ta teo'ua si pooyoyo.
+678	tosa'veni ta ceonu si f'ue.	把地瓜扔過路的那邊。	把地瓜扔過路的那邊。	tosa'veni ta ceonu si f'ue.	把地瓜吊在路上。	teav'a ta ceonu si f'ue.
+679	ita tosa'vi ho mita peayofu 'o mo'o.	他跑步超越Mo'o。	他跑步超越Mo'o。	ita tosa'vi ho mita peayofu 'o mo'o.	Mo'o跑步時他兩次跳躍。	ita pateoemohi 'o mo'o.
+680	micu tosvo muchu.	已經停止下雨了	已經停止下雨了	micu tosvo muchu.	雨已經停了	micu aemo'u ho mo sufeungnu.
+681	isi totea to lema'cohio 'o 'o'oko.	老師在等孩子。	老師在等孩子。	isi totea to lema'cohio 'o 'o'oko.	老師送小孩回家	isi toehunga to lema'cohio 'o oko.
+682	os'o tothuci 'o peohna sica.	下面那裏我做苗圃。	下面那裏我做苗圃。	os'o tothuci 'o peohna sica.	我直接到那山下去。	'a eno tan'e 'o os'o emu'i to ecngi.
+683	teav'a anga totmuzi to siu 'o osko pei'i.	妳煮的東西不要放太多鹽巴。	妳煮的東西不要放太多鹽巴。	teav'a anga totmuzi to siu 'o osko pei'i.	你煮的東西不要過量用鹽巴。	tav'a soekak'inga si iko pei'i.
+684	mo totmuzu toa kamae 'o 'o'oko.	孩子採很多番石榴	孩子採很多番石榴	mo totmuzu toa kamae 'o 'o'oko.	小朋友們開始拿酒	mo man'i 'o hcuyu to oko.
+685	na'no totmuzu to siu ho mita pei'i.	她煮東西放很多鹽巴	她煮東西放很多鹽巴	na'no totmuzu to siu ho mita pei'i.	他煮東西時鹽巴使用得很乾淨	ita sotvohi to sieu 'o mo pei'i.
+686	isicu petohuya tov'oha 'e heoemu'usi.	他的作物終於有收成了。	他的作物終於有收成了。	isicu petohuya tov'oha 'e heoemu'usi.	他的作物已經完結了。	micu aupciocu yuevaho 'o hioasi taini.
+687	o'te ahta tov'ohneni 'o ngiau.	我一直甩不掉那隻貓	我一直甩不掉那隻貓	o'te ahta tov'ohneni 'o ngiau.	他不斷養貓	o'a os'o 'aoka paecu'hi si nghou.
+688	o'te ahta tov'oha 'o mo'o.	都等不到Mo'o	都等不到Mo'o	o'te ahta tov'oha 'o mo'o.	Mo'o一直在責備他	o'te ahtu mahsosonu 'o mo'o.
+689	tekon'a toveuca si micu tacumu ci huv'o.	請你採那已經熟的橘子。	請你採那已經熟的橘子。	tekon'a toveuca si micu tacumu ci huv'o.	你把已經成熟的橘子採下來。	teko na'a peoluneni sicu yunu'va ci huv'o.
+690	ita toyovceni 'o fatu.	他把石頭往下丟了	他把石頭往下丟了	ita toyovceni 'o fatu.	他扔石頭。	ita paecu'hi 'o fatu.
+691	na'no toului to yangui 'o takubingi.	Yangui把碗筷洗得很乾淨。	Yangui把碗筷洗得很乾淨。	na'no toului to yangui 'o takubingi.	Yangui在洗碗盤很乾淨。	ita poa poulua ta yangui 'o pupuzu.
+692	os'o tposneni ta saiptuku 'e 'empicu.	我用筆在紙上寫字。	我用筆在紙上寫字。	os'o tposneni ta saiptuku 'e 'empicu.	我用筆為書寫。	os'o tmopsu ta tposu 'o tposu.
+693	pano ita talua ci mita no aha'o tu'iei.	他微笑著是他可能想到什麼	他微笑著是他可能想到什麼	pano ita talua ci mita no aha'o tu'iei.	他竟然咬人。	mita ma'cohio no teta ta'e.
+694	tu'oveosa si fuesu no pohe.	把玉米粒剝下來	把玉米粒剝下來	tu'oveosa si fuesu no pohe.	把玉米粒切成塊。	s'eftungneni ta tufsu si fcuyu.
+695	isi tu'oveosneni to yangui to tesi emu'a ci pohe 'o apu'u.	Yangui在剝Apu'u要種的玉米粒。	Yangui在剝Apu'u要種的玉米粒。	isi tu'oveosneni to yangui to tesi emu'a ci pohe 'o apu'u.	Yangui在割玉米時，她割到Apu'u的穗子。	isi p'ecmu'i to yangui 'o teta emu'a ta apu'u ci tufsu.
+696	aha'va tu'upi si mo cocvo.	無故跟著笑。	無故跟著笑。	aha'va tu'upi si mo cocvo.	那矮人突然跑開了。	'ote la yu'hupsonu ho mo cmu'ho.
+697	'o oko no av'u mo tu'upu to inosi ho mcoi.	小狗跟著母狗死了	小狗跟著母狗死了	'o oko no av'u mo tu'upu to inosi ho mcoi.	那小狗跟著牠的媽媽走	mo m'ecihi to av'u 'o av'u.
+698	itac'o tuachia 'o man'i ci kakapana.	他獨自割很大片竹林的筍。	他獨自割很大片竹林的筍。	itac'o tuachia 'o man'i ci kakapana.	他只拔很多竹子。	ita a'homamso tomo macucuma 'o sbuku to kaapana.
+699	poac'o tuachineni to pasuya 'o kakapana.	讓Pasuya獨自割竹林的筍。	讓Pasuya獨自割竹林的筍。	poac'o tuachineni to pasuya 'o kakapana.	讓Pasuya直接在竹林裡拔草。	poa tu'upneni ta pasuya si sbuku to kaapana.
+700	teko tuamaamtaneni to chae 'o ba'imu.	替你們祖母挑大的菜拔。	替你們祖母挑大的菜拔。	teko tuamaamtaneni to chae 'o ba'imu.	你幫你們的祖母採菜。	temu p'eac'i to chae si ba'imu.
+701	mita uhto oi'isi to c'oeha ne lalaksu ho tufngi.	他去Lalasku地帶的河流下方抓魚	他去Lalasku地帶的河流下方抓魚	mita uhto oi'isi to c'oeha ne lalaksu ho tufngi.	他在拉勒蘇洗河裡的水	mita uhne c'oeha ne emoo no layasku ho mamtesngusngu.
+702	mita mici tuhtuocosu sia na mo n'a yaa skiikia.	他問一問誰還有愛玉子	他問一問誰還有愛玉子	mita mici tuhtuocosu sia na mo n'a yaa skiikia.	他剛好找到有人可以抓魚	mita ma'cohio no mo mayo to teo'ua.
+703	la titho to meezo hola tum'umi to m'um'u ta yasngu.	要用夾子拔鬍子。	要用夾子拔鬍子。	la titho to meezo hola tum'umi to m'um'u ta yasngu.	拔山葵的草是用大方向向下。	la titheni to poyave 'o tu'u.
+704	Botngonu na o'amo bochio no tungiacu.	很多人不知道口笛或水鹿誘笛。	很多人不知道口笛或水鹿誘笛。	Botngonu na o'amo bochio no tungiacu.	很多人還沒吃到炭火。	panto la 'ahuyu ho mo eoho'u to tuisa.
+705	ita tupuza si micu kuzo ci nia pangka.	他把已經壞的桌子燒了	他把已經壞的桌子燒了	ita tupuza si micu kuzo ci nia pangka.	他把壞了的桌子塗黑色。	ita paecu'hi 'o mo umnu ci pangka.
+706	la toehungu tusi'ngi ta ceonu ho mo taseona 'o yu'fafoinana.	年輕人總在早上一起掃馬路。	年輕人總在早上一起掃馬路。	la toehungu tusi'ngi ta ceonu ho mo taseona 'o yu'fafoinana.	學校開課時，大家一起在路上掃地	lahe 'aoka p'eac'i to haah'o 'o ceonu ho mo supeopeohu.
+707	ita tutva ta pasuya 'o mo ekvo'u.	Pasuya捶打罵他的人。	Pasuya捶打罵他的人。	ita tutva ta pasuya 'o mo ekvo'u.	Pasuya採取逆向的做法。	mita e'voku to ita eteuyunu 'e pasuya.
+708	tekon'a tuucocosneni no nte'o engocha momo.	你幫我打聽有沒有人可以幫我拔草。	你幫我打聽有沒有人可以幫我拔草。	tekon'a tuucocosneni no nte'o engocha momo.	你幫我指引我要拔草的地方。	tekon'a tmaskeni ho teko cmu'ho poa tufku.
+709	mita mici tuucocosu no mo n'a yaa skiikia.	他打聽誰還有愛玉子	他打聽誰還有愛玉子	mita mici tuucocosu no mo n'a yaa skiikia.	他剛好拿著滑雪鞋	mita tmalu to sia ho mita ma'momza to teo'ua.
+710	'ua itacu tubzuka ta 'avai 'o ciocio.	'Avai已經宰了那頭豬。	'Avai已經宰了那頭豬。	'ua itacu tubzuka ta 'avai 'o ciocio.	'Avai已經把草全拔掉了。	itacu chua ta 'avai si feu'u.
+711	tekon'a tusvutneni ta 'ue a'o.	你用手丈量一段藤條。	你用手丈量一段藤條。	tekon'a tusvutneni ta 'ue a'o.	請你幫我砍樹。	teko tusbuka si tufsu.
+712	mita mea'upu to ihe tutptuta ci mo tifsuyu.	用槍的人被抓了，他被連累到。	用槍的人被抓了，他被連累到。	mita mea'upu to ihe tutptuta ci mo tifsuyu.	他參與了他們抓的盜匪	ihe yaa 'o mo tu'nu ci haahocngu.
+713	os'o ucia ana 'o mici.	我想吃龍葵	我想吃龍葵	os'o ucia ana 'o mici.	我已經吃完飯。	te'o bonu to emono tuapzu.
+714	ita ucia ana si foufuzu.	他想吃那山豬肉	他想吃那山豬肉	ita ucia ana si foufuzu.	他已經吃到山豬。	mita ma'saso no fou fuzu ta fuzu.
+715	isi uhfueva to vcongu'u ho mi'o mi'unu to moc'mo.	我只要看別人一眼，我的另一半就吃醋了。	我只要看別人一眼，我的另一半就吃醋了。	isi uhfueva to vcongu'u ho mi'o mi'unu to moc'mo.	我射殺那個人時箭擊中我的頭。	'a os'o aasvuta 'o mocmo, micu tosvo 'o mo'u.
+716	mio uhnenu 'o vamsu maitan'e?	你的爸爸今天去哪裡？	你的爸爸今天去哪裡？	mio uhnenu 'o vamsu maitan'e?	你的車到今天還在哪裡？	mo uvo 'o amosu maitan'e?
+717	isi uofeo'isi to voyu 'o huyu no moatu'nu.	Voyu在山羊路徑設套索獵。	Voyu在山羊路徑設套索獵。	isi uofeo'isi to voyu 'o huyu no moatu'nu.	Voyu埋藏山羊的尾巴。	ita p'eac'i to voyu 'o ceonu to moatu'nu.
+718	te'on'a poa usneni to voyu 'o ba'i.	我請Voyu去看祖母。	我請Voyu去看祖母。	te'on'a poa usneni to voyu 'o ba'i.	我要叫Voyu幫祖母找飯。	os'o poa uhtaneni ta voyu 'o ba'i.
+719	na'no maezo to vamtaini si yu'ausna taini.	他長得很像他爸爸。	他長得很像他爸爸。	na'no maezo to vamtaini si yu'ausna taini.	她的衣服很貼心。	mita na'no mafe 'o amo taini.
+720	mita atva'esi muyo to mo vasuzu 'e fa'ei.	那一群走路的人Fa'ei是走最前面的。	那一群走路的人Fa'ei是走最前面的。	mita atva'esi muyo to mo vasuzu 'e fa'ei.	Fa'ei向騎馬的人借錢	mo engochu mo eobako to mo hioasi ci fa'ei.
+721	la na'no mafe 'o veocu no 'uachumu.	牛筋很好吃	牛筋很好吃	la na'no mafe 'o veocu no 'uachumu.	牛的毛很好吃	la mafe 'o simeo no 'uachumu.
+722	la na'no veoveocu 'o f'uevi.	樹薯很多纖維	樹薯很多纖維	la na'no veoveocu 'o f'uevi.	樹很容易枯萎	mo man'i 'o f'ue.
+723	teta anana'o fnguufngu 'e voua.	Voua看起來會是大頭。	Voua看起來會是大頭。	teta anana'o fnguufngu 'e voua.	豬本來就有蹄。	lata meoisi tacvoh'i 'e voua.
+724	teko ya'ezneni si 'o'oko.	你跟孩子說說話。	你跟孩子說說話。	teko ya'ezneni si 'o'oko.	你說那些小孩的話。	teko ya'ezneni si oko.
+725	la butaso mateolulu ho te uhto mo yaabobonu.	去吃筵席是要盡量穿著得體。	去吃筵席是要盡量穿著得體。	la butaso mateolulu ho te uhto mo yaabobonu.	去河邊要抓魚。	lea umnu ho isi supeopeohu 'o mo bonu.
+726	zou fatu 'o os'o yac'i.	我站的地方是石頭。	我站的地方是石頭。	zou fatu 'o os'o yac'i.	我躺的是石頭	zou fatu 'o os'o stoya.
+727	'otena 'aoko yahioai ci misucu ngoseo.	不要再工作了，你很累喔。	不要再工作了，你很累喔。	'otena 'aoko yahioai ci misucu ngoseo.	一直工作都沒收穫	'ote'so yaa'ou, miko su'no.
+728	mo yahnguya to voyuana 'o yasiyungu.	石家向安家提親。	石家向安家提親。	mo yahnguya to voyuana 'o yasiyungu.	Yasiyungu向天神祈福	isi pa'ievi to tufsa 'o ne noana'o.
+729	te yainenu honci hafa 'e macaca'hu?	這些椅子要怎麼帶呢？	這些椅子要怎麼帶呢？	te yainenu honci hafa 'e macaca'hu?	要如何帶這些東西？	te ma'so no te hia ta ca'hu?
+730	poa yam'eni ta mameoi si 'o'oko.	讓老人告誡那些孩子。	讓老人告誡那些孩子。	poa yam'eni ta mameoi si 'o'oko.	讓長者提那些小孩。	poa patmutneni ta mameoi si 'o'oko.
+731	mo na'no yangaevi co mo yon ta omza.	上面的人很吵	上面的人很吵	mo na'no yangaevi co mo yon ta omza.	上方的人很有智慧	mo na'no yu'futngu si mo yonta'e.
+732	o'ana mo payo to kukuzo 'o oho yapneni ci chae.	播種的菜已被草叢掩蓋。	播種的菜已被草叢掩蓋。	o'ana mo payo to kukuzo 'o oho yapneni ci chae.	草枯了，菜園裡面沒有蔬菜了。	isicu yunu'veni to kukuzo 'o mo mu'ei ci chae.
+733	a'umta coveoza 'e hia h'okakutia ta yatan'e.	這裡的人實在少得可憐。	這裡的人實在少得可憐。	a'umta coveoza 'e hia h'okakutia ta yatan'e.	我們的孩子如何被欺負真是太過分了。	la a'umtu 'e mo notoyange ci yatatiskova.
+734	yoemuhneni ta mo cmu'ho 'o simeo.	把豬肉都分給來的人。	把豬肉都分給來的人。	yoemuhneni ta mo cmu'ho 'o simeo.	把豬肉送到火爐邊。	ihe pa'ievi to mo psoelu 'o mo psoelu ci fou.
+735	os'o yomza to tu'u ho pa'ea 'e f'ue.	我使用小鋤頭挖這些地瓜	我使用小鋤頭挖這些地瓜	os'o yomza to tu'u ho pa'ea 'e f'ue.	我用小溪把地瓜澆下。	os'o titha tu'nu 'e f'ue.
+736	m'oyucu na'a ci mo na'no yongpuhu.	塵土飛揚先閉上眼睛。	塵土飛揚先閉上眼睛。	m'oyucu na'a ci mo na'no yongpuhu.	很大的水流終於停了	isi p'ecmu'i to yoi 'o mcoi.
+737	mi'oc'o yongzotu ne mo toteuyunu to peisu.	大家繳錢時我只繳一點點。	大家繳錢時我只繳一點點。	mi'oc'o yongzotu ne mo toteuyunu to peisu.	聚集錢財時我只存一點	la'u aupcio peispak'i ho ihe peisu.
+738	isi yoni ta av'u si ca'hu.	狗在椅子上面	狗在椅子上面	isi yoni ta av'u si ca'hu.	椅子是狗坐的。	mo nos'oyu ta ca'hu 'o av'u.
+739	os'o na'no yophia 'e 'o'oko'u honci hin'i fiho tola kuici 'o'oko.	我很擔心我的孩子跟著那些壞孩子。	我很擔心我的孩子跟著那些壞孩子。	os'o na'no yophia 'e 'o'oko'u honci hin'i fiho tola kuici 'o'oko.	我很擔心我的孩子因為他們太小而不願意。	os'o ta'una si ihe paavi to mo 'oha pokvo'u ci oko'u.
+740	mo botngonu si mo yonta yoyasva ci 'o'oko.	在遊戲場有很多小朋友。	在遊戲場有很多小朋友。	mo botngonu si mo yonta yoyasva ci 'o'oko.	參加演唱會的小孩很多。	mo botngonu 'o 'o'oko ta peisia.
+741	mita mifeoyu to ceoa ne yoyasva 'e 'avai.	'Avai橫躺在廣場地上。	'Avai橫躺在廣場地上。	mita mifeoyu to ceoa ne yoyasva 'e 'avai.	'Avai在工寮挖土	mo nooyo to yungku 'o 'avai.
+742	isi yoyasveni ta av'u si ngiau.	那隻狗在跟貓玩。	那隻狗在跟貓玩。	isi yoyasveni ta av'u si ngiau.	狗和貓拼鬥。	isi peispak'eni ta av'u si nghou.
+743	tekon'a yu'ici si huv'o ho p'aeni ta 'o'oko.	請你把橘子剝皮給小朋友吃	請你把橘子剝皮給小朋友吃	tekon'a yu'ici si huv'o ho p'aeni ta 'o'oko.	你把橘子切成塊給小孩吃。	tekoc'o s'eftungneni to huv'o ho faeni ta 'o'oko.
+744	mo yu'sopihi 'o hosa ne tfuya ho hosa ta tapangu.	特富野部落和達邦部落隔河相近。	特富野部落和達邦部落隔河相近。	mo yu'sopihi 'o hosa ne tfuya ho hosa ta tapangu.	特富野部落和達賴部落相互接壤	isi pa'hi'upneni to tfuya 'o hahanga ta dahon.
+745	lahe conino teai papoevu ho mo yu'susuyumo 'o maotano.	在征戰時，他們總是讓將領帶頭衝鋒。	在征戰時，他們總是讓將領帶頭衝鋒。	lahe conino teai papoevu ho mo yu'susuyumo 'o maotano.	年輕人穿衣服時喜歡做袖子	ho mo 'aafofou lahe poa yuhcuvneni to haah'o ne noana'o.
+746	mo yua cuma si oko ho mo 'aoko mongsi.	那孩子一直哭是在討什麼？	那孩子一直哭是在討什麼？	mo yua cuma si oko ho mo 'aoko mongsi.	那孩子一直哭是為了什麼？	cuma na teta mongsi si oko.
+747	yuanana'veni ta yangui 'e suongu.	Yangui很氣Suongu。	Yangui很氣Suongu。	yuanana'veni ta yangui 'e suongu.	Yangui跟著Songu走。	mita su'no ta yangui 'e suongu.
+748	ita 'aoka yuavoveia si mo hafsu.	他一直來回察看那酒醉的人。	他一直來回察看那酒醉的人。	ita 'aoka yuavoveia si mo hafsu.	他一直找那有錢的人。	ita 'aoka patvaveiveia 'o mo mongsi.
+749	acuhu na'no yuayokeo 'e 'o'okosu.	你的小孩都長得很健康	你的小孩都長得很健康	acuhu na'no yuayokeo 'e 'o'okosu.	你們的孩子們還是很小。	micuc'o na'no ma'sonu 'e okosu.
+750	mo yuepe si c'osu.	樟樹長得很高	樟樹長得很高	mo yuepe si c'osu.	椰子長得很高	mo na'no yuepe si c'osu.
+751	a i'o ak'i 'o os'o yuevahi ta tu'u.	那鋤頭我是向爺爺借的。	那鋤頭我是向爺爺借的。	a i'o ak'i 'o os'o yuevahi ta tu'u.	我是祖父重蓋小石頭的。	os'o yunovi to ak'i 'o tu'u.
+752	mita yufei'i ta pangka ho mita su'no.	他生氣時翻桌	他生氣時翻桌	mita yufei'i ta pangka ho mita su'no.	他生氣時把桌子推翻	mita su'no ho mita mahmaceofu ta pangka.
+753	ala yufei'za ta voyu si pangka.	Voyu推翻桌子。	Voyu推翻桌子。	ala yufei'za ta voyu si pangka.	Voyu在桌子上捏取東西。	ita paepo'isneni ta voyu 'o pangka.
+754	ita yumaka a'o ne isi koica to amo taini.	他爸爸罵他，他卻遷怒於我。	他爸爸罵他，他卻遷怒於我。	ita yumaka a'o ne isi koica to amo taini.	她的父親責罵她時，她笑我。	ita 'aoka su'nova a'o ho isi koica 'o amo taini.
+755	mita yumako to ino taini ho isi koica to amo taini.	他爸爸罵他，他卻遷怒他媽媽	他爸爸罵他，他卻遷怒他媽媽	mita yumako to ino taini ho isi koica to amo taini.	他被父親責罵，因此他抱怨他的母親	mita c'o yuhmuyu ta ino si amo taini.
+756	micu yungabo 'o kukuzo to papai.	草已經長滿了水田	草已經長滿了水田	micu yungabo 'o kukuzo to papai.	田裡的草已經全部拔掉了	micu yupeahngu to papai 'o kukuzo.
+757	mita yungefi to isi aangaeza ci macucuma.	分物資時他嫌少	分物資時他嫌少	mita yungefi to isi aangaeza ci macucuma.	他穿著各種不同的衣服	mita aaknuesu ho mita m'eaveivei.
+758	poa yungeovneni to 'avai 'o te cmu'ho.	叫'Avai迎接要來的人。	叫'Avai迎接要來的人。	poa yungeovneni to 'avai 'o te cmu'ho.	讓'Avai去接山豬。	poa tu'upneni ta 'avai si te maine'e.
+759	lata yungongabo ho mita afu'u su'no.	他生氣時總是什麼都氣	他生氣時總是什麼都氣	lata yungongabo ho mita afu'u su'no.	他生氣時總是害羞	alu maecimzo ho mita su'no.
+760	isi cu yungongaboi to kukuzo 'o papai.	草已經長滿了水田。	草已經長滿了水田。	isi cu yungongaboi to kukuzo 'o papai.	草已經長滿了田。	isicu yupeahnguha to kukuzo 'o papai.
+761	tutputu to mo yunsou ci yuansou.	抓活的獵物	抓活的獵物	tutputu to mo yunsou ci yuansou.	把那在水邊的魚抓住。	mo tutputu to mo maica ci yosku.
+762	mainci na'no yunsova co nsou'u?	為什麼我的呼吸急促？	為什麼我的呼吸急促？	mainci na'no yunsova co nsou'u?	我為什麼眼睛看起來黑？	mainci mi'o su'no a'o?
+763	isic'o yuonoi ta laksu 'e tan'e.	這裡只長杜鵑。	這裡只長杜鵑。	isic'o yuonoi ta laksu 'e tan'e.	這裡只長杜鹃	'ano tan'e 'o la leayu.
+764	mimza n'a yupeahnguyu 'e pasuya.	我還在跟Pasuya談話	我還在跟Pasuya談話	mimza n'a yupeahnguyu 'e pasuya.	我和Pasuya談話	mi'o ya'eoca ho aomotu'u 'o pasuya.
+765	la butaso mateolulu ho te no'upu yupepeahnguyu.	陪人去談事情是要盡量穿著得體。	陪人去談事情是要盡量穿著得體。	la butaso mateolulu ho te no'upu yupepeahnguyu.	要用巧妙的方式互相配合	lea umnu ho isi 'aafofova 'o mo aomotu'u.
+766	mi'o c'o yupihi ci mo'so uk'ana hiapeoza.	因為沒有橋了，所以我只好游到對岸	因為沒有橋了，所以我只好游到對岸	mi'o c'o yupihi ci mo'so uk'ana hiapeoza.	我只穿一件衣服因為沒有穿過橋	mo 'aoko c'o yuhcubu, ko'ko a'umtu uhne apihana.
+767	la mi'usnu to isi yupteulneni ho mainca yokeoasu.	要對著遇到的人問候說：祝健康平安。	要對著遇到的人問候說：祝健康平安。	la mi'usnu to isi yupteulneni ho mainca yokeoasu.	討厭時我隨意捏取東西。	la e'e'ia 'o mo yuhmuyu ho yainca.
+768	ihe ala yupuya 'o momhino bonu to ta'e.	那裏的小吃店被倒債。	那裏的小吃店被倒債。	ihe ala yupuya 'o momhino bonu to ta'e.	店家們趕快來吃那裡的飯。	isi yupa peispak'eni ta 'oyona ta'e.
+769	itacu yusa'vi 'o nteta hnoo.	他拿的錢已經超過他的工資。	他拿的錢已經超過他的工資。	itacu yusa'vi 'o nteta hnoo.	他已經往上射了七次。	ita cu yusa'a ta ita yaa ci peisu.
+770	teko atfunga yuseui si yosku.	你來專門取出魚腸子	你來專門取出魚腸子	teko atfunga yuseui si yosku.	你把魚藏起來。	teko asngucva teovahi si yosku.
+771	poa yuseuneni ta paicu si isi chua ci teo'ua.	殺好的雞請Paicu清腸子。	殺好的雞請Paicu清腸子。	poa yuseuneni ta paicu si isi chua ci teo'ua.	讓Paicu把雞放在正確的地方。	poa tufkuneni ta paicu si mo supeopeohu ci teo'ua.
+772	poa yusuhneni ta ak'i si ca'hu.	那椅子讓祖父坐。	那椅子讓祖父坐。	poa yusuhneni ta ak'i si ca'hu.	讓祖父坐那椅子。	isi poa siho to ak'i 'o ca'hu.
+773	ita yusuhngi si fatu.	他坐在石頭上。	他坐在石頭上。	ita yusuhngi si fatu.	他坐在石頭上。	ita sutuhceni ta fatu.
+774	mo payo si boki ta moe'o ho mita yusungu.	Moe'o坐下時生殖器露出來。	Moe'o坐下時生殖器露出來。	mo payo si boki ta moe'o ho mita yusungu.	moe'o坐著時他的背被壓到	isi p'ecmu'i to moe'o 'o haengi ne mita su'no.
+775	mo yuepoepohu si suveu ho yono.	茄苳和雀榕一起生長	茄苳和雀榕一起生長	mo yuepoepohu si suveu ho yono.	杉木和竹筍互相連接	mo na'no yupa to teo'ua 'o va'hu.
+776	os'o yuuyusveni 'e sayungu ho maine'e.	我邀Sayungu 伴隨回家。	我邀Sayungu 伴隨回家。	os'o yuuyusveni 'e sayungu ho maine'e.	我帶Sayungu回家。	os'o poa to'upneni ta sayungu ho maine'e.
+777	na'no yu'u'umni ta cnumu si mo bangnu.	香蕉長在肥沃的土壤長得很好。	香蕉長在肥沃的土壤長得很好。	na'no yu'u'umni ta cnumu si mo bangnu.	那香蕉長的很好。	isi na'no p'eac'i to cnumu 'o mo mafeusu to ceonu.
+778	mita yu'u'umnu 'e pasuya.	Pasuya 長得很健美	Pasuya 長得很健美	mita yu'u'umnu 'e pasuya.	Pasuya身體好轉	mita na'no mafe 'e pasuya.
+779	o'te'u yulu ne mi'o mici yuevaho no peisu ta momhino.	我到商店借不少錢	我到商店借不少錢	o'te'u yulu ne mi'o mici yuevaho no peisu ta momhino.	我去店鋪借錢還沒收。	mi'o m'eaveivei to peisu ne mi'o uhne momhino.
+780	isi yumeuma to av'u 'o emoono teo'ua.	狗進入到雞舍。	狗進入到雞舍。	isi yumeuma to av'u 'o emoono teo'ua.	狗進入雞舍裡。	isi p'ecmu'i to av'u si teo'ua.
+781	ita yunu'veni 'o sayungu.	他對Sayungu一直氣下去。	他對Sayungu一直氣下去。	ita yunu'veni 'o sayungu.	Sayungu他回來了。	ita 'aoka su'nona 'o sayungu.
+782	ihe yunu'vi si ihe othui to 'o'oko.	孩子們用過的碗筷沒收拾。	孩子們用過的碗筷沒收拾。	ihe yunu'vi si ihe othui to 'o'oko.	小朋友吃的東西他們全部拿走了。	o'a ihe aepunga 'o ihe titha to 'o'oko ci takubingi.
+783	ita nana yunu'vi yuevahi 'o momhino ta'e.	聽說他在那家店賒帳不還。	聽說他在那家店賒帳不還。	ita nana yunu'vi yuevahi 'o momhino ta'e.	他竟然到那家店借了五十萬。	mita c'o mo'usnu ne mita m'ecihi to emoo taini.
+784	moc'o yunu'u si nia heom'u taini.	他的作物一直長下去	他的作物一直長下去	moc'o yunu'u si nia heom'u taini.	他原本要種的作物只長了一點點	mo asno'zonu 'o heoemu'u taini.
+785	isi yuucucuha ta oko si yususi.	那小孩把衣服脫光	那小孩把衣服脫光	isi yuucucuha ta oko si yususi.	那孩子脫光衣服。	mo tufku si yusu ta oko.
+786	poa yuucucuhneni ta apu'u si sbuku.	叫Apu'u把竹筍剝乾淨。	叫Apu'u把竹筍剝乾淨。	poa yuucucuhneni ta apu'u si sbuku.	讓Apu'u把竹筍切成塊。	poa pouluneni to apu'u 'o sbuku.
+787	tekon'a yuucucuhi si pucu ta pohe.	你把玉米皮剝光光	你把玉米皮剝光光	tekon'a yuucucuhi si pucu ta pohe.	你來剝玉米粒。	teko soekak'inga si fcuyu ta tufsu.
+788	tekon'a zocfuneni no te'o cuyu.	你來搗我要做便當的米糕。	你來搗我要做便當的米糕。	tekon'a zocfuneni no te'o cuyu.	你幫我找便當。	tekon'a tusbuka no te'o anana'va peisbabisneni ci ufi.
+789	ita zotaeva 'o nghou.	他用守候式射猴子。	他用守候式射猴子。	ita zotaeva 'o nghou.	他用猴子。	ita paepo'isneni 'o nghou.
+790	mo zotonu ta cnumu si kaapana.	那竹子撐著香蕉樹。	那竹子撐著香蕉樹。	mo zotonu ta cnumu si kaapana.	那竹子阻擋了香蕉的發芽	isi pomi to kaapana 'o cnumu.
+791	os'o 'afeunga hioaneni o'a isi amaka a'umta tohnoi.	我好不容易幫他作完，結果沒有工錢。	我好不容易幫他作完，結果沒有工錢。	os'o 'afeunga hioaneni o'a isi amaka a'umta tohnoi.	我好難忍受他還沒真正聽懂。	os'o a'umtu yahnguya 'o ita hioa, at'inghi o'te ahtu peisu.
+792	'afeungu uhne fuengu ho uk'a mako a'a'ausna.	枉費我到山上卻沒收穫	枉費我到山上卻沒收穫	'afeungu uhne fuengu ho uk'a mako a'a'ausna.	難過到去山上還沒見面。	o'te amso uhne fuengu ho mi'o 'aoko yuovei.
+793	o'a te'o 'ahuya ana 'o s'os'o.	我不需要吃那個藥。	我不需要吃那個藥。	o'a te'o 'ahuya ana 'o s'os'o.	我不敢吃藥。	o'a os'o 'ahuyu papasa 'o s'os'o.
+794	o'aisis'a zua af'oya 'o soetohvu, o'antes'a 'ahuya meoino koica.	他不是故意打破杯子，不要罵他。	他不是故意打破杯子，不要罵他。	o'aisis'a zua af'oya 'o soetohvu, o'antes'a 'ahuya meoino koica.	用的碗不夠大，她竟然叫他。	o'a mita smeecu'ho to sofu, 'ote la koica.
+795	manci miko 'aoko mimo?	你為什麼一直喝酒？	你為什麼一直喝酒？	manci miko 'aoko mimo?	你為什麼一直喝酒？	mainci miko 'aoko peispak'i?
+796	lamia acuha teopoya ho hafa maine'e.	我們都搬運回家。	我們都搬運回家。	lamia acuha teopoya ho hafa maine'e.	我們已經夠他們帶回家了	imza pahcingheni ho maine'e.
+797	ihecu acuha peepunga 'o emi.	他們把酒都喝完了。	他們把酒都喝完了。	ihecu acuha peepunga 'o emi.	他們喝完酒了。	ihecu peepunga 'o emi.
+798	micu acuhu moyomo 'o moso mimo ci mamameoi.	喝酒的那些老人都醉了	喝酒的那些老人都醉了	micu acuhu moyomo 'o moso mimo ci mamameoi.	年輕人已經喝夠了	mo ma'momzo 'o mo mimo ci mameoi.
+799	te'on'a ahtu baito to mameoi.	我將要見一下老人家	我將要見一下老人家	te'on'a ahtu baito to mameoi.	我要再見老人家一次	te'o usa ho a'usna 'o mameoi.
+800	nahocu aothomu supihi.	你就嘗試渡河	你就嘗試渡河	nahocu aothomu supihi.	你就來接電話	naho cu m'ecihi to c'oeha.
+801	'otena sola na'no bonu no kamcia, la asngucu tohisi.	不要再喜歡吃糖，要常刷牙。	不要再喜歡吃糖，要常刷牙。	'otena sola na'no bonu no kamcia, la asngucu tohisi.	沒有人會愛吃甘蔗，所以常被罵。	teav'a 'aafofou to cuku, la'so aot'ou to ngucu.
+802	isi aululua si 'o'oko.	他善待學生。	他善待學生。	isi aululua si 'o'oko.	小朋友很開心。	ita na'na to'upneni si 'o'oko.
+803	micu ahoi bohngu si oko.	那小孩開始會認人了	那小孩開始會認人了	micu ahoi bohngu si oko.	那孩子已經全身赤裸	micu tma'hongu ta oko si ita tma'ongu.
+804	mi'o bonu to f'ue ne taseona.	早上我吃了地瓜。	早上我吃了地瓜。	mi'o bonu to f'ue ne taseona.	早上我吃地瓜	os'o oepunga 'o f'ue ne taseona.
+805	la himeu 'o c'oeha homo smunu'u.	下大雨時河水會混濁。	下大雨時河水會混濁。	la himeu 'o c'oeha homo smunu'u.	河流乾涸時會氾濫。	ho mo chumu 'o chumu to c'oeha.
+806	leata asngucva cohmi 'o chachae.	他常常給菜園澆水。	他常常給菜園澆水。	leata asngucva cohmi 'o chachae.	他常常在菜園裡烤火。	lata asnguya poa chumu 'o chae.
+807	to'si ta ehungu no fuhfuhu si yosku ta ecuu.	丟一下野蕉的葉子給池塘的魚。	丟一下野蕉的葉子給池塘的魚。	to'si ta ehungu no fuhfuhu si yosku ta ecuu.	把魚放在籃子的後面。	teav'a toveucneni ta yosku ta cnguu si saitungu.
+808	mi'o emoovei ho mi'o baito tomo conci fkoi.	我看到一條蛇，就轉身折返回去。	我看到一條蛇，就轉身折返回去。	mi'o emoovei ho mi'o baito tomo conci fkoi.	我看見蛇就跑回來	os'o ahta 'afeifei'i 'o fkoi, mi'o yuftongi ho maine'e.
+809	mitacu asa'o ta isi esvuta ci hie.	他超過了規定的日子。	他超過了規定的日子。	mitacu asa'o ta isi esvuta ci hie.	他已經超過他預定的日子。	ita cu aupcio 'o mo psoelu.
+810	uka ci nama esvuta ci hie, lahe lua peepeuci hola ma'na'o.	沒有什麼特定的時機，他們在休閒的時候較容易吹奏。	沒有什麼特定的時機，他們在休閒的時候較容易吹奏。	uka ci nama esvuta ci hie, lahe lua peepeuci hola ma'na'o.	已經下雨了，今天天氣很冷。	o'a mo atva'esa na'no macucuma, lahe kaebu pasunaeno ho mo 'oanu.
+811	os'o esvuta 'o te hioa.	我說定要做的事。	我說定要做的事。	os'o esvuta 'o te hioa.	我告知要做的工作。	os'o eusvuta na te hioa.
+812	te'o eno eusvuta suu, 'ala titho to pai hohu'euca.	我告訴你，是用糯米做的。	我告訴你，是用糯米做的。	te'o eno eusvuta suu, 'ala titho to pai hohu'euca.	我要告訴你，把稻穀播種。	os'o eusvuta na'a, zou ton'u no tesi faina.
+813	ohola paceofa ne noana'o 'o feo'u.	以前把獸皮當棉被蓋	以前把獸皮當棉被蓋	ohola paceofa ne noana'o 'o feo'u.	以前把獸皮當衣服穿	ohola titha peepungneni 'o feo'u no pai.
+814	sia na te mahcinghi ta e'e'u?	誰要幫我翻譯？	誰要幫我翻譯？	sia na te mahcinghi ta e'e'u?	誰會聽我的話？	sia na te'o pahcingheni a'o?
+815	la koa 'oha nananghinghia to mo nanat'ot'ohaesa 'o la makitkiti.	小氣致使兄弟姊妹無法和睦共處。	小氣致使兄弟姊妹無法和睦共處。	la koa 'oha nananghinghia to mo nanat'ot'ohaesa 'o la makitkiti.	開墾者也不願意尊敬耕作的人	isi pa'hi'upneni to haah'o 'o mo na'no yu'futngu.
+816	zou hahocngu si motoyu	motoyu是男生嗎？	motoyu是男生嗎？	zou hahocngu si motoyu	Motoyu是男的	zou haahocngu homo haengu 'e motoyu?
+817	mo pio na mimu nanat'ot'ohaesa?	你有幾個兄弟姐妹？	你有幾個兄弟姐妹？	mo pio na mimu nanat'ot'ohaesa?	你們在祈求甚麼？	mo atutu 'o aha'va hahocngu ho haahocngu?
+818	panto la yainca ci ongko ne saviki nanuhtu.	山美部落有人名叫Nanuhtu	山美部落有人名叫Nanuhtu	panto la yainca ci ongko ne saviki nanuhtu.	有的人很會說話。	lahe conoeva 'o nanautu to tuthuca no hcuyu.
+819	mo mapoponeo 'o ceonu ne ngeesangsi.	平地的路是平坦的	平地的路是平坦的	mo mapoponeo 'o ceonu ne ngeesangsi.	平地有路	mo soe'os'o 'o ceonu ne ngeesangsi.
+820	lako oengutu no maspio homo yofna?	你晚上幾點睡覺？	你晚上幾點睡覺？	lako oengutu no maspio homo yofna?	晚上你會睡九小時嗎？	mo mainci miko oengutu ne yofna?
+821	micu sasmoyusku 'o mo'o.	mo'o 已經成年	mo'o 已經成年	micu sasmoyusku 'o mo'o.	Mo'o已經咬人了	mita cu yupa mateno 'e mo'o.
+822	mi'o supeohu to fatu ne mi'o toalungu.	我釣魚時從石頭上摔下。	我釣魚時從石頭上摔下。	mi'o supeohu to fatu ne mi'o toalungu.	我釣魚時掉到石頭	mi'o m'ecihi to fatu ne mi'o yosku.
+823	mi'o baito to mo tacvoh'i ci fkoi.	我看見了一條長長的蛇。	我看見了一條長長的蛇。	mi'o baito to mo tacvoh'i ci fkoi.	我看見一隻長的蛇	os'o honga 'o mo meoisi fkoi.
+824	mo na'no tacvoh'i 'e kosu.	這個鉤子很長。	這個鉤子很長。	mo na'no tacvoh'i 'e kosu.	鉤子很長	mo na'no langheu 'e hcuyu.
+825	talui co oko mo mongsi.	注意聽有小孩在哭。	注意聽有小孩在哭。	talui co oko mo mongsi.	聽那小孩在哭	temala tmalu si mo mongsi ci oko.
+826	yaeza poa tmalu 'o nanghia'u.	也讓我的朋友聽。	也讓我的朋友聽。	yaeza poa tmalu 'o nanghia'u.	也可以叫我的弟弟聽。	isi tmopsu to mao'oahngu a'o.
+827	ita toniovi 'o 'o'otohva.	他洗碗盤。	他洗碗盤。	ita toniovi 'o 'o'otohva.	他在上方射擊。	ita tonkinki 'o takubingi.
+828	a'eni, mamo totoefungu ta ciengona ta fatu.	在這裡，原來躲在石頭的後面。	在這裡，原來躲在石頭的後面。	a'eni, mamo totoefungu ta ciengona ta fatu.	為了這個，石頭的斜面被撞到。	'a eno tan'e 'o isi nopeopeoha to fatu.
+829	mo totoefungu ta feongo 'o puktu.	松鼠躲在洞裡	松鼠躲在洞裡	mo totoefungu ta feongo 'o puktu.	松鼠在洞裡面	mo nos'oyu to feongo 'o ceoyu.
+830	mo yone papai ho tum'um'u to taikong 'o ino.	媽媽在田裡採胡蘿蔔。	媽媽在田裡採胡蘿蔔。	mo yone papai ho tum'um'u to taikong 'o ino.	媽媽在田裡拔豆子	isi tvici to ino si kukuzo.
+831	mita tuocosu no ceono uhne psoseongana.	他在問去阿里山的路	他在問去阿里山的路	mita tuocosu no ceono uhne psoseongana.	他在阿里山向下走路	mita ma'eac'o to ceonu ne apihana.
+832	os'o yupteiluneni 'o voyu ne mi'o mam'eti.	我巡陷阱時遇到Voyu。	我巡陷阱時遇到Voyu。	os'o yupteiluneni 'o voyu ne mi'o mam'eti.	我攀登時碰到Voyu。	os'o yupihia 'o voyu ne mi'o mamtesngusngu.
+833	uh tan'e ho yusuhngu.	來這裡坐下。	來這裡坐下。	uh tan'e ho yusuhngu.	來這裡坐著	tako yusuhngu ta'e.
+834	maitan'e, mo su'eusu to yonghu ci yusu.	現在牠穿著美麗的衣服。	現在牠穿著美麗的衣服。	maitan'e, mo su'eusu to yonghu ci yusu.	今天，背山風吹來了	mita yusu no cou maitan'e.
+835	mo mafufuhngoya si yususu.	你的衣服摻雜紅色。	你的衣服摻雜紅色。	mo mafufuhngoya si yususu.	你的褲子鬆動了	isi pa'hiteufza co yususu suse'eosu.
