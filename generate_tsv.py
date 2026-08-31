@@ -301,6 +301,9 @@ def process_finetune(finetune_dir, dir_name, prefix):
         with open(config_path, "w", encoding="utf-8") as f:
             f.write(text)
 
+        with open(config_path) as f:
+            config = json.load(f)
+
     if not run_is_standard(config):
         myprint(
             f"{finetune_dir} is not a standard run"
