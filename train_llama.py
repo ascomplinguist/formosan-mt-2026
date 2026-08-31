@@ -60,7 +60,7 @@ def main():
     if free / total < 0.9:
         print("You should have a look what's occupying all your VRAM")
 
-    with open(CONFIG_PATH, "r") as f:
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         config = json.load(f)
 
     MODEL_NAME = config["model_name"]
