@@ -294,7 +294,12 @@ def process_finetune(finetune_dir, dir_name, prefix):
         with open(config_path) as f:
             config = json.load(f)
     except:
-        myprint(f"{finetune_dir}: config.json unreadable; skipping...", finetune_dir)
+        myprint(f"{finetune_dir}: config.json unreadable; trying CP950 to UTF-8 conversion...", finetune_dir)
+        with open(config_path, "r", encoding="cp950") as f:
+            text = f.read()
+
+        with open(config_path, "w", encoding="utf-8") as f:
+            f.write(text)
 
     if not run_is_standard(config):
         myprint(
