@@ -290,8 +290,11 @@ def process_finetune(finetune_dir, dir_name, prefix):
         myprint(f"{finetune_dir} does not contain a config.json; skipping...", finetune_dir)
         return []
 
-    with open(config_path) as f:
-        config = json.load(f)
+    try:
+        with open(config_path) as f:
+            config = json.load(f)
+    except:
+        myprint(f"{finetune_dir}: config.json unreadable; skipping...", finetune_dir)
 
     if not run_is_standard(config):
         myprint(

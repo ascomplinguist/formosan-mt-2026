@@ -356,15 +356,15 @@ def main():
         tokenizer.save_pretrained(f"{save_dir}/interrupted")
         trainer.save_state()
         config["commit"] = COMMIT_HASH
-        with open(f"{save_dir}/config.json", "w+") as f:
-            json.dump(config, f)
+        with open(f"{save_dir}/config.json", "w+", encoding="utf-8") as f:
+            json.dump(config, f, indent=2, ensure_ascii=False)
         raise KeyboardInterrupt
 
     trainer.save_model(f"{save_dir}/final")
     tokenizer.save_pretrained(f"{save_dir}/final")
     trainer.save_state()
     config["commit"] = COMMIT_HASH
-    with open(f"{save_dir}/config.json", "w+") as f:
+    with open(f"{save_dir}/config.json", "w+", encoding="utf-8") as f:
         json.dump(config, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":

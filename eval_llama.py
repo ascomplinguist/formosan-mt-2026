@@ -52,7 +52,7 @@ def main():
     FINETUNE_DIR = eval_config.get('finetune_dir', None) or LAST_RUN_SAVE_DIR
     CHECKPOINT = f"{FINETUNE_DIR}/{eval_config['checkpoint']}"
 
-    with open(f"{FINETUNE_DIR}/config.json", "r") as f:
+    with open(f"{FINETUNE_DIR}/config.json", "r", encoding="utf-8") as f:
         config = json.load(f)
 
     LANGUAGE_NAME_EN = eval_config.get("eval_lang_en", None) or config["lang_en"]  # languages to evaluate on
@@ -118,7 +118,7 @@ def main():
         scores["commit"] = COMMIT_HASH
 
         file_prefix = "test" if USE_TEST_SET else "eval"
-        with open(f"{CHECKPOINT}/{file_prefix}_scores_{lang}.json", "w+") as f:
+        with open(f"{CHECKPOINT}/{file_prefix}_scores_{lang}.json", "w+", encoding="utf-8") as f:
             json.dump(scores, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
