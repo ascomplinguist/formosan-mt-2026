@@ -5,7 +5,7 @@
     "Saaroa-u"
   ],
   "interleave_probs": [
-    1,
+    9,
     1
   ],
   "lang_code": "xsy-sxru",
@@ -30,5 +30,5 @@
     "'subset' is integer and used to restrict evaluation to a subset of the first 'subset' sentences",
     "lang_code is only used for save_dir and can be concatenated"
   ],
-  "commit": "93ccf54f5e080471e873cc1d52150ff4386441f2"
+  "commit": "ab6eb48fe745e121425d33148abaede1fe4e3f48"
 }
