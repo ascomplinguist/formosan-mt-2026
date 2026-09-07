@@ -1,0 +1,387 @@
+	source	zh	to_zuyu_msg	to_zh_msg	to_zh	to_zuyu
+0	amihlaka cucu'u maci usuaka 'ahlipapu ia masukasuami.	有人說有兩個髮漩的人很頑皮不聽話。	有人說有兩個髮漩的人很頑皮不聽話。	amihlaka cucu'u maci usuaka 'ahlipapu ia masukasuami.	傳說人用頭時是吐口水的。	marua cucu'u maru usua 'ukuhlucu tam tapikakua tumimahla.
+1	tam marumuku a ahlainana rumatavuhliu 'ahluku.	女生很喜歡擦紅指甲。	女生很喜歡擦紅指甲。	tam marumuku a ahlainana rumatavuhliu 'ahluku.	女生很喜歡紅色的。	marumuku ahlainana marumuku taraunu.
+2	musala kiira mahlukua vuuvulunga puailicu 'aimanai.	昨天去山上，可能回來了。	昨天去山上，可能回來了。	musala kiira mahlukua vuuvulunga puailicu 'aimanai.	昨天去山上買頭。	kiulusu kicauka vuuvulunga puaili manai.
+3	maru matumuhlu a 'alaliamu ma taluhlu'ua.	垃圾桶有很多蒼蠅。	垃圾桶有很多蒼蠅。	maru matumuhlu a 'alaliamu ma taluhlu'ua.	有許多在水裡。	taapatu matumuhlua 'aramuta.
+4	'makialangu a tamu'u ahlainana 'angaa, ikakuana hlimia.	奶奶準備甕要放嘴嚼酒。	奶奶準備甕要放嘴嚼酒。	'makialangu a tamu'u ahlainana 'angaa, ikakuana hlimia.	叔母的女兒懷孕了二個孩子。	hlipatalavusa ahlainana maivururunga likihli.
+5	tam 'arimahlunga langica arinaani.	今天的天氣很晴朗。	今天的天氣很晴朗。	tam 'arimahlunga langica arinaani.	今天天氣很冷。	arinaaniia tahliaria tam mavacangu.
+6	matiakuhla kiamanai hluuhlungunan 'arisakai?	溪裏還能捕到蝦子嗎？	溪裏還能捕到蝦子嗎？	matiakuhla kiamanai hluuhlungunan 'arisakai?	如果是水的話,會不會掉下來?	macahlia kani'i matisangalu 'aira?
+7	cuvu'u pahlataurua culahlu hla imaru tam sa'aua 'aucuvu'u.	竹筍、大骨和肥肉一起煮這樣的筍湯很好喝。	竹筍、大骨和肥肉一起煮這樣的筍湯很好喝。	cuvu'u pahlataurua culahlu hla imaru tam sa'aua 'aucuvu'u.	煮的頭很乾淨,而且吃得非常美味。	racu'u 'asaru hlisuraku hla papa'a pasamiaisa kani'i sa'au mavacangu miama.
+8	kani'i 'avangana anana nana hlipatarucuvungun sikua hlakusaiiana hla 'isiparutunumu.	這間餐廳結合中式和西式的風格。	這間餐廳結合中式和西式的風格。	kani'i 'avangana anana nana hlipatarucuvungun sikua hlakusaiiana hla 'isiparutunumu.	這支飛機是用來阻止和風的。	kani'i tatamana miararuma sitahlianani siahlaahlahlana sikilaliali 'aisi.
+9	maci ulima vulahlu ia makatavahlihla 'avulaki.	油桐在五月開花。	油桐在五月開花。	maci ulima vulahlu ia makatavahlihla 'avulaki.	5月份是avulaki開花的季節。	vulahlu vulahluna maci vulahlua vulahlura.
+10	'ucahlu ia mahluhluhlungua 'i'ilipi masuisaia tatai hlavatu umauisana takuhlu.	'ucahlu樹都生長在溪邊陰涼的地方，果實像番石榴，狐狸喜歡吃。	'ucahlu樹都生長在溪邊陰涼的地方，果實像番石榴，狐狸喜歡吃。	'ucahlu ia mahluhluhlungua 'i'ilipi masuisaia tatai hlavatu umauisana takuhlu.	'ucahlu是深山的類,牠的果子可以吃到。	hluuhlungu kiu'u ucahluia patuku hluuhlungu ausii mahluarianu tamisa 'avangu marumuku.
+11	varu'ucuka sitakuamia kani'inani.	現代的做法是新式的。	現代的做法是新式的。	varu'ucuka sitakuamia kani'inani.	現代的商業變化。	macuka sitahlianiia tahlakupanaia rianu.
+12	tam mavacangua tapau 'upiri tatapaa.	山雞的顏色很漂亮有斑點。	山雞的顏色很漂亮有斑點。	tam mavacangua tapau 'upiri tatapaa.	蝶的顏色很漂亮。	tam mavacangua tapauisa hlatukuhluka.
+13	vungu'uisa kalavunguna maru usua 'uungu.	牛的頭上有兩隻角。	牛的頭上有兩隻角。	vungu'uisa kalavunguna maru usua 'uungu.	牛頭上有兩隻角。	vunguisa kalavungua usua pungusungu.
+14	Hlavuhlavu maru usua, ucani ma Cunguru, usua ia ma Hlakuruca.	Hlavuhlavu有兩處，一是在Cunguru，二是在六龜。	Hlavuhlavu有兩處，一是在Cunguru，二是在六龜。	Hlavuhlavu maru usua, ucani ma Cunguru, usua ia ma Hlakuruca.	Hlavuhlavu有二個,一個在Cunguru,另兩個在Hlakuruca。	Hlavuhlavu usua pahlumia, ucani pi Cunguru sia usua pi susukasu.
+15	umumaisa Piacu a Tapuhlungucu.	Tapuhlungucu是Piacu的田地。	Tapuhlungucu是Piacu的田地。	umumaisa Piacu a Tapuhlungucu.	Piacu住在Tapuhlungucu。	Tapuhlungucu ia hlilumuka Piacu.
+16	kuakucua aanuna maraanaasu.	食物要吃完，否則浪費。	食物要吃完，否則浪費。	kuakucua aanuna maraanaasu.	食物吃不完,會長。	kuatumuhlu uuru maci kuupatakua.
+17	kuacici arinaani.	今天不會熱。	今天不會熱。	kuacici arinaani.	今天沒有下雨。	kuaru arinaani tumahlupungu.
+18	tapukakalina maci ahla'amisana ia takacicihli maci'i ka mavuhlu angahlu kucuuamacu.	黃鼠狼在冬季時自己會死，因為太肥走不動。	黃鼠狼在冬季時自己會死，因為太肥走不動。	tapukakalina maci ahla'amisana ia takacicihli maci'i ka mavuhlu angahlu kucuuamacu.	夏天的淡雨時,風很可怕,因為到冬天已經沒有氣溫了。	vuuvulunga maci ahla'amisana ia marahlupuka miatapulu musalasala.
+19	hlikumita ahlaama alaliamu sumasasamusu ramucu, minisua patuahlu uapauna.	祖先看到蒼蠅搓手，就發明了鑽木取火。	祖先看到蒼蠅搓手，就發明了鑽木取火。	hlikumita ahlaama alaliamu sumasasamusu ramucu, minisua patuahlu uapauna.	祖先認為吸血是用來減低尿液的行為。	kumita ahlama 'uravanguia hlipatuahluvucu picuami kiu'u apuhlu.
+20	ahlahlamua naanina ka sasahlumua.	因為這裡有水，所以有很多鳥。	因為這裡有水，所以有很多鳥。	ahlahlamua naanina ka sasahlumua.	這裡的水很淡。	ngahla naniia sahlumu ka pi'ukuhlu ahlamu.
+21	sasua ahlaluaku hlahlusa hla cacihlia hlimilavau.	我有兩個哥哥和一個妹妹。	我有兩個哥哥和一個妹妹。	sasua ahlaluaku hlahlusa hla cacihlia hlimilavau.	我有二位哥哥,另一個是弟弟。	marua ucani ahlaluaku ahla uahlalua hlimilavau nua.
+22	kani'i tauhlukainaia ahlamuisa hlimilavau hlahlusa.	這顆球是弟弟的玩具。	這顆球是弟弟的玩具。	kani'i tauhlukainaia ahlamuisa hlimilavau hlahlusa.	這隻小鷹是弟弟的鳥。	kani'i 'aira takuahlaisa hlimilavauna.
+23	ahlasungusungu a Paliina muacukuhlu pataramuaru ihlaku.	我很討厭Palii 來耽誤我。	我很討厭Palii 來耽誤我。	ahlasungusungu a Paliina muacukuhlu pataramuaru ihlaku.	Palii 偷想要跟我出去。	matiasuruaku palina paalali ihlaku.
+24	miungucua ahlavungulaia vuvulunga makamahlungu makatavahlihla.	春天到了，山上開滿了花。	春天到了，山上開滿了花。	miungucua ahlavungulaia vuvulunga makamahlungu makatavahlihla.	春天到了,山上要做祭典。	miungucua ahlavungulaia mahlulupungicu vuuvulunga.
+25	kuaku akikirimi.	找一找。	找一找。	kuaku akikirimi.	我不抓。	kikilaliahlu.
+26	ikaru takucu akitikiti.	竹雞已經少見了。	竹雞已經少見了。	ikaru takucu akitikiti.	工作已經沒能看得出來了。	kucuakitakita racu'uka.
+27	kucuami akuakuan cucu'uka uka'acua mamainisa ahlaina.	他說不請客，因為他沒有女兒了。	他說不請客，因為他沒有女兒了。	kucuami akuakuan cucu'uka uka'acua mamainisa ahlaina.	我說的不夠,因為沒有女孩子了。	kuakuisana uka'acua mamaini.
+28	akurangu makulai masuru.	直接炭烤比較快熟。	直接炭烤比較快熟。	akurangu makulai masuru.	抓緊,趕快。	matalakiahlu a vicuraia pahlivuru.
+29	mitaisa umusahlu alaapilisi ka saruu maraapihli miivangaru.	下大雨使土石滑動造成坍方。	下大雨使土石滑動造成坍方。	mitaisa umusahlu alaapilisi ka saruu maraapihli miivangaru.	下很久的雨,草掉下來了。	umusahlu angatua milakua vatu'u muvirisi.
+30	makiatutukua valacukuna kiatahluru alialimuaisa.	五色鳥在啄洞築巢。	五色鳥在啄洞築巢。	makiatutukua valacukuna kiatahluru alialimuaisa.	子跳躍,因為他的聲音很低。	taruvana hlipatuaiiailia maau.
+31	marua makani'i usua kiana ripasu alumau.	這裡有2支箭，拿去吧。	這裡有2支箭，拿去吧。	marua makani'i usua kiana ripasu alumau.	有二隻小雞爬上去。	marua kani'i usua 'aripuhlu, alumalai.
+32	parituahlu kani'i marua 'intavangu matu'u cu mau alu uumu.	剛好現在桌上有芋頭，你拿去吃吧。	剛好現在桌上有芋頭，你拿去吃吧。	parituahlu kani'i marua 'intavangu matu'u cu mau alu uumu.	現在有30個米可以吃。	mavacangua kani'i maru paahlivinga uumu.
+33	maci kilaliali ahlamaia tumua apialangu alungu hla mapaci uuru papa'a.	祭祖要準備火把和酒飯肉。	祭祖要準備火把和酒飯肉。	maci kilaliali ahlamaia tumua apialangu alungu hla mapaci uuru papa'a.	祖先祭典時要先木瓜,然後烤肉。	tumua tata'uhlana hlipusipi umaiapu uumu papa'a.
+34	makaria hlimilavau amahlu muasalaita maataata muahluahlupu.	賢弟余玉乾邀約明日帶狗去捕獵。	賢弟余玉乾邀約明日帶狗去捕獵。	makaria hlimilavau amahlu muasalaita maataata muahluahlupu.	弟弟要先開口,我們明天就要一起走。	sapauahlaka hlimilavauna 'u'uracu umala tuturu umaiatuku umaupangu tasau.
+35	anauisa tamu'ua kani'i kuacapana.	這菸斗是阿公的寶物。	這菸斗是阿公的寶物。	anauisa tamu'ua kani'i kuacapana.	祖父的湯,現在沒有味道。	kani'i taapihliia hlitumahlaisa tamalungamana.
+36	kutuahlua tutu'u masu kiu'una anuau.	果核不能吃。	果核不能吃。	kutuahlua tutu'u masu kiu'una anuau.	樹果汁不夠肥,不能吃得飽。	kusunguia uka'a uumu.
+37	hliparahlua anuna mataingalu macikuanu ku'aiuatuahlu takuliacu.	東西放久了最好別吃，避免食物中毒。	東西放久了最好別吃，避免食物中毒。	hliparahlua anuna mataingalu macikuanu ku'aiuatuahlu takuliacu.	anau懷孕了會比較老,不會上床睡。	tahlakuhlua langicana mavacangu kuau'ai kupakatavu aanu.
+38	kukiakarukuhlu pukakua savuanu apacarumu.	不要經常噴農藥，會使人生病。	不要經常噴農藥，會使人生病。	kukiakarukuhlu pukakua savuanu apacarumu.	不要亂吐,藥會生病。	kukia kuraturukuhlu rurupurukuhluka macarumu cucu'u.
+39	aparacuaku hlatikasu tumua lumalili savuanu.	我被蚊子咬，要抹藥膏。	我被蚊子咬，要抹藥膏。	aparacuaku hlatikasu tumua lumalili savuanu.	我把子綁緊,因為我要換藥。	umarumiaku 'amisana pahlaluhluvu ihlaku.
+40	aparamanga'a a mapacina.	酒會讓人變傻。	酒會讓人變傻。	aparamanga'a a mapacina.	把子洗乾淨。	maacuka hlicuhlukuia apacapucupungu.
+41	piratumuhlu vahlituku apatama'iaru.	給多一點錢讓他勤勞一點。	給多一點錢讓他勤勞一點。	piratumuhlu vahlituku apatama'iaru.	工人花了很多錢。	aparikiia vahlituku piatukuhluisana taku'i'iaru.
+42	kani'i aanuna apatavilau taluhlu'ua tam anau.	這食物被丟到垃圾桶，十分可惜。	這食物被丟到垃圾桶，十分可惜。	kani'i aanuna apatavilau taluhlu'ua tam anau.	這種菜要換成麵包,很好吃。	macahlia kana'ana hlipatuaiiailia tapuhlavucua hlikutaku.
+43	uka'a pasamiaisa uluvuna maci maahlu vulahlu ka apikaunga.	巫師在十月時沒有空，要忙著進倉祭。	巫師在十月時沒有空，要忙著進倉祭。	uka'a pasamiaisa uluvuna maci maahlu vulahlu ka apikaunga.	黃蜂在月亮沒有辦法。	maci uamasahlangu maci vulahlu uka'a taiacu musala sikilaliali.
+44	umalana sahlumu apimaisana.	拿水給他喝。	拿水給他喝。	umalana sahlumu apimaisana.	他拿著水去洗。	paima sahlumu apai mima.
+45	apuangahlu mana rumahlauka kunakiangahlu kipuhlu.	讓他一次，因為他還沒有勝選過。	讓他一次，因為他還沒有勝選過。	apuangahlu mana rumahlauka kunakiangahlu kipuhlu.	要提前用,不然會燒到。	aparasahlua kana'ana kunaia kicaalu.
+46	apaihlipihla mahlialuvuna ariacapi apukakua.	屋頂有危險的東西要拿下來，不然會被打到。	屋頂有危險的東西要拿下來，不然會被打到。	apaihlipihla mahlialuvuna ariacapi apukakua.	那隻小雞躲在洞裡,一直叫人出門。	palialiuhlu'ai maci mara apaihlipihlaia alalungusu.
+47	ahla'amisana tumuakiia ma caruvu alasunguli.	冬季需要棉被來保暖。	冬季需要棉被來保暖。	ahla'amisana tumuakiia ma caruvu alasunguli.	冬季要在包裡休息。	maci 'amisanaia tumua kiruvana paratahlukutana.
+48	ngahlaisa atamahlunga kani'i ahlamuna?	這玩具是誰製作的？	這玩具是誰製作的？	ngahlaisa atamahlunga kani'i ahlamuna?	這個水果是什麼?	ngahlaisa hlitakuhlivuuvulunga kani'i?
+49	paapaci turukuka atuvutuvuu.	剁雞肉。	剁雞肉。	paapaci turukuka atuvutuvuu.	把子打死。	pahlatuhlu'u turukuka.
+50	auniini ka langican arinaani?	今天天氣怎麼樣？	今天天氣怎麼樣？	auniini ka langican arinaani?	今天天氣如何?	ausii auhla taihlicua langica arinaani?
+51	aluvungu a auruhlaa tamu'u hlahlusana masu'u tataisa.	阿公把大粒的種子收藏起來。	阿公把大粒的種子收藏起來。	aluvungu a auruhlaa tamu'u hlahlusana masu'u tataisa.	祖父母給紅染了大粒的果實。	hliumulungicu a tamu'u hlimilavauna 'arisapusa.
+52	kuaku avahlauvau.	我不舒服。	我不舒服。	kuaku avahlauvau.	我不睡了。	kuaku maratara'uhla.
+53	caacalaisa kana'ana uumu.	他隨便吃。	他隨便吃。	caacalaisa kana'ana uumu.	他吃錯了東西。	kuaruasamusukuraisana uumu.
+54	ahlamaru a cacapukana.	把芒草園燒了。	把芒草園燒了。	ahlamaru a cacapukana.	cacapukana是鳥類的祖先。	sacuhlucua suusungu.
+55	pakisuahlai tainini a caihli amau?	請問你爸爸幾歲？	請問你爸爸幾歲？	pakisuahlai tainini a caihli amau?	請問一下,爸爸幾歲了?	pakisuahlai umarua amainikia?
+56	calingakiu'u vurauhluna tam mavacangu savuanu.	牛樟菇是高級的藥品。	牛樟菇是高級的藥品。	calingakiu'u vurauhluna tam mavacangu savuanu.	樹的果實很好吃。	'aira cupuisa tataisa marapuvu savuanu.
+57	kiariarika tumahlauka caracu tammakua carumu maciumaracu.	早期，到處都有蝨子，而且咬人會痛。	早期，到處都有蝨子，而且咬人會痛。	kiariarika tumahlauka caracu tammakua carumu maciumaracu.	以前很多,吃太多就會生病。	kiariarika marua hlikutakuli'ili umarua carumu umacarumu.
+58	caracungu ia hliarumia taruvuka rupiri kuhlu hlamama kiariari.	caracungu是從前祖先遮雨用具。	caracungu是從前祖先遮雨用具。	caracungu ia hliarumia taruvuka rupiri kuhlu hlamama kiariari.	caracungu是以前老人家用竹製的。	caracunguia siara'aisaka ahlama kiariari.
+59	hlimaruaru naani a ahlaama kiariari, ta'iaraisaka marutumuhlua caraku.	祖先曾住過這裡，所以很多石牆。	祖先曾住過這裡，所以很多石牆。	hlimaruaru naani a ahlaama kiariari, ta'iaraisaka marutumuhlua caraku.	以前祖先在這裡耕種過,有很多工作。	sasaruana ahlama kiariarika tumahlauisa 'ahlivina.
+60	ma sala'ana cucucu'ua mitahlahlu tarisia.	很多人在馬路上比賽跑步。	很多人在馬路上比賽跑步。	ma sala'ana cucucu'ua mitahlahlu tarisia.	那邊的人會跑到處打。	tumahlaua cucu'u mumua musapu sala'a tapiahlaahlu.
+61	hlipataili cucukiariari hliaracahlia sitakuamia asukucauta musuturu.	祖先流傳下來的生活智慧，值得我們學習。	祖先流傳下來的生活智慧，值得我們學習。	hlipataili cucukiariari hliaracahlia sitakuamia asukucauta musuturu.	以前老人家都把課程安排好,讓我們一起學習。	tumua ahlama kiariari marapihli ahlaamaia mavacangu kumatahlapu.
+62	makikikia tamatituna culahlu.	小狗正在啃骨頭。	小狗正在啃骨頭。	makikikia tamatituna culahlu.	小狗看完就哭了。	sumasilatuna 'ungutuhlu.
+63	tumaluluvuaku ihlau cumunguhlu mangusa.	我要幫你嫁接芒果。	我要幫你嫁接芒果。	tumaluluvuaku ihlau cumunguhlu mangusa.	我幫你米。	tumaluluvu aku ihlau mariangahlanga mangusa.
+64	tam maarumukuaku hlaamaamaku.	我最愛我的父母。	我最愛我的父母。	tam maarumukuaku hlaamaamaku.	我最喜歡做父親。	tam marumukuaku ama'a hlamama.
+65	kiavukuria hlaamamana.	老人在挖山薯。	老人在挖山薯。	kiavukuria hlaamamana.	挖頭是要用來做獵物的。	makiatuahlu hlamama 'avuca.
+66	musala ina'ana ruavici hlimilavau hlahlusana pakita macarumu.	媽媽帶著弟弟去看病。	媽媽帶著弟弟去看病。	musala ina'ana ruavici hlimilavau hlahlusana pakita macarumu.	媽媽帶ruahvici去弟弟家展示苦味。	salua ina'ana hlimilavauna musa kumita macarumu.
+67	marua cucu'u mucukuhlu mahlukua hlalanguana pauahlahlainami apuamimia ihlaku.	有人要作媒，去葉家幫忙說親。	有人要作媒，去葉家幫忙說親。	marua cucu'u mucukuhlu mahlukua hlalanguana pauahlahlainami apuamimia ihlaku.	有一個人來到社,向我祈求友善。	marua cucu'u maci tahlana musa saliaka tavahlihla.
+68	aunini'aiiau sasaruanana akuisa hlamunaa maru?	最初剛有地球的時候，不知道地球是怎麼樣？	最初剛有地球的時候，不知道地球是怎麼樣？	aunini'aiiau sasaruanana akuisa hlamunaa maru?	你想那個地方幾年前有荒廢了嗎?	hlamuna maci kiariari maci 'aisiisaka ausii ka rai?
+69	hlapucuhluka ngahla hluuhlungu hliahlumiaisa ausii tacuhluka.	hlapucuhluka溪因為形狀與原住民的蒸籠相似而得此名。	hlapucuhluka溪因為形狀與原住民的蒸籠相似而得此名。	hlapucuhluka ngahla hluuhlungu hliahlumiaisa ausii tacuhluka.	溪裡的樹是一般的花,像鐵一樣。	hlapucuhluka kani'inaia sarua ausii ausii tahlakuvungana maci avahlamu.
+70	hliangahlahlana hla'aluaka hlasunga.	hlasunga是hla'alua的發源地。	hlasunga是hla'alua的發源地。	hliangahlahlana hla'aluaka hlasunga.	拉阿魯族人以這個名字命名。	sasaruana hlasunga ka hla'alua.
+71	ara mamainicua hlataruau.	雉雞已經越來越少了。	雉雞已經越來越少了。	ara mamainicua hlataruau.	那個孩子是老鷹。	maacuka turukukana mahluatumuhlucu.
+72	tararahluvuia hlasali hlauvuhlana.	此地是郭家族的舊遺址。	此地是郭家族的舊遺址。	tararahluvuia hlasali hlauvuhlana.	桃源是青春的傳統。	naaniia hliparanaisaka hlamama Guuna.
+73	hluuhlungu urukuia hliangahlahlana sahlumuhlamu.	我的水源是從uruku溪出來的。	我的水源是從uruku溪出來的。	hluuhlungu urukuia hliangahlahlana sahlumuhlamu.	溪裡的水是我們喝過的。	hluuhlungu sahlumuisa uruku.
+74	ini hliangahli a kana'ana mucukuhlu?	他從哪裏來？	他從哪裏來？	ini hliangahli a kana'ana mucukuhlu?	他是從哪裡來?	ngahlaisa kana'ana mucukuhlu?
+75	ku'aimanai tarapasunguka hlikaraivacavacangiku.	應該不可能散掉，因為我裝得很好。	應該不可能散掉，因為我裝得很好。	ku'aimanai tarapasunguka hlikaraivacavacangiku.	我買的衣服不小心被撞到。	ku'ai tuapalihlava mavacangu sipacaka ihlaku.
+76	takuakulalungua 'ukuina atamahlungaku hlikuruta.	把山羊的皮剝下來做皮衣。	把山羊的皮剝下來做皮衣。	takuakulalungua 'ukuina atamahlungaku hlikuruta.	子很慢,我把它弄破。	ariatarua 'ukui patavuhliu marumia tikuru.
+77	hlipiliikua takupihli uuru.	我的碗裝滿飯。	我的碗裝滿飯。	hlipiliikua takupihli uuru.	我挑飯包起來。	takupihlikua hlipuhlua aanu.
+78	muaalanguamu arinaanika maiinicuka hlitakutunga kiira.	今天會很早結束，因為昨天只剩下一點的工作。	今天會很早結束，因為昨天只剩下一點的工作。	muaalanguamu arinaanika maiinicuka hlitakutunga kiira.	我們今天要先舉行訓練,因為昨天的工作很辛苦。	macu arinaniia umahlita caihlia kiira arinaani.
+79	hluka'a sapahliku asilauisa tamatitu makulai aramahlungu.	小狗舔我腳的瘡口，很快就康復了。	小狗舔我腳的瘡口，很快就康復了。	hluka'a sapahliku asilauisa tamatitu makulai aramahlungu.	我的腳受傷,要小狗幫忙洗。	tamatituna tamatitu sapahliku makulai.
+80	cucu'u pimacarumu cara'u takuliacuna tumua hluu'u mavahlauvau.	血癌的病人需要健康的骨髓。	血癌的病人需要健康的骨髓。	cucu'u pimacarumu cara'u takuliacuna tumua hluu'u mavahlauvau.	病患的皮膚可能沒有辦法治好,需要吸水。	macuka hliulavalavana tumua mara'u tataisa uruamimia 'uluvu.
+81	kucuialaalaa tamu'unaka tumahliamumuaru hlamuisa.	祖父母不再寂寞，因為有孫子。	祖父母不再寂寞，因為有孫子。	kucuialaalaa tamu'unaka tumahliamumuaru hlamuisa.	祖父沒有準備好打他的槍。	kucu maruravangu a tamutamu maraucuka hlimilavau.
+82	kani'inaia ihlamu mairahluka sariarusuisana.	這個本來是你們擁有的。	這個本來是你們擁有的。	kani'inaia ihlamu mairahluka sariarusuisana.	我們現在將要種植這種植物了。	kani'ina ia hlipatuaiiailia ihlau.
+83	tam mavacangua vuuvulungaisa kalingikuu.	花蓮的山很美。	花蓮的山很美。	tam mavacangua vuuvulungaisa kalingikuu.	木樹的果實很好吃。	tam mavacangua caalu tavahlihlana.
+84	mamasua karangukanguna 'amisana mangalaisana cumi'i.	karangukan樹冬天結果實，狗熊最喜歡吃。	karangukan樹冬天結果實，狗熊最喜歡吃。	mamasua karangukanguna 'amisana mangalaisana cumi'i.	子冬天會拿米。	karangukan kiu'u maci winterisunaia tamisa lamuruisakaisaka umu 'ukucu.
+85	karuhli maci mamasuia matumuhlua ahlamu umauisana.	karuhli樹結果實時，會有很多鳥來吃。	karuhli樹結果實時，會有很多鳥來吃。	karuhli maci mamasuia matumuhlua ahlamu umauisana.	爬樹的時候,會發現很多鳥在吃。	maci marucuka karuhli ia tam tumahlau ahlamu uumu.
+86	maialalangua ahlaluaku hlahlusanaka kiataraari maataata.	哥哥在準備明天的考試。	哥哥在準備明天的考試。	maialalangua ahlaluaku hlahlusanaka kiataraari maataata.	我哥哥明天要去考試。	tumatahlakua ahlaluana kicuuhla takuacapaci maataata.
+87	marisangihlia sasuanaka kihlusuhlusu tukamia.	那兩位因為挖超出彼此界限而吵架。	那兩位因為挖超出彼此界限而吵架。	marisangihlia sasuanaka kihlusuhlusu tukamia.	子在跟別人玩,一直用著。	marisangihlia kana'ana maruasapasapa arupakari.
+88	kirapicia kalavunguna kukusuhlamu.	你的牛踩破我們的水管。	你的牛踩破我們的水管。	kirapicia kalavunguna kukusuhlamu.	牛把我們寫的全部拉開。	sumasilaisa kalavungu sahli unuisa piipuisa.
+89	marua 'arivungua masala'a hlimiakukucu arumia ihlaku sapahlu kirapikulua.	我把馬路上突出的鐵絲用腳採彎。	我把馬路上突出的鐵絲用腳採彎。	marua 'arivungua masala'a hlimiakukucu arumia ihlaku sapahlu kirapikulua.	有一條子掉落在路上,我用腳把它弄尖。	umaruamia sala'a 'arivungua ihlaku mahlukua sapahlu.
+90	kiratutukapukia kiratukapu ku'aiarapipicika sapahlu.	要經常穿鞋子，腳就不會龜裂。	要經常穿鞋子，腳就不會龜裂。	kiratutukapukia kiratukapu ku'aiarapipicika sapahlu.	踩腳踏車不會傷。	kumakikiki maruka tukapuia kukia miapihlihli sapahlu.
+91	mahlavaua hlamamana kiravangaru apuapuhla.	老人酒醉，把灶坑踩垮了。	老人酒醉，把灶坑踩垮了。	mahlavaua hlamamana kiravangaru apuapuhla.	老人喝醉酒,風來了。	mahlavaua hlamamana kiatatipa.
+92	tam macahlia papu'u kisuahlahlama.	阿公很會講故事。	阿公很會講故事。	tam macahlia papu'u kisuahlahlama.	傳說的狗很會講故事。	tam macahlia tamu'una kisuahlahlama.
+93	kualalangukia uumuka mutuvavurungaita mahlukua takau.	要提早吃，因為我們要很早去高雄。	要提早吃，因為我們要很早去高雄。	kualalangukia uumuka mutuvavurungaita mahlukua takau.	要吃的東西不要太遠,我們會到高雄去了。	kuatiaalangukia uumu muacukuhlu mahlukuaita takau.
+94	kutakuliacua civukaku.	我吃壞了肚子。	我吃壞了肚子。	kutakuliacua civukaku.	我的肚子不好吃。	kukucacua civuka ihlakua.
+95	kuaviivikia calingaisa tasau.	狗的耳朵會動。	狗的耳朵會動。	kuaviivikia calingaisa tasau.	狗的耳朵一直著。	mutuatulu a calinga tasau.
+96	muluvalakua kuhluhluisa hlimilavauna.	弟弟的腳跟腫起來。	弟弟的腳跟腫起來。	muluvalakua kuhluhluisa hlimilavauna.	弟弟的鼻子在。	tumatavu a sapahluisa hlimilavauna.
+97	kuiasasukura piacuna miapualu 'ulusu.	piacu推不動柱子。	piacu推不動柱子。	kuiasasukura piacuna miapualu 'ulusu.	piacu不太喜歡碰到。	piacu apauturua kiu'u.
+98	kumakakalia hlaamaamana intavangu.	老人家正在挖芋頭。	老人家正在挖芋頭。	kumakakalia hlaamaamana intavangu.	爺爺在挖頭。	kiamairangu a hlamamana.
+99	kumakikisiaku kusungunaka patasilakacu.	鍋子生鏽了，我要刷鍋子。	鍋子生鏽了，我要刷鍋子。	kumakikisiaku kusungunaka patasilakacu.	我要地瓜,來做菜單。	marura'urucua takupihlina rumahlauaku ihlakua.
+100	maarumuku ka'aumu kumata vutukuhlu.	日本人喜歡吃生魚片。	日本人喜歡吃生魚片。	maarumuku ka'aumu kumata vutukuhlu.	我喜歡吃魚。	marumukua 'aumana umau vutukuhlu vutukuhlu.
+101	hlilumuka hlatunguna kupukaku sahlumuia mamaci.	種的菜不澆水會死掉。	種的菜不澆水會死掉。	hlilumuka hlatunguna kupukaku sahlumuia mamaci.	果種的樹,不喝水會死掉。	mamacia 'avasina maci kuapahluhlua sahlumuia mau'u.
+102	laihlacu ualua caihlisa kana'ana.	他十八歲了。	他十八歲了。	laihlacu ualua caihlisa kana'ana.	他的故事可能有八篇。	hlitumahlua kana'ana ucani.
+103	saliakuia maaru lalima cucu'u.	我的家有五個人。	我的家有五個人。	saliakuia maaru lalima cucu'u.	我的家裡共有五個人。	marua hlialimamana ualucucu.
+104	liilimalia taariauna.	你的床上都是臭蟲。	你的床上都是臭蟲。	liilimalia taariauna.	數量是500。	tavulunganu hliparuna ta'iara.
+105	uavuraku ihlau suliviaru limiku'ai.	我要給你玉米種子去種。	我要給你玉米種子去種。	uavuraku ihlau suliviaru limiku'ai.	我叫你去邊界的區。	uvura ihlaku ucani suvana mairangu.
+106	ravaunaia kiu'u masuisaia tam ritu'a kiariari aluisa lumapingi camai uuru.	ravau樹的果子很酸，醃鹽巴，古時拿來配飯吃。	ravau樹的果子很酸，醃鹽巴，古時拿來配飯吃。	ravaunaia kiu'u masuisaia tam ritu'a kiariari aluisa lumapingi camai uuru.	ravau樹的果實很,以前會加糖,才能吃飽。	ravaunaia kiu'u tam masuisa kuhlaisai kiariarika aruamia uuru.
+107	hlamama maci rahlua kuaruamia hlahlituisaia alunguhluisa hla aihla.	老人家如果很久不使用獵槍的時候，他會抹油後再存放起來。	老人家如果很久不使用獵槍的時候，他會抹油後再存放起來。	hlamama maci rahlua kuaruamia hlahlituisaia alunguhluisa hla aihla.	老人一輩使用槍,就會得到尾巴和火。	maci hlamamana maci hlaamacuia ahlahlapa kana'ana tumua 'uracuisana.
+108	maarua luulunga macii muutungusu salia.	有時候雲會停在屋頂。	有時候雲會停在屋頂。	maarua luulunga macii muutungusu salia.	有山在家裡停下來。	maru auhluacu ucani hliumahlia maruisana.
+109	maakarita'ai taruacuvunguita kana'a.	我們來約定好碰面的時間。	我們來約定好碰面的時間。	maakarita'ai taruacuvunguita kana'a.	我們會談很久,看他說的話。	kiaulusuita taratuahlu paahlivinga.
+110	maalikapua palina mima.	pali偷喝。	pali偷喝。	maalikapua palina mima.	pali偷吃了。	pali likapuu mima.
+111	maalualuaku maatahlamu.	我先試喝。	我先試喝。	maalualuaku maatahlamu.	我要打八隻飛鼠。	maulualangiku mana.
+112	maahla cucu'ua kaaiuna mauu maalalulumu maci uumu.	你看，那個人很餓，吃東西是用吞的。	你看，那個人很餓，吃東西是用吞的。	maahla cucu'ua kaaiuna mauu maalalulumu maci uumu.	那個人很會吃飯,但吃錯了就流血了。	mau hlamaia cucu'ua kana'ana kuakuurucu.
+113	musacuua alamuriahlainanaka marasaicu upalupalu.	那小姐等到不耐煩就走了。	那小姐等到不耐煩就走了。	musacuua alamuriahlainanaka marasaicu upalupalu.	那個女孩去世後長得很高興。	kualangukia ahlaina kana'ana puaili.
+114	tam macaalaiaku isanaka tama'iaru hla tararianu.	我很疼愛她，她很勤勞又聽話。	我很疼愛她，她很勤勞又聽話。	tam macaalaiaku isanaka tama'iaru hla tararianu.	我很會做事,而且辛苦。	tam marumukuaku a kana'ana tama'iaru takuacapacu tumatimahla.
+115	macaalai kuli'i.	愛護動物。	愛護動物。	macaalai kuli'i.	動物會咬人。	marumukua kuli'i.
+116	arinaaniia tam macicia langica.	今天天氣很熱。	今天天氣很熱。	arinaaniia tam macicia langica.	今天天氣很冷。	tumahlupungu sihlangua langica arinaani.
+117	auninia mahlukaakua taipaku?	要怎樣到台北？	要怎樣到台北？	auninia mahlukaakua taipaku?	你到台北要什麼?	ngahlaisa miararuma taipaku?
+118	maipuhlipuhliia kumana saliaka muacukuhlua cucuhliangahlimasaihla.	我還得把家掃乾淨，因為有客人要來。	我還得把家掃乾淨，因為有客人要來。	maipuhlipuhliia kumana saliaka muacukuhlua cucuhliangahlimasaihla.	家裡要擦乾淨,才不會燒焦。	hlumunguhluaku mana masalia maru'acua mucukuhlu.
+119	mavacangua naani mairaruruma.	這個地方蓋房子很好。	這個地方蓋房子很好。	mavacangua naani mairaruruma.	這裡很好居住。	mavacangua naani tatamusulua.
+120	mahlavaua cucu'ua kana'ana saahlukua ahlainaisa maivutungu.	那個人因喝醉了，被他老婆搯住了。	那個人因喝醉了，被他老婆搯住了。	mahlavaua cucu'ua kana'ana saahlukua ahlainaisa maivutungu.	那個人喝醉酒,他太太喝完就抽。	mahlavaua hlahlusa ahlainaisa hlipaupangahla ahlainaisana.
+121	mahlavauaku makahlu'alivatuaku mana.	我醉了，要睡一下。	我醉了，要睡一下。	mahlavauaku makahlu'alivatuaku mana.	我喝醉酒,還在睡覺。	mahlavaua 'aku mana.
+122	makahlua sirangukia uka'a utaruanaku.	你要睡旁邊一點，不然我沒有睡的地方了。	你要睡旁邊一點，不然我沒有睡的地方了。	makahlua sirangukia uka'a utaruanaku.	提前打球,我沒有時間。	makahluavacangikia paahlivinga kuaku pahlivingana.
+123	cucu'u maci mamaini manaia makahlumuhlumuhlumu.	人還小的時候都會尿床。	人還小的時候都會尿床。	cucu'u maci mamaini manaia makahlumuhlumuhlumu.	小孩子的時候,人會說話很清楚。	mamaini cucu'u macahlia makahlumuhlumukia.
+124	makakilingia ta'uhla kani'ina.	這個椅子很硬。	這個椅子很硬。	makakilingia ta'uhla kani'ina.	這個桌子很窄。	kani'i tatarua 'a'aratingi.
+125	makikia hlaamaamana vungu'u 'ukui.	那個老人在啃山羊頭。	那個老人在啃山羊頭。	makikia hlaamaamana vungu'u 'ukui.	老人去山豬的頭裡。	marasuuru a hlamamanaka 'ukui.
+126	malusangalua tamatituna aanu mamaini makuhlivu'u ramucuisa.	小狗搶小孩子的東西，使小孩的手被咬傷。	小狗搶小孩子的東西，使小孩的手被咬傷。	malusangalua tamatituna aanu mamaini makuhlivu'u ramucuisa.	小狗一直在摸小孩的肚子,但他的手被刺傷了。	tamatitu puliacu hlikapusa mamainina apaivuvurunga.
+127	malavalu a cucu'ua kana'ana.	那個人變了。	那個人變了。	malavalu a cucu'ua kana'ana.	那個人很害。	musiricua cucu'ua kaiuna.
+128	miamakia savuanu kani'inaka maliamulungusu mana hluruania.	要喝這藥，會延長壽命。	要喝這藥，會延長壽命。	miamakia savuanu kani'inaka maliamulungusu mana hluruania.	現在喝藥,還要先洗身體。	umaia kani'i savuanu paahlivinga pialangulangu.
+129	maria'urucukia mariasaputa.	繫皮帶要紮緊。	繫皮帶要紮緊。	maria'urucukia mariasaputa.	綁緊,不要掉落。	tumua 'arisaputacu.
+130	pakaacapacapangua mariavakusuka mamainina manga'amana.	小孩很幼稚不懂事，會亂打人。	小孩很幼稚不懂事，會亂打人。	pakaacapacapangua mariavakusuka mamainina manga'amana.	子很會打傷小孩,要讓他們做處罰。	mamainiia kuhlaamahlumahlungu ka arupakari.
+131	salua hlimilavauna lavukuna maripucu.	弟弟把沙子堆起來。	弟弟把沙子堆起來。	salua hlimilavauna lavukuna maripucu.	弟弟把菜都收起來。	kumakungutuhlua hlimilavauna 'arumu.
+132	pasamanganukia marivahlutuku ka alamuru hlahlusa.	年青人要努力賺錢工作。	年青人要努力賺錢工作。	pasamanganukia marivahlutuku ka alamuru hlahlusa.	訓練男士,要順著打角。	pasamanganukia hlamuna musala paahlivinga.
+133	marutihlu utuvua tikuruku.	衣服被甘蔗鈎到。	衣服被甘蔗鈎到。	marutihlu utuvua tikuruku.	把子削破。	marutihlu a tikuruna.
+134	maacua tikikuia masaliisii.	我的心很平靜。	我的心很平靜。	maacua tikikuia masaliisii.	我穿的衣服長得厚。	tam apaituahlimaua tukucuku.
+135	tam marumukua mamainina marunpatuku tunumu pasaulaula'u lavuku masapungu.	小朋友喜歡到海邊玩沙子。	小朋友喜歡到海邊玩沙子。	tam marumukua mamainina marunpatuku tunumu pasaulaula'u lavuku masapungu.	小孩子最喜歡放子去玩泡泡泡的。	marumukua mamainina muasasala mahlukua 'aumu tapiahlai.
+136	umacukakia tupuru masaru mama'ali'aika situaruru.	起來坐著，靠著背可能比較不會咳。	起來坐著，靠著背可能比較不會咳。	umacukakia tupuru masaru mama'ali'aika situaruru.	要吃完肥肉,才能有錢。	muasaulahlu tualuhlua milakusu'ai mana kuatapata.
+137	mataingalu masukucau maci musalasala.	走路比較安全。	走路比較安全。	mataingalu masukucau maci musalasala.	運動最好是走路。	muasaasalaia matahlupungu makahlivinga.
+138	mataula'u a tamatituna rumacapacapangu rumangahlu tukapu.	那個小狗愛玩，亂咬鞋子。	那個小狗愛玩，亂咬鞋子。	mataula'u a tamatituna rumacapacapangu rumangahlu tukapu.	小狗會亂跳,唱到歌。	tamatituna marumukua tamukuhlu umalalai takapuisa.
+139	maci mativui tuata'urucaia tumua matiakisumuru mahlatura.	如果要削製頭帶來編織，就要削厚一點，做起來才堅固。	如果要削製頭帶來編織，就要削厚一點，做起來才堅固。	maci mativui tuata'urucaia tumua matiakisumuru mahlatura.	跳舞時要用高的手。	maci marun hlipisi ia mahlukua tuma'uami tumamahlungu ia mahlatura.
+140	arinani matialu suhlatukariu tamcuaku masasangaru.	今天接到你的信我非常高興。	今天接到你的信我非常高興。	arinani matialu suhlatukariu tamcuaku masasangaru.	今天接到你的信,我非常高興。	arinaani matialu suhlatukariaku masasangaru.
+141	ahlamahlihlala marunhluhlungu kani'i maticani taiisa 'apasu tamu'uisaka 'amauranga.	這個地區是一個大平台，右側是溪流，住民有時會去捉魚蝦，發現一隻很大的怪螃蟹，而且是紅色的，所以此地取為祖螃蟹之意。	這個地區是一個大平台，右側是溪流，住民有時會去捉魚蝦，發現一隻很大的怪螃蟹，而且是紅色的，所以此地取為祖螃蟹之意。	ahlamahlihlala marunhluhlungu kani'i maticani taiisa 'apasu tamu'uisaka 'amauranga.	祖先曾經住過這裡,現在就遷移到此地了。	sasaruana naaniia tataisa marua hluuhlungu ucani ahlanu takuhlu maruisaka tarangau tamucu 'aparahlivuru.
+142	matumuhlua hlatikasu salia.	家裡蚊子很多。	家裡蚊子很多。	matumuhlua hlatikasu salia.	家裡有很多子。	tam matumuhlua 'asaruanaka salia.
+143	amisana mauruhla lalangica caalu.	合歡山冬天會下雪。	合歡山冬天會下雪。	amisana mauruhla lalangica caalu.	冬天,山上會起雨。	miiacaacuka 'amisana mucumua.
+144	maci hlamunau rupuhluau ka hlipicu mapacia ia hlaamaama ahla rahli ka mavavarua.	嚐新祭是指釀的酒剛出爐時，只有耆老或頭目才能嚐新的儀式。	嚐新祭是指釀的酒剛出爐時，只有耆老或頭目才能嚐新的儀式。	maci hlamunau rupuhluau ka hlipicu mapacia ia hlaamaama ahla rahli ka mavavarua.	如果我們年,被打到的小刀鳥是老人家或部落的羊。	sikilaliali tahluavaulana maci malilimucuamiia sipakamiaisa hlaamaama kiariaria.
+145	mavacangu a mi'a'aisa sala'ana ka, tumahla'u cucu'u miacaacalivi.	他在路上生意很好，因為很多人一直經過。	他在路上生意很好，因為很多人一直經過。	mavacangu a mi'a'aisa sala'ana ka, tumahla'u cucu'u miacaacalivi.	路的位置很好,因為很多人在走那邊。	mavacangua ta'iarana hlitakuahluisa tumahlaucu cucu'u miacalivi.
+146	kulimiapihlihlika 'alapicana.	蝙蝠是會飛的動物。	蝙蝠是會飛的動物。	kulimiapihlihlika 'alapicana.	山飛了。	'aapalapi ia miapihlihli.
+147	milihlau ka sala'a uka'a ka uamiaisa ka cucu'u.	路崩垮，人沒有路可以走。	路崩垮，人沒有路可以走。	milihlau ka sala'a uka'a ka uamiaisa ka cucu'u.	路一邊掉下去,沒有人要走。	milakuka sala'a uka'acua musala cucu'u miacapaci.
+148	ucani umana saparukucua mimiliki saparungahlacu mimili'a.	一個園地統統種李子，所以取都是李子的名字為地名。	一個園地統統種李子，所以取都是李子的名字為地名。	ucani umana saparukucua mimiliki saparungahlacu mimili'a.	一大堆草之後,一個子變成一大堆。	maruka hlilumuka sapikakakuacu.
+149	taisa 'aimanaia hlipituahluisa vutukuhluka mipikulua iacapaisa.	釣到的魚可能很大，魚竿都彎了。	釣到的魚可能很大，魚竿都彎了。	taisa 'aimanaia hlipituahluisa vutukuhluka mipikulua iacapaisa.	魚是一個大型的魚類,牠的體型像蛇一樣,飛得很遠。	matumuhlua 'aimanai vutukuhlu'ua vutukuhlu'ua 'arisakai.
+150	maniaku kupihlupasuia malivutuaku muaalimu.	雖然沒有錢，但我不要入贅。	雖然沒有錢，但我不要入贅。	maniaku kupihlupasuia malivutuaku muaalimu.	雖然我沒有打戰,但心裡還是痛。	manika uka'a vahlituku kuaku pahlivinga.
+151	mualaalangu kiia musala kuita pataruakuhla.	要提前走，不然會來不及。	要提前走，不然會來不及。	mualaalangu kiia musala kuita pataruakuhla.	要提前走,等一下我們會遇到。	pasakulaia muacuhlu'ai kucu'ai arauahlu.
+152	muaulusu a kana'ana ihlaku musiri.	他要跟我站在一起。	他要跟我站在一起。	muaulusu a kana'ana ihlaku musiri.	他跟著我走路。	patasuruakuisana.
+153	hliangahli ivavu mucapi.	從上面掉下來。	從上面掉下來。	hliangahli ivavu mucapi.	把它帶回來。	milakua ka uluti.
+154	mucapi mapuhlaru a luulungana.	雲從高降低到海拔低的地方了。	雲從高降低到海拔低的地方了。	mucapi mapuhlaru a luulungana.	風來了。	angahli langicana alangica miungu sasaruanana.
+155	mulala talimauna putapasii hlumanu.	鋤頭鬆掉，要用鐵片塞緊。	鋤頭鬆掉，要用鐵片塞緊。	mulala talimauna putapasii hlumanu.	下大便,被水滴流走。	maruravungu a calinga acahli tumua 'arivu.
+156	mucapia tapaiia'ana muriasu.	木瓜熟了，掉下來裂開了。	木瓜熟了，掉下來裂開了。	mucapia tapaiia'ana muriasu.	木桶掉下來了。	hlamamacua arisangu milakupuka.
+157	musala muriina mahluku hlamamaisa takuliliungu.	她們母女到娘家去玩了。	她們母女到娘家去玩了。	musala muriina mahluku hlamamaisa takuliliungu.	叔叔去年才剛生孩子。	musa ahlaina kana'ana musalasala mamainisa pasaulaula'u.
+158	maratatataraku rumahlau murulumulumu ka alumuhlu murumita kuakupatarukuhla upana.	我在狩獵的時候，山豬突然出現，來不及射擊。	我在狩獵的時候，山豬突然出現，來不及射擊。	maratatataraku rumahlau murulumulumu ka alumuhlu murumita kuakupatarukuhla upana.	我在地爬樹,結果土出現,就不停下來了。	hliumanganaku tahlaku alumuhlu taraunu tupuhluka kuaku ahlahlamu.
+159	murutumuhlu a hlivuisa 'Avina murucara'u.	'Avi的傷口流很多血。	'Avi的傷口流很多血。	murutumuhlu a hlivuisa 'Avina murucara'u.	'Avi的傷口流了。	'avina hliparakuisa matumuhlua murucara'u.
+160	takua upatu ariia tumuru ihlahlamua pakiaturua musurauvu.	星期四老師要教我們跳舞。	星期四老師要教我們跳舞。	takua upatu ariia tumuru ihlahlamua pakiaturua musurauvu.	課後四天,老師教導我們跳舞。	takua pakiaturuana ucani ariata suhlatu tarisiava ihlata musurauvu.
+161	mususupuka kutaukuhluisana kiivurunganu.	昨天深夜沒有加木柴，火就熄滅了。	昨天深夜沒有加木柴，火就熄滅了。	mususupuka kutaukuhluisana kiivurunganu.	風來了,他的腳踏車掉下去。	kiira uurucu uka'acua kiu'u puausipia apuhlu.
+162	tam manganua alumuhluna mutuvangaru 'ahlivi.	那個山豬很有力，連牆都撞垮。	那個山豬很有力，連牆都撞垮。	tam manganua alumuhluna mutuvangaru 'ahlivi.	山豬很會牆。	tam manganua tahlakua 'ahliviisana tapakuangutuhlu.
+163	cuu muulasahlu a taraukuhla.	你去跪在客廳。	你去跪在客廳。	cuu muulasahlu a taraukuhla.	菜瓜的子已經下沉了。	muasalamu kiulusu musala.
+164	marukalikihli taisa muupualu likihli mamaini.	有一部大車子去撞倒小車子。	有一部大車子去撞倒小車子。	marukalikihli taisa muupualu likihli mamaini.	有車禍,小孩就坐過。	marua likihli maru kiritakilia kiralikihli mamaini.
+165	muasalaku mualualuka mucukuhluacucu'u masalia uapapapalu ihlaku.	我要先走，有人在家裡等我。	我要先走，有人在家裡等我。	muasalaku mualualuka mucukuhluacucu'u masalia uapapapalu ihlaku.	我要去接待客人,他們要我帶回家。	muasalaaku mana cucu'u salia maalangicu ihlaku.
+166	tam mavacangu aku muumua, 'u'uraisa.	我也很好，謝謝。	我也很好，謝謝。	tam mavacangu aku muumua, 'u'uraisa.	我很好吃,是的。	mavacangua ku'aku, sia'u'uraisa.
+167	kiruvana hlitumimahla ina'a ngangau umani.	昨晚有聽到母夜鷹在叫。	昨晚有聽到母夜鷹在叫。	kiruvana hlitumimahla ina'a ngangau umani.	媽媽昨天打了十顆玉米。	hliaringai tamuciaku vurunganu uiia.
+168	ihlatacucu'u acancancihli rianuita pi ngusuu.	我們每一個人都有一張嘴巴。	我們每一個人都有一張嘴巴。	ihlatacucu'u acancancihli rianuita pi ngusuu.	我們所定的時間,都有嘴巴。	tihla'ahlamu ucani pihlingi maru likihlisa.
+169	paangahlangahla pacupucupungu.	重新思考。	重新思考。	paangahlangahla pacupucupungu.	還是要增加。	pasamanganukia.
+170	paaranaisa pakiaturuana ihlaisa cacihli 'aumu.	老師的丈夫是一名警察。	老師的丈夫是一名警察。	paaranaisa pakiaturuana ihlaisa cacihli 'aumu.	老師處罰我一個又一個月。	saahliaisa pakiaturuaka takuahlanaia pulizia.
+171	pararuvanaku taku'i'iaru.	我工作做到很晚。	我工作做到很晚。	pararuvanaku taku'i'iaru.	我昨天在工作。	taku'i'iaruaku ta'iarara.
+172	tahluavuia paatatukurana mima.	工寮是喝酒的地方。	工寮是喝酒的地方。	tahluavuia paatatukurana mima.	課堂裡的教室很小。	tahluavacangunaia mapacani.
+173	apacangalu 'aumu.	被警察捉。	被警察捉。	apacangalu 'aumu.	傷了。	hliangahlicu a puliciana.
+174	tumua aanuna pahlahlanu asukucau.	食物要煮過才安全。	食物要煮過才安全。	tumua aanuna pahlahlanu asukucau.	菜要煮好,會地。	tumua avavu uuruia hlipacuvungu.
+175	paiaangaangahli taapina kuatukurana.	把餐具裝在背籃子裡。	把餐具裝在背籃子裡。	paiaangaangahli taapina kuatukurana.	浴是用來洗餐具的。	patasuru anikia uuru.
+176	muacukuhlicua ahla'a pasakulaiu apuhluna paiusupu.	敵人來了，快把火種熄滅。	敵人來了，快把火種熄滅。	muacukuhlicua ahla'a pasakulaiu apuhluna paiusupu.	族人起火,要把火滅。	mucukuhlu a ahla'ana pasakulaia apuhlu.
+177	kucuaku pailalungusu hlialuvu.	我不要上去屋頂了。	我不要上去屋頂了。	kucuaku pailalungusu hlialuvu.	我不把保護衣物綁緊。	kuaku musa rumumatapua maru'u.
+178	paivaturaua kani'i tatarana.	你掃這間房間。	你掃這間房間。	paivaturaua kani'i tatarana.	這個空間要開放。	sapuhlipuhliaui kani'i tatarana.
+179	malaluvihlia hlanguhlanguvina maci paiupuca.	青苔把它擠起來很鬆軟。	青苔把它擠起來很鬆軟。	malaluvihlia hlanguhlanguvina maci paiupuca.	人死後,只要有血流就會很慢。	hliupangahla 'aira tam ma'ula.
+180	hlakuangusipia kana'ana hla kupakacani maricuka.	如果沒有馬上搶救，他不會活。	如果沒有馬上搶救，他不會活。	hlakuangusipia kana'ana hla kupakacani maricuka.	他很,但不會馬上復出。	maci kupakakua pasakulaisanaia kucuami.
+181	pakacumi'ia ihlakuka piacapacapangu.	他亂講話，我打他一巴掌。	他亂講話，我打他一巴掌。	pakacumi'ia ihlakuka piacapacapangu.	煮菜是用來的。	maluuliiri a kana'ana hliarasahlanguaku.
+182	macikia matatutusuruia pakaiailikia cumi'i.	如果一直想打瞌睡的話，要拍打自己的臉頰。	如果一直想打瞌睡的話，要拍打自己的臉頰。	macikia matatutusuruia pakaiailikia cumi'i.	指示人時,要先把話說清楚。	macikia tararianu malusapuia patacurumu'ai.
+183	pakamutumutaka langica kupivaratu macici.	天氣很陰暗又沒有風，所以很悶。	天氣很陰暗又沒有風，所以很悶。	pakamutumutaka langica kupivaratu macici.	天氣變冷了,冬天沒有雨。	tam malicucua langica hla kupihlici.
+184	sapakapihlacua mahlavaua 'ahlivina.	酒醉的人鑽開牆壁。	酒醉的人鑽開牆壁。	sapakapihlacua mahlavaua 'ahlivina.	帶的衣服被水泡打到。	mahlavaua cucu'u tapuhlacurumua 'ahlivi.
+185	suusunguna ausii pakatipitipitipi.	草好像在拍手。	草好像在拍手。	suusunguna ausii pakatipitipitipi.	草像在。	ausii hlipaapalakua hlisuraku.
+186	pakisuahlai taininia caihliu?	請問你幾歲？	請問你幾歲？	pakisuahlai taininia caihliu?	請問現在幾點?	pakisuahlai umarua pakiaturua?
+187	macahlia tapuhlacunguna pakituru cucu'u.	猴子會模仿人。	猴子會模仿人。	macahlia tapuhlacunguna pakituru cucu'u.	帽子很會教人。	macahli'i macahlia takuaculaihli cucu'u.
+188	pakuringutuhlua 'ulusu kima'ana 'apalata.	燈的柱子被閃電打斷。	燈的柱子被閃電打斷。	pakuringutuhlua 'ulusu kima'ana 'apalata.	酒的湯要切斷。	marapici a likihli 'ulusu sipaiia'a.
+189	palapalai ia hliulavacisa ka caalu hlakurapa.	palapalai是玉山最尾端的山。	palapalai是玉山最尾端的山。	palapalai ia hliulavacisa ka caalu hlakurapa.	hlakurapa山是草的棲息地。	macuka palangalainaia mataingalu caalu hlakurapa.
+190	palumuhlua vuku'u.	綁頭髮。	綁頭髮。	palumuhlua vuku'u.	狼在飛。	ruakucua vunguisa.
+191	maru papiani cucu'u muacukuhlu apialanguaku upiaini ta'uhla.	有幾個人要來，我就準備幾張椅子。	有幾個人要來，我就準備幾張椅子。	maru papiani cucu'u muacukuhlu apialanguaku upiaini ta'uhla.	有人在那裡,我向他求指令拿鐵。	marua cucu'u muacukuhlu cucunguhlu hliparana ihlaku ta'uhla.
+192	para'ahlivia tavavana taisa varatu kukia pahluamacu.	風很大，廚房的火點不起來要圍籬笆。	風很大，廚房的火點不起來要圍籬笆。	para'ahlivia tavavana taisa varatu kukia pahluamacu.	要把這個大的花蓋起來,就不會破。	tumahlupungu angatua kupimahla apuhlu kuangutuhluka ihlaisa tumua.
+193	kiu'uka pararasu malalakuvuka rahlunguisa umaracucucu'u.	pararasu是木柴類，葉子寬，碰到會咬人。	pararasu是木柴類，葉子寬，碰到會咬人。	kiu'uka pararasu malalakuvuka rahlunguisa umaracucucu'u.	樹枝落在樹下,會留長果。	pararasu ia kiu'u makatavahlihla rahlungu maci manguhlucu.
+194	kani'iia matakua limauaari maci kilaliali paria'i'ihlicu.	這個是在第五天的驅魔儀式。	這個是在第五天的驅魔儀式。	kani'iia matakua limauaari maci kilaliali paria'i'ihlicu.	現在是祭典時,要把祭物獻給神。	kani'ina ia caihlia tapu'alimaari sikilaliali 'ihlicu takuhlu.
+195	kupariakuhla turukukana kuli'ina makituku.	雞追不到蟲而啄不到。	雞追不到蟲而啄不到。	kupariakuhla turukukana kuli'ina makituku.	kuli'i的雞我沒有買,牠很肉粗。	kucu turukukana kupisiarunganu kukia paangutuhlu.
+196	saparipucupucua varatua luhlu'u.	颱風把地上的垃圾和椅子等東西都吹在一起。	颱風把地上的垃圾和椅子等東西都吹在一起。	saparipucupucua varatua luhlu'u.	草被泥巴到。	uruahlua angatua luhlu'una matapuhluka hlica'a tualu sitalua.
+197	macikia kuahlaturaia paruavungukia.	不強壯的會被敵人出草。	不強壯的會被敵人出草。	macikia kuahlaturaia paruavungukia.	還沒有打完戰鬥,先用頭擊倒。	hlakualia mahlasungu ia apusala 'ihlicu.
+198	pasakulaikia puaruma amihlaina'anan pakiaturuana.	媽媽請老師趕快進來。	媽媽請老師趕快進來。	pasakulaikia puaruma amihlaina'anan pakiaturuana.	老師告知要趕快進去。	pasakulaia ina'ana pakiaturuana micuhlu.
+199	hlamuna ina'ana pilupungu cuua hlimilavauna pasapu.	媽媽才剛說完，弟弟又犯錯了。	媽媽才剛說完，弟弟又犯錯了。	hlamuna ina'ana pilupungu cuua hlimilavauna pasapu.	媽媽剛要把弟弟的菜品買滿了。	tumaluvua inaisana hlimilavau hlahlusana.
+200	pasatama'i'iarukia pakita tukucu ahlainana.	要勤勞給你的女朋友看。	要勤勞給你的女朋友看。	pasatama'i'iarukia pakita tukucu ahlainana.	努力一點,給女朋友看。	pasakamusukia asahli ihlau ahlaina.
+201	maci kutumuhlu kamusiaia patacurumu'uaahlii.	如果糖果吃多就會蛀牙。	如果糖果吃多就會蛀牙。	maci kutumuhlu kamusiaia patacurumu'uaahlii.	如果吃太多糖果就會胃。	maci kutumuhlu kamusiaia patacurumu'u ahlii.
+202	hlamuasacuaku mucukuhlua cucu'u pataramuaru.	本來要出門了，因有人來而被耽誤了。	本來要出門了，因有人來而被耽誤了。	hlamuasacuaku mucukuhlua cucu'u pataramuaru.	我早上來人家洗。	hlipatuahluvuaku musa cucu'u muacukuhlua paahlivinga.
+203	mavavuhlu cucu'uia kupatikuru.	胖的人都不習慣穿衣服。	胖的人都不習慣穿衣服。	mavavuhlu cucu'uia kupatikuru.	人的身體不好,不要帶股。	cucu'u makisumuricuka mahluarianu paahlivinga.
+204	patuaciciaku 'aau vutukuhlu.	我在燒魚湯。	我在燒魚湯。	patuaciciaku 'aau vutukuhlu.	我要魚的湯。	umaururuaku 'aau vutukuhlu.
+205	macikia pausasaliriia marua mavacangu marua takuliacu.	我們作夢時，有時好有時壞。	我們作夢時，有時好有時壞。	macikia pausasaliriia marua mavacangu marua takuliacu.	病時,有些好有有的壞。	macikia tarisia marua mavacangu marua apahlapa mahluapa.
+206	piacukahlanguaku likihlinaka ku'aiapalihlika cucu'u.	我的車要做記號，才不會有人拿錯。	我的車要做記號，才不會有人拿錯。	piacukahlanguaku likihlinaka ku'aiapalihlika cucu'u.	我把車子裝好,別人會踩。	tumua likihlikuia tahlukuaku kuakuiriaka cucu'u arasapu.
+207	tumalulua ama'ana pakiaturuana pialangahlu mapaci.	爸爸幫老闆酙酒。	爸爸幫老闆酙酒。	tumalulua ama'ana pakiaturuana pialangahlu mapaci.	老師請爸爸拆房。	tumaluluvu ama'ana pahlaliami hlamama.
+208	macuka pialuvucuia 'ihlicu sahlumu.	pialuvucu意思是帶著袋子的水鬼神。	pialuvucu意思是帶著袋子的水鬼神。	macuka pialuvucuia 'ihlicu sahlumu.	防水器是用來噴水的。	pahlumiamia pialuvucuia hliarirangu 'aira sahlumu.
+209	piamasaihlaacu hlakarisamairahlu.	他說的非原本之意。	他說的非原本之意。	piamasaihlaacu hlakarisamairahlu.	風已經過了。	kuhlaisai hlipaupaluisa kana'ana.
+210	hlimairahluaku piarukurukucuka kumaru'aika mariatiuma kari.	我故意說得慢，看是否有人會接我的話。	我故意說得慢，看是否有人會接我的話。	hlimairahluaku piarukurukucuka kumaru'aika mariatiuma kari.	我有感冒,所以把它拿來做藥材。	hliangahliaku mairaruru akukuita maci arukacua kariku.
+211	pali'u'ungai tatai piciuna tamahlimahlisarua takaluisa malicucu 'alapungu umaraarukupua 'ukuhlucu vunguisa.	pali'u'ungai鳥在深山，體型如麻雀大，胸部淡黃，翅膀黑，頭毛翹起來。	pali'u'ungai鳥在深山，體型如麻雀大，胸部淡黃，翅膀黑，頭毛翹起來。	pali'u'ungai tatai piciuna tamahlimahlisarua takaluisa malicucu 'alapungu umaraarukupua 'ukuhlucu vunguisa.	子大大的皮下會長得軟軟的,體型像白色竹一樣硬又粗。	pali'u'ungaiia tataisa hluuhlungu ausii 'ukuhlucu maihlivuru malangihlu 'alapungu malicucu.
+212	apaihlipihla alumuhluna maci pihlivu'u uaramangu.	山豬若受傷會防獵，十分危險。	山豬若受傷會防獵，十分危險。	apaihlipihla alumuhluna maci pihlivu'u uaramangu.	山會隱藏在水面上。	tahluavuhluna maci macarumua kualingikingi tam pahlaluhlu.
+213	kutuahlu piraarapasu.	不可以說髒話。	不可以說髒話。	kutuahlu piraarapasu.	不要到。	kucu acahlia pariavavangu.
+214	piraasavunguaku ka maraakaaka likihli.	我的車壞了，又要花錢了。	我的車壞了，又要花錢了。	piraasavunguaku ka maraakaaka likihli.	我救出壞車。	marakaka likihliku puaili.
+215	piramaini ihlahlamu ta'iara kuna ucani aari takulupungaicu.	給我們的工作很少，不到一天就做完了。	給我們的工作很少，不到一天就做完了。	piramaini ihlahlamu ta'iara kuna ucani aari takulupungaicu.	我們工作一整天沒有完成,就算一點也不滿。	mainimanai hlitakumacani takualua pakiaturua takumunu.
+216	matavuhliua tapauisa tam puamahlungu.	紅顏色看得很清楚。	紅顏色看得很清楚。	matavuhliua tapauisa tam puamahlungu.	他的紅色顏色很明顯。	tapau matavuhliu tam taratuahlu.
+217	puasasihlangukia mavacangu kumaita.	戴戒指很好看。	戴戒指很好看。	puasasihlangukia mavacangu kumaita.	請多加一些,會更好看。	tam mavacangua pasanguhluisa.
+218	sapuatusacu vanauna tacamaiia cucu'u.	vanau把菜櫃送人了。	vanau把菜櫃送人了。	sapuatusacu vanauna tacamaiia cucu'u.	vanau把工藝丟給人家了。	piravaivua vanauna tukutukua cucu'u.
+219	mitaisa angatuka usahlu puvauahlicuka sala'a.	下太大雨了，水都漲到路上。	下太大雨了，水都漲到路上。	mitaisa angatuka usahlu puvauahlicuka sala'a.	路上的水很大,可以通往角落。	hlamuna angatua sahlumu umusahlu sahlumu muasala.
+220	masisinua cucu'u pulikapua kana'ana kumita.	人在洗澡，他偷看。	人在洗澡，他偷看。	masisinua cucu'u pulikapua kana'ana kumita.	他躲在旁邊,有人要看。	mutualavu cucu'u maci matalikusu.
+221	maruacucunguhla 'uluvuna makini siaravahlauvau cucutahlana.	巫師念咒，祈求族人平安。	巫師念咒，祈求族人平安。	maruacucunguhla 'uluvuna makini siaravahlauvau cucutahlana.	族人以語為標記。	umalavalua 'uluvu maci malialuliiri amihla miararuma.
+222	pahlumiamia puataliriia tumaturun muvavilihli.	puataliri的意思是傳承人。	puataliri的意思是傳承人。	pahlumiamia puataliriia tumaturun muvavilihli.	語的意思是教導後代。	pautaluisa puataliri ia hlipataruhla.
+223	putuavuvulaua vungtalimauna mahlatura.	把鋤頭耙子燻起來，比較堅固。	把鋤頭耙子燻起來，比較堅固。	putuavuvulaua vungtalimauna mahlatura.	把頭打到會乾。	arupihli a calingaisana hla taratunga.
+224	cucuvuuvulunga maci mi'a'aia pukakasukasu.	在山上的蔬菜可以買到便宜的。	在山上的蔬菜可以買到便宜的。	cucuvuuvulunga maci mi'a'aia pukakasukasu.	部落的人賣酒時要先喝酒。	vuuvulunga marua caalu maihlivuru tu'ungu.
+225	puupalihli ahlalua ahlainana tikuru maini kutapuani.	姊姊買錯衣服，大小穿不下。	姊姊買錯衣服，大小穿不下。	puupalihli ahlalua ahlainana tikuru maini kutapuani.	姊姊買了一件很小的衣服不用帶走。	kupilihlia ahlainana tikuru kuaruasapihli umalavau mamaini.
+226	pulupunguia apuaili ihlaku.	看完就還我。	看完就還我。	pulupunguia apuaili ihlaku.	請把東西交給我。	kumita macuaku mana.
+227	putu'utu'utunga ihlakua tahluru vuhli'i.	我把蛇洞塞住。	我把蛇洞塞住。	putu'utu'utunga ihlakua tahluru vuhli'i.	我把蛇在洞裡串起來。	sumusuhluaku vuuvulunga.
+228	taluluvaniaku puatusu kani'i suhlatuna putukutuku ariatukurana.	請幫我把這本書送到學校。	請幫我把這本書送到學校。	taluluvaniaku puatusu kani'i suhlatuna putukutuku ariatukurana.	我請你把這本書送上學校。	taluluvaniaku apatianahlia kani'i suhlatu ariatukurana.
+229	raavihlua'a kiariarika ruma'ihlicu uka'a cucu'u mahlukakuaisana.	以前此地區是鬼的居住地，人們不會去。	以前此地區是鬼的居住地，人們不會去。	raavihlua'a kiariarika ruma'ihlicu uka'a cucu'u mahlukakuaisana.	以前的時代,人沒有辦法去到這裡。	sasaruana naani kiariarika 'ihlicu tihla'ahlu kuami musa cucu'u.
+230	miararumahlamuia maru salia racu'u tahliulu hla tapuhlaihlia.	我們部落有竹屋、穀倉和集會所。	我們部落有竹屋、穀倉和集會所。	miararumahlamuia maru salia racu'u tahliulu hla tapuhlaihlia.	我們家裡面都有竹子,竹和花瓶。	maru rahlua miararumahlamu ucani hliaringai umala paahlivinga takuahlaihlia.
+231	rahlua cuaku upalupaluisana.	我等他很久了。	我等他很久了。	rahlua cuaku upalupaluisana.	我很久沒有把它翻。	hliahlimacuaku kana'ana.
+232	rumataapiapiia ausii rahlunguna mahlipihlipi tam rumiacarumu.	葉蜂的窩像葉子一樣，扁扁的叮人很痛。	葉蜂的窩像葉子一樣，扁扁的叮人很痛。	rumataapiapiia ausii rahlunguna mahlipihlipi tam rumiacarumu.	刺像麻雀一樣,很尖又苦。	taapihli'i ka taruavamana ausii vahlita makatavahlihla.
+233	papapaciaku turukuka rua'ukuhlucuisa inguruna.	我要殺雞，給inguru拔毛。	我要殺雞，給inguru拔毛。	papapaciaku turukuka rua'ukuhlucuisa inguruna.	我把nguru的雞砍死了。	papapaciaku turukukana paarusu inguruna.
+234	rualuulungusu hata'a.	懸掛國旗。	懸掛國旗。	rualuulungusu hata'a.	綁緊帶。	pakavavasu tanguhla.
+235	ruapuhlua ukutunaka apaihlipihla.	釘子要拔掉，不然很危險。	釘子要拔掉，不然很危險。	ruapuhlua ukutunaka apaihlipihla.	子被火燒得很危險。	tumuakuriukia 'unguhluisana apaihlipihla.
+236	rumatuahliu sapahliku.	你踩到我的腳。	你踩到我的腳。	rumatuahliu sapahliku.	我的腳踩到底。	kirasuurua sapahliku.
+237	manikiia vutukuhluna putunganunganu a mairahlumana saavutuvutukuhlu.	魚再怎麼曬乾還是有魚腥味。	魚再怎麼曬乾還是有魚腥味。	manikiia vutukuhluna putunganunganu a mairahlumana saavutuvutukuhlu.	雖然魚還是有點心,但是牠的嘴巴卻一直在釣魚。	tiaraisa vutukuhlu a ngahlaisa ma'acu.
+238	'ataina tumatatamahlungu sahlangu.	'atai一直在做竹桶。	'atai一直在做竹桶。	'ataina tumatatamahlungu sahlangu.	'atai 水管。	tumamahlungu a 'ataina takupihli racumacuka.
+239	auninia pahlu sahlumu tunumu?	海水是什麼味道？	海水是什麼味道？	auninia pahlu sahlumu tunumu?	你的水桶有多少水?	ngahlaisa sahlumuisa 'a'au?
+240	marua ucani sakurahlu mitarukakua miararuma.	有一條河，流經村子。	有一條河，流經村子。	marua ucani sakurahlu mitarukakua miararuma.	有一條溪流流入全省。	marua ucani hluuhlungu muara ahlalua ta'uhlau.
+241	cucu'u ikatumahlana rianu salialalangica.	都市的家都是高樓大廈。	都市的家都是高樓大廈。	cucu'u ikatumahlana rianu salialalangica.	排剪社的人大多是天人。	saliana naaniia hliangahlahlanaisihla manikuhlu.
+242	salirinaia hliangahli tihlaravaimuasasala.	夢就是從遊離靈引起的。	夢就是從遊離靈引起的。	salirinaia hliangahli tihlaravaimuasasala.	是我們祖先發明的樂器。	asuhlatahlamuia hlipatuahluisana.
+243	saparukucua tahluna hlipatuaiailiana tanalai.	tahlu的田裏種滿了花生。	tahlu的田裏種滿了花生。	saparukucua tahluna hlipatuaiailiana tanalai.	家被塔萊族佔用。	tahlu hlipatuaiiailia macu susukasu.
+244	macua naaniia saringusu sahlumu kutuahlu pasaulaula'u.	這裡是水源地，不能玩水。	這裡是水源地，不能玩水。	macua naaniia saringusu sahlumu kutuahlu pasaulaula'u.	這裡沒有水,不要玩。	naaniia sahlumuia kucu puahlai pasaulaulau.
+245	saruhlapunaia umalamu rahlunguisa pauvutuhlu.	我們拿saruhlapu的葉子餵鹿。	我們拿saruhlapu的葉子餵鹿。	saruhlapunaia umalamu rahlunguisa pauvutuhlu.	草是種植在樹葉裡,去割斷。	maruama ihlahlamu saruhlapu vutuhlu.
+246	vaaku vuuvulungaka savilulunga uka'a mataingaluisana ritu'a.	檸檬又叫野生橘子，沒有比它更酸的了。	檸檬又叫野生橘子，沒有比它更酸的了。	vaaku vuuvulungaka savilulunga uka'a mataingaluisana ritu'a.	石家山的岩沒有尖,是用來割石頭的。	macuka tahlakuia vuuvulunga ia kuacaihliisana.
+247	matalakiahlicu kani'ika marucuka siaiiapu.	現在有計算機了，很方便。	現在有計算機了，很方便。	matalakiahlicu kani'ika marucuka siaiiapu.	現在很方便,因為有學校了。	marucuka kani'i hliputakakua siasuhlatu.
+248	pu'aku mana siaravii ukutu uka'a aruamia.	我還要買拔釘器，沒有可替代使用的。	我還要買拔釘器，沒有可替代使用的。	pu'aku mana siaravii ukutu uka'a aruamia.	我買左邊的刀沒有用。	mahlavaua 'aumiku paahlivingi kuaku paahlivingi.
+249	alamuruahlaina kaiuua tam sihlangua vulaihlisa.	那個年輕女生的眼睛很明亮。	那個年輕女生的眼睛很明亮。	alamuruahlaina kaiuua tam sihlangua vulaihlisa.	小女孩的眼睛很亮,看起來很光澤。	tam macahlia vulaihlisa ahlaina.
+250	hlamama kiariari mariatumuhlu maripucu sihlapu kiu'una tukimakima'a.	以前老人家收集很多發光的腐木當做照明。	以前老人家收集很多發光的腐木當做照明。	hlamama kiariari mariatumuhlu maripucu sihlapu kiu'una tukimakima'a.	以前老人家很多,把木拾起來做菜。	hlamama kiariarika matumuhlua hlica'a kiu'u kumakitua sihlisapatu.
+251	sasaruana naani sisikingia hlasali hla hlahlavu'uhlua tamainguruku kiariari mikuucu mivangaru akuisa parivaratunai.	高中部落後方原本是石家舊遺址，後來八八風災時通通因土石流坍方了。	高中部落後方原本是石家舊遺址，後來八八風災時通通因土石流坍方了。	sasaruana naani sisikingia hlasali hla hlahlavu'uhlua tamainguruku kiariari mikuucu mivangaru akuisa parivaratunai.	sisikingia是hlasali和hlava'uhlu的一個地名,以前曾有一位名叫taminguru的老人家住過,後來就遷移到另一邊。	tahluavu hliparanaia hlakurapuhlu kiariarika ualuvulahlu 'aira hlipatavurunga.
+252	putatusuaku ururu likihlinaka patasilakacu.	因為車子的鐵絲生鏽了，我要上一些油。	因為車子的鐵絲生鏽了，我要上一些油。	putatusuaku ururu likihlinaka patasilakacu.	我把車子吊起來,因為要做處罰。	marua rurumanu 'arivungua likihli puailiaku mana.
+253	sinamini'ai maci umuhlisana.	沒關係借他吧！	沒關係借他吧！	sinamini'ai maci umuhlisana.	雨季時用水。	kuhlaisai pakahluhluisa!
+254	aruamia 'avasuna sipakuakahlangu.	用舌頭嚐味道。	用舌頭嚐味道。	aruamia 'avasuna sipakuakahlangu.	石灰是用來做燈的。	umaruamia 'alalivi pahluisa.
+255	sipauraraia hlungasu hlahlusa hla sipuakahlangu raahli.	壯丁男士裝飾品、也是用來辨別頭目的身分。	壯丁男士裝飾品、也是用來辨別頭目的身分。	sipauraraia hlungasu hlahlusa hla sipuakahlangu raahli.	風是用龍頭和白來傳播的。	siasamusamia hlahlusaia paahlivingaisa aruamia patakuami.
+256	vikiuna hlimurusu umauhlikia siriakucu alia'alivatu marikucu.	你的頭髮有點亂，梳子借你梳一下。	你的頭髮有點亂，梳子借你梳一下。	vikiuna hlimurusu umauhlikia siriakucu alia'alivatu marikucu.	頭一直在吃,被抓到就會帶回來。	malilimu ka 'ukuhlucu hliputakucua likihli.
+257	pacucupunguaku sitahlamiamiaku muriusumanuisana.	我要想辦法娶她。	我要想辦法娶她。	pacucupunguaku sitahlamiamiaku muriusumanuisana.	我把菜種量比較,因為我很喜歡吃那種菜。	tumuahluaku taluavaulana.
+258	kani'i sitakuamia ahlamaia tarikipucucuka hliaracahliaisa.	這是祖先生活經驗的累積。	這是祖先生活經驗的累積。	kani'i sitakuamia ahlamaia tarikipucucuka hliaracahliaisa.	這一座神社,就是祖先發明的樂器。	macuka taiapuhlua ahlama kiariari.
+259	apialalanguaku maiini vahlituku sitaluluvuisana.	我要準備一點錢補助他。	我要準備一點錢補助他。	apialalanguaku maiini vahlituku sitaluluvuisana.	我向他借一點錢。	hlialaalaku vahlituku mataingalu kana'ana.
+260	macuka su'aciia miararuma vilanganu.	索阿紀是美壠社的部落。	索阿紀是美壠社的部落。	macuka su'aciia miararuma vilanganu.	族居住過美社。	miararuma sosakia 'a'aina.
+261	suhlataihlakua hlita'iara aariaari hliparahliiana.	我把每天發生的事記下來。	我把每天發生的事記下來。	suhlataihlakua hlita'iara aariaari hliparahliiana.	我每天都會寫字要送禮。	tumatuahluaku a hlitakukua ariari.
+262	putuanganunganua suliuvucunguna airikihla umaai.	把小米種子曬乾脫殼後存放。	把小米種子曬乾脫殼後存放。	putuanganunganua suliuvucunguna airikihla umaai.	田裡種的菜,大家都在吃。	pahlalihlua suusungu hliarumia hliparikuhlu.
+263	sumasahlupuakuisana.	我看不起他。	我看不起他。	sumasahlupuakuisana.	我把它弄碎。	kuaku pasiasamusuna.
+264	macuamu kilalialiia hliurucukaisa, papa'aia aruamiaisa ulima aarina sumavungu.	我們五天所獵的獵物是用於祭典的貢品。	我們五天所獵的獵物是用於祭典的貢品。	macuamu kilalialiia hliurucukaisa, papa'aia aruamiaisa ulima aarina sumavungu.	我們祭典時,要把祭物取分為五天的時間。	caihli miataanu hliupangaita aruamia sumuhlatu sikilaliali.
+265	ahla'amisana tam mavacangua miama'au suusuku.	冬天喝生薑湯很好。	冬天喝生薑湯很好。	ahla'amisana tam mavacangua miama'au suusuku.	冬天很好喝。	tam mavacangua 'amisana miama tahlakucuku.
+266	sumuputua pakiaturua ihlahlamu marunaani.	老師留我在這裡。	老師留我在這裡。	sumuputua pakiaturua ihlahlamu marunaani.	老師同意我們今天開會。	aparanaka pakiaturuana ihlaku.
+267	arasuusuma arasihlangua langica.	天空變暗又變亮。	天空變暗又變亮。	arasuusuma arasihlangua langica.	天黑了,天亮。	araasihlumua langicana malicucahla arahlici.
+268	kuakuarumuku 'amisana ta'iaraisaka kutuahlu musa patuku hluuhlungu pasaulaula'u.	我不喜歡冬天，因為不能去溪邊玩水。	我不喜歡冬天，因為不能去溪邊玩水。	kuakuarumuku 'amisana ta'iaraisaka kutuahlu musa patuku hluuhlungu pasaulaula'u.	冬天很不好工作,所以我去溪邊玩。	kuaku marumuku ahlamacicia kutakahlangu mahlukua hluuhlungu pasaulaulau sahlumu.
+269	mau maci marua mavacangu ta'iarana kukiahlahlamu.	你看，他如果有利益的工作，也不會告訴他人。	你看，他如果有利益的工作，也不會告訴他人。	mau maci marua mavacangu ta'iarana kukiahlahlamu.	如果有好工作不要忘記。	mau, maci marua ta'iaraisa mamiaturuisana kupialahlu cucu'u.
+270	ta'uvunga tahlaku.	豬舍髒。	豬舍髒。	ta'uvunga tahlaku.	豬的嘴巴。	taivangu taurunga.
+271	tampiaanua kana'ana taa'iaraisaka tama'iaru.	那個人很多糧食，因為他很勤勞。	那個人很多糧食，因為他很勤勞。	tampiaanua kana'ana taa'iaraisaka tama'iaru.	他太可憐了,因為他是勤勞的人。	tam matumuhlua uuru cucu'ua kana'ana tam manganuisa.
+272	patuku hluuhlungunaia taahlavuaisa ka cucukiariari.	溪邊是以前的人洗衣服的地方。	溪邊是以前的人洗衣服的地方。	patuku hluuhlungunaia taahlavuaisa ka cucukiariari.	溪裡的子是以前祖先放水的地方。	patuku hluuhlungu ia hlitakuariariana paahlivinga.
+273	taalikuca taluvucu.	老鼠被關。	老鼠被關。	taalikuca taluvucu.	老鷹的鼻子是灰色的。	apusalakua taluvucu.
+274	pualiuhlucua taapatuhlanganaka tatahlalaluihliacu.	這個櫃子該換了，已經破洞了。	這個櫃子該換了，已經破洞了。	pualiuhlucua taapatuhlanganaka tatahlalaluihliacu.	子出了,要重新裝。	kani'i tahlukuana maci rumariringi.
+275	tahlanaia hliparana ahlamahla'alua.	舊社指的是我們南鄒。	舊社指的是我們南鄒。	tahlanaia hliparana ahlamahla'alua.	部落是祖先住過的地方。	macuka tahlaaia isanaia ihlata nantai.
+276	ngahlaisa tahlanau?	你是哪一族的？	你是哪一族的？	ngahlaisa tahlanau?	你是誰?	ngahlaisa miararuma?
+277	tahlisua vanukanukakunaka mivirisicu.	褲子破了縫一下。	褲子破了縫一下。	tahlisua vanukanukakunaka mivirisicu.	我的腿被刺打到。	mivirisia itikuruisa marutihlu.
+278	sasaruana kani'ina mapatuku hlapucuhluka auhlauhlaruisa minisuacu maratataihlicua.	此地區小平台靠近溪邊，有一天大洪水沖到小平台變成一潭一潭的水。	此地區小平台靠近溪邊，有一天大洪水沖到小平台變成一潭一潭的水。	sasaruana kani'ina mapatuku hlapucuhluka auhlauhlaruisa minisuacu maratataihlicua.	這地區生長一種樹,因土壤枯乾之後變少了一些,所以取這個名。	sasaruana naani hlimilavau maiini hlipatuaiiailia usumanu umausahluhlu a sahlumuisa.
+279	takuangungutuhlua kana'ana taku'i'iaru kuacacai matilupungu.	那個人斷斷續續地工作，沒有辦法做完。	那個人斷斷續續地工作，沒有辦法做完。	takuangungutuhlua kana'ana taku'i'iaru kuacacai matilupungu.	他工作很辛苦,因為沒有空氣。	patasurucua cucu'ua kana'ana taku'i'iaru takuahlahlu.
+280	kiariari taruararapu mana pahli'i kani'i takucu akitikiti.	以前還在播種毛糯米，現在很少看到了。	以前還在播種毛糯米，現在很少看到了。	kiariari taruararapu mana pahli'i kani'i takucu akitikiti.	以前還要排隊打球,現在已經很難了。	kiariarika hlipatuaiiailia mahlukuavu arupaku kani'i kutita'ai.
+281	taluavauluaku maataataka takupulaticuaku.	我明天要休息，我工作累了。	我明天要休息，我工作累了。	taluavauluaku maataataka takupulaticuaku.	我明天要休息,因為我做錯了工作。	muasalaku maataata taku'i'iaru taku'i'arua.
+282	talalualua hlatungu iniciki avava.	先洗完菜，才能煮。	先洗完菜，才能煮。	talalualua hlatungu iniciki avava.	hlatungu太多用了,才不會熟。	talaluhluva uuru camai acahlia pahlasu.
+283	hlimacanicuaku talangahlu mapaci.	我喝了一杯酒。	我喝了一杯酒。	hlimacanicuaku talangahlu mapaci.	我做錯了酒杯。	miama inikamapaci mapaci.
+284	tamacumai macahlia marumia ngaliisa mairuruma maruisana upiani ari maravacangu maratatapuai.	毛毛蟲會吐絲，把絲繞在身邊成窩，過幾天後就變成美麗的蝴蝶。	毛毛蟲會吐絲，把絲繞在身邊成窩，過幾天後就變成美麗的蝴蝶。	tamacumai macahlia marumia ngaliisa mairuruma maruisana upiani ari maravacangu maratatapuai.	善於用頭蓋房子,有幾次才會打到。	tapaiia'acu tataihlia muruacuka 'asaruisana ucani hlipataungacuhlu'ai ramavuhliu.
+285	macuka kani'iia ngahla kiu'u mahlurianuisanamika kiu'u tamulu saparungahlacu tamtamulu.	因為都長tamulu樹，所以叫這個地方為tamtammulu。	因為都長tamulu樹，所以叫這個地方為tamtammulu。	macuka kani'iia ngahla kiu'u mahlurianuisanamika kiu'u tamulu saparungahlacu tamtamulu.	現在種的果樹多種,一種是木,一種是花。	saruaisa mahlurianuisaka tamtamulu saparungahla sasaruana.
+286	tamuucu macaalaia tamu'uhlahlusana ahlaluaku hlahlusa.	祖父很庝愛我的哥哥。	祖父很庝愛我的哥哥。	tamuucu macaalaia tamu'uhlahlusana ahlaluaku hlahlusa.	哥哥最愛的就是我的叔叔。	tam manganua tamu'una maruahluisa ahlaluaku.
+287	arinaani matialu suhlatukariu tamuucuaku masasangaru.	今天收到你的信我非常高興。	今天收到你的信我非常高興。	arinaani matialu suhlatukariu tamuucuaku masasangaru.	今天接到你的信,我非常高興。	arinaani matialu suhlatukariaku sipiratumuhlucu uumu.
+288	amihla kisuahlahlama tangurunguru mapuhli malicucu hlipalavalua tihla'ahlu cucu'u.	傳說中，土色和白色的木耳是人體變的。	傳說中，土色和白色的木耳是人體變的。	amihla kisuahlahlama tangurunguru mapuhli malicucu hlipalavalua tihla'ahlu cucu'u.	傳說中白色的可以做傷口。	sipanguhlua 'aimanai tataisa hla mapuhlia ngusuisa hlisuraku.
+289	tapaupaunaia tumatanguran 'asungulu.	白色菇是長在楓樹上。	白色菇是長在楓樹上。	tapaupaunaia tumatanguran 'asungulu.	花是用來草的。	mailangicanaka tavacihlina mahluarianu.
+290	sasaruana naani mahluarianu 'asungulu maci maluaka kiu'uia tumatanguraisanaka tapaupau camai ahlama.	這個地區長許多楓樹，它的木頭爛掉後會長出白菇，也是老人的菜。	這個地區長許多楓樹，它的木頭爛掉後會長出白菇，也是老人的菜。	sasaruana naani mahluarianu 'asungulu maci maluaka kiu'uia tumatanguraisanaka tapaupau camai ahlama.	此地區長很多樹,如果遇到樹災就先造型好吃。	sasaruana naani mahluarianu palungana kiu'una mivarariringi tumamahlunguisa 'aira.
+291	kuavacangua tihla'ahluisa tapiaurukucu.	他身體不正常，跑步遲鈍。	他身體不正常，跑步遲鈍。	kuavacangua tihla'ahluisa tapiaurukucu.	身體很不好,會斷掉。	kuangulangulanguisa tihla'ahluisa mutuasasala.
+292	arataisacua mamaini ahlaina kucutapuania tikuru.	小女孩長大了，衣服穿不下。	小女孩長大了，衣服穿不下。	arataisacua mamaini ahlaina kucutapuania tikuru.	那個女孩很冷,不穿衣服。	hlamamacua ahlainana kuapicucupikia.
+293	kakamalu tapuhlungu hla hlitaku rianuu aruamitarakiu.	鐮刀和刀子都是用來砍柴的。	鐮刀和刀子都是用來砍柴的。	kakamalu tapuhlungu hla hlitaku rianuu aruamitarakiu.	刀和刀的工具都是用來砍人頭的。	rianukuhlu hla kakatalunaia umarua kiu'u.
+294	murungusua tapungu tikurukuia paipapuuhliku.	我的衣服袖子很長，我要摺起來。	我的衣服袖子很長，我要摺起來。	murungusua tapungu tikurukuia paipapuuhliku.	衣服被到,我要擦乾淨。	mulungusu a cingiriku rumahlauaku tumatavihli.
+295	tapukakali maci ma'amisanaia tam mavavuhlu hla avalia.	這種狐狸在冬天時很肥，但很臭。	這種狐狸在冬天時很肥，但很臭。	tapukakali maci ma'amisanaia tam mavavuhlu hla avalia.	冬天的落葉很大又會。	kani'i tahlaku ia tam mataingalu maci 'amisana hla makatavahlihla.
+296	tarapasungu saasaruana.	散落在地上。	散落在地上。	tarapasungu saasaruana.	地面覆蓋。	milakupu sasaruana.
+297	macuka mahlucani 'unguhluia tarumucuka kavahluisa kumahlaratau.	馬蹄是圓形實心的。	馬蹄是圓形實心的。	macuka mahlucani 'unguhluia tarumucuka kavahluisa kumahlaratau.	那個的腳長得像牛一樣大,會飛。	taapingunaia tataisa 'atitipa.
+298	tataisacua mamainiu.	小孩子長大了。	小孩子長大了。	tataisacua mamainiu.	小孩子很大。	tumulusu a mamainina.
+299	naaniia ivavuisaka uruku tapirasu mahlurianu talavahlu.	這個地區有一處峭壁長滿類似山蘇的植物，但不能吃。	這個地區有一處峭壁長滿類似山蘇的植物，但不能吃。	naaniia ivavuisaka uruku tapirasu mahlurianu talavahlu.	這地區長很多樹。	sasaruana naani hlipataunga'a mahluarianu ausii papaciamu kuacaai.
+300	tauahluahlupaa hla'alua tam tumahlauka kulisa.	hla'alua的獵場，獵物很豐富。	hla'alua的獵場，獵物很豐富。	tauahluahlupaa hla'alua tam tumahlauka kulisa.	hla'alua語詞典很多,因為有很多字。	tam matumuhlua hliupana hla'alua.
+301	tavavulanaia ucanicuu pihlingi.	彭家只剩下一戶。	彭家只剩下一戶。	tavavulanaia ucanicuu pihlingi.	tavavulana是全家人的事。	ucani pakahluhluisa hlasaina.
+302	tiaraisa kana'ana tumangi?	他為什麼在哭？	他為什麼在哭？	tiaraisa kana'ana tumangi?	他為什麼喊?	tiaraisa kana'ana tumangicua?
+303	tam ahlasungusunga tiitikanaka ihlaisa malialualualu patukuruna macikia mahlimu.	在趕鳥的時候最討厭的褐色鳥，會引來麻雀的。	在趕鳥的時候最討厭的褐色鳥，會引來麻雀的。	tam ahlasungusunga tiitikanaka ihlaisa malialualualu patukuruna macikia mahlimu.	很酷,因為在學校排隊打仗,他們都跑得很快。	maci arupihli mianguhluhlu ia ahlamu tamakucukuia arupikia.
+304	ihlaisa malialupu uurunaka tiitila alumusa.	tiilila是脖子裡把飯往下吞的小舌。	tiilila是脖子裡把飯往下吞的小舌。	ihlaisa malialupu uurunaka tiitila alumusa.	獵人要捕小米。	tiililaia arumia tiirisa kuakucu aanu.
+305	hlimatikurua vanauna matavuhliu.	vanau穿著紅色的衣服。	vanau穿著紅色的衣服。	hlimatikurua vanauna matavuhliu.	vanau穿過紅色。	vanauna maruka tikuru matavuhliu.
+306	marua cucu'u pingahla timusunga maruaruisana miaurukuhlu.	一位叫timusungu的老人長期居住此地，就以他的名字當作地名。	一位叫timusungu的老人長期居住此地，就以他的名字當作地名。	marua cucu'u pingahla timusunga maruaruisana miaurukuhlu.	有一個部落的木被人放光了。	maruka ahlama ka pihlingi ngahlaisa tumumusungu rianu hliparanaisana.
+307	tuasikamu tuapihla ta'uhla.	編月桃當椅墊。	編月桃當椅墊。	tuasikamu tuapihla ta'uhla.	我們在酒杯。	tavutukuia hliarumia kaluvungana.
+308	tumaamahlumahlungukia sumuhlatu.	寫字要寫清楚。	寫字要寫清楚。	tumaamahlumahlungukia sumuhlatu.	寫得太乾淨了。	tumua sumuhlatuia tumua sumuhlatu.
+309	takuliacua tukuisa tumahliavacavacanguakuisana.	她心情不好我安慰她。	她心情不好我安慰她。	takuliacua tukuisa tumahliavacavacanguakuisana.	他的心情不好,我要替他做一個好的選擇。	maacuka hlica'aisa tarucuvunguaku apalaliaisana.
+310	tumanguuracu a uvucungu.	小米發芽了。	小米發芽了。	tumanguuracu a uvucungu.	小米了。	tumatavihlicua uvurau.
+311	tumataatapaua hlamuku.	我的孫子在畫圖。	我的孫子在畫圖。	tumataatapaua hlamuku.	我的孫女在編。	tumatahlaua hlamukuna.
+312	tumataliki ariamu arukuruka 'ahlivi.	用芒草編成圍牆。	用芒草編成圍牆。	tumataliki ariamu arukuruka 'ahlivi.	我們要牆壁的釘子。	aruami hlisuraku 'ahlivi.
+313	tumatauvuaku hlatungu.	我要把新種的菜蓋起來。	我要把新種的菜蓋起來。	tumatauvuaku hlatungu.	我要包子。	tumatavuruaku hlipatuaiiailia suhlatukari.
+314	tumatumuhlu sumuhlatu tumavaulukaramucu.	寫太多字，手都寫酸了。	寫太多字，手都寫酸了。	tumatumuhlu sumuhlatu tumavaulukaramucu.	寫很多字要翻。	tumahlupungu suhlatu tumua araamaatuku.
+315	umacukaia tumuakia taraunu ahlii.	起床後要刷牙。	起床後要刷牙。	umacukaia tumuakia taraunu ahlii.	吃飯要先洗牙。	muataiacu umacuka taraunu ahlii.
+316	hlitusirisiricua amaku kiariari.	我爸爸以前有製做過篩子。	我爸爸以前有製做過篩子。	hlitusirisiricua amaku kiariari.	我爸爸曾經有架。	hlitumahlaua amakuka kiariari tumamahlungu.
+317	maaruii kuacahlisa amaku macahlia tutaapi.	我爸爸沒有不會的事，也會製作背籃。	我爸爸沒有不會的事，也會製作背籃。	maaruii kuacahlisa amaku macahlia tutaapi.	我爸爸還沒學會打飛鼠。	taku'i'iaru amakuna tumamahlungu ta'iara.
+318	mingurungururucua tukuru tikuruuna.	你衣服的鈕扣掉光了。	你衣服的鈕扣掉光了。	mingurungururucua tukuru tikuruuna.	衣服的皮掉下來了。	marutihlu a tikuruna marucu sihlangicu.
+319	tukutaurunguia kumanga'a hla takuacapacapacapangu kumacuisaka hlipamiaisa.	他其實不笨，但是亂做事，不切實際。	他其實不笨，但是亂做事，不切實際。	tukutaurunguia kumanga'a hla takuacapacapacapangu kumacuisaka hlipamiaisa.	是一個很大的動物,吃東西也不會亂放,只要他的命運確實如此。	ku'a'urucua kana'ana hla takuacalai takualua.
+320	muacukuhlua tuuhana kulikapu vutukuhluku.	鷺鷥都來偷吃我家的魚。	鷺鷥都來偷吃我家的魚。	muacukuhlua tuuhana kulikapu vutukuhluku.	學生要把魚皮掃完。	mucukuhlu a 'avuvua kalavunguisa saliaku.
+321	marua hlikitaisa tasaunaka mau uangararu.	你看，那隻狗有看到東西，正在叫。	你看，那隻狗有看到東西，正在叫。	marua hlikitaisa tasaunaka mau uangararu.	狗在看他要被抓到。	mau, tasaua kana'ana cacihli rumaialihli.
+322	auniniiau cucuari marumana'ainika uatuatuahla aunani.	不知道以後還有沒有這樣的機會。	不知道以後還有沒有這樣的機會。	auniniiau cucuari marumana'ainika uatuatuahla aunani.	還沒人住這裡,怎麼會有這樣的情況。	kuaruamiaini uka'acu kani'i aukakua naana.
+323	umalivalu ihlaku a kana'ana.	他回答我。	他回答我。	umalivalu ihlaku a kana'ana.	我接受他。	hliuliuliri ihlakua kana'ana.
+324	umarialangica hlimilavai ku ahlainana mamisa.	我妹妹今年上高中。	我妹妹今年上高中。	umarialangica hlimilavai ku ahlainana mamisa.	妹妹今年生了二個孩子。	hlamunaia ahlainana umaliulita caihlikaisa.
+325	upiaini talangahlua hliimau mapaci?	你喝幾瓶酒？	你喝幾瓶酒？	upiaini talangahlua hliimau mapaci?	你需要多少酒?	tainini aupima likihli mapaci?
+326	milakupuka mamaini murucara'uka sapahluisa arumia ihlaku hlarangirangi uvakucu.	小孩子跌倒腳流血了，我用布綑綁傷口。	小孩子跌倒腳流血了，我用布綑綁傷口。	milakupuka mamaini murucara'uka sapahluisa arumia ihlaku hlarangirangi uvakucu.	一位小孩摔到腳,他用把我弄。	milakupua mamainina mucara'u sapahlu ka pitarutapu hlivuisa.
+327	salia kiariariia usuaka sipanguhluva macuka vacikiia umimia ahlaina murumita puaruma.	以前的家有2扇門，左門是女性的出入口。	以前的家有2扇門，左門是女性的出入口。	salia kiariariia usuaka sipanguhluva macuka vacikiia umimia ahlaina murumita puaruma.	以前家裡都是門,後面是洞,女孩子會從門出來。	salia kiariarika usuaahluanguhluana puarumaisa ahlainana.
+328	kuacahlia vuaruna tumamahlungu hlicuhluku kamusia acahli tumamahlungu hlicuhluku makarimikimi.	在來米不能做年糕，可以做鹹糕。	在來米不能做年糕，可以做鹹糕。	kuacahlia vuaruna tumamahlungu hlicuhluku kamusia acahli tumamahlungu hlicuhluku makarimikimi.	果子不太好吃,可製做糖果也可以製做生的。	macikia acahli tumamahlungu uvuraisanaia tumamahlungu camai.
+329	kucupuaku hla hlaamaamanaka vuhlahla.	老人家視力不好，有白內障。	老人家視力不好，有白內障。	kucupuaku hla hlaamaamanaka vuhlahla.	我不吃老人家的。	takuliacua hlaamaamana kupuhluna, marucua tahlahlamu.
+330	vuiciavaliana savuanu tuaruru.	雞屎藤可以治咳嗽。	雞屎藤可以治咳嗽。	vuiciavaliana savuanu tuaruru.	藥草是用來治療癌症的。	'avu'unaia tuahlu pahlatupana.
+331	mucuhluavavahlirana pulua vuuvula.	山坡失火，冒了很多煙。	山坡失火，冒了很多煙。	mucuhluavavahlirana pulua vuuvula.	山上出現一群灰。	muliuhlu apuhluna tumatangura murucuka 'aisa.
+332	mumasamasaihla ahlaluana musasala kiravuca'icua sapahluisa.	姊姊走很遠的路，腳都起泡了。	姊姊走很遠的路，腳都起泡了。	mumasamasaihla ahlaluana musasala kiravuca'icua sapahluisa.	哥哥走路跑步,腳受傷了。	muasasala hlimilavau ahlainana musasala maivururua sapahlu.
+333	kupaivacavacangua hlimilavauna hlivu'u kuuhlaisai murua vuku'u.	弟弟沒有好好照顧傷口，所以化膿了。	弟弟沒有好好照顧傷口，所以化膿了。	kupaivacavacangua hlimilavauna hlivu'u kuuhlaisai murua vuku'u.	弟弟不好心,因為被蛇抓到。	kuatuhlungua hlimilavauna hlivu'u hliparakuisana.
+334	saaparukacua hlimilavauhlahlusana vurukau.	弟弟把蓋子弄丟了。	弟弟把蓋子弄丟了。	saaparukacua hlimilavauhlahlusana vurukau.	弟弟把頭弄破了。	sapatavilau hlimilavauna cavua'ana.
+335	vuuvuhlunaia ausii 'ikaruna hla maiini 'asaruisaia tatapa mavacangu kumakita.	小型的竹雞跟竹雞一模一樣，蛋是土色有黑點。	小型的竹雞跟竹雞一模一樣，蛋是土色有黑點。	vuuvuhlunaia ausii 'ikaruna hla maiini 'asaruisaia tatapa mavacangu kumakita.	頭像牛一樣但是很小,上面的顏色是白色,好看。	mamainiia racu'uka mahluamiahluamahlungu racumacuka tapauisa.
+336	puaiailia mamainikuka ariisa hlipilamuranaku.	因為我的生日，孩子們都回來了。	因為我的生日，孩子們都回來了。	puaiailia mamainikuka ariisa hlipilamuranaku.	那個孩子在懷孕的時候,被我帶回家。	ta'iaraisa hlikita ihlaku ucani pihlingi.
+337	umarua aria 'Angaina maripici kiu'u.	'Angai用斧頭劈木材。	'Angai用斧頭劈木材。	umarua aria 'Angaina maripici kiu'u.	'Angaia用刀砍木柴。	umarumia 'Anginaia ukutu kiu'u.
+338	cuucuhlua hliasasapanai.	你去把田裡的草燒了。	你去把田裡的草燒了。	cuucuhlua hliasasapanai.	其他人有說過。	hliuhluhluvua ihlau maivurunga mahlipatuaiiailia.
+339	amihla hlamama samusamu taupinaia savuanuami ilavu.	老人說紅辣椒是胃藥。	老人說紅辣椒是胃藥。	amihla hlamama samusamu taupinaia savuanuami ilavu.	老人說tapipina的藥。	amihla hlamama matavuhliuhlu ihlaisa savuanu.
+340	amihla pakiaturua kuatumuhlukia hlatungu pamavacangu tihla'ahlu.	老師說多吃蔬菜對身體好。	老師說多吃蔬菜對身體好。	amihla pakiaturua kuatumuhlukia hlatungu pamavacangu tihla'ahlu.	老師說吃太多會改善身體。	amihla pakiaturuana tumahlupungu camai masukiu'uia mavacangu.
+341	uvura hla'uhlana hlimilavau ucani luvucu hlavatu.	hla'uhla送給弟弟一袋芭樂。	hla'uhla送給弟弟一袋芭樂。	uvura hla'uhlana hlimilavau ucani luvucu hlavatu.	弟弟給了拉阿土一袋麵。	hlipatialuhla a hla'uhlana hlimilavauna ucani takupihli balangau.
+342	hlipu'aku ucani salia.	我有買一棟房子。	我有買一棟房子。	hlipu'aku ucani salia.	我買了一間房子。	hlipu'aku ucani saliana.
+343	arupapualiuhlukia paahlivinga sipasasukuca.	交換禮物作為訂婚。	交換禮物作為訂婚。	arupapualiuhlukia paahlivinga sipasasukuca.	換衣服用不著。	paahlivinga apiahlicuana miiapu.
+344	siiriaruarunaia aruami mariaruaru kiu'u tataisa.	鋸子是用來鋸大木材的。	鋸子是用來鋸大木材的。	siiriaruarunaia aruami mariaruaru kiu'u tataisa.	是用來割大大的木頭。	aruamia rianu aruamia maripici kiu'u.
+345	hliatavu ia sipaiatuhluhlu saau.	綁腿是用來保護腳的。	綁腿是用來保護腳的。	hliatavu ia sipaiatuhluhlu saau.	子是用來煮的飯。	ariatukurana aruamia taruvavuhluvuhluru 'u'uraisa.
+346	hlipau a kana'a cucu'u kiira.	昨天他有請人吃。	昨天他有請人吃。	hlipau a kana'a cucu'u kiira.	他被昨天的人殺了。	hliupangahla cucu'u kiana kiira umala.
+347	ihlahlamuia ahlaina.	我們是女生。	我們是女生。	ihlahlamuia ahlaina.	我們是女人。	ihlahlamua ahlainana.
+348	tatara ausii pipahlu avalia 'ivu.	房間裏好像有尿臭味。	房間裏好像有尿臭味。	tatara ausii pipahlu avalia 'ivu.	子像皮絲一樣,但有毒。	salia ausii pakahlisu'una.
+349	ikakuanana tarapu hlipuhlii.	要放的地方，要清洗乾淨。	要放的地方，要清洗乾淨。	ikakuanana tarapu hlipuhlii.	吃不好乾的菜。	patiapuhlipuhlia rumarinu paahlivinga.
+350	uka'a karinaia uka'a tahlanakia.	沒有語言就沒有族群。	沒有語言就沒有族群。	uka'a karinaia uka'a tahlanakia.	沒有話不能說。	uka'a ihlaisa uka'a tukuhlu.
+351	kiavatu'u.	挖石頭。	挖石頭。	kiavatu'u.	挖石頭。	kiamairangu vatu'u.
+352	kirakakuan mavacangu sala'a mangusipi.	邁向幸福人生。	邁向幸福人生。	kirakakuan mavacangu sala'a mangusipi.	往左走好一點,因為會。	muasala muruasapihli.
+353	matumuhluka lusu'u kiariari maarua hlangalicuhlai supuhlu mairangukiu'u.	以前很多種豬飼料，有構樹、地瓜葉、木薯。	以前很多種豬飼料，有構樹、地瓜葉、木薯。	matumuhluka lusu'u kiariari maarua hlangalicuhlai supuhlu mairangukiu'u.	以前有很多種農作物,有的很乾淨,有的枯壞了。	tumahlau kiariari tarutatuatukuhlu taisa alumuhlu suusungu.
+354	umarumia ina'ana luvucu karaiuru caacaalaisa.	媽媽用袋子裝東西。	媽媽用袋子裝東西。	umarumia ina'ana luvucu karaiuru caacaalaisa.	媽媽用袋子包東西。	umaaru'a paahlivinga ina'ana paahlivinganan.
+355	takua'i'i'iaruaku mana.	我正在打工。	我正在打工。	takua'i'i'iaruaku mana.	我還在做工作。	kiatamaiaku.
+356	maituahlu akumana usumanu.	我還找到別的。	我還找到別的。	maituahlu akumana usumanu.	我把它放在第二位。	hlipaucukutuaku usua.
+357	kani'i ucani virana papa'anaia hlimalua.	這是一塊腐壞的肉。	這是一塊腐壞的肉。	kani'i ucani virana papa'anaia hlimalua.	這間肉屋的菜色是花。	kani'ina 'aira papa'a palilivilivili.
+358	maahla cuui?	你餓了嗎？	你餓了嗎？	maahla cuui?	你會唱歌嗎?	hliupangacu i?
+359	sihlangua vulaihlisa hlimilavau ahlainana tam mariakuanu alamuru hlahlusa.	妹妹明亮的眼睛吸引很多男生。	妹妹明亮的眼睛吸引很多男生。	sihlangua vulaihlisa hlimilavau ahlainana tam mariakuanu alamuru hlahlusa.	妹妹的外面燈很亮,是男生戴的。	tam hlaamahlungu vulaihlisa hlimilavau ahlainana matumuhlua hlahlusa.
+360	aucaucani vulahlu kurarau tarisia macahlia masi hla'ahla'alua.	每個月舉辦hla'alua語演說比賽。	每個月舉辦hla'alua語演說比賽。	aucaucani vulahlu kurarau tarisia macahlia masi hla'ahla'alua.	九月份舉辦活動,大家都很會拉阿魯。	kilaliali utulu vulahlu ucani tarisia hla'aluana.
+361	tam masalangusangu a amaku.	我的爸爸很帥。	我的爸爸很帥。	tam masalangusangu a amaku.	我爸爸很聰明。	tam marucaku ama'ana takuaruru.
+362	uka'a naana saungakuhla tikuruku.	雨傘和衣服不在那裡。	雨傘和衣服不在那裡。	uka'a naana saungakuhla tikuruku.	我的衣服沒有鞋子了。	uka'a parakuvuna hla tikuru.
+363	marapihlia mamainina pasaulaula'u pasapucu puailisalia.	小孩子為了玩耍而延誤回家的時間。	小孩子為了玩耍而延誤回家的時間。	marapihlia mamainina pasaulaula'u pasapucu puailisalia.	小孩子們會互相玩,一起回家。	musa mamainina tapiahlaulau puaili salia.
+364	patakaurua ihlaku luvucuna caacaalaisa.	我把東西裝入袋子中。	我把東西裝入袋子中。	patakaurua ihlaku luvucuna caacaalaisa.	我把袋子裝滿了東西。	hliupangaua ihlakua paahlivinga.
+365	hlimiacuia paruapa'icicu umai.	嚼過了把甕口封好置於灶邊。	嚼過了把甕口封好置於灶邊。	hlimiacuia paruapa'icicu umai.	孩子們要放心讀書。	marasapihli a ihlakua vaaku.
+366	kiulusu mahlukua vuuvulunga sapatavangura tamalungalua alungu takihlahlavaisa.	我們一起上山時，叔叔的手電筒遺失了。	我們一起上山時，叔叔的手電筒遺失了。	kiulusu mahlukua vuuvulunga sapatavangura tamalungalua alungu takihlahlavaisa.	叔叔從山上爬樹,他的腳長了一個角。	miunguamu mahlukua vuuvulunga tapiatuahlu laulauvu tamalungaluna.
+367	pariavaratu, taiaa paliavilau ihlaku.	刮颱風，我差一點被吹走了。	刮颱風，我差一點被吹走了。	pariavaratu, taiaa paliavilau ihlaku.	架,不要讓我失望。	hliaririkaka tavahlihlana mataangahlu ihlaku.
+368	parucarucakua ahlaluakuna.	我的哥哥被罵。	我的哥哥被罵。	parucarucakua ahlaluakuna.	我的哥哥生病了。	hliulavalava ahlaluaku.
+369	'aumu kiariari akuisa tarikicangihli pusuangusingusipi cucu'u.	以前日本人打戰的時候，會把人活埋。	以前日本人打戰的時候，會把人活埋。	'aumu kiariari akuisa tarikicangihli pusuangusingusipi cucu'u.	以前的子很高,可以把人命都用來增加。	'aumukiariari maci marisangihli ia patiasangalu cucu'u.
+370	tumu amu mumua pu'a suhlatu kisuahlaahlaama.	我們都想買故事書。	我們都想買故事書。	tumu amu mumua pu'a suhlatu kisuahlaahlaama.	我們都喜歡買老人家的故事書。	tumua hlamama pu'a suhlatu kisuahlahlama.
+371	su'utunga hlahlituna putuapuhlu.	槍管塞住了，要敲打出來。	槍管塞住了，要敲打出來。	su'utunga hlahlituna putuapuhlu.	把錢包切斷,來燒開。	mutungusu a kani'i 'urucu a patiakahlangu.
+372	saputupurupurua cucutakuliacua saliaisa.	他的家被壞人敲碎。	他的家被壞人敲碎。	saputupurupurua cucutakuliacua saliaisa.	他把家裡搞亂了。	salia kana'ana hlipacihlipihla cucu'u takuliacu.
+373	macua kani'inaia ramangiku vuhli'i.	我的火槍是要防蛇的。	我的火槍是要防蛇的。	macua kani'inaia ramangiku vuhli'i.	這隻是我的獵蟲。	sipiratuahluaku ihlakua hlialuvungu.
+374	hlimilia rurumanu salia paahlivinga.	家裡面擺滿了東西。	家裡面擺滿了東西。	hlimilia rurumanu salia paahlivinga.	弟弟把東西裝在家裡。	salia mucucupungu ihlahlapa.
+375	tammatumuhlua vutukuhlu marurumanu sahlumu.	水裡有很多魚。	水裡有很多魚。	tammatumuhlua vutukuhlu marurumanu sahlumu.	魚裡有很多水。	matumuhlua vutukuhlu sahlumu.
+376	micuhlua mamainina tapia ruma salia.	小孩跑進屋子裡。	小孩跑進屋子裡。	micuhlua mamainina tapia ruma salia.	小孩跑出去,爬樓梯走回家。	miatavangua mamainina salia.
+377	musala takuliiliuunguia muataruamu uataruana.	去旅遊時，我們住在旅館。	去旅遊時，我們住在旅館。	musala takuliiliuunguia muataruamu uataruana.	去旅行要坐船。	musalamu kicaihli mahlukuaita miacaliviamu tataraku.
+378	malangica kiu'ua ahlalua hlahlusana maingangungururu tasukuca.	哥哥在樹上採愛玉。	哥哥在樹上採愛玉。	malangica kiu'ua ahlalua hlahlusana maingangungururu tasukuca.	哥哥在樹上爬樹,把牠的腳踩到刺。	umarangapua ahlaluana kiu'u puamahlungu.
+379	taluavaulanaari arinaani.	今天是星期天。	今天是星期天。	taluavaulanaari arinaani.	今天是月亮的午夜。	arinaniia ariasaru.
+380	macuka takuhlu parianaasu ia miacucunguhlu kuli'i.	takuhlu parianaasu會追動物。	takuhlu parianaasu會追動物。	macuka takuhlu parianaasu ia miacucunguhlu kuli'i.	族的稱呼是接著來叫kli'i。	takuhlu parianaasu macuaka kuli'i.
+381	taluvaulicua varatu.	風停了。	風停了。	taluvaulicua varatu.	把子包起來。	tumaluvulucua angatua.
+382	tarisia manganukia ngasaka tumasukura.	比賽力氣誰會贏。	比賽力氣誰會贏。	tarisia manganukia ngasaka tumasukura.	請多多學習,因為你是朋友。	tarisia mataingalu maci marapihli.
+383	tavutuku pusiamu tam sa'au.	稻田的蚱蜢很好吃。	稻田的蚱蜢很好吃。	tavutuku pusiamu tam sa'au.	的子很好吃。	tam sa'au sahlumu hlipatuaiiailia.
+384	pivakulua vanarikunaka hlimarahlavuhlivu kiariari.	我的腿有疤痕，因為以前受傷過。	我的腿有疤痕，因為以前受傷過。	pivakulua vanarikunaka hlimarahlavuhlivu kiariari.	這座山是以前風的地方。	maruaku arivu'u hliparaku kiariari.
+385	mataingaluaku mangalai vaaku.	我最愛吃柳橙。	我最愛吃柳橙。	mataingaluaku mangalai vaaku.	我最愛吃子。	mataingaluaku arumukaku umu 'arisakai hlatungu.
