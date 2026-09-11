@@ -423,8 +423,8 @@ def main():
             rows = process_finetune(finetune_dir, dir_name, prefix)
             all_rows.extend(rows)
 
-    date_str = datetime.date.today().strftime("%Y-%m-%d")
-    out_path = f"{date_str} finetune.tsv"
+    #date_str = datetime.date.today().strftime("%Y-%m-%d")
+    out_path = f"newest-finetune.tsv"
 
     with open(out_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=HEADERS, delimiter="\t")
